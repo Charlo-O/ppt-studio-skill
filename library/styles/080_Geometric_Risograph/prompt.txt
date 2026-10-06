@@ -1,0 +1,185 @@
+Design Style:
+Name: "Geometric Risograph"
+
+Concept: >
+リソグラフの配色と透明感を、
+モダンなビジネスプレゼンテーションへ再構成した
+幾何学エディトリアルデザイン。
+
+花・タイル・円・三角形などの抽象モチーフを
+システマティックに組み合わせ、
+情報を親しみやすく整理された形で表現する。
+
+レトロな印刷物の温かさを残しながらも、
+ミニマルで洗練された印象を両立する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Playful
+- Editorial
+- Minimal
+- Friendly
+- Contemporary
+- Graphic
+- Optimistic
+- Structured
+
+Temperature:
+Overall: Neutral
+
+Color Palette:
+Background:
+Paper: "#F3F1E7"
+
+Primary:
+DeepNavy: "#05005F"
+
+Risograph:
+CornflowerBlue: "#4F79C6"
+BubblegumPink: "#EA8CCB"
+SunYellow: "#EED72A"
+
+Typography:
+Headings:
+Style: "Monospaced serif"
+Weight: 500
+Size: Extra large
+Color: DeepNavy
+Tracking: Normal
+
+Body:
+Style: "Humanist sans serif"
+Weight: 400
+Size: Medium
+Color: DeepNavy
+
+SectionNumbers:
+Style: "Monospaced serif"
+Weight: 600
+Color: DeepNavy
+
+Illustration:
+Style:
+Geometric vector graphics
+
+Rendering:
+- Flat shapes
+- Crisp edges
+- Transparent overlaps
+- Simple construction
+- Clean geometry
+- No texture
+- No gradients
+- No realism
+
+Transparency:
+Opacity:
+OverlappingShapes: 60%
+
+Effects:
+- Layered color mixing
+- Semi-transparent intersections
+- Soft visual blending
+
+Graphic Motifs:
+Floral:
+- Four-petal flowers
+- Circular blossoms
+- Symmetrical rosettes
+- Atomic flower forms
+
+Geometry:
+- Circles
+- Triangles
+- Diamonds
+- Squares
+- Quarter circles
+- Rounded petals
+- Grid tiles
+
+Patterns:
+- Dot matrices
+- Triangle tessellations
+- Modular repetitions
+- Corner ornaments
+
+Decorative Elements:
+Placement:
+- Corners of slides
+- Margins
+- Side accents
+- Framing compositions
+
+Density:
+Light to moderate
+
+Layout:
+Overall:
+- Large negative space
+- Editorial composition
+- Strong asymmetrical balance
+- Consistent rhythm
+
+Structure:
+- One focal point per slide
+- Clear reading hierarchy
+- Repeating motif placement
+- Generous margins
+
+Composition:
+- Text aligned left
+- Decorative motifs offset
+- Ample breathing room
+- Balanced visual weight
+
+Information Design:
+Hierarchy:
+- Oversized titles
+- Minimal supporting text
+- Large numeric highlights
+- Simple bullet structures
+
+Data Visualization:
+Style:
+- Flat charts
+- Geometric icons
+- Large statistics
+- Minimal diagrams
+
+Composition Rules:
+- Treat motifs as a visual system
+- Use motifs sparingly
+- Maintain abundant whitespace
+- Balance playfulness and professionalism
+- Repeat shapes consistently
+- Emphasize clarity over decoration
+
+Design Rules:
+- Business first, decoration second
+- Modern editorial sensibility
+- Graphic simplicity
+- Friendly sophistication
+- Modular consistency
+
+Avoid:
+- Photorealistic imagery
+- Paper grain textures
+- Ink bleed effects
+- Misregistration artifacts
+- Vintage distress
+- Heavy shadows
+- 3D rendering
+- Skeuomorphic effects
+- Dense ornamentation
+
+Keywords:
+- Geometric Risograph
+- Editorial Minimalism
+- Transparent Overlap
+- Modular Graphics
+- Playful Business
+- Contemporary Print
+- Graphic Presentation
+- Friendly Professional

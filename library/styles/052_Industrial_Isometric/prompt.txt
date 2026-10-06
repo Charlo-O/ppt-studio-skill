@@ -1,0 +1,225 @@
+Design Style:
+Name: "Industrial Isometric"
+
+Concept: >
+戦略資料、業務改革、製造業、
+SCM、物流、オペレーション改善、
+DX、業務標準化、プロジェクト管理など、
+コンサルティング資料向けの
+ミニマルなアイソメトリックデザイン。
+
+工場、倉庫、物流、設備、
+生産ライン、プロセスフロー、
+組織運営をモチーフとして使用する。
+
+情報整理と論理構造を重視しながら、
+親しみやすさと専門性を両立する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Professional
+- Strategic
+- Analytical
+- Structured
+- Industrial
+- Modern
+- Clean
+- Trustworthy
+
+Color Palette:
+
+Background:
+Primary: "#F4F4F4"
+
+Text:
+Primary: "#2D296B"
+Secondary: "#4A4A68"
+
+Accent:
+Yellow: "#E9D63B"
+Purple: "#9D8BF2"
+Pink: "#D98EE8"
+
+Illustration:
+Dark: "#2D296B"
+Light: "#FFFFFF"
+
+Typography:
+
+Title:
+Style: "Modern Rounded Sans"
+Weight: 700
+Color: "#2D296B"
+
+Section:
+Style: "Modern Rounded Sans"
+Weight: 700
+Color: "#2D296B"
+
+Body:
+Style: "Modern Rounded Sans"
+Weight: 400
+Color: "#4A4A68"
+
+Numbers:
+Style: "Modern Rounded Sans"
+Weight: 700
+Color: "#4D56D9"
+
+Layout:
+
+Structure:
+- Large Heading Area
+- Large Illustration Area
+- Clear Content Blocks
+
+Alignment:
+Titles: "Left or Center"
+Content: "Grid Based"
+Illustration: "Opposite Side"
+
+Grid:
+Type: "Flexible"
+Columns: 12
+
+Spacing:
+OuterMargin: "Large"
+SectionGap: "Large"
+ContentGap: "Medium"
+
+Background:
+
+Style: "Minimal Decorative"
+
+Elements:
+- Hollow Circles
+- Small Squares
+- Dotted Grids
+- Soft Wave Lines
+- Short Accent Bars
+
+Density: "Low"
+
+Opacity:
+Decorations: 60%
+
+Illustration:
+
+Style: "Outline Isometric"
+
+Perspective:
+Angle: "30 Degrees"
+
+Characteristics:
+- Thin Stroke Outline
+- Flat Colors
+- Minimal Shading
+- Consistent Perspective
+- Simplified Geometry
+- Clean Technical Appearance
+
+Themes:
+- Manufacturing
+- Factory
+- Supply Chain
+- Logistics
+- Warehousing
+- Process Improvement
+- Operations
+- Consulting
+- Industry
+- Project Management
+
+Objects:
+- Factory Buildings
+- Production Lines
+- Conveyor Belts
+- Storage Racks
+- Delivery Trucks
+- Warehouses
+- Packaging
+- Industrial Equipment
+- Workflow Systems
+
+Human Figures:
+Style: "Simple Isometric Workers"
+Quantity: "Minimal"
+
+Placement:
+Hero:
+Size: "Large"
+
+Content:
+Integrated: true
+
+Charts:
+
+Style: "Consulting Framework"
+
+Characteristics:
+- Matrix Frameworks
+- Process Diagrams
+- Timelines
+- KPI Dashboards
+- Strategy Maps
+- Capability Models
+
+Colors:
+Primary: "#4D56D9"
+Highlight: "#9D8BF2"
+Accent: "#E9D63B"
+
+Shapes:
+
+Style: "Geometric Minimal"
+
+Characteristics:
+- Hollow Circles
+- Squares
+- Dots
+- Thin Lines
+- Rounded Rectangles
+
+Effects:
+
+Shadows:
+Type: "Soft"
+Opacity: 6%
+
+Borders:
+Usage: "Thin Outline"
+
+Gradients:
+Usage: "None"
+
+Content Rules:
+
+Titles:
+- Large
+- Strong Hierarchy
+- Maximum 4 Lines
+
+Text:
+- Short Paragraphs
+- High Readability
+- Clear Logical Structure
+
+Illustration Ratio:
+- 25% to 40%
+
+Visual Balance:
+- Content First
+- Illustration Supports Message
+
+Rules:
+- Use light gray backgrounds
+- Use dark indigo typography
+- Use yellow, lavender and pink only as accent colors
+- Maintain thin-outline isometric illustrations
+- Avoid heavy shadows and realistic rendering
+- Use plenty of whitespace
+- Keep decorative elements subtle
+- Prioritize consulting-style information clarity
+- Suitable for manufacturing, operations, logistics, SCM, DX, strategy, transformation, and consulting presentations

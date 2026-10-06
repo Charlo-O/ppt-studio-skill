@@ -1,0 +1,168 @@
+Design Style:
+Name: "Soft Luxury Editorial Minimal"
+Concept: "淡いパステル背景と高級ファッション誌のような細身タイポグラフィを組み合わせた、ラグジュアリー感のあるミニマルエディトリアルデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Elegant
+- Luxury
+- Editorial
+- Minimal
+- Sophisticated
+- Calm
+- Fashion
+- Modern
+
+Color Palette:
+Background:
+SoftPink: "#E7D6E6"
+PaleBlue: "#DCE6F0"
+SageGray: "#E4EADB"
+WarmTaupe: "#B28D77"
+
+Text:
+Primary: "#111111"
+Secondary: "#4A4A4A"
+Light: "#FFFFFF"
+
+Accent:
+Black: "#111111"
+SoftWhite: "#F7F5F2"
+
+Typography:
+Heading:
+Font: "Elegant High-Contrast Serif"
+Weight: "300-500"
+Case: "UPPERCASE"
+Style:
+- "thin luxury serif"
+- "fashion magazine typography"
+- "wide elegant spacing"
+- "editorial cover aesthetic"
+- "refined minimal look"
+
+Body:
+Font: "Minimal Sans Serif"
+Weight: "400"
+Style:
+- "tiny editorial captions"
+- "clean readability"
+- "luxury catalog layout"
+
+Labels:
+Font: "Condensed Sans"
+Weight: "500"
+Style:
+- "micro metadata text"
+- "gallery annotations"
+- "small uppercase labels"
+
+Layout:
+Structure:
+- "strict editorial grid"
+- "large negative space"
+- "asymmetrical elegance"
+- "gallery-style composition"
+
+Grid:
+Columns: "4-8"
+Rows: "3-5"
+Gap: "medium"
+
+Composition:
+- "oversized serif headlines"
+- "large image panels"
+- "minimal text blocks"
+- "balanced whitespace"
+- "horizontal editorial layouts"
+
+Visual Elements:
+Panels:
+- "flat pastel backgrounds"
+- "clean rectangular sections"
+- "minimal framed image blocks"
+
+Decorations:
+- "tiny corner metadata"
+- "minimal divider lines"
+- "subtle alignment guides"
+
+Shapes:
+- "rectangular image crops"
+- "full-width editorial sections"
+- "clean hard-edge layouts"
+
+Images:
+Style:
+- "high contrast monochrome portraits"
+- "luxury fashion photography"
+- "soft cinematic lighting"
+- "gallery exhibition portraits"
+
+Crop:
+- "tight portrait crops"
+- "large horizontal photography"
+- "modular image arrangements"
+- "full-width close-ups"
+
+Slides:
+Cover:
+Background: "#E7D6E6"
+Layout:
+- "oversized serif title"
+- "large empty space"
+- "minimal image placement"
+- "editorial magazine balance"
+
+Section Divider:
+Background: "#DCE6F0"
+Layout:
+- "huge elegant typography"
+- "minimal supporting text"
+- "gallery-style spacing"
+
+Gallery Slide:
+Layout:
+- "modular photo grid"
+- "small captions"
+- "luxury exhibition aesthetic"
+
+About Slide:
+Layout:
+- "single portrait image"
+- "large serif heading"
+- "small metadata text"
+
+Portfolio Slide:
+Layout:
+- "large photography block"
+- "thin serif headline"
+- "minimal body text"
+
+Quote Slide:
+Layout:
+- "oversized elegant typography"
+- "soft pastel background"
+- "minimal composition"
+
+Closing Slide:
+Background: "#E7D6E6"
+Layout:
+- "large centered serif typography"
+- "minimal footer text"
+- "extensive negative space"
+
+Rules:
+- "高級ファッション誌のようなタイポグラフィを使用"
+- "細身セリフ体を主役にする"
+- "余白を大きく取り、静かな高級感を出す"
+- "写真は白黒・高コントラストで統一"
+- "淡いパステル背景を大胆に面で使用"
+- "テキストは極力少なく整理する"
+- "雑誌の見開きページのような構成にする"
+- "グラデーションは使わない"
+- "影は最小限にする"
+- "ミニマルで洗練されたレイアウトを維持"
+- "細かなメタ情報テキストを配置してエディトリアル感を演出する"

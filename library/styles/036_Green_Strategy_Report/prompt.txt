@@ -1,0 +1,214 @@
+Design Style:
+Name: "Strategic Research Report"
+Concept: "グローバルリサーチレポートをベースにした、データ分析・戦略提言・エグゼクティブ向けインサイトを中心とするミニマルレポートデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Strategic
+- Analytical
+- Executive
+- Professional
+- Data-driven
+- Global
+- Minimal
+- Trustworthy
+
+Layout:
+
+Structure:
+- Research report format
+- Insight-driven storytelling
+- Data-first presentation
+- Executive summary sections
+- Modular information blocks
+- Consistent page system
+- Clear information hierarchy
+
+Grid:
+Columns: 12
+Gutters: "Medium"
+Margins: "Wide"
+
+Composition:
+- One key insight per slide
+- Large chart areas
+- Structured text zones
+- Strong alignment system
+- Generous whitespace
+- Balanced analytical layouts
+- Consistent visual rhythm
+
+Typography:
+
+Heading:
+Font: "Modern Sans Serif"
+Weight: "Regular"
+Style: "Clean executive headlines"
+
+Subheading:
+Font: "Professional Sans Serif"
+Weight: "Medium"
+Style: "Section descriptors"
+
+Body:
+Font: "Humanist Sans Serif"
+Weight: "Regular"
+Style: "Highly readable report text"
+
+DataLabel:
+Font: "Condensed Sans Serif"
+Weight: "Bold"
+Style: "Numeric emphasis"
+
+Caption:
+Font: "Professional Sans Serif"
+Weight: "Regular"
+Style: "Chart notes and references"
+
+Color Palette:
+
+Accent:
+Primary: "#2F7D57"
+Secondary: "#7BBF94"
+LightAccent: "#CFE7D6"
+DeepAccent: "#1D5A40"
+
+Neutral:
+White: "#FFFFFF"
+LightGray: "#F5F5F5"
+MediumGray: "#D9D9D9"
+DarkGray: "#4A4A4A"
+
+Data Visualization:
+
+Philosophy:
+- Data is the primary visual element
+- Maximum clarity
+- Minimal decoration
+- Fast executive comprehension
+
+Charts:
+Preferred:
+- Horizontal bar charts
+- Vertical bar charts
+- Ranking charts
+- Benchmark comparisons
+- Stacked bars
+- Trend charts
+
+Style:
+- Thin lines
+- Minimal gridlines
+- Direct labeling
+- Consistent scales
+- Strong readability
+
+Tables:
+Style:
+- Minimal borders
+- Structured spacing
+- Report-quality formatting
+
+Visual Elements:
+
+Photography:
+Usage:
+- Supporting evidence
+- Contextual storytelling
+- Secondary to data
+
+Subjects:
+- Business environments
+- Technology
+- Innovation
+- Urban development
+- Industry
+- Workforce
+
+Treatment:
+- Clean rectangular crops
+- Minimal effects
+- Professional tone
+
+Content Modules:
+
+InsightBox:
+Style:
+- Highlight strategic takeaway
+- Simple visual emphasis
+- Executive summary format
+
+FactBox:
+Style:
+- Large statistics
+- Key metrics
+- Immediate visibility
+
+Commentary:
+Style:
+- Interpretation beside charts
+- Concise analytical observations
+
+ComparisonPanel:
+Style:
+- Side-by-side benchmarking
+- Consistent sizing
+- Easy scanning
+
+Pages:
+
+Cover:
+Layout:
+- Large visual area
+- Simple hierarchy
+- Minimal structure
+
+ExecutiveSummary:
+Layout:
+- Key findings
+- Major insights
+- Strategic implications
+
+InsightPage:
+Layout:
+- One primary chart
+- One major takeaway
+- Supporting narrative
+
+BenchmarkPage:
+Layout:
+- Comparative analysis
+- Multiple data modules
+- Consistent alignment
+
+AnalysisPage:
+Layout:
+- Data and commentary
+- Structured reading flow
+
+Conclusion:
+Layout:
+- Strategic recommendations
+- Future outlook
+- Key implications
+
+Design Principles:
+- Insight before aesthetics
+- Data before decoration
+- Executive readability first
+- Use whitespace strategically
+- Maintain analytical rigor
+- Support rapid decision-making
+- Communicate one key message per slide
+- Prioritize clarity and credibility
+- Keep layouts systematic and scalable
+
+Avoid:
+- Decorative illustrations
+- Heavy gradients
+- Excessive color variety
+- Marketing-style visual effects
+- Dense information clutter
+- Unnecessary visual complexity

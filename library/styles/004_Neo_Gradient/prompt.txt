@@ -1,0 +1,202 @@
+Design Style:
+Name: "Neo Gradient Business Plan"
+Concept: "近未来的なAI×ビジネス戦略プレゼン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- "Future-oriented"
+- "Professional"
+- "Urban"
+- "Strategic"
+- "Minimal Tech"
+- "Clean Corporate"
+
+Background:
+Base: "#F5F5F5"
+
+Color Palette:
+Primary Gradient:
+From: "#7B6DFF"
+To: "#7FE0D0"
+
+Accent:
+- "#7B6DFF"
+- "#7FE0D0"
+
+Text:
+Primary: "#0F1A1F"
+Secondary: "#3B4650"
+Light: "#FFFFFF"
+
+Neutral:
+- "#F5F5F5"
+- "#D9D9D9"
+
+Typography:
+Heading:
+Font: "Bold Geometric Sans"
+Weight: "800-900"
+Color: "#0F1A1F"
+Style:
+- "Large"
+- "Minimal"
+- "Modern"
+
+SubHeading:
+Font: "SemiBold Sans"
+Weight: "600"
+
+Body:
+Font: "Japanese Sans Serif"
+Weight: "400-500"
+LineHeight: "1.7"
+
+Numbers:
+Font: "ExtraBold Sans"
+Weight: "900"
+
+Visual Identity:
+Core Elements:
+- "Blue-to-cyan gradient"
+- "Large photography"
+- "Transparent white overlay cards"
+- "Vertical side navigation"
+- "Minimal line accents"
+- "Large clean typography"
+
+Decorations:
+- "Thin vertical line"
+- "Gradient borders"
+- "Minimal rectangles"
+- "Soft transparency"
+- "Photo overlays"
+
+Layout Principles:
+- "Strong asymmetry"
+- "Large hero visuals"
+- "Magazine-style whitespace"
+- "Photo + information balance"
+- "Structured business document feeling"
+
+Grid:
+Columns: 12
+Gutters: "Medium"
+
+Image Treatment:
+Overlay:
+Type: "Dark gradient overlay"
+Opacity: "40-60%"
+
+Style:
+- "Urban photography"
+- "Corporate lifestyle"
+- "Global city imagery"
+- "High-angle city shots"
+- "Soft cinematic color grading"
+
+Components:
+
+SideNavigation:
+Position: "Right"
+TextRotation: "Vertical"
+Line:
+Color: "#FFFFFF or Gradient"
+Width: "Thin"
+
+GlassCard:
+Background: "rgba(255,255,255,0.85)"
+Blur: "Soft"
+Border: "None"
+
+GradientBar:
+Direction: "Horizontal"
+Colors:
+- "#7B6DFF"
+- "#7FE0D0"
+
+StatisticCard:
+Layout:
+- "Large percentage"
+- "Supporting paragraph"
+- "Embedded chart"
+
+Chart:
+Style:
+- "Flat bars"
+- "Minimal grid"
+- "Gradient fills"
+- "No shadows"
+
+Slide Types:
+
+Cover:
+Layout:
+- "Full-screen gradient or city photo"
+- "Centered large title"
+- "Bottom-left date box"
+- "Right vertical navigation"
+
+Contents:
+Layout:
+- "Split screen"
+- "Left gradient block"
+- "Right TOC list"
+- "Large section numbers"
+
+MissionVision:
+Layout:
+- "Background image"
+- "Overlay white cards"
+- "3-section grid"
+
+BusinessOverview:
+Layout:
+- "Text left"
+- "Photo right"
+- "Stacked sections"
+
+ServiceSlide:
+Layout:
+- "Detailed text blocks"
+- "Gradient section headers"
+- "Large vertical image"
+
+MarketAnalysis:
+Layout:
+- "Data dashboard"
+- "Charts in boxed layout"
+- "Large percentage emphasis"
+
+Closing:
+Layout:
+- "Minimal gradient background"
+- "Single strong statement"
+- "Large whitespace"
+
+Spacing:
+OuterMargin: "Large"
+ContentGap: "Medium-Large"
+SectionGap: "Large"
+
+Animation Feel:
+- "Smooth fade"
+- "Slow gradient movement"
+- "Elegant slide-in"
+
+Brand Feel:
+Keywords:
+- "AI Business"
+- "Global Strategy"
+- "Future Workstyle"
+- "Creative Consulting"
+- "Modern Corporate"
+
+Restrictions:
+- "3D禁止"
+- "装飾過多禁止"
+- "ネオン表現禁止"
+- "複雑なUI禁止"
+- "影を強くしない"
+- "コンテンツ内容は生成元に従い、このYAMLでは指定しない"

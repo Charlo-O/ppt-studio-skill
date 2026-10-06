@@ -1,0 +1,146 @@
+Design Style:
+Name: "Modern Startup Editorial Pitch"
+
+Concept: >
+急成長スタートアップの採用ピッチ資料。
+コーポレート感と雑誌的な編集デザインを融合し、
+事業・プロダクト・組織・カルチャーを
+ストーリー形式で伝える。
+
+大きな余白と大胆な写真配置を活用し、
+信頼感と成長性を同時に表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Modern
+- Editorial
+- Startup
+- Professional
+- Human
+- Growth
+- Clean
+- Ambitious
+
+Color Palette:
+
+Background:
+Primary: "#F3F3F3"
+
+Accent:
+Navy: "#14143D"
+Orange: "#F35B34"
+Green: "#3EBB4C"
+
+Text:
+Primary: "#14143D"
+Secondary: "#555555"
+Muted: "#999999"
+
+Typography:
+
+Heading:
+Font: "Bold Sans Serif"
+Weight: "Bold"
+Style: "Large Editorial Typography"
+
+SectionNumber:
+Font: "Light Sans Serif"
+Weight: "Light"
+Style: "Oversized Number"
+
+Body:
+Font: "Clean Japanese Sans Serif"
+Weight: "Regular"
+
+Layout:
+
+Grid:
+Columns: 12
+Margins: "Wide"
+
+Composition:
+- Large whitespace
+- Editorial balance
+- Asymmetric layouts
+- Strong visual hierarchy
+- Full-width imagery
+- Split screen compositions
+
+Structure:
+
+Section Cover:
+- Large section number
+- Large English section title
+- Small Japanese subtitle
+- Full-width lifestyle or office photograph
+
+Content Slide:
+- Left narrative
+- Right visual
+- Diagram support
+- Large headline
+- Minimal supporting text
+
+Product Slide:
+- Device mockup
+- Product screenshot
+- Large benefit statement
+- Clean feature explanation
+
+Business Slide:
+- Market opportunity
+- Ecosystem diagram
+- Growth illustration
+- Strategic framework
+
+Company Slide:
+- Corporate facts
+- Logo placement
+- Key metrics
+- Company overview
+
+Social Proof Slide:
+- Client logos
+- Partner logos
+- Investor logos
+- Recognition metrics
+
+Visual Elements:
+
+Photography:
+- Bright office interiors
+- Real employees
+- Product usage scenes
+- Lifestyle photography
+
+Graphics:
+- Outline illustrations
+- Simple business diagrams
+- Market maps
+- Ecosystem charts
+- Data visualizations
+
+UI:
+- Smartphone mockups
+- App screenshots
+- Platform screens
+
+Shapes:
+- Thin divider lines
+- Minimal geometric accents
+- Small square brand markers
+- Soft background blocks
+
+Design Rules:
+
+- One message per slide
+- Prioritize visuals over text
+- Use oversized headlines
+- Maintain wide whitespace
+- Avoid dense tables
+- Use editorial storytelling
+- Mix photography and diagrams
+- Keep slides clean and premium
+- Do not specify actual content

@@ -1,0 +1,206 @@
+Design Style:
+Name: "Block Playbook"
+
+Concept: >
+組み立てブロック、
+STEM教育、
+デザイン思考、
+ワークショップ資料、
+教育向けプレゼンテーションテンプレートから着想を得た
+モジュラー構造型プレゼンテーションデザイン。
+
+情報を文章で説明するのではなく、
+ブロックを積み上げるように
+理解を構築していく体験として表現する。
+
+すべての要素は
+組み合わせ可能なモジュールとして扱う。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+
+* Playful
+* Structured
+* Educational
+* Modern
+* Friendly
+* Clear
+* Optimistic
+* Accessible
+
+Temperature:
+Overall: Warm
+
+Color Palette:
+Background:
+WarmWhite: "#F7F4EC"
+
+Primary:
+BrickRed: "#F44336"
+BrickBlue: "#29B6F6"
+BrickYellow: "#FFD54F"
+
+Secondary:
+DeepNavy: "#142B4D"
+LightGray: "#EAEAEA"
+
+Typography:
+Style: >
+極太で力強いサンセリフ体。
+
+見出しは短く、
+インパクト重視。
+
+本文はシンプルで読みやすく、
+教育資料のような整理された印象。
+
+キーワードは
+色分けして強調する。
+
+Layout:
+Structure: >
+大きな余白を活かした
+ミニマルレイアウト。
+
+情報をブロック単位で整理。
+
+1スライド1メッセージを基本とする。
+
+要素数は少なく、
+強い視線誘導を作る。
+
+Grid:
+Style: >
+規則的なモジュラーグリッド。
+
+情報はブロック単位で整理。
+
+Shapes:
+Usage:
+- Interlocking blocks
+- Modular cubes
+- Stacked blocks
+- Timeline blocks
+- Rounded rectangles
+
+Rules: >
+組み立てブロックを
+主役のビジュアルモチーフとする。
+
+ブロックは
+情報構造そのものを表現する。
+
+Illustration:
+Style: >
+フラットな3Dアイソメトリック。
+
+シンプルな幾何学ブロックのみ使用。
+
+リアルな質感は避ける。
+
+Photography:
+Style: >
+使用する場合は
+教育、
+ワークショップ、
+創造活動、
+学習シーンのみ。
+
+写真は補助的に扱う。
+
+Infographics:
+Style: >
+タイムライン、
+KPI、
+比較表、
+ステップ図を
+モジュラーブロックで構築する。
+
+数字や進捗は
+積み木の高さで表現する。
+
+Composition:
+Characteristics:
+- Modular storytelling
+- Block-based hierarchy
+- Educational simplicity
+- Strong visual clarity
+- Large typography
+- Playful structure
+- Learning-through-building
+- Clean information architecture
+
+Slide Patterns:
+
+Cover:
+- Floating modular blocks
+- Large bold title
+- Minimal supporting text
+
+Section Divider:
+- Giant stacked block illustration
+- Single keyword headline
+
+Timeline:
+- Connected modular milestones
+
+Process:
+- Sequential block construction
+
+KPI:
+- Stacked block visualization
+
+Comparison:
+- Different colored block groups
+
+Checklist:
+- Interlocking modules
+
+Closing:
+- Completed block structure
+- Clean summary message
+
+Visual Direction:
+
+* LEGO-style building blocks
+* Building blocks metaphor
+* Educational workshop style
+* Modular information design
+* Playful business communication
+* STEM learning aesthetics
+* Educational presentation layouts
+* Creative classroom visuals
+* Structured visual thinking
+
+Effects:
+
+* Soft shadows
+* Flat 3D blocks
+* Clean vector graphics
+* Bright educational colors
+
+Avoid:
+
+* Dark backgrounds
+* Corporate consulting visuals
+* Glassmorphism
+* Complex gradients
+* Dense text blocks
+* Technical diagrams
+* Luxury branding
+* Realistic rendering
+
+Keywords:
+
+* Building Blocks
+* Modular Design
+* Learning Through Play
+* Educational Slides
+* Workshop Toolkit
+* STEM Education
+* Visual Thinking
+* Creative Presentation
+* Information Architecture
+* Modular Storytelling

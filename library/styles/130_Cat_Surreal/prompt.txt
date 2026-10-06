@@ -1,0 +1,192 @@
+Design Style:
+Name: "Cat Surreal"
+
+Concept: >
+インターネット猫ミーム、
+シュルレアリスム、
+ダダイズム、
+Brainrot Meme、
+フォトモンタージュ、
+Discordカルチャー、
+Reddit、
+ヴィンテージ科学雑誌、
+実験映画ポスター、
+コンセプチュアルアートから着想を得た
+シュルレアル猫ミーム・エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+現代美術館に展示される
+アートポスターとして構成する。
+
+猫ミームはジョークではなく、
+思考を刺激する芸術作品として扱う。
+
+猫、
+日用品、
+建築、
+食べ物、
+宇宙、
+自然、
+機械、
+人工物を
+非現実的に組み合わせ、
+新しい意味を生み出す。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Surreal
+- Curious
+- Unexpected
+- Dreamlike
+- Internet
+- Artistic
+- Experimental
+- Editorial
+
+Temperature:
+Overall: High Contrast
+
+Background:
+Color: "#F5F2EC"
+
+Color Palette:
+Primary:
+Black: "#111111"
+White: "#FFFFFF"
+
+Accent:
+MemeRed: "#E5423D"
+MemeBlue: "#497BFF"
+MemeYellow: "#F4D648"
+
+Typography:
+Style:
+- Bold sans-serif
+- Constructivist typography
+- Editorial headline
+- Minimal captions
+
+Treatment:
+- Large headlines
+- Strong hierarchy
+- Asymmetrical placement
+- Generous negative space
+- Small exhibition labels
+
+Photography:
+Style:
+- Cat memes
+- Internet reaction cats
+- Korean cat memes
+- Viral screenshots
+- Black-and-white photography
+- Vintage archival imagery
+
+Treatment:
+- Hard cutout
+- White sticker outline
+- Photomontage
+- Extreme scale changes
+- High contrast
+- Poster composition
+
+Layout:
+Composition:
+- Museum poster
+- Editorial asymmetry
+- Large empty space
+- One dominant surreal composition
+- Visual metaphor
+
+Structure:
+- Hero collage
+- Minimal typography
+- Gallery caption
+- Exhibition layout
+
+Visual Elements:
+Components:
+- Cats replacing planets
+- Floating pizza slices
+- Giant fish
+- Floating furniture
+- Clouds
+- Classical sculptures
+- Eyes
+- Hands
+- Balloons
+- Money
+- Computer windows
+- Browser tabs
+- Retro UI
+- Mechanical objects
+- Scientific illustrations
+
+Decorative:
+- Geometric circles
+- Ink splatters
+- Paper textures
+- Torn paper
+- Editorial frames
+
+Effects:
+- Photomontage
+- Paper collage
+- Vintage print texture
+- Matte poster finish
+- Editorial grain
+- Film dust
+
+Image Style:
+Treatment:
+- Black-and-white cat photography
+- Surreal combinations
+- Impossible scale
+- Unexpected object replacement
+- Dreamlike storytelling
+- Internet meme absurdity
+
+Composition:
+Characteristics:
+- Museum exhibition poster
+- Editorial composition
+- Visual metaphor
+- Contemporary surrealism
+- Dada collage
+- Internet absurdism
+- Fine art poster
+- Dream logic
+
+Design Rules:
+- Every slide should communicate through visual metaphor instead of explanation.
+- Cats should become impossible objects, landscapes, or characters.
+- Combine unrelated subjects fearlessly.
+- Treat internet memes as museum-quality artworks.
+- Use one dominant surreal image per slide.
+- Leave generous empty space around the composition.
+- Typography should support the artwork, never overpower it.
+- Make each slide feel like an exhibition poster from a contemporary art museum.
+
+Avoid:
+- Corporate presentation layouts
+- Literal illustrations
+- Business infographics
+- Dense text
+- Realistic compositions
+- Stock photography
+- Technical diagrams
+- Cute pet photo albums
+
+Keywords:
+- Cat Meme
+- Surrealism
+- Dada
+- Photomontage
+- Visual Metaphor
+- Internet Absurdism
+- Contemporary Art
+- Editorial Poster
+- Museum Exhibition
+- Brainrot Meme

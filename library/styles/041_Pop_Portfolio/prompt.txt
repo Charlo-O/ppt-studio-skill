@@ -1,0 +1,115 @@
+Design Style:
+Name: "Pop Minimal Web Portfolio"
+Concept: "Webデザイン・ポートフォリオ資料のような、余白を大きく使ったミニマルでポップなプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Modern
+- Web Design
+- Portfolio
+- Pop
+- Clean
+- Creative
+- Editorial
+
+Color Palette:
+Background:
+Main: "#FFFFFF"
+SoftGray: "#F4F4F4"
+Dark: "#0B1117"
+
+Accent:
+BrightYellow: "#FFD900"
+Cyan: "#16CFE0"
+HotPink: "#FF5278"
+Purple: "#7B4DFF"
+SoftPink: "#F8C7D8"
+PaleYellow: "#FFF3C4"
+
+Text:
+Primary: "#111111"
+Secondary: "#666666"
+Light: "#FFFFFF"
+
+Typography:
+Heading:
+Font: "Modern Geometric Sans"
+Weight: "Bold"
+Style: "Clean, compact, slightly rounded sans-serif"
+Usage: "Large but simple titles with strong left alignment"
+
+Body:
+Font: "Minimal Sans Serif"
+Weight: "Regular"
+Style: "Small, clean, readable text"
+Usage: "Use short paragraphs with generous spacing"
+
+Accent:
+Font: "Thin Script or Signature Style"
+Usage: "Use sparingly as decorative handwritten accent"
+
+Layout:
+General:
+- Use large white margins
+- Keep layouts airy and minimal
+- Place content in clear grid structures
+- Use strong left alignment
+- Avoid overcrowding
+- Combine white space with bold color blocks
+
+Grid:
+- Use 2-column and 3-column layouts
+- Mix large text areas with image blocks
+- Use asymmetric layouts for editorial rhythm
+- Leave at least 40% negative space on many slides
+
+Composition:
+- Place main titles near the upper-left area
+- Use small labels above headings
+- Use thin lines, small captions, and minimal icons as accents
+- Add occasional full-height color panels
+- Use overlapping image cards only when needed
+
+Visual Elements:
+Image Style:
+- Use cropped lifestyle, portrait, workspace, or abstract images
+- Mix rectangular image crops with clean white layouts
+- Allow some images to sit inside pastel or color-block areas
+- Use minimal shadows or no shadows
+
+Shapes:
+- Rounded rectangles
+- Thin outlined boxes
+- Small circular accents
+- Simple progress bars
+- Minimal chart blocks
+- Soft gradient panels
+
+Charts:
+- Use simplified bar charts, pie charts, and metric cards
+- Use bright accent colors for data highlights
+- Keep charts flat and minimal
+- Avoid heavy gridlines
+
+Slide Variations:
+- Bold color title slide
+- White minimalist contents slide
+- Editorial intro slide with one vertical image
+- Profile or portfolio slide with portrait image
+- Full-color quote or signature slide
+- Split layout with text and image
+- Metric dashboard slide with colorful cards
+- Strategy slide with horizontal color bars
+- Contact slide with soft pastel background block
+
+Design Rules:
+- Do not use decorative backgrounds
+- Do not use heavy shadows
+- Do not use dense text
+- Do not center everything
+- Keep each slide clean and spacious
+- Use bright colors only as accents or section blocks
+- Maintain a modern web portfolio feeling

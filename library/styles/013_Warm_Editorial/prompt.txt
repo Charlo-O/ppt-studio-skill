@@ -1,0 +1,168 @@
+Design Style:
+Name: "Warm Editorial Grid Minimal"
+Concept: "クリーム・ペールブルー・マスタードイエローを基調にした、モダンエディトリアル＋雑誌レイアウト風プレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Editorial
+- Minimal
+- Warm
+- Modern
+- Magazine
+- Stylish
+- Clean
+- Creative
+
+Color Palette:
+Background:
+Cream: "#F5F1E8"
+SoftBlue: "#C9D6F0"
+Mustard: "#E6A126"
+Olive: "#6D6943"
+
+Text:
+Primary: "#111111"
+Secondary: "#5B5B5B"
+Light: "#F5F1E8"
+
+Accent:
+Orange: "#D65A2E"
+Yellow: "#F2B233"
+Black: "#111111"
+
+Typography:
+Heading:
+Font: "Bold Grotesk Sans"
+Weight: "800-900"
+Case: "UPPERCASE"
+Style:
+- "large editorial headline"
+- "tight spacing"
+- "clean modern typography"
+- "magazine cover aesthetic"
+
+Body:
+Font: "Modern Sans"
+Weight: "400-500"
+Style:
+- "small editorial body text"
+- "minimal readable paragraphs"
+- "clean spacing"
+
+Caption:
+Font: "Condensed Sans"
+Weight: "500"
+Style:
+- "micro labels"
+- "tiny editorial annotations"
+
+Layout:
+Structure:
+- "strict modular grid"
+- "editorial magazine layout"
+- "asymmetrical balance"
+- "large empty spaces"
+
+Grid:
+Columns: "4-8"
+Rows: "3-6"
+Gap: "tight"
+
+Composition:
+- "oversized typography blocks"
+- "split image and text layout"
+- "large color panels"
+- "cropped photography"
+- "minimal information hierarchy"
+
+Visual Elements:
+Blocks:
+- "solid color rectangles"
+- "large flat color backgrounds"
+- "minimal framed image areas"
+
+Decorations:
+- "tiny labels"
+- "small alignment marks"
+- "subtle editorial dividers"
+
+Shapes:
+- "simple rectangular panels"
+- "hard edge layouts"
+- "minimal geometric balance"
+
+Images:
+Style:
+- "warm lifestyle photography"
+- "editorial still-life photos"
+- "nature and flower photography"
+- "fashion/editorial portrait crops"
+
+Crop:
+- "large circular crops"
+- "rectangular image strips"
+- "tight close-up compositions"
+- "asymmetrical image placement"
+
+Slides:
+Cover:
+Background: "#F5F1E8"
+Layout:
+- "huge title typography"
+- "single large cropped image"
+- "minimal supporting text"
+- "editorial spacing"
+
+Section Divider:
+Background: "#E6A126"
+Text: "#111111"
+Layout:
+- "large uppercase title"
+- "wide empty space"
+- "minimal labels"
+
+Editorial Slide:
+Layout:
+- "large typography area"
+- "small supporting paragraph"
+- "modular image blocks"
+
+Gallery Slide:
+Layout:
+- "multiple small image crops"
+- "tight editorial grid"
+- "caption-based layout"
+
+Data Slide:
+Layout:
+- "minimal charts"
+- "bold labels"
+- "large empty margins"
+
+Quote Slide:
+Layout:
+- "oversized text composition"
+- "single accent color background"
+- "minimal photography"
+
+Closing Slide:
+Background: "#E6A126"
+Text: "#111111"
+Layout:
+- "huge thank you typography"
+- "minimal footer metadata"
+
+Rules:
+- "雑誌の紙面デザインのような構成にする"
+- "タイポグラフィを主役にする"
+- "大きな余白を大胆に使う"
+- "写真は暖色系・自然光・エディトリアル風"
+- "グラデーションは使わない"
+- "フラットでミニマルなデザインを維持"
+- "タイトルは極太サンセリフ体を使用"
+- "小さな注釈テキストを散りばめる"
+- "図版や写真は大胆にトリミングする"
+- "配色面を大きく使い、コントラストを強調する"
+- "余白と情報密度のバランスを重視する"

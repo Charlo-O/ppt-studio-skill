@@ -1,0 +1,166 @@
+Design Style:
+Name: "WindowsXP UI"
+
+Concept: >
+Windows XP、
+Windows 98、
+クラシックGUI、
+Frutiger Aero、
+初期インターネット、
+レトロPCデスクトップ、
+2000年代ソフトウェアUIから着想を得た
+ノスタルジックなデスクトップインターフェース型プレゼンテーション。
+
+スライドを説明資料ではなく、
+古いWindowsパソコンのデスクトップ、
+ソフトウェア画面、
+レトロOS、
+コンピュータ雑誌の特集ページとして構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Nostalgic
+- Retro
+- Digital
+- Playful
+- Geeky
+- Friendly
+- Whimsical
+- Y2K
+
+Temperature:
+Overall: Bright
+
+Background:
+Style: "Windows XP Bliss wallpaper"
+
+Color Palette:
+Primary:
+XPBlue: "#2B49D8"
+SkyBlue: "#77C8FF"
+GrassGreen: "#69B84C"
+WhiteCloud: "#FFFFFF"
+
+Secondary:
+SilverGray: "#D9D9D9"
+SoftGray: "#ECECEC"
+
+Accent:
+Navy: "#1E2D82"
+Black: "#111111"
+
+Typography:
+Style:
+- Classic Windows UI font
+- Pixel-inspired sans-serif
+- Serif headings inspired by old office software
+- Small interface labels
+- System UI typography
+
+Hierarchy:
+Heading:
+Weight: Regular
+Scale: Large
+
+Body:
+Weight: Regular
+Size: Small
+Alignment: Left
+
+Layout:
+Structure:
+- Desktop window layout
+- Floating application windows
+- Dialog box composition
+- Framed interface panels
+- Software screen mockups
+- Desktop-style navigation
+
+Composition:
+Principles:
+- Floating windows
+- Thick blue window borders
+- Layered interface panels
+- Desktop application aesthetic
+- Structured alignment
+- Multiple overlapping windows
+
+UI Elements:
+Windows:
+- Classic title bars
+- Minimize, maximize, close buttons
+- Scroll bars
+- Window frames
+- Dialog boxes
+- Mouse cursor
+- Push buttons
+
+Shapes:
+Primary:
+- Rounded window frame
+- Rectangle
+- Pixel starburst
+- Dialog box
+- Toolbar
+- Status bar
+
+Graphic Elements:
+- Mouse cursor
+- Pixel stars
+- Classic buttons
+- Scroll bars
+- Window borders
+- Desktop icons
+- Checkered status strips
+- Simple UI controls
+
+Photography:
+Style:
+- Windows XP landscape
+- Product cutouts
+- Small circular photos
+- Minimal imagery
+- Clean isolated objects
+
+Image Treatment:
+- Window frame masking
+- Rounded desktop panels
+- Minimal shadows
+- Flat placement
+
+Texture:
+- Flat UI
+- Pixel details
+- Classic operating system graphics
+
+Effects:
+Style:
+- Minimal bevel
+- Light gradients
+- Subtle shadows
+- Classic interface styling
+
+Whitespace:
+Density: Medium
+
+Visual Rules:
+- Every slide should resemble an old Windows desktop.
+- Place content inside floating application windows.
+- Use classic blue title bars consistently.
+- Keep the Windows XP Bliss landscape visible across slides.
+- Add mouse cursors and classic buttons as decorative UI elements.
+- Frame information inside dialog boxes.
+- Maintain a nostalgic early-2000s desktop software appearance.
+- Use subtle pixel-inspired decorative graphics.
+
+Avoid:
+- Glassmorphism
+- Modern flat dashboards
+- Mobile UI
+- Minimal corporate layouts
+- Heavy gradients
+- Neon colors
+- Futuristic interfaces
+- Contemporary web design

@@ -1,0 +1,178 @@
+Design Style:
+Name: "Chromatic Object"
+
+Concept: >
+プロダクトポスター、
+スイス・タイポグラフィ、
+現代デザインミュージアム、
+実験的エディトリアルから着想を得た
+ミニマルグラフィックスタイル。
+
+身近な日用品や工業製品を
+展示品のように扱い、
+単色で大胆に着色したオブジェクトと、
+円形に配置されたタイポグラフィによって、
+「ありふれたものの新しい見方」を提示する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Contemporary
+- Analytical
+- Playful
+- Experimental
+- Graphic
+- Curated
+- Intelligent
+
+Color Palette:
+Background:
+LightGray: "#F1F1F1"
+
+Accent:
+Coral: "#FF6B8A"
+Tangerine: "#FF9A42"
+Lemon: "#F5D63D"
+Lime: "#6BE05B"
+Mint: "#35D3A6"
+Aqua: "#45DCE8"
+Cobalt: "#3F6BFF"
+Violet: "#6E45FF"
+
+Text:
+Black: "#111111"
+Gray: "#666666"
+
+Typography:
+Headlines:
+Style: "Neo-grotesque sans serif"
+Weight: 700
+Case: Uppercase
+
+CircularText:
+Style: "Geometric sans serif"
+Weight: 400
+Arrangement: Circular
+
+Body:
+Style: "Neutral sans serif"
+Weight: 400
+Size: Small
+
+Illustration:
+Style:
+Product poster illustration
+
+Subjects:
+- Everyday objects
+- Household tools
+- Consumer products
+- Utility items
+- Mechanical devices
+- Functional equipment
+
+Rendering:
+- Monochrome recoloring
+- Flat silhouettes
+- Posterized objects
+- Clean cut-out edges
+- Minimal internal details
+- No realism
+
+Object Treatment:
+Rules:
+- One slide focuses on one object
+- Each object uses one vivid color
+- Preserve recognizability
+- Remove material textures
+- Treat products as exhibits
+
+Typography Composition:
+Elements:
+- Circular headlines
+- Radial text paths
+- Rotated captions
+- Small annotation blocks
+- Minimal metadata labels
+- Date-like identifiers
+
+Layout:
+Overall:
+- Poster exhibition format
+- Centered compositions
+- Strong object emphasis
+- Museum catalog simplicity
+
+Composition:
+- One dominant object
+- Circular typography around object
+- Wide margins
+- Large empty areas
+- Asymmetrical balance
+
+Information Design:
+Hierarchy:
+- Object first
+- Typography second
+- Supporting details third
+
+Graphic Elements:
+- Thin circular guides
+- Outline labels
+- Small stamps
+- Minimal dividers
+- Technical annotations
+
+Print Effects:
+Style:
+- Smooth flat color
+- No gradients
+- No halftones
+- Crisp edges
+- Digital poster finish
+
+Composition Rules:
+- Celebrate ordinary objects
+- Use color to create surprise
+- Maintain visual restraint
+- Allow whitespace to dominate
+- Avoid decorative excess
+
+Design Rules:
+- Curate instead of decorate
+- Simplify aggressively
+- Elevate the everyday
+- Prioritize clarity
+- Treat each slide as an exhibition poster
+
+Avoid:
+- Photorealistic rendering
+- Material textures
+- Complex backgrounds
+- Drop shadows
+- Skeuomorphic effects
+- Busy infographics
+- Decorative illustrations
+- Multi-object clutter
+
+Suitable For:
+- Product introductions
+- Design thinking workshops
+- Innovation presentations
+- Manufacturing case studies
+- Process explanations
+- Museum education
+- Trend reports
+- Brand storytelling
+
+Keywords:
+- Swiss Poster
+- Product Exhibition
+- Contemporary Editorial
+- Chromatic Objects
+- Museum Graphics
+- Design Minimalism
+- Curated Everyday
+- Object Storytelling

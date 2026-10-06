@@ -1,0 +1,163 @@
+Design Style:
+Name: "Commerce Culture Editorial"
+Concept: "カルチャー・ブランド・スタートアップ向けの、商売哲学と世界観を伝えるアートブック型プレゼンテーション"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Editorial
+- Cultural
+- Human
+- Creative
+- Minimal
+- Thoughtful
+- Artistic
+- Contemporary
+
+Color Palette:
+
+Background:
+Base: "Warm White"
+SoftGray: "Light Gray"
+
+Text:
+Primary: "Deep Black"
+Secondary: "Muted Gray"
+
+Accent:
+Cyan: "Soft Cyan"
+Pink: "Soft Pink"
+Yellow: "Muted Yellow"
+Blue: "Bright Blue"
+
+Typography:
+
+Heading:
+Font: "Condensed Sans Serif"
+Weight: "Bold"
+Style: "large editorial typography"
+
+Statement:
+Font: "Modern Sans Serif"
+Weight: "Light"
+Style: "philosophical quote typography"
+
+Body:
+Font: "Clean Japanese Sans Serif"
+Weight: "Regular"
+Style: "comfortable reading"
+
+Layout:
+
+Structure:
+- Editorial storytelling
+- Mission-first presentation
+- Magazine-inspired flow
+- Culture-driven narrative
+- Human-centered communication
+- Long-form reading experience
+
+Grid:
+Columns: 12
+Margins: "Very Wide"
+Gutters: "Wide"
+
+Composition:
+- Large photography areas
+- Massive whitespace
+- One key message per page
+- Strong visual breathing room
+- Slow reading rhythm
+- Alternating image and text pages
+
+Visual Language:
+
+Photography:
+Style:
+- Documentary
+- Street photography
+- Everyday life
+- Urban culture
+- Natural light
+- Authentic moments
+
+Illustration:
+Style:
+- Artistic 3D objects
+- Playful sculptures
+- Abstract characters
+- Contemporary art direction
+
+Shapes:
+- Organic forms
+- Soft geometry
+- Sculptural elements
+
+Slide Types:
+
+Cover:
+- Large photography
+- Minimal text
+- Editorial layout
+
+Mission:
+- Large philosophical statement
+- Huge whitespace
+- Minimal supporting text
+
+Founder Message:
+- Essay style layout
+- Long-form reading
+- Editorial composition
+
+Market Insight:
+- Large numbers
+- Minimal charts
+- Magazine-style statistics
+
+Customer Story:
+- Full photography
+- Human-centered storytelling
+- Documentary approach
+
+Vision:
+- Future narrative
+- Conceptual visuals
+- Emotional positioning
+
+Culture:
+- Team perspectives
+- Personal voices
+- Thought leadership
+
+Recruitment:
+- Mission alignment
+- Values-focused messaging
+- Long-term challenge framing
+
+Charts:
+
+Style:
+- Minimal
+- Large numerals
+- No decorative complexity
+- Strong typography
+
+Brand Personality:
+- Thoughtful
+- Human
+- Creative
+- Philosophical
+- Cultural
+- Independent
+- Curious
+
+Rules:
+- Prioritize philosophy over features
+- Prioritize people over products
+- Use photography as storytelling
+- Keep information density low
+- Create generous whitespace
+- Let pages feel like magazine spreads
+- Focus on emotion before explanation

@@ -1,0 +1,122 @@
+Design Style:
+Name: "Minimal Fashion Grid"
+Concept: "ファッションブランドのルックブックやブランドブリーフをベースにした、静かで洗練されたミニマルエディトリアルデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Editorial
+- Fashion
+- Calm
+- Sophisticated
+- Premium
+- Neutral
+- Structured
+
+Color Palette:
+Text:
+Primary: "#111111"
+Secondary: "#555555"
+Light: "#FFFFFF"
+
+Accent:
+OliveGreen: "#5E6543"
+WarmBeige: "#D8CFBF"
+SoftCream: "#EFE9DE"
+Charcoal: "#1B1B1B"
+
+Neutral:
+Gray: "#CFCFCF"
+LightGray: "#EAEAEA"
+
+Typography:
+Heading:
+Font: "Bold Condensed Sans Serif"
+Weight: "ExtraBold"
+Style: "Large uppercase editorial titles"
+Usage: "Use oversized condensed typography for key titles"
+
+Body:
+Font: "Minimal Grotesk Sans"
+Weight: "Regular"
+Style: "Tiny editorial body copy with clean spacing"
+
+Label:
+Font: "Condensed Sans Serif"
+Weight: "Medium"
+Style: "Small uppercase captions and side labels"
+
+Layout:
+Style:
+- Editorial grid system
+- Modular composition
+- Large negative space
+- Asymmetrical balance
+- Thin divider lines
+- Minimal information density
+- Fashion campaign layout
+
+Grid:
+Columns: 12
+Margin: "Wide"
+Alignment: "Strict geometric alignment"
+Spacing: "Consistent and spacious"
+
+Composition:
+- Use bold uppercase titles aligned to edges
+- Divide slides into clean rectangular blocks
+- Combine photography and text using grid-based sections
+- Leave generous empty areas
+- Use vertical side labels occasionally
+- Use thin lines to separate sections
+- Align all text precisely to grid boundaries
+
+Image Style:
+Treatment:
+- Fashion editorial photography
+- Neutral tones
+- Soft natural lighting
+- Minimal styling
+- Modern lifestyle imagery
+- Cropped portraits and clean compositions
+- Occasional monochrome photography
+
+Graphic Elements:
+- Thin grid lines
+- Minimal section dividers
+- Small uppercase labels
+- Compact statistics blocks
+- Large condensed typography
+- Modular editorial panels
+
+Slide Types:
+Cover Slide:
+Layout: "Large bold title with modular photo composition"
+
+Contents Slide:
+Layout: "Structured table of contents with strong grid alignment"
+
+Overview Slide:
+Layout: "Editorial information blocks paired with lifestyle photography"
+
+Objectives Slide:
+Layout: "Large vertical title area with text sections"
+
+Statistics Slide:
+Layout: "Minimal metrics with strong typographic hierarchy"
+
+Deliverables Slide:
+Layout: "Grid-based checklist and visual product block"
+
+Rules:
+- Do not use gradients
+- Do not use glossy effects
+- Avoid colorful corporate styling
+- Keep layouts geometric and editorial
+- Use restrained accent colors only in small areas
+- Maintain strong whitespace throughout
+- Keep typography bold, condensed, and minimal
+- Prioritize layout balance over decoration
+- Use photography as structured design elements, not full-background images

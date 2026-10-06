@@ -1,0 +1,160 @@
+Design Style:
+Name: "Nostalgic Objects"
+
+Concept: >
+ヴィンテージ雑貨、
+レトロ玩具、
+フリーマーケット、
+ミュージアムアーカイブ、
+標本箱、
+デザインスタジオ、
+北欧雑貨、
+文房具図鑑、
+フラットレイ写真、
+コレクターズブックから着想を得た
+ノスタルジック・オブジェクトコレクションデザイン。
+
+スライドを説明資料ではなく、
+一冊のコレクション図鑑、
+小さな博物館、
+思い出の標本、
+デザインアーカイブとして構成する。
+
+情報は文章ではなく、
+モノを集め、
+並べ、
+整理し、
+発見する体験として見せる。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Nostalgic
+- Handmade
+- Editorial
+- Museum
+- Curious
+- Friendly
+- Collectible
+- Playful
+
+Temperature:
+Overall: Warm
+
+Background:
+Color: "#FFFFFF"
+
+Color Palette:
+
+Primary:
+Cream: "#FFFDF8"
+PaperWhite: "#FAFAF7"
+
+Accent:
+PastelPink: "#F5A8B8"
+Mint: "#A8E5D1"
+SkyBlue: "#A8D8FF"
+ButterYellow: "#FFE67A"
+Coral: "#F98A72"
+Sage: "#9FCB8F"
+
+Neutral:
+Black: "#222222"
+Gray: "#777777"
+
+Typography:
+
+Style:
+- Handwritten notes
+- Small editorial captions
+- Notebook annotations
+- Museum labels
+- Soft serif accents
+
+Layout:
+
+Structure:
+- Object grid
+- Flat lay composition
+- Collection board
+- Museum drawer
+- Catalog layout
+
+Composition:
+
+Principles:
+- Carefully organized randomness
+- Equal visual weight
+- Generous whitespace
+- Objects floating independently
+- Balanced asymmetry
+
+Photography:
+
+Style:
+- Flat lay photography
+- Top-down view
+- Soft natural light
+- Vintage objects
+- Everyday collectibles
+- Tiny toys
+- Stationery
+- Handmade accessories
+- Retro household items
+
+Image Treatment:
+- Natural shadows
+- Soft matte finish
+- Clean cutouts
+- Slight color fading
+- Printed catalog feeling
+- Museum archive aesthetic
+
+Graphic Elements:
+- Small handwritten arrows
+- Collection numbers
+- Tiny labels
+- Stamp marks
+- Paper textures
+- Notebook scribbles
+- Catalog dividers
+
+Illustration Style:
+- Minimal
+- Hand drawn
+- Editorial doodles
+- Tiny decorative sketches
+
+Whitespace:
+Density: High
+
+Visual Rules:
+- 真上から見たフラットレイ構図を基本とする。
+- 小さなオブジェクトを数十個配置する。
+- オブジェクト同士は十分な余白を保つ。
+- 全体を一枚のコレクションボードとして見せる。
+- 玩具、文房具、生活用品、雑貨、小物を混在させる。
+- 色はパステル中心で優しくまとめる。
+- 写真集や博物館図録のような空気感を作る。
+- 完璧な整列ではなく、人の手で丁寧に並べた印象にする。
+- 情報ではなく「眺める楽しさ」を優先する。
+- 余白を大胆に使い、圧迫感を出さない。
+
+Avoid:
+- Corporate layouts
+- Glassmorphism
+- Heavy gradients
+- Dark backgrounds
+- Busy charts
+- Modern dashboards
+- Neon colors
+- Photorealistic 3D rendering
+- Oversized typography
+
+Do Not Specify:
+- Titles
+- Body text
+- Topic
+- Names
+- Numbers

@@ -1,0 +1,287 @@
+Design Style:
+Name: "Azure Neumo"
+
+Concept: >
+ニューモーフィズムの柔らかな立体感と、
+エグゼクティブ向けインフォグラフィックを融合した
+プレミアム・ミニマルデザイン。
+
+背景と同系色で構成された浮き出し表現、
+大胆な余白、
+繊細な陰影による奥行き、
+単色アクセントによる情報強調を特徴とする。
+
+数字、KPI、ステップ、プロセス、組織図を
+静かで上質なトーンで整理し、
+経営資料や戦略資料にふさわしい
+落ち着いた知性を演出する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Premium
+- Minimal
+- Executive
+- Elegant
+- Calm
+- Futuristic
+- Intelligent
+- Structured
+
+Color Palette:
+
+Background:
+Primary: "#EEF0F3"
+Secondary: "#F4F5F7"
+
+Text:
+Primary: "#767392"
+Secondary: "#A7A9B5"
+Light: "#C9CBD4"
+
+Accent:
+Cyan: "#19B9F5"
+
+Neutral:
+White: "#FFFFFF"
+Gray: "#DDE0E8"
+Shadow: "#C7CBD6"
+
+Typography:
+
+Headings:
+Font: "Geometric Sans Serif"
+Weight: 700
+Color: "#767392"
+LetterSpacing: "-0.02em"
+
+SectionTitles:
+Font: "Sans Serif"
+Weight: 600
+Transform: "Uppercase"
+Color: "#8F93A4"
+LetterSpacing: "0.08em"
+
+DisplayNumbers:
+Font: "Geometric Sans Serif"
+Weight: 700
+Color: "#D8DBE4"
+
+Body:
+Font: "Sans Serif"
+Weight: 400
+Color: "#8F93A4"
+LineHeight: 1.6
+
+Layout:
+
+Structure:
+- Magazine-inspired dashboard layout
+- Large hero sections
+- Modular infographic composition
+- Strong negative space
+- Symmetrical visual balance
+
+Grid:
+Columns: 12
+Gutters: "Medium"
+
+Margins:
+Outer: "Large"
+
+Components:
+
+Cover:
+- Oversized embossed headline
+- Minimal geometric decoration
+- Floating slider indicator
+- Soft circular cutout shapes
+
+SectionDivider:
+- Large embossed section numbers
+- Minimal supporting metrics
+- Accent progress bars
+
+KPI:
+- Large metric rings
+- Percentage indicators
+- Value highlights
+- Supporting descriptions
+
+Process:
+- Four-step flows
+- Horizontal step connectors
+- Circular milestones
+- Sequential timelines
+
+Comparison:
+- Card-based comparisons
+- Feature matrices
+- Organizational relationships
+
+Strategy:
+- Central hub diagrams
+- Radial relationship maps
+- Hierarchical structures
+
+Timeline:
+- Continuous neumorphic tracks
+- Floating milestone nodes
+- Minimal labels
+
+Charts:
+
+Preferred:
+- Circular progress rings
+- Thin progress bars
+- KPI gauges
+- Minimal percentage charts
+
+Avoid:
+- Dense bar charts
+- Complex tables
+- Heavy data visualizations
+
+Neumorphism:
+
+Surface:
+Background: "#EEF0F3"
+
+Radius:
+Small: "16px"
+Medium: "28px"
+Large: "48px"
+Circle: "50%"
+
+Raised:
+
+Highlight:
+Color: "rgba(255,255,255,0.95)"
+Offset: "-10px -10px"
+Blur: "22px"
+
+Shadow:
+Color: "rgba(193,199,212,0.55)"
+Offset: "10px 10px"
+Blur: "22px"
+
+Pressed:
+
+Highlight:
+Color: "rgba(255,255,255,0.85)"
+Inset: true
+
+Shadow:
+Color: "rgba(193,199,212,0.35)"
+Inset: true
+
+Embossing:
+
+Usage:
+- Cover titles
+- Section numbers
+- Background numerals
+- Hero statements
+
+Style:
+Same-color extrusion
+Extremely subtle contrast
+Soft depth illusion
+
+Icons:
+
+Style:
+Minimal outline icons
+
+Stroke:
+Width: "2px"
+Color: "#19B9F5"
+
+Characteristics:
+- Rounded terminals
+- Functional symbolism
+- Consistent proportions
+- Monoline appearance
+
+Subjects:
+- Clock
+- User
+- Briefcase
+- Calendar
+- Gear
+- Lightbulb
+- Bell
+- Globe
+
+Cards:
+
+Style:
+Raised soft panels
+
+Appearance:
+Background: "#EEF0F3"
+Radius: "Large"
+
+Indicators:
+
+Circular:
+Style: "Thin accent arcs"
+
+Linear:
+Style: "Minimal progress tracks"
+
+Nodes:
+Style: "Floating neumorphic circles"
+
+Effects:
+
+Shadows:
+Usage: "Essential"
+
+Characteristics:
+- Multi-layered
+- Soft diffusion
+- Consistent direction
+- Low contrast
+
+Borders:
+Usage: "Avoid"
+
+Gradients:
+Usage: "None"
+
+Textures:
+Usage: "None"
+
+Decorations:
+
+BackgroundElements:
+- Oversized embossed numerals
+- Soft circular cutouts
+- Minimal relief patterns
+
+AccentUsage:
+Apply only to:
+- Progress arcs
+- KPI highlights
+- Icons
+- Key metrics
+
+Spacing:
+
+SectionGap: "Extra Large"
+ComponentGap: "Large"
+InternalPadding: "Generous"
+
+Rules:
+- Use monochromatic surfaces as the dominant visual language.
+- Apply cyan as the sole accent color.
+- Maintain consistent neumorphic depth across all elements.
+- Emphasize hierarchy through scale rather than color.
+- Use embossed typography to create premium visual interest.
+- Preserve generous whitespace and visual calm.
+- Keep charts minimal and executive-focused.
+- Avoid harsh contrasts, heavy outlines, and decorative clutter.
+- Ensure every component feels tactile and cohesive.
+- Suitable for executive dashboards, AI strategy decks, consulting presentations, annual reports, KPI reviews, and premium business storytelling.

@@ -1,0 +1,197 @@
+Design Style:
+Name: "Dreamy Glass"
+
+Concept: >
+フロストガラスカードと、
+ぼかしたカラフルな球体を組み合わせた
+エディトリアルプレゼンテーションデザイン。
+
+半透明のガラスパネルを情報のベースとして用い、
+背景には柔らかく発光するグラデーション球体を浮遊させることで、
+「軽やかさ」と「未来感」を両立した世界観を構築する。
+
+スタートアップ、ウェルネス、教育、
+ライフスタイル提案、サービス紹介、
+AI・SaaS資料などに適した、
+親しみやすく印象的なビジュアルスタイル。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Dreamy
+- Soft
+- Playful
+- Premium
+- Minimal
+- Optimistic
+- Editorial
+- Contemporary
+
+Color Palette:
+
+Background:
+Primary: "#EAF2FB"
+Secondary: "#F7F5FA"
+
+Gradient Spheres:
+Cyan: "#3FD8FF"
+Aqua: "#5DE7D5"
+Violet: "#A65DFF"
+Purple: "#D98CFF"
+Peach: "#FFD58A"
+Lemon: "#FFEFA7"
+Blue: "#4D9CFF"
+
+Glass:
+Base: "rgba(255,255,255,0.22)"
+Frosted: "rgba(255,255,255,0.38)"
+Border: "rgba(255,255,255,0.72)"
+
+Text:
+Primary: "#232323"
+Secondary: "#727272"
+Accent: "#1F3D8F"
+
+Illustration:
+
+Style:
+Dreamy Glass Editorial
+
+Rendering:
+Soft 3D rendering
+Frosted transparency
+Blurred gradients
+Rounded geometry
+Minimal details
+Airy composition
+
+Visual Effects:
+- Large blurred gradient spheres
+- Soft bloom glow
+- Frosted glass blur
+- Floating depth
+- Gentle ambient shadows
+- Diffused reflections
+- Light color scattering
+- Atmospheric softness
+
+Typography:
+
+Headings:
+Style: Rounded geometric sans-serif
+Weight: 700–800
+Color: "#232323"
+
+Body:
+Style: Modern sans-serif
+Weight: 400–500
+Color: "#727272"
+
+Numerical Highlights:
+Weight: 800
+Color: "#1F3D8F"
+
+Layout:
+
+Structure:
+- Large hero title zones
+- Editorial asymmetry
+- Floating decorative spheres
+- Frosted information cards
+- Spacious margins
+- Clear content hierarchy
+
+Composition:
+- Alternating left-right balance
+- Oversized focal elements
+- Selective use of overlap
+- Consistent breathing room
+
+Components:
+
+Cover:
+Features:
+- Oversized headline
+- Centered frosted glass panel
+- Large floating gradient spheres
+- Minimal supporting elements
+
+Statistic Cards:
+Shape: Rounded rectangle
+
+Material:
+- Frosted white glass
+- Semi-transparent surface
+
+Features:
+- Large numerical emphasis
+- Minimal supporting areas
+- Soft ambient shadows
+
+Process Sections:
+Features:
+- Sequential visual rhythm
+- Floating numeric emphasis
+- Individual glow accents
+- Even spacing
+
+Highlight Panels:
+Features:
+- Rounded glass containers
+- Large visual elements
+- Strong focal hierarchy
+- Editorial balance
+
+Icon Containers:
+Shape: Circle
+
+Treatment:
+- Soft gradients
+- Thin outlines
+- Minimal strokes
+- Floating appearance
+
+Decorative Elements:
+
+Gradient Spheres:
+Characteristics:
+- Large scale
+- Blurred edges
+- Semi-translucent appearance
+- Randomized placement
+- Partial canvas cropping
+
+Glow:
+Characteristics:
+- Low intensity
+- Wide diffusion
+- Background integration
+
+Background Treatment:
+Style: >
+明るいブルーグレーの背景に、
+淡いグラデーションの光だまりを重ねる。
+背景そのものは静かに保ち、
+浮遊する球体の色彩によって
+楽観的で軽やかな印象を与える。
+
+Overall Direction: >
+プレゼン資料というより、
+テック系スタートアップのブランドサイトや
+ウェルネスサービスのランディングページのような、
+柔らかく没入感のあるビジュアル体験を目指す。
+
+ガラスの透明感と、
+カラフルな球体の浮遊感を組み合わせ、
+「親しみやすい未来感」と「洗練された上質さ」を両立する。
+
+Restrictions:
+- Avoid harsh shadows
+- Avoid dark backgrounds
+- Avoid sharp corners
+- Avoid dense layouts
+- Avoid excessive gradients within text areas
+- Preserve generous whitespace
+- Maintain soft atmospheric lighting
+- Keep decorative elements secondary to content

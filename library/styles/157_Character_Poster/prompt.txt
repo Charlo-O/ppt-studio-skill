@@ -1,0 +1,220 @@
+Design Style:
+Name: "Character Poster"
+
+Concept: >
+北欧ポスターデザイン、
+Bauhaus、
+ミッドセンチュリーグラフィック、
+美術館エキシビションポスター、
+教育玩具、
+キャラクターアイコン、
+フラットイラスト、
+モダンデザインから着想を得た
+ミニマル・キャラクターポスター型エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+美術館で開催される企画展の
+ポスターシリーズとして構成する。
+
+情報量は極限まで削り、
+一つのキャラクター、
+一つのシンボル、
+一つのアイデアだけを大胆に配置する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Friendly
+- Graphic
+- Editorial
+- Modern
+- Quiet
+- Museum
+- Playful
+
+Temperature:
+Overall: Bright
+
+Background:
+Style: "Solid Color"
+
+Color Palette:
+
+Backgrounds:
+SkyBlue: "#9FD6E8"
+BubblePink: "#F5A3C3"
+SunshineYellow: "#FFD934"
+LightGray: "#E5E5E5"
+White: "#FFFFFF"
+
+Primary:
+Black: "#181312"
+
+Accent:
+Tomato: "#F04B35"
+RoyalBlue: "#235EDB"
+LeafGreen: "#39B54A"
+
+Typography:
+
+Style:
+- Editorial
+- Classic Serif
+- Minimal Sans
+- Museum Label
+
+Heading:
+Position: Top Center
+Weight: Medium
+Size: Small
+
+Caption:
+Position: Bottom Center
+Weight: Regular
+Size: Small
+
+Side Label:
+Vertical
+Thin
+Minimal
+
+Layout:
+
+Structure: "Museum Exhibition Poster"
+
+Composition:
+- One dominant illustration
+- Large empty background
+- Tiny heading
+- Small footer
+- Vertical side label
+- Perfect visual balance
+
+Grid:
+Simple poster grid
+
+Illustration:
+
+Style: "Minimal geometric mascot"
+
+Characteristics:
+- Flat silhouette
+- Rounded geometry
+- Large black shapes
+- Tiny facial features
+- Dot eyes
+- Small straight mouth
+- Calm expression
+- Friendly personality
+
+Construction:
+
+Shapes:
+- Circle
+- Rounded Rectangle
+- Square
+- Half Circle
+- Arch
+- Triangle
+- Simple Line
+
+Rules:
+- No outlines
+- No gradients
+- Flat colors only
+- Minimal facial detail
+- Simple proportions
+- Thick silhouettes
+- Strong negative space
+
+Characters:
+
+Motifs:
+- Human
+- Animal
+- House
+- Tree
+- Camera
+- Vehicle
+- Factory
+- Fruit
+- Cloud
+- Building
+- Object personification
+
+Graphic Elements:
+- Tiny dots
+- Small geometric accents
+- Large silhouettes
+- Minimal symbols
+- Oversized simple forms
+
+Image Treatment:
+
+Rendering:
+- Flat vector
+- Crisp edges
+- Poster print quality
+- No texture
+- No shadow
+- No lighting
+
+Whitespace:
+Very Large
+
+Editorial Style:
+- Museum exhibition catalogue
+- Gallery poster
+- Design annual
+- Children's art book
+- Scandinavian illustration
+
+Slide Variations:
+- Character portrait
+- Object character
+- Architectural icon
+- Animal mascot
+- Minimal landscape
+- Editorial cover
+- Educational poster
+- Symbol collection
+- Museum title page
+
+Composition Rules:
+- 1スライド1キャラクター
+- シルエットだけで認識できる形状にする
+- 顔は最小限のパーツのみ
+- 余白を大胆に使う
+- 色数は3〜5色以内
+- フラットカラーのみ
+- 大きな図形で構成する
+- タイポグラフィは装飾ではなく情報ラベルとして扱う
+- すべてのスライドを一つの展覧会ポスターシリーズとして統一する
+
+Design Keywords:
+- Bauhaus
+- Scandinavian Design
+- Mid-century Modern
+- Museum Poster
+- Children's Book
+- Flat Illustration
+- Friendly Geometry
+- Editorial Design
+- Minimal Character
+- Icon Design
+- Graphic Poster
+- Exhibition Catalogue
+
+Avoid:
+- Photorealism
+- 3D graphics
+- Gradients
+- Textures
+- Drop shadows
+- Complex backgrounds
+- Dense information
+- Corporate presentation style
+- Decorative flourishes
+- Detailed illustrations

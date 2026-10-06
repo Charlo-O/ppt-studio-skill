@@ -1,0 +1,196 @@
+Design Style:
+Name: "Minimal Blue Editorial Corporate"
+Concept: "ホワイトベースにブルー・レッドアクセントを効かせた、モダンで雑誌的レイアウトのエディトリアルプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Editorial
+- Corporate
+- Modern
+- Clean
+- Creative
+- Structured
+- Premium
+
+Color Palette:
+Background:
+Main: "#FFFFFF"
+SoftGray: "#F3F3F3"
+DarkOverlay: "rgba(0,0,0,0.55)"
+
+Text:
+Primary: "#111111"
+Secondary: "#666666"
+Light: "#FFFFFF"
+
+Accent:
+ElectricBlue: "#2B16FF"
+DeepBlue: "#1A0DCC"
+BrightRed: "#FF2A2A"
+Black: "#111111"
+
+Neutral:
+LightGray: "#E9E9E9"
+BorderGray: "#D6D6D6"
+
+Typography:
+Heading:
+Font: "Bold Geometric Sans"
+Weight: "700-900"
+Style:
+- "large editorial typography"
+- "clean modern sans serif"
+- "short impactful titles"
+- "mixed black and accent color headings"
+
+Body:
+Font: "Modern Sans Serif"
+Weight: "400-500"
+Style:
+- "minimal paragraph layout"
+- "clean business readability"
+- "small editorial text"
+
+Numbers:
+Font: "Condensed Sans"
+Weight: "600-700"
+
+Layout:
+Overall:
+- "large white space"
+- "asymmetric editorial composition"
+- "clean grid system"
+- "mix text blocks and photography"
+- "minimal decoration"
+- "high-end startup presentation feel"
+
+Grid:
+Columns: "2-4 flexible columns"
+Margin: "wide outer margins"
+Alignment: "mostly left aligned"
+
+Header:
+Style:
+- "small top label"
+- "minimal navigation elements"
+- "tiny corner text"
+- "thin top spacing"
+
+Footer:
+Style:
+- "small page number"
+- "thin divider line"
+- "minimal corporate footer"
+
+Images:
+Style:
+- "black and white photography"
+- "editorial fashion-inspired crops"
+- "office, startup, creative team scenes"
+- "rectangular image framing"
+- "high contrast monochrome photos"
+
+Accent Elements:
+Style:
+- "solid blue rectangles"
+- "thin vertical red lines"
+- "small geometric buttons"
+- "minimal UI inspired labels"
+- "floating color blocks"
+
+Decorations:
+Use:
+- "thin divider lines"
+- "small square icons"
+- "minimal geometric accents"
+- "tiny navigation symbols"
+Avoid:
+- "gradients"
+- "heavy shadows"
+- "complex illustrations"
+- "ornamental graphics"
+
+Slide Types:
+Cover:
+Layout:
+- "large blue rectangle panel on left"
+- "large title inside blue area"
+- "black and white portrait photo on right"
+- "minimal small subtitle text"
+Style:
+- "bold startup branding"
+- "minimal premium corporate mood"
+
+Introduction:
+Layout:
+- "large headline on white background"
+- "photo block beside text"
+- "small accent line above heading"
+- "large empty margins"
+
+History:
+Layout:
+- "timeline or editorial storytelling"
+- "horizontal image strip"
+- "title aligned right"
+- "small detail text blocks"
+
+Collaboration:
+Layout:
+- "split layout"
+- "large image area"
+- "floating blue square element"
+- "minimal text block"
+
+Team:
+Layout:
+- "grid-based member cards"
+- "monochrome portraits"
+- "blue name labels"
+- "clean equal spacing"
+
+Services:
+Layout:
+- "icon-based service explanation"
+- "minimal infographic structure"
+- "text and image balance"
+- "white background with accent blocks"
+
+VisionMission:
+Layout:
+- "large typography"
+- "accent colored keywords"
+- "minimal text columns"
+- "editorial spacing"
+
+Portfolio:
+Layout:
+- "gallery grid"
+- "large hero image"
+- "small supporting images"
+- "editorial magazine composition"
+
+DeviceMockup:
+Layout:
+- "large product/device mockup"
+- "minimal explanatory text"
+- "clean centered composition"
+
+DarkSection:
+Background: "#1A1A1A"
+Style:
+- "dark monochrome photography"
+- "white typography"
+- "blue glowing accent blocks"
+- "high contrast editorial mood"
+
+Rules:
+- "背景は基本ホワイトで統一する"
+- "ブルーは強調・カード・ボタン・ラベルに限定して使用"
+- "赤は細いラインやキーワード強調に使う"
+- "写真はモノクロ中心で統一感を出す"
+- "余白を大きく取り、ミニマルで洗練された印象にする"
+- "情報を詰め込みすぎず、雑誌のような読みやすさを重視する"

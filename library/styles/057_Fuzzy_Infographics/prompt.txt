@@ -1,0 +1,99 @@
+Design Style:
+Name: "Fuzzy Infographics"
+
+Concept: >
+子ども向け教材や教育コンテンツ向けの
+楽しく親しみやすいインフォグラフィックデザイン。
+
+モフモフしたキャラクター化された図形、
+手描き風ライン、
+シンプルな情報整理を組み合わせ、
+難しい内容をやさしく伝える。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Playful
+- Educational
+- Friendly
+- Cute
+- Fun
+- Light
+- Creative
+- Positive
+
+Color Palette:
+
+Background:
+Primary: "#F1F1F1"
+
+Text:
+Primary: "#111111"
+
+Accent:
+Mint: "#95E6D0"
+Yellow: "#F4D21B"
+Orange: "#F8A84C"
+Purple: "#D8B8F0"
+Pink: "#F48CD5"
+Green: "#59B93F"
+Blue: "#5C58FF"
+
+Illustration:
+
+Style:
+Fuzzy Character
+
+Subjects:
+- Circle Character
+- Triangle Character
+- Square Character
+- Blob Character
+- Funny Faces
+- Educational Icons
+
+Rendering:
+Soft texture
+Grainy surface
+Hand-drawn details
+Cartoon expression
+
+Typography:
+
+Headings:
+Style: Rounded Sans
+Weight: 700-900
+
+Body:
+Style: Friendly Sans
+Weight: 400-500
+
+Layout:
+
+Structure:
+- Character-led storytelling
+- Large infographic zones
+- Simple comparison layouts
+- Process diagrams
+- Learning maps
+
+Effects:
+
+Borders:
+Hand-drawn outlines
+
+Shadows:
+None
+
+Gradients:
+None
+
+Rules:
+- Use expressive characters
+- Simplify complex information
+- Prioritize visual storytelling
+- Maintain playful educational tone
+- Avoid corporate styling
+- Keep layouts airy and easy to read
+- Suitable for children, schools, workshops, STEM education, and AI literacy classes

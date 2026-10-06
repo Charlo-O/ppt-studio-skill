@@ -1,0 +1,204 @@
+Design Style:
+Name: "Business Strategy Isometric"
+
+Concept: >
+企業の戦略資料、提案書、事業計画、
+営業資料、研修資料、マーケティング資料など、
+幅広いビジネススライドに適した
+ソフトで信頼感のあるアイソメトリックデザイン。
+
+シンプルな白背景と
+柔らかな図形をベースに、
+人物・会議・分析・プロセス・データ可視化を
+わかりやすく表現する。
+
+専門性を保ちながらも堅すぎず、
+読みやすさと親しみやすさを両立する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Professional
+- Trustworthy
+- Friendly
+- Analytical
+- Strategic
+- Public Sector
+- Collaborative
+- Calm
+
+Color Palette:
+Background:
+Primary: "#FFFFFF"
+
+Text:
+Primary: "#2D2948"
+Secondary: "#4A4668"
+
+Accent:
+Lavender: "#7F84F3"
+Coral: "#D96E72"
+Yellow: "#F2CF63"
+DeepNavy: "#4A4B86"
+
+Typography:
+Title:
+Style: "Bold Sans Serif"
+Weight: 800
+Color: "#7F84F3"
+
+Heading:
+Style: "SemiBold Sans Serif"
+Weight: 700
+Color: "#6F73D9"
+
+Body:
+Style: "Humanist Sans Serif"
+Weight: 400
+Color: "#2D2948"
+
+Numbers:
+Style: "Bold Sans Serif"
+Weight: 800
+Color: "#D96E72"
+
+Background:
+Type: "Organic Blob"
+
+Elements:
+- Soft organic shapes
+- Rounded abstract forms
+- Floating pastel backgrounds
+- Large curved silhouettes
+
+Density: "Low"
+
+Illustration Style:
+Type: "Isometric"
+
+Characteristics:
+- Flat vector illustration
+- Soft pastel palette
+- Friendly business characters
+- Clean isometric perspective
+- Rounded geometric forms
+- Minimal shadows
+
+Subjects:
+- Team workshops
+- Stakeholder meetings
+- Consultants
+- Public servants
+- Data analysis
+- Market research
+- Process mapping
+- Collaboration
+- Policy planning
+- Digital transformation
+
+Layout Principles:
+- Generous whitespace
+- Clean grid alignment
+- Left-right balanced composition
+- Large illustration zones
+- Clear reading flow
+- Minimal visual noise
+
+Cover Slides:
+Layout:
+- Large title block on left
+- Hero illustration on right
+- Small supporting subtitle
+- Organic background shapes
+
+Section Slides:
+Layout:
+- Large section number
+- Two-color heading
+- Isometric illustration
+- Minimal supporting text
+
+Content Layouts:
+Overview:
+Style: "Split Layout"
+
+Process:
+Style: "Circular Workflow"
+
+Analysis:
+Style: "Chart + Insights"
+
+Comparison:
+Style: "Matrix Table"
+
+Framework:
+Style: "Three Column"
+
+Team:
+Style: "Profile Grid"
+
+Data Visualization:
+Charts:
+Style: "Simple Flat Infographic"
+
+Colors:
+Primary: "#7F84F3"
+Secondary: "#D96E72"
+Accent: "#F2CF63"
+
+Tables:
+BorderColor: "#6E6BA7"
+BorderWeight: "Medium"
+
+Icons:
+Style: "Rounded Flat"
+Colors:
+- "#7F84F3"
+- "#D96E72"
+- "#F2CF63"
+
+Illustration Placement:
+Hero:
+Large and dominant
+
+Content:
+Integrated with layout
+Never decorative only
+
+Shapes:
+Style: "Organic Blobs"
+
+Characteristics:
+- Large rounded forms
+- Low contrast
+- Semi-transparent
+- Background only
+
+Spacing:
+OuterMargin: "Large"
+SectionGap: "Large"
+ContentGap: "Medium"
+
+Effects:
+Shadows:
+Type: "Soft"
+Opacity: 8%
+
+Borders:
+Usage: "Minimal"
+
+Gradients:
+Usage: "None"
+
+Rules:
+- Always use soft lavender background
+- Use two-color headings only
+- Maintain pastel color harmony
+- Keep illustrations friendly and professional
+- Avoid harsh contrast
+- Prioritize readability
+- Use large whitespace areas
+- Use rounded shapes throughout
+- Maintain consistent isometric illustration style
+- Suitable for consulting, public policy, education, research, and strategy presentations

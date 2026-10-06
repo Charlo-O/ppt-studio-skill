@@ -1,0 +1,90 @@
+Design Style:
+Name: "Dada Black"
+
+Concept: >
+ダダイズムとヴィンテージコラージュから
+インスピレーションを得た
+アーティスティックなプレゼンテーションデザイン。
+
+引き裂かれた紙、
+雑誌の切り抜き文字、
+フォトコラージュ、
+手描きイラストを組み合わせて
+創造性と個性を表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Artistic
+- Creative
+- Editorial
+- Handmade
+- Experimental
+- Vintage
+- Expressive
+- Cultural
+
+Color Palette:
+
+Background:
+Primary: "#2E3122"
+
+Accent:
+Olive: "#788B5A"
+Purple: "#8A6283"
+Blue: "#74879A"
+Beige: "#D9CDB2"
+Terracotta: "#B55252"
+
+Text:
+Primary: "#F4F4F4"
+
+Typography:
+
+Headings:
+Style: Clean Sans
+Weight: 300
+
+Accent:
+Style: Magazine Cutout
+
+Layout:
+
+Structure:
+- Asymmetrical composition
+- Collage layering
+- Torn paper framing
+- Editorial spacing
+
+Elements:
+
+Background:
+- Torn paper shapes
+- Layered paper textures
+
+Decorative:
+- Botanical line drawings
+- Vintage labels
+- Hand-cut typography
+
+Images:
+- Editorial portraits
+- Art photography
+- Collage compositions
+
+Effects:
+
+Shadows:
+Soft
+
+Texture:
+Paper grain
+
+Rules:
+- Embrace imperfection
+- Avoid strict alignment
+- Layer elements naturally
+- Mix typography styles
+- Use collage storytelling
+- Create handcrafted feeling

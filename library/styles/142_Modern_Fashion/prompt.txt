@@ -1,0 +1,155 @@
+Design Style:
+Name: "Modern Fashion"
+
+Concept: >
+ファッションブランドキャンペーン、
+Behanceポートフォリオ、
+Adobe MAXプレゼンテーション、
+クリエイティブエージェンシー、
+現代エディトリアルデザイン、
+Memphis Designから着想を得た
+大胆なレイアウトと写真を主役にした
+モダンブランドプレゼンテーション。
+
+スライドを説明資料ではなく、
+ブランドキャンペーン、
+ファッションルックブック、
+デザインスタジオの作品集として構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Bold
+- Editorial
+- Fashionable
+- Contemporary
+- Creative
+- Dynamic
+- Minimal
+- Premium
+
+Temperature:
+Overall: Bright
+
+Background:
+Color: "#FFFFFF"
+
+Color Palette:
+Primary:
+Aqua: "#6ADDE6"
+CoralPink: "#FF6FA5"
+SoftYellow: "#FFE17B"
+Lavender: "#B38CFF"
+
+Secondary:
+Peach: "#FFD2C7"
+SkyBlue: "#BDEEFF"
+LightGray: "#ECECEC"
+
+Accent:
+Black: "#111111"
+White: "#FFFFFF"
+
+Typography:
+Style:
+- Ultra Bold Condensed Sans Serif
+- Geometric Sans Serif
+- Oversized Headlines
+- Mixed horizontal and vertical typography
+- Editorial magazine style
+
+Hierarchy:
+Heading:
+Weight: ExtraBold
+Scale: Very Large
+
+Body:
+Weight: Regular
+Size: Small
+Alignment: Left
+
+Layout:
+Structure:
+- Asymmetrical editorial grid
+- Large photography panels
+- Diagonal composition
+- Magazine spread layout
+- Full-bleed imagery
+- Split-screen sections
+- Floating graphic elements
+
+Composition:
+Principles:
+- Large color blocks
+- Dynamic diagonals
+- Strong negative space
+- Layered geometric graphics
+- Oversized typography
+- Intentional overlap
+- High visual rhythm
+
+Photography:
+Style:
+- Fashion editorial
+- Lifestyle portrait
+- Bright studio lighting
+- High contrast
+- Expressive poses
+- Modern styling
+
+Image Treatment:
+- Full-bleed photography
+- Abstract geometric masks
+- Cropped portraits
+- Layered image frames
+- Clean edges
+- Minimal shadows
+
+Shapes:
+Primary:
+- Circle
+- Semi-circle
+- Capsule
+- Rounded rectangle
+- Diagonal blocks
+- Abstract organic shapes
+
+Graphic Elements:
+- Memphis-inspired shapes
+- Floating circles
+- Rounded capsules
+- Transparent overlays
+- Thin geometric outlines
+- Editorial dividers
+- Modern graphic accents
+
+Decorations:
+Style:
+- Minimal
+- Geometric
+- Flat
+- Abstract
+
+Whitespace:
+Density: Medium
+
+Visual Rules:
+- Use one dominant photograph on most slides.
+- Alternate photography with bold color panels.
+- Employ oversized editorial headlines.
+- Use diagonal compositions to create movement.
+- Layer simple geometric shapes over photography.
+- Maintain generous whitespace around key elements.
+- Keep all graphics flat and modern.
+- Create a vibrant but balanced color rhythm across slides.
+
+Avoid:
+- Corporate templates
+- Skeuomorphic effects
+- Glassmorphism
+- Heavy gradients
+- Dark backgrounds
+- Dense text blocks
+- Realistic 3D objects
+- Excessive icons

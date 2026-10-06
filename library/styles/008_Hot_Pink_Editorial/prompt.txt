@@ -1,0 +1,96 @@
+Design Style:
+Name: "Hot Pink Editorial Corporate"
+Concept: "ビビッドなピンクを主役に、写真・余白・大胆なタイポグラフィを組み合わせたモダンなプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+Background:
+Base: "#F2F2F2"
+Secondary: "#FFFFFF"
+
+Mood:
+- "Modern"
+- "Editorial"
+- "Bold"
+- "Creative"
+- "Urban"
+- "Minimal"
+- "Fashionable"
+- "Corporate"
+
+Color Palette:
+Base:
+- "#FFFFFF"
+- "#F2F2F2"
+- "#E6E6E6"
+
+Text:
+Primary: "#111111"
+Secondary: "#555555"
+Light: "#FFFFFF"
+
+Accent:
+HotPink: "#FF1458"
+DeepPink: "#E60046"
+
+Typography:
+Heading:
+Font: "Bold Modern Sans Serif"
+Weight: "800-900"
+Style:
+- "All caps"
+- "Wide letter spacing"
+- "Large scale"
+- "Strong contrast"
+
+Body:
+Font: "Clean Sans Serif"
+Weight: "400-500"
+LineHeight: "1.5-1.8"
+
+Layout:
+Style:
+- "Editorial grid layout"
+- "Large color blocks"
+- "Asymmetrical composition"
+- "Photo and text overlap"
+- "Generous whitespace"
+- "Magazine-like framing"
+
+Elements:
+- "Large hot pink rectangles"
+- "Full-bleed lifestyle photography"
+- "Black and white portrait photos"
+- "Small caption text"
+- "Thin vertical accent bars"
+- "Layered white cards"
+
+Photography:
+Style:
+- "Urban lifestyle"
+- "Portrait"
+- "Workspace"
+- "Nature travel"
+- "High contrast"
+- "Slightly muted tone"
+
+Graphic Motifs:
+- "Bold pink panels"
+- "White text on pink background"
+- "Overlapping photo cards"
+- "Minimal decorative lines"
+- "Small uppercase labels"
+
+Do:
+- "Use bold pink as the main visual identity"
+- "Keep layouts clean and spacious"
+- "Use large uppercase headings"
+- "Combine photos with solid color blocks"
+- "Create strong contrast between image, white space, and pink"
+
+Do Not:
+- "Do not use soft pastel colors"
+- "Do not use gradients"
+- "Do not use decorative illustrations"
+- "Do not overcrowd the slide"
+- "Do not use rounded or playful typography"

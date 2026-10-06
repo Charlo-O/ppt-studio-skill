@@ -1,0 +1,203 @@
+Design Style:
+Name: "Geometric Animal"
+
+Concept: >
+バウハウス、
+北欧キッズデザイン、
+Memphis、
+幾何学ポスター、
+アイコンデザイン、
+ミニマルな動物図鑑、
+教育玩具、
+モダングラフィックから着想を得た
+ジオメトリック・アニマル図鑑型エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+一冊の現代アート動物図鑑、
+または美術館ショップで販売される
+グラフィックポスター集として構成する。
+
+写真は使用せず、
+すべて幾何学図形のみで構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Playful
+- Modern
+- Minimal
+- Geometric
+- Editorial
+- Educational
+- Graphic
+- Bold
+
+Temperature:
+Overall: Bright
+
+Background:
+Style: "Flat Color"
+Color: "#D8D8D8"
+
+Color Palette:
+
+Primary:
+Blue: "#4E7BEF"
+Green: "#69C26A"
+Pink: "#D867D8"
+
+Accent:
+Red: "#EF4636"
+Yellow: "#F4B23A"
+
+Neutral:
+Black: "#111111"
+White: "#F7F7F7"
+LightGray: "#D9D9D9"
+
+Typography:
+
+Style:
+- Experimental Display
+- Modular
+- Graphic
+- Oversized
+- High Contrast
+
+Heading:
+Weight: Heavy
+Case: Mixed
+Tracking: Tight
+
+Secondary:
+Style: Small labels
+Alignment: Corner
+
+Layout:
+
+Structure: "Editorial Poster"
+
+Composition:
+- Large geometric animal occupies 60–70% of canvas
+- Typography aligned to one edge
+- Large empty areas
+- Strong asymmetrical balance
+- Minimal number of visual elements
+
+Grid:
+Modular
+Poster based
+
+Illustration:
+
+Style: "Pure geometric abstraction"
+
+Build From:
+- Circle
+- Half Circle
+- Quarter Circle
+- Rectangle
+- Rounded Rectangle
+- Triangle
+- Line
+- Arch
+- Capsule
+
+Rules:
+- No outlines
+- Flat fills only
+- Large simple shapes
+- High visual contrast
+- Minimal details
+- Strong silhouette
+- Eye made from simple black/white circle
+- Animal recognizable with as few shapes as possible
+
+Subjects:
+
+Possible Motifs:
+- Elephant
+- Mouse
+- Bird
+- Lion
+- Tiger
+- Crocodile
+- Fish
+- Snake
+- Monkey
+- Dog
+- Cat
+- Rabbit
+- Penguin
+- Dinosaur
+
+Graphic Elements:
+- Abstract symbols
+- Modular glyphs
+- Decorative vertical typography
+- Minimal icons
+- Large arcs
+- Bold circles
+- Oversized geometric accents
+
+Image Style:
+
+Rendering:
+- Flat vector
+- No gradients
+- No shadows
+- No textures
+- Crisp edges
+- Poster quality
+
+Whitespace:
+Large
+Intentional
+Graphic
+
+Composition Rules:
+- One primary illustration only
+- Large geometric masses
+- Avoid clutter
+- Typography behaves like graphic objects
+- Shapes overlap confidently
+- Visual rhythm through repetition of circles and arches
+- Every slide should feel like a collectible art print
+
+Slide Variations:
+- Hero animal poster
+- Animal + oversized typography
+- Close-up geometric face
+- Abstract animal composition
+- Minimal educational plate
+- Full-color poster
+- Monochrome with one accent color
+- Large negative space composition
+- Shape exploration page
+
+Design Keywords:
+- Bauhaus
+- Swiss Poster
+- Memphis
+- Geometric Animals
+- Modular Design
+- Editorial Illustration
+- Modern Zoo
+- Flat Vector
+- Iconic Shapes
+- Children's Design
+- Museum Poster
+- Graphic Print
+
+Avoid:
+- Photorealism
+- Gradients
+- 3D effects
+- Skeuomorphism
+- Detailed textures
+- Thin decorative lines
+- Complex illustrations
+- Corporate slide layouts
+- Dense information
+- Stock photography

@@ -1,0 +1,125 @@
+Design Style:
+Name: "Dada Collage"
+
+Concept: >
+ダダイズム、シュルレアリスム、
+アート雑誌、編集デザイン、
+コラージュアートから着想を得た
+前衛的プレゼンテーションデザイン。
+
+切り抜き写真、
+新聞紙、
+アナログテクスチャ、
+幾何学図形、
+モノクロ写真と
+ビビッドカラーを組み合わせる。
+
+AI、クリエイティブ、
+デザイン、研究、
+スタートアップ、
+イノベーション資料向け。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Editorial
+- Avant-Garde
+- Experimental
+- Creative
+- Artistic
+- Intelligent
+- Contemporary
+- Unexpected
+
+Color Palette:
+
+Background:
+Primary: "#ECECEC"
+
+Text:
+Primary: "#222222"
+Secondary: "#555555"
+
+Accent:
+Cyan: "#2FD7E5"
+Red: "#FF4D4D"
+Yellow: "#F3D34A"
+Olive: "#C8D28C"
+Peach: "#F4B299"
+
+Illustration:
+
+Style:
+Editorial Collage
+
+Elements:
+- Torn newspaper
+- Vintage photography
+- Classical sculpture
+- Planet imagery
+- Cameras
+- Abstract objects
+- Geometric overlays
+- Magazine cutouts
+
+Rendering:
+Mixed media collage
+Photomontage
+Paper texture
+Editorial composition
+
+Typography:
+
+Headings:
+Style: Neo Grotesk
+Weight: 700
+
+Body:
+Style: Editorial Sans
+Weight: 400
+
+Layout:
+
+Structure:
+- Large editorial headlines
+- Strong asymmetrical layouts
+- Floating collage elements
+- Oversized visual storytelling
+
+Components:
+
+Cover:
+- Hero collage artwork
+- Magazine-style title
+
+Section Divider:
+- Large section number
+- Cutout visual
+
+Content:
+- Two-column editorial layouts
+- Quote pages
+- Data storytelling
+
+Closing:
+- Full-page collage visual
+
+Effects:
+
+Texture:
+Newsprint
+Paper grain
+Analog imperfections
+
+Shadows:
+Minimal
+
+Rules:
+- Use collage instead of illustrations
+- Mix monochrome photos with accent colors
+- Include torn paper fragments
+- Maintain editorial magazine feeling
+- Avoid corporate iconography
+- Use bold visual contrasts
+- Prioritize visual storytelling

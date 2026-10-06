@@ -1,0 +1,225 @@
+# presentation_design_spec_monochrome_edu_jp.yaml
+# Style: Minimal Education / Monochrome Workshop
+# Concept: "Learn Clearly, Speak Clearly"
+
+Global Design Settings:
+Tone:
+- "Educational"
+- "Minimal"
+- "Friendly"
+- "Structured"
+- "Workshop-like"
+- "Easy to Understand"
+
+Canvas:
+Ratio: "16:9"
+
+Background:
+Base: "#ECECEC"
+
+Color Palette:
+Base:
+- "#ECECEC"
+- "#F5F5F5"
+- "#FFFFFF"
+
+Text:
+Primary: "#000000"
+Secondary: "#333333"
+
+Accent:
+Orange: "#FF6B13"
+Pink: "#EC238B"
+Purple: "#8A00F5"
+Gray: "#8A8A8A"
+
+Border:
+LightGray: "#D9D9D9"
+
+Typography:
+Heading:
+Font: "Bold Gothic Sans"
+Weight: "900"
+Style:
+- "Large"
+- "Compact"
+- "Strong hierarchy"
+
+SectionTitle:
+Font: "Bold Sans"
+Weight: "700"
+
+Body:
+Font: "Japanese Sans Serif"
+Weight: "400-500"
+LineHeight: "1.8"
+
+English:
+Font: "Geometric Sans"
+Weight: "700"
+
+Visual Identity:
+Keywords:
+- "Simple"
+- "Diagrammatic"
+- "Clean"
+- "Learning material"
+- "Workshop slides"
+- "School textbook modernized"
+- "Minimal editorial whitespace"
+- "Quiet luxury educational design"
+
+Core Elements:
+- "Thin outer frame"
+- "Dotted divider lines"
+- "Rounded cards"
+- "Flat icon illustrations"
+- "Accent color blocks"
+- "Large centered titles"
+- "Minimal cover slides with generous whitespace"
+
+Decorative Rules:
+- "Very little decoration"
+- "Whitespace prioritized"
+- "Strong alignment"
+- "Minimal shadows"
+- "Flat design only"
+- "Cover / title / summary slides should feel calm and spacious"
+
+Layout Principles:
+- "Centered composition"
+- "Wide margins"
+- "Grid-based spacing"
+- "Educational readability"
+- "Balanced visual rhythm"
+- "Large negative space on title and divider slides"
+- "Minimal composition for opening and ending slides"
+
+Grid:
+Columns: 12
+OuterMargin: "Large"
+Gutter: "Medium"
+
+Frame:
+OuterBorder:
+Color: "#F3F3F3"
+Width: "Thin"
+
+Divider:
+Style:
+- "Black dotted line"
+- "Horizontal"
+- "Thin"
+
+Cards:
+Style:
+Background: "#F3F3F3"
+Border:
+Color: "#CFCFCF"
+Width: "1px"
+Radius: "Medium"
+
+Shadow: "None"
+
+Icons:
+Style:
+- "Simple outline"
+- "Educational icon"
+- "Black line art"
+- "Centered"
+- "Minimal detail"
+
+AccentBlocks:
+Shape: "Rounded rectangle"
+Style:
+- "Flat fill"
+- "No gradients"
+- "Bold contrast"
+
+Slide Types:
+
+Cover:
+Layout:
+- "Large stacked Japanese title"
+- "Top mini-category label"
+- "Simple accent palette chips"
+- "Centered author name"
+- "Large empty margins around title"
+- "Minimal information density"
+
+Style:
+- "Editorial cover aesthetic"
+- "Calm and sophisticated"
+- "Whitespace-focused layout"
+- "Minimal decorative elements"
+
+SectionIntro:
+Layout:
+- "Centered section title"
+- "Dotted divider left/right"
+- "Wide breathing room"
+- "Minimal text placement"
+
+Style:
+- "Simple sectional divider"
+- "Elegant empty space"
+- "Quiet visual rhythm"
+
+TwoColumnExplanation:
+Layout:
+- "2 equal cards"
+- "Icon + title + paragraph"
+
+DiagramSlide:
+Layout:
+- "Horizontal process blocks"
+- "Equal-width cards"
+- "Arrow connectors"
+
+ComparisonSlide:
+Layout:
+- "Good vs Bad comparison"
+- "Large symbols"
+- "Bullet point list"
+
+StepFlow:
+Layout:
+- "Sequential step cards"
+- "Arrow progression"
+- "Color-coded labels"
+
+PrincipleSlide:
+Layout:
+- "Text explanation upper-right"
+- "Colored keyword blocks below"
+
+SummarySlide:
+Layout:
+- "Large centered conclusion"
+- "Very limited text amount"
+- "Large whitespace surrounding content"
+- "Minimal closing composition"
+
+Style:
+- "Elegant ending slide"
+- "Quiet and clean"
+- "Editorial minimalism"
+
+Spacing:
+TitleGap: "Medium"
+CardGap: "Medium"
+SectionGap: "Large"
+CoverPadding: "Extra Large"
+ClosingPadding: "Extra Large"
+
+Restrictions:
+- "3D禁止"
+- "グラスモーフィズム禁止"
+- "複雑な背景禁止"
+- "過度なグラデーション禁止"
+- "リアル系イラスト禁止"
+- "ネオン禁止"
+- "影を強くしない"
+- "タイトル・扉・まとめスライドは余白を大きく取ったミニマル構成にする"
+- "装飾過多を避ける"
+- "コンテンツ内容は生成元に従い、このYAMLでは指定しない"

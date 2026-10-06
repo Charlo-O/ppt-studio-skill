@@ -1,0 +1,188 @@
+# presentation_style_modern_corporate_blue.yaml
+# Style: Modern Minimal Corporate
+# Concept: "モノクロ写真とシアンブルーアクセントを使った洗練された都会的プレゼンテーション"
+
+Design Style:
+Name: "Modern Corporate Cyan Minimal"
+Concept: "建築・人物・プロダクト写真を活かしたモダンミニマルデザイン"
+
+Canvas:
+Ratio: "16:9"
+Background:
+Base: "#ECECEC"
+
+Mood:
+- "Modern"
+- "Minimal"
+- "Corporate"
+- "Architectural"
+- "Clean"
+- "Professional"
+- "Editorial"
+- "Urban"
+
+Color Palette:
+Background:
+- "#ECECEC"
+- "#F5F5F5"
+- "#FFFFFF"
+
+Text:
+Primary: "#111111"
+Secondary: "#666666"
+
+Accent:
+Cyan: "#4FC6DF"
+SkyBlue: "#8EDAE8"
+
+Dark:
+- "#000000"
+- "#2A2A2A"
+- "#4E4E4E"
+
+Typography:
+Heading:
+Font: "Modern Geometric Sans Serif"
+Weight: "700-900"
+Tracking: "Wide"
+Style:
+- "Uppercase"
+- "Minimal"
+- "Architectural"
+- "Strong hierarchy"
+
+SubHeading:
+Font: "Light Sans Serif"
+Weight: "500-600"
+Tracking: "Medium"
+
+Body:
+Font: "Modern Sans Serif"
+Weight: "300-400"
+LineHeight: "1.7"
+Style:
+- "Readable"
+- "Minimal"
+- "Corporate editorial"
+
+Caption:
+Font: "Thin Sans Serif"
+Weight: "300"
+Tracking: "Wide"
+
+Layout:
+Structure:
+- "Editorial modular grid"
+- "Asymmetrical composition"
+- "Floating content panels"
+- "Image-driven layouts"
+- "Balanced whitespace"
+
+Margins:
+Outer: "Wide"
+
+Alignment:
+- "Primarily left aligned"
+- "Layered visual hierarchy"
+- "Clean geometric positioning"
+
+Components:
+Image Style:
+- "Black and white photography"
+- "Modern architecture"
+- "Lifestyle portraits"
+- "Minimal product photography"
+- "Soft monochrome contrast"
+
+Shapes:
+- "Thin cyan accent bars"
+- "Minimal rectangular panels"
+- "Rounded micro accents"
+- "Clean geometric blocks"
+
+Cards:
+- "Flat minimal cards"
+- "No shadows"
+- "Soft layering"
+- "Editorial spacing"
+
+Visual Elements:
+- "Modern architecture"
+- "Urban photography"
+- "Minimal workspace imagery"
+- "Lifestyle portraits"
+- "Product mockups"
+- "Abstract curved structures"
+
+Composition Rules:
+- "Use cyan accents sparingly"
+- "Keep layouts spacious"
+- "Avoid visual clutter"
+- "Mix monochrome and muted color photography"
+- "Use large image areas"
+- "Allow cropped photography"
+- "Use thin accent elements instead of large graphics"
+- "Prioritize typography and image balance"
+
+Slide Patterns:
+Cover:
+Layout:
+- "Large cinematic monochrome image"
+- "Centered or offset title"
+- "Minimal cyan underline accent"
+
+Section Break:
+Layout:
+- "Dark background with white typography"
+- "Minimal cyan decorative line"
+- "Editorial composition"
+
+Team:
+Layout:
+- "Portrait grid layout"
+- "Minimal profile cards"
+- "Wide spacing between elements"
+
+Process:
+Layout:
+- "Horizontal step structure"
+- "Thin line separators"
+- "Minimal iconography"
+
+Gallery:
+Layout:
+- "Editorial collage grid"
+- "Alternating white and dark sections"
+- "Large whitespace areas"
+
+Effects:
+Shadows: "None"
+Gradients: "None"
+Borders: "Very thin gray lines only"
+
+Icons:
+Style:
+- "Outline icons"
+- "Minimal"
+- "Thin stroke"
+- "Monochrome with cyan accent"
+
+Avoid:
+- "Heavy gradients"
+- "Glassmorphism"
+- "Bright multicolor palettes"
+- "Rounded bulky UI"
+- "Cute illustration styles"
+- "Complex dashboards"
+- "3D rendering"
+- "Overcrowded text"
+
+Rendering Keywords:
+- "Modern corporate editorial"
+- "Architectural minimal presentation"
+- "Monochrome cyan branding"
+- "Swiss modernism"
+- "Clean urban layout"
+- "Luxury startup deck"
+- "Minimal technology presentation"
+- "Contemporary editorial design"

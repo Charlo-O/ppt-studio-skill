@@ -1,0 +1,160 @@
+Design Style:
+Name: "Bold Neo-Brutalist Editorial"
+Concept: "強い配色・太いタイポグラフィ・グリッド線・写真の大胆な切り抜きを組み合わせた、ネオブルータリズム系エディトリアルプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Bold
+- Editorial
+- Neo Brutalism
+- Street
+- Fashion
+- Modern
+- Energetic
+- Graphic
+
+Color Palette:
+Background:
+Main: "#FFFFFF"
+Cream: "#EFE9D8"
+Lavender: "#D8D0F0"
+
+Text:
+Primary: "#111111"
+Light: "#FFFFFF"
+Highlight: "#FFF200"
+
+Accent:
+Orange: "#FF8A00"
+Lime: "#58F21B"
+Blue: "#263BFF"
+Pink: "#F23BC8"
+RedOrange: "#FF4A2E"
+Yellow: "#FFF200"
+
+Typography:
+Heading:
+Font: "Extra Bold Grotesk Sans"
+Weight: "900"
+Color: "#111111"
+Style:
+- "oversized bold headline"
+- "condensed grotesk"
+- "all caps"
+- "tight letter spacing"
+- "editorial poster typography"
+
+Body:
+Font: "Clean Grotesk Sans"
+Weight: "500-700"
+Color: "#111111"
+Style:
+- "compact text blocks"
+- "small uppercase captions"
+- "dense editorial copy"
+
+Label:
+Font: "Condensed Sans Serif"
+Weight: "700-900"
+Style:
+- "small metadata text"
+- "magazine grid label"
+- "vertical label text"
+
+Layout:
+General:
+- "strict editorial grid"
+- "visible thin grid lines"
+- "asymmetric block layout"
+- "large color panels"
+- "bold headline placement"
+- "photo and text overlap"
+- "poster-like composition"
+
+Grid:
+Columns: "4-8 column modular grid"
+Rows: "3-6 row modular grid"
+BorderLines: "thin black lines"
+Padding: "3-5%"
+Gap: "none or very tight"
+
+Visual Elements:
+Frames:
+- "thin black rectangular borders"
+- "modular grid boxes"
+- "small metadata header bars"
+- "barcode-like detail"
+- "page number circles"
+
+Photos:
+Style:
+- "fashion/editorial portrait photography"
+- "high contrast"
+- "black and white or color photo"
+- "rectangular crop"
+- "partial overlay with color panels"
+
+Shapes:
+- "solid color blocks"
+- "large rectangular panels"
+- "small black information boxes"
+- "vertical title strips"
+
+Slide Types:
+Cover:
+Layout:
+- "oversized headline"
+- "large color background"
+- "portrait photo crop"
+- "small metadata text"
+Style:
+- "bold magazine cover"
+- "graphic poster design"
+
+Portfolio Slide:
+Layout:
+- "large photo on one side"
+- "bold title block"
+- "small black caption card"
+- "thin grid lines"
+
+Guideline Slide:
+Layout:
+- "full color background"
+- "oversized typography"
+- "vertical text element"
+- "grid-based information blocks"
+
+Image Slide:
+Layout:
+- "two or three photo blocks"
+- "bold vertical label"
+- "large explanatory text block"
+
+Activity Slide:
+Layout:
+- "hot pink full background"
+- "large yellow title"
+- "portrait image"
+- "thin grid borders"
+
+Minimalism Slide:
+Layout:
+- "blue full background"
+- "large yellow headline"
+- "rectangular photo"
+- "vertical design label"
+
+Rules:
+
+- "スライド単体の背景は白または強いアクセントカラー"
+- "黒い細線グリッドを必ず入れる"
+- "太字の英字見出しを大きく配置"
+- "配色は高彩度で大胆に使う"
+- "写真はファッション誌風に大きく配置"
+- "余白よりもグリッド密度と情報感を重視"
+- "小さなメタ情報・ラベル・番号を入れる"
+- "整いすぎず、少し攻めた雑誌レイアウトにする"
+- "影やグラデーションは使わない"

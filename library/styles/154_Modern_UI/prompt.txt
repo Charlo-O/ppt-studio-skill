@@ -1,0 +1,214 @@
+Design Style:
+Name: "Modern UI"
+
+Concept: >
+Apple Keynote、
+Linear、
+Notion、
+Stripe、
+Google Material Design、
+Circular Economy Reports、
+Deloitte Insight Reports、
+McKinsey Presentations、
+SaaS Dashboard、
+モダンインフォグラフィックから着想を得た
+サステナビリティ・UI・エディトリアルデザイン。
+
+スライドを一般的なプレゼン資料ではなく、
+プロダクトデザインシステム、
+ESGレポート、
+SaaSダッシュボード、
+ブランド戦略資料として構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Modern
+- Professional
+- Clean
+- Friendly
+- Sustainable
+- Minimal
+- Intelligent
+- Editorial
+
+Temperature:
+Overall: Bright
+
+Background:
+Color: "#FAFAFA"
+
+Color Palette:
+Primary:
+Orange: "#FF7A2F"
+Violet: "#8B6AF8"
+Lime: "#C8F54A"
+
+Secondary:
+SkyBlue: "#69C6FF"
+Coral: "#FF8A70"
+
+Neutral:
+Black: "#222222"
+Gray: "#7A7A7A"
+LightGray: "#F2F2F2"
+White: "#FFFFFF"
+
+Typography:
+Style:
+Heading:
+Font: "Modern Geometric Sans Serif"
+Weight: Bold
+Case: Sentence Case
+Alignment: Left
+
+Body:
+Font: "Minimal Sans Serif"
+Weight: Regular
+Leading: Spacious
+
+Caption:
+Font: "Light Sans Serif"
+Weight: Medium
+Size: Small
+
+Layout:
+Style:
+- SaaS dashboard
+- Editorial report
+- Modular card layout
+- Rounded UI system
+- Magazine composition
+
+Grid:
+Columns: 12
+Gutters: Wide
+Margins: Large
+
+Composition:
+Principles:
+- Modular information cards
+- Clear hierarchy
+- Large whitespace
+- Rounded components
+- Balanced asymmetry
+- Image and infographic integration
+- Consistent design system
+
+Photography:
+Style:
+- Sustainability
+- Nature
+- Architecture
+- Product
+- Lifestyle
+- Circular economy
+- Bright commercial photography
+
+Treatment:
+- High key
+- Soft natural lighting
+- Rounded image masks
+- Clean commercial finish
+
+Graphic Elements:
+- Rounded cards
+- Soft corner rectangles
+- KPI widgets
+- Statistic badges
+- Process diagrams
+- Timeline cards
+- Minimal icons
+- Progress indicators
+- Navigation pills
+- Thin divider lines
+
+Shapes:
+Primary:
+- Rounded rectangle
+- Capsule
+- Circle
+- Quarter circle
+- Soft square
+
+Icons:
+Style:
+- Material Design
+- Outline
+- Rounded
+- Consistent stroke width
+
+Charts:
+Style:
+- Flat infographic
+- Rounded nodes
+- Simple connectors
+- Clean legends
+- Minimal labels
+
+Effects:
+Shadows:
+- Very soft floating shadow
+
+Gradients:
+- None
+
+Texture:
+- Flat UI finish
+
+Decorations:
+Include:
+- Rounded image frames
+- Floating KPI cards
+- Colored section markers
+- Small accent squares
+- Organic connecting curves
+- Modern UI widgets
+
+Avoid:
+- Heavy shadows
+- Glassmorphism
+- Metallic effects
+- Skeuomorphism
+- Busy illustrations
+- Decorative ornaments
+
+Spacing:
+Outer Margin: Extra Large
+Inner Padding: Spacious
+
+Text Density:
+Medium
+
+Image Ratio:
+Infographics:
+Approximately 40–50%
+
+Photography:
+Approximately 30–40%
+
+Typography:
+Approximately 20–30%
+
+Visual Rhythm:
+- Cover
+- Agenda
+- Core principles
+- Case study
+- Feature highlight
+- KPI dashboard
+- Benefits
+- Strategy
+- Closing
+
+Overall Impression: >
+Apple KeynoteやStripe、Linearのデザインシステムを思わせる、
+洗練されたESG・サステナビリティレポート。
+広い余白、
+角丸カード、
+ビビッドなアクセントカラー、
+丸みのあるUIコンポーネント、
+写真とインフォグラフィックを統一したデザインシステムで構成し、
+企業プレゼンテーションとプロダクトUIの中間のような、
+上質で読みやすいエディトリアルレイアウトを実現する。

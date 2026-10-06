@@ -1,0 +1,130 @@
+Design Style:
+Name: "Lifestyle Magazine"
+
+Concept: >
+ライフスタイルブランド、
+クリエイターポートフォリオ、
+Instagramブランドブック、
+Pinterestデザイン、
+現代女性向け雑誌から着想を得た
+パステルエディトリアルデザイン。
+
+スライドを説明資料ではなく、
+洗練されたブランドポートフォリオとして構成する。
+
+写真、
+色面、
+タイポグラフィ、
+余白を組み合わせ、
+柔らかく上質な世界観を表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Soft
+- Elegant
+- Feminine
+- Modern
+- Premium
+- Creative
+- Calm
+- Lifestyle
+
+Temperature:
+Overall: Pastel
+
+Background:
+Color: "#FFFFFF"
+
+Color Palette:
+Primary:
+BlushPink: "#F6D6DF"
+SoftRose: "#EFB7C5"
+DustyPink: "#E9C2CB"
+
+Secondary:
+MintGreen: "#BFE8D9"
+SkyBlue: "#C8ECF7"
+Lavender: "#DCCEF7"
+
+Accent:
+Coral: "#F17E8C"
+DarkNavy: "#233548"
+
+Typography:
+Style:
+- Modern sans-serif
+- Editorial serif accents
+- Lifestyle magazine typography
+- Elegant hierarchy
+
+Treatment:
+- Large section headings
+- Light-weight body text
+- Minimal captions
+- Spacious typography
+
+Layout:
+Composition:
+- Editorial magazine spread
+- Portfolio showcase
+- Lifestyle storytelling
+- Balanced asymmetry
+
+Structure:
+- Hero image pages
+- About sections
+- Portfolio projects
+- Timeline layouts
+- Highlight callouts
+
+Photography:
+Style:
+- Lifestyle photography
+- Soft studio lighting
+- Minimal still life
+- Botanical subjects
+- Fashion-inspired imagery
+
+Treatment:
+- Large image blocks
+- Soft color grading
+- Clean cropping
+- Airy compositions
+
+Visual Elements:
+Components:
+- Floating image frames
+- Color blocks
+- Thin dividers
+- Minimal labels
+- Small quote cards
+
+Decorative:
+- Organic squiggles
+- Soft geometric shapes
+- Minimal icons
+- Tiny accent markers
+
+Effects:
+- Flat design
+- No heavy shadows
+- Soft overlays
+- Print editorial aesthetic
+
+Image Style:
+Treatment:
+- Bright and airy
+- Pastel-focused
+- Minimal composition
+- Premium lifestyle branding
+
+Design Rules:
+- Prioritize elegance and simplicity.
+- Use generous whitespace.
+- Maintain a soft pastel palette.
+- Use photography as the emotional anchor.
+- Keep layouts clean and breathable.
+- Avoid visual clutter.
+- Make every slide feel like a premium lifestyle magazine.

@@ -1,0 +1,159 @@
+Design Style:
+Name: "Bad PowerPoint"
+
+Concept: >
+1990年代PowerPoint、
+Microsoft WordArt、
+GeoCities、
+Clip Art、
+初期インターネット、
+学校の自由研究、
+古い教育資料、
+初心者が作ったプレゼンテーションから着想を得た
+意図的にダサく親しみやすい
+レトロPowerPointデザイン。
+
+スライドを洗練されたプレゼンではなく、
+90年代の学校発表、
+初期PowerPoint、
+手作り感あふれるスライドとして構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Funny
+- Retro
+- Nostalgic
+- Amateur
+- Chaotic
+- Playful
+- Whimsical
+- Camp
+
+Temperature:
+Overall: Vibrant
+
+Background:
+Style:
+- Rainbow gradient
+- Blue sky with clouds
+- Sunset photo
+- Galaxy
+- Ocean
+- Generic desktop wallpaper
+
+Color Palette:
+Primary:
+Rainbow: "#FF0000-#FFFF00-#00FF00-#00FFFF-#0000FF-#FF00FF"
+NeonPink: "#FF4FD8"
+Lime: "#B7FF00"
+Cyan: "#00E5FF"
+BrightYellow: "#FFE500"
+
+Accent:
+White: "#FFFFFF"
+Black: "#000000"
+
+Typography:
+Style:
+- Comic Sans style
+- WordArt inspired
+- Decorative fonts
+- Random font sizes
+- Curved text
+- Heavy shadow
+- Outline text
+
+Layout:
+Structure:
+- Inconsistent alignment
+- Floating text boxes
+- Random image placement
+- Oversized headings
+- Uneven spacing
+- Clip-art style composition
+
+Composition:
+Principles:
+- Deliberately unbalanced
+- Random overlap
+- Multiple focal points
+- Busy composition
+- Amateur desktop publishing
+
+Photography:
+Style:
+- Cute pets
+- Stock photos
+- Random animals
+- Nature wallpapers
+- Generic scenery
+- Meme-like imagery
+
+Image Treatment:
+- Poor cutout effect
+- Thick glow
+- Drop shadow
+- Sticker outline
+- Inconsistent cropping
+
+Graphic Elements:
+- Rainbow gradients
+- WordArt effects
+- Bevel text
+- Random arrows
+- Stars
+- Hearts
+- Clip art
+- Emoji
+- Sparkles
+
+Decorations:
+- Neon outlines
+- Glow effects
+- Speech bubbles
+- Gradient buttons
+- Random stickers
+- Soft shadows
+
+Effects:
+Text:
+- Shadow
+- Outline
+- Warp
+- Glow
+- Bevel
+
+Background Graphics:
+- Clouds
+- Hearts
+- Dolphins
+- Rainbows
+- Flowers
+- Ocean
+- Space
+- Sunset
+
+Whitespace:
+Density: Very Low
+
+Visual Rules:
+- Mix unrelated colors without restraint.
+- Use different background styles across slides.
+- Combine decorative fonts freely.
+- Place cute animal photos throughout the presentation.
+- Apply exaggerated text effects.
+- Allow inconsistent layouts between slides.
+- Create a nostalgic early-2000s PowerPoint feeling.
+- Prioritize humor over visual consistency.
+
+Avoid:
+- Minimalism
+- Swiss Design
+- Material Design
+- Glassmorphism
+- Editorial layouts
+- Clean typography
+- Consistent grids
+- Modern presentation aesthetics

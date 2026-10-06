@@ -1,0 +1,179 @@
+Design Style:
+Name: "Industrial Manual"
+
+Concept: >
+工業製品の取扱説明書、
+分解図（Exploded View）、
+テクニカルドローイング、
+スイス・タイポグラフィ、
+実験的エディトリアルデザインから着想を得た
+情報設計重視のプレゼンテーションスタイル。
+
+製品や概念を「組み立てられるシステム」として捉え、
+線画、注釈、番号付けによって構造を可視化する。
+
+説明を装飾するのではなく、
+理解のプロセスそのものをデザインすることで、
+知性と機能美を両立した世界観を構築する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Technical
+- Editorial
+- Precise
+- Analytical
+- Contemporary
+- Minimal
+- Functional
+- Intelligent
+
+Color Palette:
+Background:
+WarmGray: "#F4F2F0"
+
+Primary:
+SignalRed: "#FF3658"
+
+Text:
+Charcoal: "#2D2D2D"
+Gray: "#6A6A6A"
+
+Linework:
+TechnicalRed: "#FF3658"
+
+Typography:
+Headlines:
+Style: "Bold geometric sans serif"
+Weight: 800
+Case: Uppercase
+Tracking: Tight
+
+Labels:
+Style: "Neo-grotesque sans serif"
+Weight: 500
+Size: Small
+
+Annotations:
+Style: "Monospaced sans serif"
+Weight: 400
+
+Body:
+Style: "Neutral sans serif"
+Weight: 400
+
+Illustration:
+Style:
+Technical line illustration
+
+Rendering:
+- Uniform stroke weight
+- Vector outlines
+- Minimal internal details
+- Isometric simplification
+- Exploded-view drawings
+- Diagrammatic clarity
+- No shading
+- No realism
+
+Objects:
+Treatment:
+- Display systems as products
+- Separate components visually
+- Reveal hidden structures
+- Explain mechanisms
+- Show assembly sequences
+
+Information Design:
+Structure:
+- Step-by-step explanations
+- Sequential numbering
+- Component labeling
+- Process decomposition
+- Cause-and-effect relationships
+
+Layout:
+Overall:
+- Technical manual composition
+- Multi-column editorial grid
+- Strong vertical alignment
+- Clear reading order
+
+Composition:
+- Central hero diagram
+- Supporting instructions on sides
+- Bottom summary strip
+- Modular sections
+- Consistent spacing
+
+Graphic Elements:
+- Leader lines
+- Numbered callouts
+- Exploded diagrams
+- Technical arrows
+- Measurement guides
+- Check marks
+- Warning icons
+- Cross symbols
+- Section dividers
+
+Data Visualization:
+Style:
+- Process flows
+- System maps
+- Assembly diagrams
+- Decision trees
+- Sequential frameworks
+
+Print Effects:
+Style:
+- Crisp vector finish
+- Flat monochrome ink
+- No gradients
+- No shadows
+- Engineering precision
+
+Composition Rules:
+- Explain through structure
+- Make invisible systems visible
+- Use diagrams before paragraphs
+- Prioritize sequence over decoration
+- Treat ideas as mechanisms
+
+Design Rules:
+- Function defines form
+- Reduce cognitive load
+- Reveal relationships clearly
+- Maintain technical consistency
+- Celebrate precision
+
+Avoid:
+- Photorealistic rendering
+- Decorative illustrations
+- Hand-drawn sketches
+- Heavy textures
+- Large image backgrounds
+- Emotional storytelling imagery
+- Excessive color variation
+- Complex ornamentation
+
+Suitable For:
+- Product walkthroughs
+- AI workflow explanations
+- Business process presentations
+- Operating procedures
+- Educational tutorials
+- System architecture
+- Methodology decks
+- Technology briefings
+
+Keywords:
+- Industrial Manual
+- Technical Editorial
+- Exploded View
+- Swiss Technical Design
+- Diagrammatic Thinking
+- Process Visualization
+- Functional Graphics
+- Instructional Modernism

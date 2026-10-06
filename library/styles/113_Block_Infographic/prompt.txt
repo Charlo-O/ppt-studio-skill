@@ -1,0 +1,171 @@
+Design Style:
+Name: "Block Infographic"
+
+Concept: >
+Annual Report、
+Sustainability Report、
+ESG Report、
+Data Visualization、
+建築玩具や組み立てブロックアートから着想を得た
+モジュラー構築型インフォグラフィックデザイン。
+
+数字やメッセージを
+カラフルな組み立てブロックで可視化する。
+
+グラフは単なるグラフではなく、
+積み上がる構造物として表現する。
+
+情報は説明資料ではなく、
+一つの巨大なモジュラー作品として表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Creative
+- Playful
+- Corporate
+- Educational
+- Optimistic
+- Modern
+- Colorful
+- Constructive
+
+Temperature:
+Overall: Bright
+
+Color Palette:
+Background:
+LightGray: "#D9D9D9"
+
+Primary:
+Red: "#E3000B"
+Yellow: "#FFD500"
+Blue: "#0057B8"
+Green: "#00A651"
+White: "#FFFFFF"
+Black: "#111111"
+Orange: "#FF8A00"
+Pink: "#E8A9D7"
+
+Typography:
+Style: >
+モダンなサンセリフ。
+タイトルは大きく太く。
+数字を最重要要素として扱う。
+
+Hierarchy:
+- Large Statistics
+- Section Headlines
+- Supporting Facts
+- Small Captions
+
+Layout:
+Structure: >
+横長キャンバス全体を使い、
+中央に巨大なモジュラー構造物を配置。
+
+情報は周囲からリーダーラインで接続する。
+
+Composition:
+- Central block sculpture
+- Floating statistic labels
+- Thin connector lines
+- Distributed data points
+- Modular storytelling blocks
+
+Visual Elements:
+Primary Objects:
+- Interlocking block towers
+- Stacked modular sculptures
+- Block-built numbers
+- Block-built icons
+- Modular structures
+
+Charts:
+- Block bar charts
+- Block columns
+- Block stacks
+- Block timelines
+- Block percentage displays
+
+Supporting Graphics:
+- Small modular figures
+- Constructed environments
+- Block-based illustrations
+- Geometric symbols
+
+Data Visualization:
+Style: >
+すべてのデータを
+組み立てブロックで構築する。
+
+棒グラフ、
+円グラフ、
+指標、
+アイコンも
+ブロック構造として表現する。
+
+Rules:
+- Realistic toy-block proportions
+- Visible connection points
+- Structural stacking logic
+- Physical construction feel
+
+Lighting:
+Type: Studio Product Photography
+
+Characteristics:
+- Soft shadows
+- Realistic reflections
+- Clean corporate presentation
+- High object separation
+
+Materials:
+Modular Plastic:
+Finish: Semi Gloss
+Detail: Visible connection points
+Realism: High
+
+Background:
+Style: Clean Editorial
+
+Characteristics:
+- Light gray surface
+- Minimal texture
+- Plenty of breathing space
+- Focus on constructed objects
+
+Infographic Components:
+- KPI callouts
+- Impact metrics
+- Timeline milestones
+- Achievement highlights
+- Sustainability indicators
+- Global statistics
+- Category labels
+
+Spacing:
+Density: Medium
+Margins: Wide
+Alignment: Structured
+
+Visual Rules:
+- 組み立てブロックを主役にする
+- 数字は大きく配置
+- 情報は線で接続
+- 構造物を中央に置く
+- 企業レポート品質を維持
+- 子供向けではなく洗練された印象
+- 写真品質のレンダリング
+- ブロックでデータを構築する発想を優先
+
+Avoid:
+- ブランドロゴ
+- 特定ブランド固有の意匠
+- フラットイラスト
+- 漫画表現
+- 過度な装飾
+- グラデーション背景
+- 一般的なPowerPointデザイン
+- 写実的でないブロック表現

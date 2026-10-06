@@ -1,0 +1,209 @@
+Design Style:
+Name: "Underground Comic"
+
+Concept: >
+80〜90年代のインディーコミック、
+アンダーグラウンドZINE、
+リソグラフ印刷、
+オルタナティブ新聞、
+DIYコミックフェス文化から着想を得た
+実験的ナラティブエディトリアルデザイン。
+
+物語、落書き、奇妙なユーモア、
+詩的な断片をコマ割りの中に閉じ込め、
+「読む」と「眺める」の中間にある体験をつくる。
+
+完成されたストーリーではなく、
+夢の断片や都市伝説のような曖昧さを残すことを重視する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Playful
+- Surreal
+- Experimental
+- Handmade
+- Narrative
+- Mysterious
+- Youthful
+- Independent
+
+Temperature:
+Overall: Warm-Cool Contrast
+
+Color Palette:
+Background:
+PaperWhite: "#F7F4EF"
+
+Primary:
+Vermilion: "#F14A2B"
+
+Secondary:
+NeonPink: "#E95DFF"
+DeepCharcoal: "#1E1E1E"
+
+Accent:
+White: "#FFFFFF"
+LavenderGray: "#D7D2E3"
+
+Typography:
+Headlines:
+Style: >
+手描きレタリング、
+コミックタイトル、
+ラフな筆記体を組み合わせる。
+
+タイトルはページ上部を横断し、
+雑誌の表紙のような存在感を持たせる。
+
+Weight: Variable
+Tracking: Organic
+Scale: Oversized
+
+Secondary:
+Style: >
+タイプライター風の文字や、
+細いサンセリフを使用する。
+
+吹き出し、キャプション、
+モノローグとして扱う。
+
+Weight: 300-500
+
+Body:
+Weight: 400
+LineHeight: 1.3-1.5
+
+Layout:
+Structure: >
+コミックのコマ割りをベースにした
+モジュラーエディトリアル。
+
+各コマは独立した小宇宙として機能しながら、
+ページ全体では一つの視覚的リズムを形成する。
+
+Composition:
+- Comic panel grids
+- Narrative sequences
+- Caption blocks
+- Handwritten interruptions
+- Asymmetrical panels
+- Editorial storytelling
+- Poster-like title areas
+- Mixed visual density
+
+Alignment:
+Preference: Panel-based
+ControlledChaos: Medium
+
+Graphic Elements:
+Shapes:
+- Comic frames
+- Speech bubbles
+- Starburst panels
+- Rounded captions
+- Rough rectangles
+- Hand-drawn borders
+- Abstract blobs
+- Halftone fields
+
+Symbols:
+- Eyes
+- Moons
+- Flames
+- Tiny figures
+- Masks
+- Abstract creatures
+- Scribbles
+- Arrows
+
+Decorative Rules:
+- Embrace narrative ambiguity.
+- Allow each panel its own mood.
+- Alternate between calm and intensity.
+- Preserve a handmade feeling.
+
+Patterns:
+Style:
+- Halftone dots
+- Photocopy textures
+- Dense stippling
+- Woodcut-inspired fills
+- Repeated linework
+
+Imagery:
+Style: >
+奇妙なキャラクター、
+仮面を被った人物、
+神話的存在、
+日常の断片を
+モノクロイラストとして描く。
+
+子どもの絵のような素朴さと、
+アートコミックの不穏さを共存させる。
+
+Treatment:
+- High contrast black-and-white drawings
+- Risograph overlays
+- Rough brush textures
+- Hand-drawn irregularity
+- Minimal shadows
+- Visible imperfections
+
+Subjects:
+- Masked figures
+- Tiny humans
+- Strange creatures
+- Symbolic objects
+- Celestial motifs
+- Everyday rituals
+- Dreamlike landscapes
+
+Background:
+Style: >
+オフホワイトの紙面を基本とし、
+コマごとに赤、ピンク、黒の色面を切り替える。
+
+ページ全体は新聞やZINEのような
+印刷物としての統一感を保つ。
+
+Effects:
+Texture:
+Risograph grain
+Halftone dots
+Photocopy noise
+Offset print imperfections
+Dry ink textures
+
+Shadow:
+None
+
+Depth:
+Flat narrative layering
+
+Distortion:
+Slight print misregistration
+Hand-cut irregularity
+Organic line wobble
+
+Visual Rules:
+- Treat every slide as a comic page.
+- Use halftones to create atmosphere.
+- Balance humor and unease.
+- Let handwritten elements interrupt structure.
+- Restrict the palette to red, pink, black, and paper white.
+- Alternate dense and sparse panels.
+- Preserve visual storytelling over decoration.
+- Encourage mystery rather than explanation.
+
+Exclusions:
+- Corporate presentation aesthetics
+- Luxury minimalism
+- Glassmorphism
+- Smooth gradients
+- Photorealistic illustrations
+- Complex 3D rendering
+- Cute mascot styles
+- Highly polished vector graphics
+- Excessive information density

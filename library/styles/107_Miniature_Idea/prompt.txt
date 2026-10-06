@@ -1,0 +1,188 @@
+Design Style:
+Name: "Miniature Idea"
+
+Concept: >
+ミニチュアフィギュア、
+日用品の再解釈、
+ビジュアルメタファー、
+コンセプチュアル広告、
+Miniature Lifeから着想を得た
+アイデア可視化型エディトリアルデザイン。
+
+抽象的な概念を説明するのではなく、
+身近なモノを使った小さな物語として表現する。
+
+ジェンガは組織、
+パズルは課題解決、
+色鉛筆は多様性、
+ルービックキューブは複雑性、
+トランプは人間関係の象徴となる。
+
+すべてのスライドは
+「ひとつの比喩」で構成される。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Clever
+- Insightful
+- Human
+- Playful
+- Thoughtful
+- Elegant
+- Editorial
+- Inspirational
+
+Temperature:
+Overall: Warm
+
+Color Palette:
+Background:
+SoftIvory: "#F6F2EA"
+
+Natural:
+WoodBrown: "#C89A63"
+PencilRed: "#D95A4E"
+PencilBlue: "#5D8BD9"
+PencilGreen: "#5FA66B"
+PuzzleWhite: "#F8F8F6"
+
+Accent:
+Mustard: "#D9A441"
+Coral: "#E86A5F"
+
+Typography:
+Style: >
+Elegant editorial sans-serif.
+Minimal typography.
+Generous spacing.
+Magazine-quality visual hierarchy.
+
+Layout:
+Structure: >
+One visual metaphor per slide.
+Large hero object dominates the canvas.
+Tiny human figures provide narrative context.
+
+Composition:
+Clean and minimal.
+Strong focal point.
+Large negative space.
+
+Flow:
+Every slide should communicate
+one memorable insight instantly.
+
+Background:
+Base: >
+Neutral studio environment.
+
+Texture:
+Smooth matte surface.
+No visual clutter.
+
+Visual Metaphor:
+Principle: >
+Use ordinary objects as symbolic representations
+of complex ideas.
+
+Examples:
+Jenga becomes organizational stability.
+Rubik's Cube becomes problem solving.
+Colored pencils become diversity.
+Puzzle pieces become collaboration.
+Playing cards become relationships.
+Books become learning journeys.
+Building blocks become innovation.
+
+Illustration Style:
+Type: "Miniature Conceptual Diorama"
+
+Characteristics:
+- Tiny workers
+- Everyday objects
+- Visual symbolism
+- Macro photography
+- Editorial storytelling
+- Elegant simplicity
+
+Characters:
+Style:
+Miniature model figures.
+
+Activities:
+- Building
+- Solving
+- Repairing
+- Connecting
+- Exploring
+- Collaborating
+- Organizing
+- Creating
+
+Photography:
+Lens:
+Macro photography.
+
+Focus:
+Sharp subject.
+Soft depth-of-field.
+
+Depth:
+Selective focus.
+
+Lighting:
+Soft studio lighting.
+Warm highlights.
+Natural shadows.
+
+Atmosphere:
+Intelligent and optimistic.
+
+Content Containers:
+Titles:
+Positioned in open negative space.
+
+Text:
+Minimal.
+Secondary to the visual metaphor.
+
+Charts:
+Reimagined as physical structures
+within the miniature world.
+
+Images:
+Integrated into the scene narrative.
+
+Effects:
+Shadows:
+Natural photographic shadows.
+
+Gradients:
+None.
+
+Glassmorphism: False
+
+Texture:
+Real material textures emphasized.
+
+Visual References:
+- Miniature Life
+- Conceptual Advertising
+- Editorial Photography
+- Visual Thinking
+- Design Thinking Illustrations
+- Business Metaphor Art
+
+Keywords:
+- Visual Metaphor
+- Tiny Workers
+- Conceptual Photography
+- Everyday Objects
+- Miniature Diorama
+- Editorial Storytelling
+- Design Thinking
+- Macro Photography
+- Human-Centered Ideas
+- Miniature Life

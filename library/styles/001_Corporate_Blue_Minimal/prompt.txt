@@ -1,0 +1,194 @@
+Design Style:
+Name: "Corporate Blue Minimal"
+Concept: "清潔感・信頼感・業務改善レポート向けのモダンコーポレートデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Background:
+Primary: "#F3F3F3"
+Secondary: "#FFFFFF"
+
+Mood:
+- "Corporate"
+- "Clean"
+- "Structured"
+- "Reliable"
+- "Professional"
+- "Minimal"
+
+Color Palette:
+Base:
+- "#F3F3F3"
+- "#FFFFFF"
+
+Text:
+Primary: "#111111"
+Secondary: "#333333"
+
+Accent:
+Primary: "#1500FF"
+
+Sub:
+- "#D9D9D9"
+- "#EAEAEA"
+
+Typography:
+Heading:
+Font: "Modern Gothic Sans"
+Weight: "700-900"
+Style:
+- "Large Scale"
+- "Minimal"
+- "Clean"
+Color:
+LightBG: "#111111"
+AccentBG: "#FFFFFF"
+
+JapaneseHeading:
+Font: "Rounded Gothic"
+Weight: "700"
+
+Body:
+Font: "Readable Sans Serif"
+Weight: "400-500"
+LineHeight: "1.8"
+
+Numbers:
+Font: "Geometric Sans"
+Weight: "700"
+
+Visual Identity:
+Core Elements:
+- "左右の青い角丸バー"
+- "大きな角丸矩形"
+- "青い円形ナンバー"
+- "白背景＋青アクセント"
+- "シンプルな情報整理"
+
+Shapes:
+- "Rounded Rectangle"
+- "Circle"
+- "Capsule Button"
+- "Split Layout"
+
+Decorations:
+- "細いライン"
+- "小型アイコン"
+- "セクションバー"
+- "余白を活かした配置"
+
+Image Style:
+Theme:
+- "Business"
+- "Office"
+- "Corporate"
+- "Finance"
+- "Modern Architecture"
+
+Treatment:
+- "Soft contrast"
+- "Cool blue tint"
+- "Rounded crop"
+- "Clean photography"
+
+Layout System:
+Principles:
+- "情報を整理して見せる"
+- "左右分割を基本構成にする"
+- "余白を広く確保"
+- "視線誘導を単純化"
+
+Grid:
+Columns: 12
+Gutters: "Medium"
+
+Slide Types:
+
+Cover:
+Layout:
+- "左タイトル / 右写真"
+- "縦長写真を角丸マスク"
+- "青いピル型日付"
+- "左下に連絡先"
+
+Contents:
+Layout:
+- "左目次"
+- "右ビジュアル"
+- "青い丸番号"
+- "大きな余白"
+
+Problem Cards:
+Layout:
+- "3カラムカード"
+- "上部に青アイコン"
+- "グレーカード背景"
+- "各カード独立"
+
+Improvement Steps:
+Layout:
+- "左セクションバー"
+- "右に施策カード縦並び"
+- "タイトルは青ピル"
+
+Comparison Table:
+Layout:
+- "Before / After比較"
+- "太い罫線"
+- "青ヘッダー"
+- "効果アイコン"
+
+Summary:
+Layout:
+- "左アクセントエリア"
+- "右詳細テキスト"
+- "箇条書き構成"
+
+Closing:
+Layout:
+- "中央揃え"
+- "大きな感謝メッセージ"
+- "シンプルな余白"
+
+Components:
+Pills:
+Background: "#1500FF"
+TextColor: "#FFFFFF"
+Radius: "Full"
+
+NumberCircles:
+Background: "#1500FF"
+TextColor: "#FFFFFF"
+
+Cards:
+Background: "#E6E6E6"
+Radius: "Large"
+
+Tables:
+HeaderBG: "#1500FF"
+HeaderText: "#FFFFFF"
+Border: "#111111"
+
+Icons:
+Style:
+- "Solid"
+- "Simple"
+- "Rounded"
+
+Spacing:
+OuterMargin: "Large"
+ContentGap: "Medium-Large"
+SectionGap: "Large"
+
+Animation Feel:
+- "Smooth Fade"
+- "Slide Up"
+- "Minimal Motion"
+
+Restrictions:
+- "派手なグラデーション禁止"
+- "過度な装飾禁止"
+- "情報量を詰め込みすぎない"
+- "ビジネス用途を崩す遊び禁止"
+- "コンテンツ内容は生成元に従い、このYAMLでは指定しない"

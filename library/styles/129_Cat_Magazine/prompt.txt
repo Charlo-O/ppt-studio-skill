@@ -1,0 +1,161 @@
+Design Style:
+Name: "Cat Magazine"
+
+Concept: >
+インターネット猫ミーム、
+Brainrot Meme、
+Discordステッカー、
+Instagramカルーセル、
+TikTokミーム、
+韓国ミーム文化、
+ファッション雑誌、
+POPカルチャー誌、
+ZINE、
+現代エディトリアルデザインから着想を得た
+猫ミームを主役にした雑誌風プレゼンテーション。
+
+スライドを説明資料ではなく、
+一冊のカルチャーマガジン、
+猫ミーム特集号、
+POPカルチャー雑誌、
+インターネットトレンド誌として構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Playful
+- Editorial
+- Internet
+- Meme
+- Contemporary
+- Funny
+- Creative
+- Stylish
+
+Temperature:
+Overall: Bright
+
+Background:
+Color: "#FAFAFA"
+
+Color Palette:
+Primary:
+White: "#FFFFFF"
+SoftBlack: "#111111"
+BubblePink: "#FF5FA8"
+SkyBlue: "#4EC8FF"
+LimeGreen: "#9BEA5A"
+LemonYellow: "#FFD93D"
+
+Secondary:
+LightGray: "#EFEFEF"
+Coral: "#FF7F73"
+
+Typography:
+Style:
+- Modern editorial sans-serif
+- Bold condensed headlines
+- Geometric grotesk
+- Magazine typography
+- Large page numbers
+- Mixed horizontal and vertical titles
+
+Layout:
+Structure:
+- Editorial magazine spread
+- Modular grid
+- Large feature photography
+- Multi-column layout
+- Pull quotes
+- Caption blocks
+- Sidebar notes
+- Full-bleed cover pages
+
+Composition:
+Principles:
+- Strong editorial hierarchy
+- Large hero images
+- Asymmetrical balance
+- Magazine rhythm
+- Plenty of whitespace
+- Clean alignment
+- Image-first storytelling
+
+Photography:
+Style:
+- Internet cat memes
+- Reaction cat images
+- PNG sticker cutouts
+- Low-resolution meme screenshots
+- Korean cat memes
+- Discord stickers
+- Viral meme photos
+
+Image Treatment:
+- White sticker outline
+- Magazine cutout collage
+- Layered photographs
+- Slight overlap
+- Mixed image sizes
+- Intentional screenshot quality
+- Soft drop shadow
+
+Graphic Elements:
+- Editorial labels
+- Category tags
+- Issue numbers
+- Barcode
+- Highlight marker
+- Sticker labels
+- Underlines
+- Doodles
+- Internet reaction icons
+- Emoji accents
+
+Decorations:
+Style:
+- Minimal sticker aesthetic
+- Tape effects
+- Marker pen highlights
+- Handwritten notes
+- Social media UI fragments
+- Chat bubbles
+- Notification badges
+
+Color Strategy:
+Characteristics:
+- Mostly monochrome layouts
+- One accent color per spread
+- Bright sticker colors
+- Neutral backgrounds
+
+Whitespace:
+Density: High
+
+Visual Rules:
+- Every slide should resemble a premium editorial magazine.
+- Cats should be treated as magazine cover models.
+- Mix clean magazine layouts with chaotic internet meme imagery.
+- Use oversized headlines and minimalist typography.
+- Incorporate reaction stickers naturally into the layout.
+- Alternate between full-bleed image spreads and clean article pages.
+- Preserve the humor of meme culture while maintaining premium editorial aesthetics.
+- Create the feeling of reading a trendy Gen Z culture magazine.
+
+Avoid:
+- Corporate presentation layouts
+- Traditional business templates
+- Dense bullet lists
+- Heavy gradients
+- Glassmorphism
+- Skeuomorphic effects
+- Clip art
+- Generic stock illustrations
+
+Do Not Specify:
+- Slide titles
+- Body text
+- Topic
+- Names
+- Numbers

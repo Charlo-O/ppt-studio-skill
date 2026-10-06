@@ -1,0 +1,172 @@
+Design Style:
+Name: "Modern Business Isometric"
+
+Concept: >
+戦略資料、提案書、営業資料、
+事業計画、マーケティング資料、
+研修資料、社内報告資料など、
+幅広いビジネススライド向けの
+モダンなアイソメトリックデザイン。
+
+チーム、業務プロセス、
+データ分析、プロジェクト、
+サービス、顧客体験、
+組織運営などをモチーフとして使用する。
+
+視覚的なわかりやすさと
+現代的な印象を両立し、
+複雑な情報をシンプルかつ
+魅力的に伝える。
+Canvas:
+Ratio: "16:9"
+
+Mood:
+* Innovative
+* Digital
+* Creative
+* Modern
+* Smart
+* Professional
+* Optimistic
+* Energetic
+
+Color Palette:
+
+Background:
+Primary: "#4F7EF7"
+
+Text:
+Primary: "#FFFFFF"
+Secondary: "#DCE6FF"
+
+Accent:
+Primary: "#FFC83D"
+
+Dark:
+Primary: "#0F1D6B"
+
+Illustration:
+
+Style:
+Modern Isometric
+
+Rendering:
+Flat vector
+Clean geometry
+Soft shadows
+Bright colors
+
+Subjects:
+- Team Collaboration
+- Business Processes
+- Analytics
+- Strategy
+- Project Management
+- Customer Experience
+- Services
+- Operations
+- Growth
+- Innovation
+
+Typography:
+
+Headings:
+Weight: 800
+Style: Geometric Sans
+
+Body:
+Weight: 400-500
+
+Layout:
+
+Philosophy:
+Illustration-led storytelling
+
+Structure:
+- Large hero illustration
+- Bold headlines
+- Modular information blocks
+- Generous spacing
+
+Components:
+
+Cover:
+- Large business workspace illustration
+- Bold title
+
+Section Divider:
+- Large number
+- Simple geometric shape
+
+Process:
+- Connected isometric icons
+
+Timeline:
+- Horizontal roadmap
+
+Features:
+- Icon grid
+
+KPI:
+- Clean infographic cards
+
+Decorations:
+
+Elements:
+- Dot patterns
+- Concentric circles
+- Floating shapes
+- Minimal geometric accents
+
+Charts:
+
+Style:
+Simplified infographic
+
+Types:
+- KPI cards
+- Timelines
+- Process diagrams
+- Roadmaps
+- Feature grids
+
+Spacing:
+
+Density:
+Medium
+
+White Space:
+Generous
+
+Visual Hierarchy:
+
+Level1:
+Large title
+
+Level2:
+Hero illustration
+
+Level3:
+Key metrics
+
+Level4:
+Supporting text
+
+Avoid:
+* Historical themes
+* Realistic photography
+* Heavy gradients
+* Complex dashboards
+* Dark backgrounds
+
+Keywords:
+* Business
+* Strategy
+* Consulting
+* Marketing
+* Sales
+* Operations
+* Project Management
+* Innovation
+* Growth
+* Isometric

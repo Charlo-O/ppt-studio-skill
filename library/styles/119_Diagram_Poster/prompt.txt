@@ -1,0 +1,127 @@
+Design Style:
+Name: "Diagram Poster"
+
+Concept: >
+デザイン学部卒業制作展、
+アートフェスティバル、
+実験的ZINE、
+情報設計、
+フローチャート、
+サイバーカルチャーから着想を得た
+図解ポスター型エディトリアルデザイン。
+
+スライド全体を
+一枚の巨大な情報地図として構築する。
+
+情報は順番に読むのではなく、
+視線が自由に探索する。
+
+図解、
+アイコン、
+記号、
+矢印、
+接続線、
+タイポグラフィが
+同じ重要度で共存する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Experimental
+- Futuristic
+- Curious
+- Inventive
+- Creative
+- Intellectual
+- Graphic
+- Exploratory
+
+Temperature:
+Overall: High Contrast
+
+Background:
+Color: "#0A0A0A"
+
+Color Palette:
+Primary:
+HolographicBlue: "#7DE2FF"
+NeonPink: "#FF75D8"
+Lavender: "#DCC8FF"
+
+Secondary:
+Mint: "#A7FFD5"
+SoftYellow: "#FFF2A0"
+
+Accent:
+White: "#FFFFFF"
+
+Typography:
+Style:
+- Condensed sans-serif
+- Technical labels
+- Vertical text
+- Diagram annotations
+- Experimental display type
+
+Layout:
+Composition:
+- Information map
+- Dense visual network
+- Multi-directional reading
+- Diagrammatic structure
+- Asymmetrical exploration
+
+Structure:
+- Connected modules
+- Flowchart relationships
+- Information clusters
+- Networked storytelling
+
+Visual Elements:
+Components:
+- Flowcharts
+- Arrows
+- Connectors
+- Technical symbols
+- Abstract icons
+- Doodles
+- Data blocks
+- Geometric containers
+
+Motifs:
+- Clouds
+- Stars
+- Faces
+- Machines
+- Abstract objects
+- Symbols
+- Diagrams
+
+Illustration Style:
+Type:
+- Monoline drawing
+- Technical sketch
+- Editorial doodle
+- Graphic symbols
+
+Effects:
+- Holographic gradients
+- Iridescent highlights
+- Thin glowing outlines
+- Screen-print texture
+
+Image Style:
+Treatment:
+- Illustration dominant
+- Minimal photography
+- Diagram first
+- Poster composition
+
+Design Rules:
+- Create visual density.
+- Encourage exploration.
+- Mix information and illustration.
+- Connect elements through lines and pathways.
+- Use icons as part of the narrative.
+- Make the slide feel like a creative information ecosystem.

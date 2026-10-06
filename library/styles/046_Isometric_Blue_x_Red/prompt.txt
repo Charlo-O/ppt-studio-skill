@@ -1,0 +1,210 @@
+Design Style:
+Name: "Business Isometric Planner"
+
+Concept: >
+戦略資料、提案書、営業資料、
+プロジェクト管理、事業計画、
+マーケティング資料、組織運営など、
+幅広いビジネススライド向けの
+フレンドリーなアイソメトリックデザイン。
+
+ダッシュボード、プロセス、プロジェクト、
+チーム、データ分析、業務フローなどをモチーフとした
+シンプルな3Dアイソメトリックイラストを配置し、
+情報や計画を視覚的に整理する。
+
+情報量が多くても圧迫感を与えず、
+親しみやすさと読みやすさを両立する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Professional
+- Friendly
+- Organized
+- Productive
+- Structured
+- Clean
+- Positive
+- Modern
+
+Color Palette:
+Background:
+Primary: "#49A1F2"
+Card: "#D7E9F6"
+Surface: "#E6F2FA"
+
+Text:
+Primary: "#243653"
+Secondary: "#455A73"
+
+Accent:
+Red: "#E32636"
+Coral: "#FF5A63"
+Yellow: "#F5C84B"
+SkyBlue: "#63B7F6"
+
+Illustration:
+Navy: "#2F405F"
+Blue: "#4D9BE6"
+LightBlue: "#A8D7F7"
+White: "#FFFFFF"
+Gray: "#D7DDE5"
+
+Typography:
+Title:
+Style: "Bold Geometric Sans"
+Weight: 800
+Color: "#243653"
+
+Heading:
+Style: "Bold Sans"
+Weight: 700
+Color: "#243653"
+
+Body:
+Style: "Clean Sans"
+Weight: 400
+Color: "#455A73"
+
+Numbers:
+Style: "ExtraBold Sans"
+Weight: 800
+Color: "#E32636"
+
+Layout Structure:
+Base:
+- Full-width blue outer frame
+- Large rounded rectangle content area
+- Consistent page container
+- Wide safe margins
+
+Navigation:
+- Small page-number tab on top-right
+- Fixed master layout across slides
+
+Background:
+Type: "Soft Business Workspace"
+
+Elements:
+- Rounded panel container
+- Flat color fills
+- Minimal shadows
+- Large empty content zones
+
+Illustration Style:
+Type: "Flat Isometric Business"
+
+Characteristics:
+- 3D isometric perspective
+- Bright professional palette
+- Simplified vector forms
+- Friendly proportions
+- Minimal detail
+- No textures
+- Soft shadows
+
+Subjects:
+- Teams
+- Meetings
+- Dashboards
+- Laptops
+- Analytics
+- Process maps
+- Workspaces
+- Collaboration
+- Project plans
+- Roadmaps
+- Business workflows
+- Growth metrics
+
+Cover Slide:
+Layout:
+Left:
+- Large title block
+- Subtitle
+- Description
+
+Right:
+- Large business isometric illustration
+
+Section Divider:
+Layout:
+- Huge section number
+- Large section title
+- One large illustration
+- Minimal supporting text
+
+Agenda Slide:
+Layout:
+- Two-column section list
+- Highlighted labels
+- Small decorative illustration
+
+Content Slides:
+Cards:
+Style: "Outlined Panels"
+
+Timeline:
+Style: "Business Roadmap"
+
+Schedule:
+Style: "Project Planner"
+
+Milestones:
+Style: "Business Journey"
+
+Comparison:
+Style: "Two Column"
+
+Process:
+Style: "Step Flow"
+
+Visual Components:
+Cards:
+Background: "Transparent"
+Border: "#243653"
+Radius: 0
+
+Labels:
+Background: "#F8F5EF"
+Text: "#243653"
+
+Numbers:
+Color: "#E32636"
+
+Connectors:
+Color: "#243653"
+
+Illustration Placement:
+Rule:
+- One hero illustration per slide
+- Illustration supports content
+- Never dominate information
+
+Spacing:
+OuterMargin: "Large"
+ContentGap: "Medium"
+IllustrationGap: "Large"
+
+Effects:
+Shadow:
+Type: "Soft Flat Shadow"
+Opacity: 15%
+
+Border:
+Style: "Thin Stroke"
+
+Rules:
+- Always use the rounded light-blue content panel
+- Use dark navy typography
+- Use red only for numbering and emphasis
+- Use flat isometric business illustrations
+- Maintain large whitespace areas
+- Avoid gradients and heavy effects
+- Prioritize clarity over decoration
+- Suitable for strategy, consulting,
+project management, business planning,
+sales, marketing, operations,
+onboarding, reporting, and corporate presentations

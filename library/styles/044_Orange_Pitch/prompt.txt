@@ -1,0 +1,168 @@
+Design Style:
+Name: "Mission Driven Culture Deck"
+
+Concept: >
+スタートアップの採用ピッチ資料とカルチャーブックを融合した、
+ミッション・ビジョン・バリューを中心に構成する
+ストーリーテリング型プレゼンテーション。
+
+事業説明よりも、
+なぜ存在するのか、
+どんな未来を目指すのか、
+どんな仲間と実現したいのかを
+感情的に伝える設計。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Human
+- Mission Driven
+- Purpose Driven
+- Inspirational
+- Youthful
+- Authentic
+- Positive
+- Growth Oriented
+
+Color Palette:
+
+Background:
+Primary: "#F6F6F6"
+White: "#FFFFFF"
+
+Accent:
+Orange: "#FF5A36"
+Mint: "#8FD5C2"
+Lavender: "#B8B6F3"
+Yellow: "#F4DD33"
+Green: "#18C37E"
+Blue: "#4A7EEA"
+
+Text:
+Primary: "#111111"
+Secondary: "#555555"
+Muted: "#888888"
+
+Typography:
+
+Heading:
+Style: "Extra Large Japanese Sans Serif"
+Weight: "Bold"
+
+SectionNumber:
+Style: "Large Numeric Typography"
+Weight: "Bold"
+
+EnglishLabel:
+Style: "Minimal Sans Serif"
+Weight: "Medium"
+
+Body:
+Style: "Clean Japanese Sans Serif"
+Weight: "Regular"
+
+Layout:
+
+Structure:
+- Mission
+- Founder Story
+- Vision
+- Values
+- Business
+- Culture
+- Team
+- Career
+- Recruitment
+
+Composition:
+- Large headline first
+- One message per slide
+- Strong visual hierarchy
+- Wide margins
+- Simple grids
+- Human-centered storytelling
+- Large employee photography
+- Minimal charts
+- Minimal decoration
+
+Visual Elements:
+
+Shapes:
+- Circle
+- Semi Circle
+- Rounded Rectangle
+- Arch Shape
+- Organic Geometric Forms
+
+Components:
+- Employee portraits
+- Founder portrait
+- Service screenshots
+- Large logos
+- Value cards
+- Icon-free layouts
+- Soft section tabs
+- Color-coded business units
+
+Photography:
+
+Style:
+- Bright natural light
+- Smiling employees
+- Real workplace scenes
+- Recruiting-focused portraits
+- Casual business atmosphere
+
+Treatment:
+- Minimal filters
+- High brightness
+- Soft shadows
+- Warm and friendly
+
+Page Types:
+
+Cover:
+- Large logo
+- Minimal text
+- Strong whitespace
+
+Vision:
+- Huge keyword
+- Abstract colorful shapes
+- Simple supporting text
+
+Founder Story:
+- Large portrait
+- Personal narrative
+- Emotional message
+
+Value:
+- Multiple value cards
+- Equal emphasis layout
+
+Business:
+- Product screenshots
+- Service comparison cards
+- Color-coded sections
+
+Culture:
+- Employee photos
+- Large statement headline
+- Minimal explanatory text
+
+Recruitment:
+- Career growth
+- Team introduction
+- Join us message
+
+Design Rules:
+
+- One core idea per slide
+- Prioritize emotion over information density
+- Use large typography aggressively
+- Use photography more than illustrations
+- Keep diagrams simple
+- Maintain generous whitespace
+- Avoid corporate stiffness
+- Make the company feel human and approachable

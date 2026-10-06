@@ -1,0 +1,171 @@
+Design Style:
+Name: "Monochrome Architecture Editorial"
+Concept: "白・ライトグレー・ブラックのみで構成する、建築写真と余白を活かしたミニマルエディトリアルプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Editorial
+- Architecture
+- Monochrome
+- Calm
+- Elegant
+- Structured
+- Modern
+
+Color Palette:
+Background:
+Main: "#FFFFFF"
+SoftGray: "#EFEFEF"
+LightGray: "#DCDCDC"
+
+Text:
+Primary: "#111111"
+Secondary: "#666666"
+Light: "#FFFFFF"
+
+Accent:
+Black: "#111111"
+DarkGray: "#666666"
+Gray: "#BDBDBD"
+
+Typography:
+Heading:
+Font: "Modern Minimal Sans"
+Weight: "300-600"
+Style:
+- "thin clean typography"
+- "large airy titles"
+- "editorial architecture magazine look"
+- "minimal modern spacing"
+
+Body:
+Font: "Clean Sans Serif"
+Weight: "300-400"
+Style:
+- "small elegant paragraph"
+- "high readability"
+- "minimal editorial layout"
+
+Caption:
+Font: "Condensed Sans"
+Weight: "300-500"
+Style:
+- "small side captions"
+- "vertical labels"
+- "architectural annotation style"
+
+Layout:
+Overall:
+- "large white space"
+- "modular editorial grid"
+- "minimal asymmetrical composition"
+- "thin divider lines"
+- "calm and balanced spacing"
+- "high-end architecture magazine feeling"
+
+Grid:
+Columns: "2-5 flexible columns"
+Margin: "wide margins"
+Alignment: "left aligned with balanced negative space"
+
+Images:
+Style:
+- "black and white architecture photography"
+- "modern buildings and geometric structures"
+- "clean lifestyle still-life photos"
+- "high contrast monochrome images"
+- "large rectangular image crops"
+
+Shape Language:
+Main:
+- "simple rectangles"
+- "thin line dividers"
+- "floating white cards"
+- "subtle gray blocks"
+- "minimal overlapping panels"
+
+Decorative Elements:
+Style:
+- "thin vertical lines"
+- "minimal section dividers"
+- "small geometric labels"
+- "subtle grayscale layering"
+
+Slide Types:
+Cover:
+Layout:
+- "large architecture photo"
+- "minimal title aligned left"
+- "light gray panel overlays"
+- "clean editorial spacing"
+Style:
+- "luxury architecture magazine cover"
+- "quiet premium mood"
+
+Introduction:
+Layout:
+- "large title area"
+- "single strong monochrome image"
+- "small supporting paragraph"
+- "large empty white margins"
+
+Gallery:
+Layout:
+- "multi-image grid composition"
+- "equal spacing between photos"
+- "minimal captions below images"
+- "editorial photo arrangement"
+
+AboutCompany:
+Layout:
+- "split layout with image and text"
+- "soft gray overlay blocks"
+- "minimal infographic icons"
+- "thin line heading decoration"
+
+FeaturedPicture:
+Layout:
+- "large centered photo"
+- "minimal surrounding text"
+- "thin divider line"
+- "clean typography hierarchy"
+
+CreativeSection:
+Layout:
+- "large white card"
+- "minimal headline"
+- "monochrome architecture imagery"
+- "floating layered rectangles"
+
+Infographic:
+Layout:
+- "minimal icon grid"
+- "thin divider structure"
+- "soft gray blocks"
+- "clean editorial labeling"
+
+Content:
+Layout:
+- "large margins"
+- "small text blocks"
+- "single hero image"
+- "balanced white space"
+
+QuoteSection:
+Layout:
+- "large empty space"
+- "small elegant quote"
+- "minimal monochrome background image"
+- "subtle geometric framing"
+
+Rules:
+
+- "スライド背景は白またはライトグレーを基本にする"
+- "写真はモノクロ建築写真を中心に使用する"
+- "余白を大きく取り、静かな高級感を出す"
+- "装飾は最小限にし、線とグリッドで構成する"
+- "黒は強調テキストと写真コントラストに限定して使う"
+- "雑誌のレイアウトのように洗練された紙面構成にする"

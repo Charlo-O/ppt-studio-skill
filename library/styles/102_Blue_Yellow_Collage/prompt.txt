@@ -1,0 +1,189 @@
+Design Style:
+Name: "Blue & Yellow Collage"
+
+Concept: >
+大学掲示板、学生自治会の告知ポスター、
+リソグラフ印刷、学園祭チラシ、
+コピー機で複製されたZINE文化から着想を得た
+親しみやすく活気のあるエディトリアルデザイン。
+
+切り抜き写真と大胆な文字を組み合わせ、
+「学生自身が手づくりした広報物」のような
+温かさと勢いを表現する。
+
+完璧な整列よりも、
+素朴な力強さと記憶に残る視認性を重視する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Youthful
+- Energetic
+- Friendly
+- Grassroots
+- Editorial
+- Playful
+- Accessible
+- Community-driven
+
+Temperature:
+Overall: Cool
+
+Color Palette:
+Background:
+CampusBlue: "#1647B8"
+
+Primary:
+CampusBlue: "#1647B8"
+
+Secondary:
+BulletinYellow: "#F1DE38"
+
+Accent:
+White: "#FFFFFF"
+Black: "#111111"
+LightGray: "#E6E6E6"
+
+Typography:
+Headlines:
+Style: >
+手切りした紙文字のような
+不揃いな極太サンセリフ。
+
+少し歪みのある文字を
+タイトルの主役として大胆に配置する。
+
+Weight: 800-900
+Case: Uppercase preferred
+Tracking: Tight
+Scale: Oversized
+
+Secondary:
+Style: >
+手書き風サンセリフや
+学生新聞のような親しみやすい文字。
+
+日付や補足情報に使用する。
+
+Weight: 400-600
+
+Body:
+Weight: 400
+LineHeight: 1.2-1.4
+
+Layout:
+Structure: >
+Instagramカルーセルと
+学内掲示板ポスターを融合した
+シンプルなタイル型レイアウト。
+
+明快な情報整理を優先しながら、
+要素のズレによって手づくり感を演出する。
+
+Composition:
+- Centered headlines
+- Modular grid
+- Cutout imagery
+- Sticker compositions
+- Bold text blocks
+- Strong visual hierarchy
+- Symmetrical balance
+- Poster-like simplicity
+
+Alignment:
+Preference: Center
+ControlledChaos: Moderate
+
+Graphic Elements:
+Shapes:
+- Irregular rectangles
+- Sticker frames
+- Paper cut shapes
+- Rounded squares
+- Label strips
+- Simple banners
+
+Symbols:
+- Megaphones
+- Trophies
+- Stars
+- School objects
+- Paper scraps
+- Simple arrows
+
+Decorative Rules:
+- Decorations should support communication.
+- Maintain a handmade appearance.
+- Use repeated motifs across slides.
+- Avoid excessive ornamentation.
+
+Imagery:
+Style: >
+モノクロ写真やオブジェクト写真を
+白フチ付きのステッカーのように切り抜く。
+
+学生生活を象徴するモチーフを
+アイコンとして扱い、
+誰でも親しみやすい世界観を構築する。
+
+Treatment:
+- Black-and-white photography
+- Thick white outlines
+- Sticker effect
+- Simple cutout edges
+- Minimal shadows
+- Slight photocopy texture
+
+Subjects:
+- Megaphones
+- Students
+- Campus buildings
+- School objects
+- Trophies
+- Everyday items
+
+Background:
+Style: >
+深いブルーの単色背景を基本とする。
+
+必要に応じて、
+イエローの帯やラベルを加え、
+強い視認性を確保する。
+
+Effects:
+Texture:
+Risograph grain
+Photocopy texture
+Slight print imperfections
+
+Shadow:
+Minimal
+
+Depth:
+Flat collage composition
+
+Distortion:
+Slight misregistration
+Handmade cut-and-paste feeling
+
+Visual Rules:
+- Use blue as the dominant background color.
+- Use yellow only as an accent and emphasis color.
+- Apply thick white outlines to imagery.
+- Headlines should feel loud and energetic.
+- Preserve simple, poster-like compositions.
+- Repeat key motifs to build consistency.
+- Prioritize readability over sophistication.
+- Embrace imperfect handmade charm.
+
+Exclusions:
+- Luxury aesthetics
+- Corporate minimalism
+- Glassmorphism
+- Soft gradients
+- Metallic effects
+- Realistic 3D rendering
+- Delicate serif typography
+- Complex visual systems
+- Highly polished commercial layouts

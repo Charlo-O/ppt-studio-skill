@@ -1,0 +1,178 @@
+Design Style:
+Name: "Editorial Runner"
+
+Concept: >
+プラモデルのランナー（部品枠）、
+ガジェットステッカー、
+ストリートテック、
+日本のホビー雑誌、
+デザイナーズツールキットから着想を得た
+インフォグラフィック型エディトリアルデザイン。
+
+すべての要素を配線やフレームで接続し、
+コンテンツそのものを「組み立てる部品」として表現する。
+
+情報は独立したブロックではなく、
+システム全体の一部として視覚的につながる。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Modular
+- Technical
+- Creative
+- Industrial
+- Playful
+- Structured
+- Futuristic
+- Graphic
+
+Temperature:
+Overall: Cool
+
+Color Palette:
+Background:
+GridWhite: "#F5F5F5"
+
+Primary:
+CarbonBlack: "#2D2D2D"
+
+Accent:
+CyanMint: "#18D6CF"
+
+Secondary:
+LightGray: "#D8D8D8"
+DarkGray: "#5A5A5A"
+
+Typography:
+Style: >
+Condensed geometric sans-serif.
+Large uppercase headings.
+Industrial labeling system.
+Compact technical annotations.
+Strong visual hierarchy.
+
+Layout:
+Structure: >
+Slide divided into multiple framed modules.
+Every content area enclosed by thick rounded borders.
+Modules interconnected by lines, pipes, and connector nodes.
+
+Grid:
+Dense technical grid.
+Precise alignment.
+Mechanical organization.
+
+Flow:
+Information should feel assembled rather than placed.
+Visual pathways connect all sections.
+
+Background:
+Base: >
+White engineering paper with faint gray grid lines.
+
+Overlay:
+Technical drafting aesthetic.
+Minimal texture.
+Clean and schematic.
+
+Graphic Elements:
+Frames:
+Thick rounded rectangular containers.
+Plastic runner-inspired outlines.
+
+Connectors:
+Straight black connector lines.
+Junction nodes.
+Mechanical branching structures.
+
+Icons:
+Flat monochrome vector icons.
+Technology, creativity, productivity,
+communication, media, and tools.
+
+Labels:
+Sticker-like badges.
+Industrial warning tags.
+Utility markers.
+Module identifiers.
+
+Decorations:
+Small arrows.
+Plus/minus symbols.
+Toggle indicators.
+Interface widgets.
+Technical markers.
+
+Illustration Style:
+Type: "Flat Technical Vector"
+
+Characteristics:
+- High contrast
+- Monoline iconography
+- Minimal shading
+- Mechanical organization
+- Diagram-like composition
+- Modular assembly aesthetic
+
+Shapes:
+Primary:
+- Rounded rectangles
+- Pipes
+- Connector joints
+- Circuit-like pathways
+
+Secondary:
+- Arrows
+- Labels
+- Interface controls
+- Industrial symbols
+
+Spacing:
+Density: High
+
+Composition: >
+Maximize canvas usage while maintaining
+clean modular separation.
+Every area should feel intentionally connected.
+
+Effects:
+Shadows: None
+Gradients: None
+Glassmorphism: False
+
+Borders:
+Thick black outlines.
+Consistent stroke weight.
+
+Highlights:
+Accent color used sparingly
+to emphasize key modules and visual anchors.
+
+Content Containers:
+Titles:
+Large module headers integrated into the frame system.
+
+Text:
+Organized inside clearly separated technical compartments.
+
+Charts:
+Embedded as if they are components
+inside a larger machine.
+
+Images:
+Treated as interchangeable modules
+within the connected framework.
+
+Keywords:
+- Plastic Model Kit
+- Runner Frame
+- Technical Diagram
+- Modular System
+- Industrial Editorial
+- Gadget Culture
+- Creative Toolkit
+- Connected Interface
+- Engineering Grid
+- Flat Vector

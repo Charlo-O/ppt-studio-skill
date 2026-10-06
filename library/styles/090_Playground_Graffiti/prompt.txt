@@ -1,0 +1,245 @@
+Design Style:
+Name: "Playground Graffiti"
+
+Concept: >
+ストリートアート、ヒップホップカルチャー、
+スケートパーク、都市の壁面アートから着想を得た
+グラフィティスタイルのプレゼンテーションデザイン。
+
+落書きの自由さと遊び心を取り入れながら、
+親しみやすく整理されたレイアウトで情報を伝える。
+ポップな吹き出し、ドリップ文字、
+手描きアイコンをアクセントとして配置し、
+「自由な発想」と「楽しいエネルギー」を表現する。
+
+子ども向け企画、学校新聞、
+ワークショップ資料、地域イベント、
+クリエイティブ教育、社内コミュニケーションなど、
+カジュアルで温かみのある資料に適した世界観。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Playful
+- Urban
+- Friendly
+- Creative
+- Youthful
+- Casual
+- Expressive
+- Energetic
+
+Color Palette:
+
+Background:
+Wall: "#E8E2D8"
+Concrete: "#D9D1C4"
+Texture: "#B8B0A4"
+
+Accent:
+Aqua: "#7DE2E3"
+SkyBlue: "#67C7E8"
+BubblePink: "#E9B7D8"
+
+Text:
+Primary: "#1D191B"
+Secondary: "#3F3B3D"
+
+Highlight:
+White: "#FFFFFF"
+
+Typography:
+
+Headings:
+Style: "Graffiti Marker"
+Weight: 700
+Color: "#1D191B"
+
+GraffitiWordArt:
+Style: "Bubble Graffiti"
+Fill:
+- "#E9B7D8"
+- "#7DE2E3"
+Stroke:
+Color: "#1D191B"
+Width: "Thick"
+
+Effects:
+- Paint drips
+- Hand highlights
+- Rough edges
+
+Numbers:
+Style: "Hand-painted Marker"
+Weight: 700
+Color: "#1D191B"
+
+Body:
+Style: "Rounded Sans"
+Weight: 400
+Color: "#2F2B2C"
+
+Layout:
+
+Structure:
+- Clean editorial layout
+- Large playful headings
+- Decorative corner elements
+- Balanced whitespace
+- Mixed asymmetry
+
+Grid:
+Columns: 12
+
+Margins:
+Outer: "Wide"
+
+Background:
+
+Style:
+Aged concrete wall
+
+Characteristics:
+- Light beige plaster
+- Hairline cracks
+- Slight weathering
+- Soft stains
+- Matte texture
+
+Illustration:
+
+Style:
+Cute street graffiti
+
+Elements:
+- Bubble letters
+- Dripping paint
+- Hand-drawn tags
+- Arrows
+- Dots
+- Sparkles
+- Small stars
+- Mini doodles
+
+Rendering:
+Flat vector
+Soft imperfections
+Sticker-like appearance
+
+Decorative Elements:
+
+Sparkles:
+Color: "#FFFFFF"
+
+Dots:
+Color: "#1D191B"
+
+PaintDrops:
+Color: "#1D191B"
+
+Blobs:
+Colors:
+- "#7DE2E3"
+- "#67C7E8"
+
+Effects:
+
+Texture:
+Type: "Concrete"
+
+Noise:
+Strength: "Very Low"
+
+Finish:
+Matte mural finish
+
+Components:
+
+Cover:
+- Large graffiti title
+- Bubble cloud backdrop
+- Subtitle box
+- Corner doodles
+- Wall texture background
+
+WordArtShowcase:
+- Multiple graffiti lettering examples
+- Editable style demonstration
+- Decorative tags
+
+TableOfContents:
+- Five-section overview
+- Bubble number badges
+- Section descriptions
+- Bottom graffiti decoration
+
+SectionDivider:
+- Large section number
+- Oversized hand-lettered title
+- Subtitle label
+- Corner artwork
+
+ContentSlide:
+- Graffiti illustration area
+- Title with marker typography
+- Highlight box for key message
+- Open content zone
+
+BigNumberSlide:
+- Oversized statistics
+- Minimal supporting text
+- Decorative graffiti corners
+
+ResourceSlide:
+- Mixed doodle gallery
+- Bubble typography examples
+- Inspiration showcase
+
+Closing:
+- Friendly thank-you message
+- Signature tag
+- Contact details
+- Final doodles
+
+Content Density:
+
+Titles:
+Large
+
+Body:
+Moderate
+
+VisualPriority:
+High
+
+DataPriority:
+Medium
+
+Imagery Rules:
+- Prioritize illustration over photography.
+- Use graffiti as decoration rather than visual noise.
+- Keep content areas uncluttered.
+- Balance playful elements with readability.
+- Leave generous negative space.
+- Treat doodles as framing devices.
+
+Suitable For:
+- School newsletters
+- Children's workshops
+- Educational presentations
+- Youth programs
+- Community events
+- Creative classes
+- Club activities
+- Internal communications
+- Informal reports
+- Family-oriented projects
+
+Avoid:
+- Luxury aesthetics
+- Corporate minimalism
+- Excessive realism
+- Heavy data tables
+- Dark aggressive graffiti
+- Complex infographics

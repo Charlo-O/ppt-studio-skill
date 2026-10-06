@@ -1,0 +1,213 @@
+Design Style:
+Name: "Clean Business Report Minimal"
+Concept: "白背景・淡いグレー・ブルー/ミント系アクセントで構成する、清潔感のあるビジネスレポート型プレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+Background: "#FFFFFF"
+
+Mood:
+- Clean
+- Corporate
+- Minimal
+- Analytical
+- Professional
+- Calm
+- Structured
+
+Color Palette:
+Background:
+Main: "#FFFFFF"
+SoftGray: "#EEF2F3"
+TableGray: "#D6D8D8"
+MediumGray: "#BFC3C4"
+
+Text:
+Primary: "#333333"
+Secondary: "#555555"
+Light: "#FFFFFF"
+
+Accent:
+Mint: "#50D1C6"
+SkyBlue: "#9ED8F5"
+RoyalBlue: "#5E89E5"
+Gray: "#BFC3C4"
+
+Typography:
+Heading:
+Font: "Bold Gothic Sans"
+Weight: "700-800"
+Color: "#333333"
+
+Body:
+Font: "Japanese Gothic Sans"
+Weight: "400-500"
+Color: "#333333"
+LineHeight: "1.6-1.8"
+
+Numbers:
+Font: "Bold Sans Serif"
+Weight: "800"
+Color: "#5E89E5"
+
+Layout:
+General:
+Margin: "wide"
+Padding: "generous"
+Alignment: "left"
+Style:
+- "large white space"
+- "clear information hierarchy"
+- "simple business report layout"
+- "balanced chart and text composition"
+
+TitlePlacement:
+Position: "top-left"
+Size: "medium-large"
+Weight: "bold"
+
+Content:
+Use:
+- "charts"
+- "tables"
+- "cards"
+- "comparison layouts"
+- "simple icons"
+- "profile cards"
+- "before-after tables"
+
+Visual Elements:
+Charts:
+Style: "minimal flat business chart"
+Types:
+- "stacked bar chart"
+- "pie chart"
+- "line chart"
+- "comparison table"
+GridLines: "thin light gray"
+AxisColor: "#333333"
+UseAccentColors:
+- "#50D1C6"
+- "#9ED8F5"
+- "#5E89E5"
+- "#BFC3C4"
+
+Cards:
+Background: "#EEF2F3"
+Border: "none or very light gray"
+Radius: "0-4px"
+Shadow: "none"
+Padding: "generous"
+
+Icons:
+Style: "flat simple icon"
+Shape: "circle badge"
+Colors:
+- "#50D1C6"
+- "#9ED8F5"
+- "#5E89E5"
+
+Photos:
+Style: "corporate profile photo"
+Treatment:
+- "rectangular crop"
+- "thin colored top bar"
+- "clean card layout"
+
+Slide Types:
+Title:
+Background: "#FFFFFF"
+Layout:
+Alignment: "center-left"
+Padding: "very wide"
+ContentWidth: "45-55%"
+Style:
+- "minimal"
+- "large whitespace"
+- "bold Japanese gothic title"
+- "small accent line or label only"
+- "no decorative clutter"
+
+Agenda:
+Background: "#FFFFFF"
+Layout:
+Type: "numbered list"
+Alignment: "left"
+Spacing: "wide"
+Style:
+- "simple table of contents"
+- "large section numbers in blue"
+- "thin gray divider lines"
+- "clean and readable"
+
+SectionDivider:
+Background: "#EEF2F3"
+Layout:
+Alignment: "center-left"
+Padding: "very wide"
+ContentWidth: "40-50%"
+Style:
+- "minimal扉スライド"
+- "large Japanese gothic heading"
+- "small English subtitle"
+- "one accent circle or line"
+- "calm business tone"
+
+Summary:
+Background: "#FFFFFF"
+Layout:
+Type: "3 key takeaway cards"
+Alignment: "center"
+Spacing: "wide"
+Style:
+- "minimalまとめスライド"
+- "large whitespace"
+- "short concise points"
+- "accent color used only for numbers or icons"
+
+DataSlide:
+Layout:
+- "left text / right chart"
+- "full-width chart with short explanation"
+- "two chart comparison"
+Style:
+- "clean analytical"
+- "light grid"
+- "clear labels"
+
+ProblemSlide:
+Layout: "3-column card layout"
+CardStyle:
+Background: "#EEF2F3"
+IconBadge: "large circular icon above card"
+Style:
+- "structured"
+- "easy to scan"
+
+TeamSlide:
+Layout: "horizontal profile cards"
+CardStyle:
+PhotoTop: true
+TextBottom: true
+AccentBarTop: true
+Style:
+- "corporate"
+- "clean"
+- "profile catalog"
+
+ComparisonSlide:
+Layout: "large table"
+HeaderColor: "#BFC3C4"
+RowHeaderColor: "#EEF2F3"
+Style:
+- "before after comparison"
+- "large readable text"
+- "simple check icons"
+
+Rules:
+- "Use plenty of white space."
+- "Keep decoration minimal."
+- "Use Japanese Gothic font for body text."
+- "Use blue, sky blue, and mint only as accents."
+- "Avoid heavy shadows, gradients, complex backgrounds, and excessive decoration."
+- "Prioritize clarity, structure, and business readability."

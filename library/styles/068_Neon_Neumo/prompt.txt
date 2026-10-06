@@ -1,0 +1,320 @@
+Design Style:
+Name: "Neon Neumo"
+
+Concept: >
+プレミアムなニューモーフィズムと、
+ビジネス向けエディトリアルデザインを融合した
+次世代プレゼンテーションスタイル。
+
+柔らかな立体感を持つ白いカード、
+繊細なエンボス加工、
+ネオンのようなグラデーションアクセントを組み合わせ、
+高級感と先進性を両立する。
+
+AI、DX、SaaS、コンサルティング、
+スタートアップ提案書、
+事業戦略資料などに適した、
+静かな未来感を表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Premium
+- Futuristic
+- Elegant
+- Minimal
+- Executive
+- Innovative
+- Intelligent
+- Soft
+
+Color Palette:
+
+Background:
+Primary: "#EEF0F5"
+Secondary: "#F5F6F8"
+
+Text:
+Primary: "#6E7085"
+Secondary: "#A5A9B7"
+Light: "#C9CDD8"
+
+Accent:
+Purple: "#6E3BFF"
+Magenta: "#FF2E8C"
+Violet: "#8E45FF"
+
+Gradient:
+Primary:
+- "#6E3BFF"
+- "#FF2E8C"
+
+Neutral:
+White: "#FFFFFF"
+Shadow: "#D7DBE5"
+
+Typography:
+
+Headings:
+Font: "Geometric Sans Serif"
+Weight: 700
+Color: "#6E7085"
+
+Display:
+Font: "Geometric Sans Serif"
+Weight: 600
+Color: "#7A7E8F"
+
+Subheadings:
+Font: "Sans Serif"
+Weight: 500
+Color: "#A5A9B7"
+
+Body:
+Font: "Sans Serif"
+Weight: 400
+Color: "#8F93A3"
+LineHeight: 1.6
+
+Highlight:
+Style: "Gradient text"
+Colors:
+- "#6E3BFF"
+- "#FF2E8C"
+
+Layout:
+
+Structure:
+- Editorial presentation layout
+- Dashboard-inspired composition
+- Large negative space
+- Modular slide system
+- Balanced asymmetry
+
+Grid:
+Columns: 12
+Gutters: "Medium"
+
+Margins:
+Outer: "Large"
+
+Components:
+
+Cover:
+- Embossed hero title
+- Gradient portrait accent
+- Minimal decorative curves
+- Small CTA capsule
+- Floating profile element
+
+Introduction:
+- Executive profile section
+- Welcome message
+- Summary cards
+
+Services:
+- Three-card feature layout
+- Raised neumorphic panels
+- Circular icon badges
+- Percentage summaries
+
+Process:
+- Horizontal step diagrams
+- Radial workflows
+- Timeline sequences
+- Circular process maps
+
+Strategy:
+- SWOT analysis
+- Brainstorming diagrams
+- Hub-and-spoke structures
+- Relationship mapping
+
+Team:
+- Team member cards
+- Testimonial layouts
+- Leadership profiles
+
+Analytics:
+- KPI dashboards
+- Bar charts
+- Bubble comparisons
+- Geographic highlights
+
+Closing:
+- Minimal end screen
+- Embossed thank-you message
+
+Charts:
+
+Style:
+Premium minimal
+
+Preferred:
+- Gradient bar charts
+- Circular KPI indicators
+- Progress bars
+- Bubble charts
+- Percentage highlights
+
+Avoid:
+- Dense spreadsheets
+- Complex data tables
+
+Neumorphism:
+
+Surface:
+Background: "#EEF0F5"
+
+Radius:
+Small: "14px"
+Medium: "24px"
+Large: "36px"
+
+Raised:
+
+Highlight:
+Color: "rgba(255,255,255,0.95)"
+Offset: "-10px -10px"
+Blur: "24px"
+
+Shadow:
+Color: "rgba(198,203,214,0.45)"
+Offset: "10px 10px"
+Blur: "24px"
+
+Pressed:
+
+Highlight:
+Inset: true
+Color: "rgba(255,255,255,0.85)"
+
+Shadow:
+Inset: true
+Color: "rgba(198,203,214,0.28)"
+
+Embossing:
+
+Usage:
+- Cover titles
+- Closing pages
+- Hero keywords
+- Background numerals
+
+Style:
+Same-tone relief
+Extremely subtle contrast
+Soft depth illusion
+
+Cards:
+
+Style:
+Floating executive panels
+
+Appearance:
+Background: "#EEF0F5"
+Radius: "Large"
+
+Shadows:
+Type: "Soft neumorphic"
+
+Portraits:
+
+Frame:
+Circular crop
+
+Border:
+Gradient ring
+
+Placement:
+- Hero emphasis
+- Testimonials
+- Team introductions
+
+Icons:
+
+Style:
+Minimal outline icons
+
+Stroke:
+Width: "2px"
+
+Color:
+Gradient:
+- "#6E3BFF"
+- "#FF2E8C"
+
+Characteristics:
+- Rounded terminals
+- Modern appearance
+- Consistent proportions
+
+Subjects:
+- User
+- Lightbulb
+- Gear
+- Briefcase
+- Rocket
+- Message
+- Chart
+- Globe
+- Target
+
+Gradients:
+
+Usage:
+Apply only to:
+- Icons
+- Portrait backgrounds
+- KPI highlights
+- Progress indicators
+- CTA elements
+
+Direction:
+Linear 135deg
+
+Effects:
+
+Shadows:
+Usage: "Essential"
+
+Characteristics:
+- Soft diffusion
+- Low contrast
+- Consistent direction
+- Multi-layer depth
+
+Borders:
+Usage: "Avoid"
+
+Gradients:
+Usage: "Selective emphasis"
+
+Textures:
+Usage: "None"
+
+Decorations:
+
+BackgroundElements:
+- Thin orbital curves
+- Minimal circular guides
+- Soft embossed shapes
+
+Spacing:
+
+SectionGap: "Extra Large"
+ComponentGap: "Large"
+InternalPadding: "Generous"
+
+Rules:
+- Use monochromatic neumorphic surfaces as the foundation.
+- Reserve gradient accents for moments of emphasis.
+- Balance premium minimalism with visual warmth.
+- Highlight people through circular portraits and gradient frames.
+- Maintain generous whitespace throughout.
+- Keep charts executive-focused and easy to scan.
+- Use embossed typography sparingly for sophistication.
+- Avoid visual clutter and excessive decoration.
+- Ensure every element follows a unified depth system.
+- Suitable for AI presentations, SaaS proposals, executive briefings, consulting decks, startup pitches, annual reports, and premium business storytelling.

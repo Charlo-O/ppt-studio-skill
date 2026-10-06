@@ -1,0 +1,154 @@
+Design Style:
+Name: "Isometric Business Infographic"
+
+Concept: >
+戦略資料、提案書、営業資料、
+事業計画、マーケティング資料、
+研修資料、社内報告資料など、
+幅広いビジネススライド向けの
+アイソメトリックインフォグラフィックデザイン。
+
+データ、プロセス、フレームワーク、
+組織、プロジェクト、サービスなどを
+アイソメトリックイラストと図解で
+わかりやすく整理して伝える。
+
+情報の理解しやすさを最優先にしながら、
+モダンで親しみやすい印象を与える。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Professional
+- Friendly
+- Structured
+- Informative
+- Strategic
+- Clean
+- Modern
+- Approachable
+
+Color Palette:
+Background:
+Primary: "#FFFFFF"
+Secondary: "#FFFFFF"
+
+Text:
+Primary: "#111111"
+Secondary: "#444444"
+
+Accent:
+Teal: "#2B8AA5"
+Green: "#86B25C"
+Lime: "#A9BA43"
+Yellow: "#D8C51E"
+
+Typography:
+Title:
+Font: "Bold Sans Serif"
+Weight: 800
+Color: "#111111"
+
+Heading:
+Font: "Bold Sans Serif"
+Weight: 700
+Color: "#111111"
+
+Body:
+Font: "Clean Sans Serif"
+Weight: 400
+Color: "#444444"
+
+Layout:
+Style: "Asymmetrical Infographic"
+
+Rules:
+- Large title aligned top-center or top-left
+- One large isometric illustration occupies 30–50% of slide area
+- Content blocks arranged around illustration
+- Generous whitespace
+- Strong visual hierarchy through numbering
+- Avoid dense paragraphs
+- Prefer 3–6 content items per slide
+
+Illustration:
+Type: "Flat Isometric Vector"
+
+Subjects:
+- Business teams
+- Office workspaces
+- Strategy maps
+- Dashboards
+- Analytics
+- Process diagrams
+- Customer journeys
+- Digital platforms
+- Laptops
+- Presentation boards
+- Growth charts
+- Collaboration tools
+- Project management
+- Innovation concepts
+
+Style:
+- Geometric
+- Simplified
+- Soft shadows
+- Clean vector shapes
+- Minimal detail
+- Consistent perspective
+
+Components:
+Section Cards:
+Shape: "Rounded Rectangle"
+Background: "#FFFFFF"
+Border: "None"
+
+Number Markers:
+Shape: "Circle"
+Style: "Solid Accent Color"
+TextColor: "#FFFFFF"
+
+Connectors:
+Style: "Thin Lines"
+Color: "#86B25C"
+
+Icons:
+Style: "Isometric"
+Color: "Palette Matched"
+
+Slide Types:
+- Cover
+- Executive Summary
+- Agenda
+- Overview
+- Timeline
+- Process Flow
+- Roadmap
+- Framework
+- Four-Column Overview
+- Section Divider
+- Feature Explanation
+- Comparison
+- Organization
+- KPI Dashboard
+- Summary
+
+Visual Rules:
+- Use one dominant isometric object per slide
+- Pair illustration with numbered content blocks
+- Maintain consistent isometric angle across all slides
+- Use accent colors only for emphasis
+- Keep backgrounds plain and uncluttered
+- Emphasize readability over decoration
+- Favor infographic layouts over traditional bullet lists
+
+Avoid:
+- Photographs
+- Realistic rendering
+- Dark backgrounds
+- Heavy gradients
+- Complex textures
+- Excessive icon variety
+- Dense text walls

@@ -1,0 +1,209 @@
+Design Style:
+Name: "Bauhaus Cartoon"
+
+Concept: >
+バウハウスの機能主義、
+オランダのグラフィックデザイン、
+子ども向け絵本、
+美術大学のオープンキャンパスポスター、
+ミッドセンチュリーの教育イラストから着想を得た
+ユーモラスで知的なエディトリアルデザイン。
+
+幾何学図形と単純化されたキャラクターによって、
+難しい情報を「誰もが直感的に理解できる記号」に変換する。
+
+真面目さと遊び心、
+教育性とナンセンスを同居させ、
+思わず微笑んでしまう視覚体験を生み出す。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Playful
+- Intelligent
+- Graphic
+- Friendly
+- Educational
+- Bold
+- Minimal
+- Memorable
+
+Temperature:
+Overall: Vibrant
+
+Color Palette:
+Background:
+PaperWhite: "#F7F7F4"
+
+Primary:
+SignalRed: "#F1201A"
+SkyBlue: "#39B8F2"
+LemonYellow: "#F3E547"
+
+Secondary:
+MintGreen: "#38C172"
+BubblePink: "#F5C6CF"
+
+Accent:
+InkBlack: "#111111"
+White: "#FFFFFF"
+
+Color Rules:
+MaximumColorsPerSlide: 4
+UseFlatColorsOnly: true
+
+Typography:
+Headlines:
+Style: >
+幾何学的で親しみやすいサンセリフ。
+
+FuturaやBauhaus系書体を想起させる
+丸みのある力強い文字。
+
+短い言葉を大きく配置し、
+ポスターのアイコンとして扱う。
+
+Weight: 700-900
+Tracking: Tight
+Case: Mixed
+
+Secondary:
+Style: >
+シンプルなサンセリフ。
+
+情報を整理する役割を担い、
+図形とのバランスを重視する。
+
+Weight: 400-500
+
+Body:
+Weight: 400
+LineHeight: 1.3-1.5
+
+Layout:
+Structure: >
+コミックのコマ割りと
+モダニズムポスターのグリッドを融合した
+タイル型レイアウト。
+
+明確な区画ごとに
+異なる情報やイラストを配置し、
+一目で内容が把握できる構造をつくる。
+
+Composition:
+- Modular panels
+- Thick dividers
+- Character-centered blocks
+- Poster hierarchy
+- Symmetrical balance
+- Graphic repetition
+- Editorial simplicity
+- Strong focal points
+
+Alignment:
+Preference: Grid-first
+ControlledChaos: Low
+
+Graphic Elements:
+Shapes:
+- Rounded rectangles
+- Thick lines
+- Circles
+- Pill shapes
+- Arches
+- Exclamation marks
+- Simple frames
+- Geometric blocks
+
+Symbols:
+- Eyes
+- Hands
+- Ears
+- Mouths
+- Footsteps
+- Exclamation marks
+- Speech fragments
+- Abstract faces
+
+Decorative Rules:
+- Use symbols as educational icons.
+- Favor simplicity over detail.
+- Preserve strong outlines.
+- Let humor emerge from exaggeration.
+
+Patterns:
+Style:
+- Solid color fields
+- Minimal stripes
+- Repeated punctuation
+- Geometric repetition
+
+Imagery:
+Style: >
+人体の一部や日用品を
+抽象的なキャラクターへ変換する。
+
+顔、手、耳、目などを
+シンプルな図形で再構成し、
+ユーモラスで少しシュールな存在として描く。
+
+Treatment:
+- Flat illustration
+- Thick black outlines
+- Minimal facial features
+- Simplified anatomy
+- Poster-like silhouettes
+- No gradients
+
+Subjects:
+- Anthropomorphic objects
+- Abstract body parts
+- Cartoon hands
+- Graphic faces
+- Everyday gestures
+- Educational symbols
+- Friendly mascots
+
+Background:
+Style: >
+単色のカラーブロックを
+タイル状に切り替える。
+
+背景そのものが
+情報整理のフレームとして機能する。
+
+Effects:
+Texture:
+Smooth offset print
+Slight paper grain
+
+Shadow:
+None
+
+Depth:
+Flat graphic composition
+
+Distortion:
+None
+
+Visual Rules:
+- Restrict the palette to red, blue, yellow, green, pink, black, and white.
+- Use thick black outlines consistently.
+- Divide content into clearly defined panels.
+- Let illustrations communicate ideas instantly.
+- Favor short headlines and visual symbols.
+- Balance seriousness with absurd humor.
+- Avoid unnecessary detail.
+- Design for immediate recognition on mobile screens.
+
+Exclusions:
+- Photorealistic imagery
+- Glassmorphism
+- Smooth gradients
+- Complex 3D rendering
+- Luxury aesthetics
+- Corporate presentation templates
+- Delicate watercolor textures
+- Excessive visual clutter
+- Hyper-detailed illustrations

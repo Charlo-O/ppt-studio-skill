@@ -1,0 +1,182 @@
+Design Style:
+Name: "Speculative Instruction"
+
+Concept: >
+取扱説明書、建築マニュアル、
+スイス・モダニズム、
+ブループリント、SFエディトリアル、
+コンセプチュアルアートから着想を得た
+実験的プレゼンテーションスタイル。
+
+システムや概念を、
+「存在するかもしれない装置の説明書」
+として描く。
+
+正確さと曖昧さ、
+秩序とユーモアを共存させることで、
+情報そのものに想像力を与える。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Speculative
+- Minimal
+- Technical
+- Playful
+- Curious
+- Experimental
+- Editorial
+- Intelligent
+
+Color Palette:
+Background:
+PaperWhite: "#F8F8F6"
+
+Ink:
+BlueprintBlue: "#2648FF"
+
+Accent:
+SoftGray: "#DADADA"
+
+Typography:
+Headlines:
+Style: "Bold slab serif"
+Weight: 700
+Case: Uppercase
+Tracking: Tight
+
+Labels:
+Style: "Neo-grotesque sans serif"
+Weight: 500
+Size: Small
+
+Annotations:
+Style: "Monospaced sans serif"
+Weight: 400
+
+Body:
+Style: "Neutral sans serif"
+Weight: 400
+
+Illustration:
+Style:
+Speculative instruction graphics
+
+Rendering:
+- Monoline vector drawings
+- Flat iconography
+- Minimal geometric forms
+- Isometric simplification
+- Technical diagrams
+- No shading
+- No realism
+
+Subjects:
+Elements:
+- Abstract structures
+- Architectural fragments
+- Human pictograms
+- Warning symbols
+- Modular systems
+- Geometric objects
+- Interface bubbles
+- Status indicators
+
+Layout:
+Overall:
+- Poster-like manual format
+- Sequential instruction pages
+- Strong framing
+- Editorial rhythm
+
+Composition:
+- Large headline dominance
+- Instruction panels
+- Rounded containers
+- Floating symbols
+- Structured asymmetry
+- Layered annotations
+
+Information Design:
+Hierarchy:
+- Headline first
+- Visual instructions second
+- Supporting labels third
+
+Structure:
+- Divide into stages
+- Number sections
+- Explain through icons
+- Encourage interpretation
+- Leave room for ambiguity
+
+Graphic Elements:
+- Warning triangles
+- Approval icons
+- Disapproval icons
+- Speech bubbles
+- Dotted outlines
+- Smiley indicators
+- Modular frames
+- Blueprint symbols
+
+Storytelling:
+Flow:
+- Introduce the system
+- Reveal the components
+- Define acceptable actions
+- Present cautions
+- Suggest hidden meaning
+
+Composition Rules:
+- Explain without overexplaining
+- Maintain mystery
+- Use repetition for humor
+- Treat symbols as narrative devices
+- Balance clarity and ambiguity
+
+Design Rules:
+- Manuals can tell stories
+- Systems can be playful
+- Precision should coexist with imagination
+- Invite curiosity
+- Encourage interpretation
+
+Print Effects:
+Style:
+- Single-color offset print
+- Clean vector finish
+- Slight registration imperfections
+- Flat ink appearance
+- Poster-like simplicity
+
+Avoid:
+- Photorealism
+- Corporate stock imagery
+- Decorative gradients
+- Complex textures
+- Literal explanations
+- Dense paragraphs
+- Emotional photography
+- Excessive ornamentation
+
+Suitable For:
+- Future scenario workshops
+- AI ethics presentations
+- Design fiction lectures
+- Philosophy talks
+- Systems thinking
+- Educational experiments
+- Innovation keynotes
+- Creative strategy sessions
+
+Keywords:
+- Design Fiction
+- Speculative Systems
+- Instructional Narrative
+- Blueprint Editorial
+- Swiss Experimental
+- Fictional Manuals
+- Playful Modernism
+- Narrative Diagrams

@@ -1,0 +1,162 @@
+Design Style:
+Name: "Learning Isometric"
+
+Concept: >
+プレゼンテーション向けの
+人物中心アイソメトリックデザイン。
+
+親しみやすさと
+情報整理のしやすさを両立し、
+ビジネス資料から教育資料まで
+幅広く利用できる。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Friendly
+- Human
+- Educational
+- Positive
+- Warm
+- Modern
+- Collaborative
+- Approachable
+
+Color Palette:
+
+Background:
+Primary: "#F5F3EE"
+
+Text:
+Primary: "#111111"
+Secondary: "#555555"
+
+Accent:
+Primary: "#F4B85A"
+Secondary: "#E7A741"
+
+Illustration:
+
+Style:
+Human-centered isometric
+
+Rendering:
+Flat vector
+Soft shadows
+Rounded forms
+Clean geometry
+
+Subjects:
+- People
+- Learning
+- Communication
+- Teamwork
+- Social Media
+- Growth
+- Creativity
+- Presentation
+
+Typography:
+
+Headings:
+Style: Rounded geometric sans-serif
+Weight: 700-800
+
+Body:
+Style: Clean sans-serif
+Weight: 400-500
+
+Layout:
+
+Philosophy:
+Illustration first
+
+Structure:
+- Large illustration
+- Short text blocks
+- Wide white space
+- Simple hierarchy
+
+Components:
+
+Cover:
+- Large character illustration
+- Bold title
+- Minimal subtitle
+
+Section Divider:
+- Large section number
+- Supporting illustration
+
+Timeline:
+- Rounded milestones
+- Soft connectors
+
+Process:
+- Step-by-step layout
+- Human activity visuals
+
+Comparison:
+- Icon based cards
+- Simple metrics
+
+Graphics:
+
+Decorative Elements:
+- Dots
+- Triangles
+- Small arrows
+- Floating icons
+
+Charts:
+
+Style:
+Minimal infographic
+
+Types:
+- Donut charts
+- Progress charts
+- Timelines
+- KPI cards
+
+Spacing:
+
+White Space:
+Very generous
+
+Density:
+Low
+
+Visual Hierarchy:
+
+Level1:
+Bold title
+
+Level2:
+Illustration
+
+Level3:
+Key numbers
+
+Level4:
+Supporting text
+
+Avoid:
+- Dark corporate styles
+- Heavy gradients
+- Technical diagrams
+- Dense dashboards
+- Realistic rendering
+
+Keywords:
+- Social Media
+- Education
+- Human Centered
+- Learning
+- Community
+- Marketing
+- Personal Growth
+- AI Literacy
+- Career Development
+- Lifestyle Isometric

@@ -1,0 +1,203 @@
+Design Style:
+Name: "Modular Playbook"
+
+Concept: >
+組み立てブロック、
+STEM教育、
+デザイン思考ワークショップ、
+子ども向け教材、
+ビジュアルファシリテーションから着想を得た
+モジュール型インフォグラフィックデザイン。
+
+すべての情報を
+組み立てブロックで構築された
+システムとして表現する。
+
+各スライドは
+「組み立てる」「接続する」「発見する」
+という遊びの体験を通して
+理解できる構造にする。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+
+* Playful
+* Educational
+* Structured
+* Optimistic
+* Friendly
+* Modular
+* Accessible
+* Creative
+
+Temperature:
+Overall: Bright
+
+Color Palette:
+Background:
+SoftPaper: "#F3F0E8"
+
+Primary:
+Red: "#E53935"
+Blue: "#4285F4"
+Yellow: "#FFD233"
+Green: "#43A047"
+
+Secondary:
+Orange: "#FB8C00"
+White: "#FFFFFF"
+DarkGray: "#444444"
+
+Typography:
+Style: >
+太く読みやすい
+モダンサンセリフ体。
+
+タイトルは中央揃えまたは左揃え。
+
+教材やワークショップ資料のように
+親しみやすく整理する。
+
+長文は避ける。
+
+Layout:
+Structure: >
+組み立てブロックを
+レイアウトグリッドとして使用。
+
+各情報は
+独立したブロックに格納する。
+
+スライド全体を
+モジュールの集合体として構成する。
+
+Grid:
+Style: >
+規則的なモジュラーグリッド。
+
+情報を均等に整理する。
+
+Shapes:
+Usage:
+- Interlocking blocks
+- Modular plates
+- Block connectors
+- Modular blocks
+- Rounded rectangles
+- Simple arrows
+
+Rules: >
+ブロックの接続構造を
+デザインモチーフとして使う。
+
+図形同士は
+組み立てられているように配置する。
+
+Infographics:
+Style: >
+チャート、
+タイムライン、
+プロセス図、
+比較表を
+ブロック構造で表現する。
+
+数値や進捗も
+ブロック数で可視化する。
+
+Illustration:
+Style: >
+フラットデザイン。
+
+組み立てブロック、
+シンプルなキャラクター、
+モジュラーパーツを活用。
+
+親しみやすく簡潔。
+
+Photography:
+Style: >
+使用する場合は
+組み立て作品や
+創作活動シーンのみ。
+
+実写人物は使わない。
+
+Composition:
+Characteristics:
+- Modular structure
+- Block-based storytelling
+- Educational clarity
+- Playful organization
+- Visual simplicity
+- Bright color coding
+- Family-friendly communication
+- Workshop canvas aesthetic
+
+Visual Direction:
+
+* LEGO-style building blocks
+* Educational workshop materials
+* Modular information design
+* Learning through play
+* Color coded sections
+* Block-based infographics
+* Visual thinking tools
+* Interactive classroom graphics
+
+Slide Patterns:
+
+Cover:
+- Large block wall
+- Centered title block
+- Simple character mascots
+
+Timeline:
+- Milestones represented as connected blocks
+
+Process:
+- Each step shown as a modular unit
+
+Comparison:
+- Categories represented by different block colors
+
+KPI:
+- Metrics visualized using stacked blocks
+
+Checklist:
+- Tasks shown inside interlocking modules
+
+Map:
+- Regions color coded using primary colors
+
+Effects:
+
+* Clean vector graphics
+* Toy-like appearance
+* Flat shadows
+* Bright educational aesthetic
+
+Avoid:
+
+* Corporate consulting style
+* Dark themes
+* Glassmorphism
+* Complex gradients
+* Dense text
+* Technical engineering diagrams
+* Luxury branding
+* Realistic 3D rendering
+
+Keywords:
+
+* Modular Infographic
+* Learning Through Play
+* STEM Education
+* Workshop Design
+* Visual Thinking
+* Educational Slides
+* Block System
+* Playful Business Design
+* Interactive Learning
+* Modular Storytelling

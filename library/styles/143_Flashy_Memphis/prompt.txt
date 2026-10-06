@@ -1,0 +1,153 @@
+Design Style:
+Name: "Flashy Memphis"
+
+Concept: >
+モダンインフォグラフィック、
+フラットデザイン、
+初期Material Design、
+Memphis Design、
+スタートアップ企業資料、
+クリエイティブエージェンシー提案書から着想を得た
+カラフルでポップなプレゼンテーションデザイン。
+
+スライドを説明資料ではなく、
+デザイン性の高いブランドプレゼンテーションとして構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Bright
+- Friendly
+- Modern
+- Creative
+- Colorful
+- Optimistic
+- Dynamic
+- Clean
+
+Temperature:
+Overall: Vibrant
+
+Background:
+Color: "#FFF4F6"
+
+Color Palette:
+Primary:
+Aqua: "#3FD9D0"
+Coral: "#FF5C7A"
+Purple: "#8E63E6"
+Sunshine: "#FFD84A"
+
+Secondary:
+Mint: "#BFF4C8"
+Orange: "#FFA84A"
+SkyBlue: "#71CFFF"
+
+Neutral:
+White: "#FFFFFF"
+DarkGray: "#3C3C3C"
+
+Typography:
+Style:
+- Bold geometric sans-serif
+- Rounded sans-serif
+- Large clean headlines
+- Minimal body text
+- High contrast hierarchy
+
+Layout:
+Structure:
+- Modular card layout
+- Editorial grid
+- Large feature panels
+- Balanced whitespace
+- Flexible asymmetrical composition
+- Full-width section slides
+- Split layouts with image and content
+
+Composition:
+Principles:
+- Large geometric color blocks
+- Floating translucent circles
+- Rounded shapes
+- Clean alignment
+- Consistent margins
+- Spacious layouts
+- Minimal visual clutter
+
+Shapes:
+Primary:
+- Circle
+- Semi-circle
+- Quarter circle
+- Rounded rectangle
+- Rectangle
+- Thin line
+- Soft diagonal blocks
+
+Graphic Elements:
+- Overlapping transparent circles
+- Color overlays
+- Simple geometric accents
+- Minimal icons
+- Infographic arrows
+- Timeline graphics
+- Circular statistics
+- Process diagrams
+
+Photography:
+Style:
+- Lifestyle photography
+- Creative workspace
+- Modern portrait
+- Product photography
+- Flat-lay compositions
+- Bright lighting
+- High saturation
+
+Image Treatment:
+- Rectangular image crops
+- Circular masks
+- Large image windows
+- Flat borders
+- Minimal shadows
+- Graphic overlays
+
+Infographics:
+Style:
+- Circular diagrams
+- Timeline layouts
+- Process arrows
+- Simple charts
+- KPI cards
+- Flow diagrams
+- Modern dashboard elements
+
+Decorations:
+- Large semi-transparent circles
+- Floating color dots
+- Soft gradients only inside accent shapes
+- Layered geometric blocks
+- Rounded accents
+
+Whitespace:
+Density: High
+
+Visual Rules:
+- Use one dominant accent color per slide.
+- Maintain generous whitespace.
+- Combine bold color blocks with clean white space.
+- Use circular motifs consistently throughout the presentation.
+- Keep layouts playful while preserving strong readability.
+- Alternate between photo-driven and infographic-driven slides.
+- Favor flat graphics over realistic 3D effects.
+
+Avoid:
+- Glassmorphism
+- Skeuomorphic textures
+- Heavy shadows
+- Metallic effects
+- Dark corporate themes
+- Dense text
+- Excessive decorative illustrations

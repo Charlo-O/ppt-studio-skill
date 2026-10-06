@@ -1,0 +1,157 @@
+Design Style:
+Name: "Corporate Editorial Insight Report"
+Concept: "グローバルコンサルティングファームやシンクタンクの調査レポートをベースにした、エディトリアルとデータストーリーテリングを融合したプレミアムレポートデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Editorial
+- Strategic
+- Corporate
+- Analytical
+- Premium
+- Modern
+- Data-driven
+- Global
+
+Color Palette:
+Text:
+Primary: "#111111"
+Secondary: "#555555"
+Light: "#FFFFFF"
+
+Accent:
+CorporateRed: "#E0301E"
+Orange: "#F28C00"
+Magenta: "#E4007C"
+GoldenYellow: "#FDB515"
+SteelBlue: "#7D8B8F"
+
+Neutral:
+White: "#FFFFFF"
+LightGray: "#F3F4F5"
+MediumGray: "#D9D9D9"
+Charcoal: "#1C1C1C"
+
+Typography:
+Heading:
+Font: "Elegant Editorial Serif"
+Weight: "Regular"
+Style: "Large report-style headlines"
+
+Display:
+Font: "Modern Serif"
+Weight: "Medium"
+Style: "Section-opening typography"
+
+Body:
+Font: "Corporate Sans Serif"
+Weight: "Regular"
+Style: "Readable report text"
+
+Caption:
+Font: "Minimal Sans Serif"
+Weight: "Light"
+Style: "Figure labels and annotations"
+
+Layout:
+Structure:
+- Editorial report layout
+- Large asymmetrical margins
+- Magazine-inspired composition
+- Strong visual hierarchy
+- Multi-column text grids
+- Modular information blocks
+
+Grid:
+Columns: 12
+Gutters: Wide
+Alignment: Strict grid system
+
+Section Covers:
+Style: "Large photography with layered title blocks"
+Composition:
+- Full-width image banner
+- Floating section number
+- Overlapping color panels
+- Large editorial title
+
+Content Pages:
+Style: "Report and analysis pages"
+Composition:
+- Text column + image column
+- Text column + chart column
+- Full-width charts
+- Pull quotes
+- Executive summaries
+
+Data Visualization:
+Style:
+- Clean consulting-style charts
+- Stacked bar charts
+- Large numerical callouts
+- Circular comparison charts
+- Minimal axes and labels
+- Consistent color coding
+
+Rules:
+- Use accent colors only for key insights
+- Keep chart backgrounds clean
+- Prioritize readability over decoration
+
+Graphic Elements:
+Pattern:
+Type: "Dot matrix grid"
+Usage:
+- Corners
+- Section dividers
+- Background accents
+
+Decorative:
+- Repeating dot fields
+- Minimal geometric overlays
+- Thin divider lines
+- Large quotation marks
+- Numbered section markers
+
+Photography:
+Style:
+- Global business environments
+- Modern cityscapes
+- Infrastructure
+- Corporate collaboration
+- Technology close-ups
+- Aerial urban views
+
+Treatment:
+- High contrast
+- Editorial crop
+- Full-bleed hero imagery
+- Clean professional look
+
+Tables:
+Style:
+- Wide layout
+- Minimal borders
+- Strong headers
+- Consulting report appearance
+
+Icons:
+Style:
+- Thin line icons
+- Monoline illustrations
+- Consistent stroke width
+- Corporate infographic system
+
+Whitespace:
+Density: "Low"
+Principle:
+- Large breathing space
+- Premium report feeling
+- Clear content separation
+
+Overall Impression:
+
+- Economist special report
+- Premium consulting presentation

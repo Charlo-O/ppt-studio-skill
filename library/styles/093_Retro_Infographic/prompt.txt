@@ -1,0 +1,199 @@
+Design Style:
+Name: "Retro Infographic"
+
+Concept: >
+雑誌の特集ページのような
+エディトリアルデザインと、
+フラットなインフォグラフィックを融合した
+ミニマルビジネスプレゼンテーション。
+
+大胆なタイポグラフィを見出しとして用い、
+グラフ・アイコン・図解・地図を
+モジュール化されたレイアウトで整理する。
+
+シンプルな配色と余白によって、
+多くの情報を軽快かつ視覚的に伝える。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Editorial
+- Minimal
+- Informative
+- Modern
+- Analytical
+- Playful
+- Structured
+- Accessible
+
+Color Palette:
+
+Background:
+Primary: "#F4F4F2"
+
+Text:
+Primary: "#222222"
+Secondary: "#666666"
+
+Accent:
+Cyan: "#42C7D9"
+Orange: "#F59B38"
+Navy: "#35495C"
+LightGray: "#D9DDE2"
+
+Chart:
+Primary: "#42C7D9"
+Secondary: "#F59B38"
+Dark: "#35495C"
+Neutral: "#BFC5CE"
+
+Typography:
+
+Headings:
+Font: "Condensed Sans Serif"
+Weight: 800
+Transform: "Uppercase"
+LetterSpacing: "-0.02em"
+Color: "#222222"
+
+Subheadings:
+Font: "Sans Serif"
+Weight: 700
+Transform: "Uppercase"
+Color: "#222222"
+
+Body:
+Font: "Sans Serif"
+Weight: 400
+Color: "#666666"
+LineHeight: 1.5
+
+Numbers:
+Font: "Condensed Sans Serif"
+Weight: 700
+Color: "#222222"
+
+Layout:
+
+Structure:
+- Editorial magazine grid
+- Vertical storytelling composition
+- Asymmetrical modular layout
+- Independent infographic sections
+- Strong visual hierarchy
+
+Grid:
+Columns: 3
+Gutters: "Medium"
+
+Margins:
+Outer: "Medium"
+
+Components:
+
+Charts:
+- Line graphs
+- Donut charts
+- Ring charts
+- Percentage bars
+- Horizontal comparison bars
+- Progress indicators
+- Mini dashboards
+
+Infographics:
+- Numbered process diagrams
+- Three-step workflows
+- Puzzle diagrams
+- Human figure comparisons
+- Device illustrations
+- KPI blocks
+- Statistic highlights
+- Checklist icons
+
+Maps:
+- Dotted world maps
+- Minimal country comparisons
+- Geographic callouts
+
+Cards:
+- Independent infographic panels
+- Section containers
+- Metric summaries
+
+Illustration:
+
+Style:
+Flat Editorial Infographic
+
+Rendering:
+Flat vector
+Minimal detail
+Rounded geometry
+Simple silhouettes
+Consistent proportions
+
+Icons:
+
+Style:
+Solid pictograms
+
+Characteristics:
+- Large and recognizable
+- Rounded shapes
+- Simple symbolism
+- Uniform appearance
+
+Charts:
+
+Stroke:
+Thickness: "Medium"
+
+Labels:
+Size: "Small"
+Color: "#666666"
+
+Axis:
+Color: "#C8CDD4"
+Thickness: "Thin"
+
+Gridlines:
+Usage: "Minimal"
+
+Highlights:
+UseAccentColors: true
+MaximumAccentColors: 2
+
+Spacing:
+
+SectionGap: "Large"
+ComponentGap: "Medium"
+InternalPadding: "Medium"
+
+Effects:
+
+Shadows:
+Usage: "None"
+
+Borders:
+Usage: "None"
+
+Gradients:
+Usage: "None"
+
+Textures:
+Usage: "None"
+
+Decorations:
+Usage: "Minimal"
+
+Rules:
+- Prioritize bold typography as a visual anchor.
+- Organize information into clearly separated editorial modules.
+- Use accent colors only to emphasize important data.
+- Maintain a flat vector aesthetic throughout.
+- Avoid realistic illustrations and 3D effects.
+- Ensure charts and icons share a unified style.
+- Keep layouts visually dynamic while preserving readability.
+- Emphasize quick scanning and intuitive understanding.
+- Suitable for reports, business presentations, educational materials, and magazine-style explainers.

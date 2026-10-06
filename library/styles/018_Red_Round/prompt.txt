@@ -1,0 +1,219 @@
+Design Style:
+Name: "Neo Circle Editorial"
+Concept: "大胆な赤い円形グラフィックとモノクロ写真を組み合わせた、アートディレクション性の高いミニマル・エディトリアルプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Editorial
+- Modern
+- Minimal
+- Bold
+- Geometric
+- Premium
+- Creative
+- Fashion Inspired
+
+Color Palette:
+Background:
+Main: "#FFFFFF"
+Dark: "#0A0A0A"
+SoftGray: "#EFEFEF"
+
+Text:
+Primary: "#111111"
+Secondary: "#666666"
+Light: "#FFFFFF"
+
+Accent:
+BrightRed: "#FF1A1A"
+DeepRed: "#D60000"
+Black: "#000000"
+
+Neutral:
+Gray01: "#D9D9D9"
+Gray02: "#BFBFBF"
+Gray03: "#8C8C8C"
+
+Typography:
+Heading:
+Font: "Bold Geometric Sans"
+Weight: "700-900"
+Style:
+- "large editorial typography"
+- "short bold headlines"
+- "mixed black and red keywords"
+- "fashion magazine inspired"
+
+Body:
+Font: "Modern Sans Serif"
+Weight: "400-500"
+Style:
+- "minimal paragraph layout"
+- "small readable text"
+- "clean editorial spacing"
+
+Numbers:
+Font: "Condensed Sans"
+Weight: "700"
+
+Layout:
+Overall:
+- "large white space"
+- "strong asymmetrical layouts"
+- "circular compositions"
+- "editorial magazine balance"
+- "minimal but dramatic visuals"
+- "high contrast composition"
+
+Grid:
+Columns: "2-4 flexible columns"
+Margin: "wide margins"
+Alignment: "mostly left aligned"
+
+Images:
+Style:
+- "black and white photography"
+- "high contrast portraits"
+- "creative office and lifestyle scenes"
+- "circular image masking"
+- "cropped editorial photography"
+
+Shape Language:
+Main:
+- "large red circles"
+- "concentric rings"
+- "outlined circular frames"
+- "floating dots"
+- "thin diagonal lines"
+- "semi-circular graphic elements"
+
+Decorative Elements:
+Style:
+- "thin red diagonal lines"
+- "small circular dots"
+- "minimal iconography"
+- "editorial divider lines"
+- "subtle grayscale rings"
+
+Header:
+Style:
+- "small centered logo/title"
+- "minimal top navigation"
+- "tiny corner icons"
+
+Footer:
+Style:
+- "minimal footer text"
+- "small page numbers"
+- "tiny editorial labels"
+
+Slide Types:
+Cover:
+Background: "full monochrome photo"
+Layout:
+- "large concentric red circles overlay"
+- "bold white title"
+- "minimal subtitle"
+- "dramatic visual hierarchy"
+Style:
+- "high-end creative agency mood"
+- "strong visual impact"
+
+Introduction:
+Layout:
+- "large headline on left"
+- "circular photo composition"
+- "thin red diagonal accent line"
+- "minimal supporting text"
+
+History:
+Layout:
+- "editorial storytelling layout"
+- "large circular photo frame"
+- "bold red circle graphics"
+- "clean text alignment"
+
+Collaboration:
+Layout:
+- "multiple overlapping circles"
+- "large red geometric focal point"
+- "floating monochrome images"
+- "minimal typography"
+
+MissionVision:
+Background: "#0A0A0A"
+Layout:
+- "large red concentric circles"
+- "white typography"
+- "red keyword highlights"
+- "high contrast composition"
+Style:
+- "cinematic editorial atmosphere"
+- "premium modern branding"
+
+Team:
+Layout:
+- "team members inside circular frames"
+- "thin red outline rings"
+- "minimal profile text"
+- "clean equal spacing"
+
+ExpertProfile:
+Layout:
+- "large portrait on one side"
+- "bold red circular background"
+- "minimal infographic bars"
+- "clean personal branding"
+
+Services:
+Layout:
+- "icon-based circular service cards"
+- "connected infographic lines"
+- "minimal text below icons"
+- "editorial icon spacing"
+
+Portfolio:
+Layout:
+- "large circular compositions"
+- "layered photo circles"
+- "bold red and black contrast"
+- "minimal captions"
+
+DeviceMockup:
+Layout:
+- "centered device mockup"
+- "large circular background accents"
+- "minimal explanatory text"
+- "clean product showcase"
+
+Charts:
+Style:
+- "simple infographic charts"
+- "red, black, gray palette only"
+- "thick circular graphs"
+- "minimal grid lines"
+- "editorial data visualization"
+
+Pricing:
+Layout:
+- "rounded pricing cards"
+- "alternating red and black cards"
+- "minimal typography"
+- "centered pricing layout"
+
+Contact:
+Layout:
+- "large circular image"
+- "simple contact information"
+- "minimal icons"
+- "balanced whitespace"
+
+Rules:
+- "赤は主役カラーとして大胆に使用する"
+- "写真はモノクロで統一感を出す"
+- "円形モチーフを全体デザインの中心にする"
+- "余白を大きく取り、ミニマルで洗練された印象を維持する"
+- "装飾は最小限にし、図形と写真で構成する"
+- "モダンアートポスターのような構図を意識する"

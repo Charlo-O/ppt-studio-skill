@@ -1,0 +1,168 @@
+Design Style:
+Name: "Windows98 UI"
+
+Concept: >
+Windows 98、
+Windows 95、
+Internet Explorer 5、
+Classic Macintosh、
+初期Webブラウザ、
+レトロGUI、
+Y2Kコンピューターカルチャー、
+1990年代後半のデスクトップソフトウェアから着想を得た
+クラシックOSインターフェース型プレゼンテーション。
+
+スライドを説明資料ではなく、
+Windows 98のデスクトップ、
+レトロソフトウェア、
+古いWebブラウザ、
+パソコン雑誌の画面紹介として構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Retro
+- Nostalgic
+- Geeky
+- Digital
+- Playful
+- Technical
+- Y2K
+- Desktop
+
+Temperature:
+Overall: Cool
+
+Background:
+Color: "#008B8B"
+
+Color Palette:
+Primary:
+TealDesktop: "#0A8F95"
+WindowGray: "#C9C9C9"
+TitleBlue: "#0C5DA5"
+White: "#FFFFFF"
+
+Secondary:
+Beige: "#E6DDC8"
+LightGray: "#ECECEC"
+Navy: "#003366"
+
+Accent:
+Black: "#111111"
+
+Typography:
+Style:
+- Classic Windows system font
+- Pixel-inspired bitmap font
+- Monospaced interface font
+- Small UI labels
+- Serif headings inspired by old office software
+
+Layout:
+Structure:
+- Desktop workspace
+- Multiple overlapping windows
+- Browser window layout
+- Dialog box interface
+- Application workspace
+- Taskbar navigation
+
+Composition:
+Principles:
+- Window-based composition
+- Layered interface panels
+- Desktop metaphor
+- Software UI hierarchy
+- Classic application layout
+
+UI Components:
+Windows:
+- Gray window frames
+- Blue title bars
+- Classic minimize, maximize, close buttons
+- Menu bar
+- Toolbar
+- Scroll bars
+- Status bar
+- Dialog boxes
+- File explorer windows
+
+Desktop:
+- Desktop icons
+- Taskbar
+- Start button
+- System tray
+- Clock
+- Context menus
+
+Graphic Elements:
+- Mouse cursor
+- Folder icons
+- Browser buttons
+- Loading bars
+- Error dialogs
+- Alert windows
+- Pixel icons
+- Toolbar buttons
+- Window controls
+
+Photography:
+Style:
+- Webcam snapshots
+- Low-resolution portraits
+- Personal profile photos
+- Small image windows
+- Polaroid-like crops
+
+Image Treatment:
+- Embedded inside windows
+- Thin gray borders
+- Pixel-friendly scaling
+- Minimal effects
+
+Tables:
+Style:
+- Spreadsheet inspired
+- Old Microsoft Excel aesthetic
+- Thin grid lines
+- Gray headers
+
+Charts:
+Style:
+- Simple pie charts
+- Basic bar charts
+- Office 97 graphics
+- Flat colors
+
+Effects:
+Style:
+- Flat interface
+- Minimal gradients
+- Small bevels
+- Pixel rendering
+- CRT-inspired sharp edges
+
+Whitespace:
+Density: Medium
+
+Visual Rules:
+- Every slide should resemble a Windows 98 desktop application.
+- Present information inside classic software windows.
+- Use blue title bars and gray interface frames consistently.
+- Include menu bars, taskbars, and browser controls.
+- Keep all interface elements pixel-inspired and low-tech.
+- Organize content as if navigating desktop software.
+- Maintain the nostalgic feeling of late-1990s operating systems.
+- Prioritize UI authenticity over modern aesthetics.
+
+Avoid:
+- Glassmorphism
+- Material Design
+- Flat mobile UI
+- Modern browser styling
+- Rounded cards
+- Large gradients
+- Neon effects
+- Contemporary dashboard layouts

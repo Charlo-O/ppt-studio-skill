@@ -1,0 +1,213 @@
+Design Style:
+Name: "Eye Expression"
+
+Concept: >
+Bauhaus、
+ミニマルキャラクター、
+Google Material、
+北欧グラフィック、
+ブランドマスコット、
+絵文字、
+UIアイコン、
+モダンポスターデザインから着想を得た
+アイ・エクスプレッション型エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+キャラクター設計資料、
+表情辞典、
+デザインシステム、
+ブランドガイドラインとして構成する。
+
+目だけで
+感情、
+意図、
+空気感、
+性格を伝える。
+
+顔全体ではなく、
+「目」がブランドアイコンとなる。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Graphic
+- Clever
+- Contemporary
+- Playful
+- Iconic
+- Editorial
+- Clean
+
+Temperature:
+Overall: Cool
+
+Background:
+Style: "Solid Color"
+
+Color:
+ElectricBlue: "#1E9CF0"
+
+Texture:
+None
+
+Color Palette:
+
+Primary:
+ElectricBlue: "#1E9CF0"
+
+Neutral:
+White: "#FFFFFF"
+Black: "#111111"
+
+Typography:
+
+Style:
+- Swiss Sans
+- Neo Grotesk
+- Minimal UI
+
+Heading:
+Weight: ExtraBold
+Scale: Large
+
+Caption:
+Weight: Medium
+Size: Small
+
+Layout:
+
+Structure: "Expression Library"
+
+Grid:
+Modular Grid
+
+Composition:
+- Uniform spacing
+- Large white margins
+- Repeating eye modules
+- Visual rhythm
+- Poster-style layout
+
+Illustration:
+
+Style: "Minimal eye icon system"
+
+Construction:
+
+Shapes:
+- Circle
+- Half Circle
+- Capsule
+- Rounded Rectangle
+- Rectangle
+- Arc
+
+Eyes:
+
+Components:
+- White eye shape
+- Black circular pupil
+- Simple eyelid
+
+Rules:
+- Eyes built from only 2–4 geometric shapes
+- Large negative space
+- Flat colors only
+- No outlines
+- No eyelashes
+- No eyebrows unless made from simple rectangles
+
+Expression Library:
+
+Variations:
+- Happy
+- Curious
+- Angry
+- Sleepy
+- Confused
+- Suspicious
+- Excited
+- Relaxed
+- Shy
+- Scared
+- Focused
+- Mischievous
+
+Graphic Elements:
+- Modular repetition
+- Shape exploration
+- Design system spacing
+- Icon cards
+- Minimal separators
+
+Rendering:
+
+Style:
+- Flat vector
+- UI icon system
+- Brand guideline
+- Editorial graphics
+
+Image Treatment:
+
+Shadows:
+None
+
+Lighting:
+None
+
+Texture:
+None
+
+Whitespace:
+Very Large
+
+Slide Variations:
+- Expression atlas
+- Character eye library
+- Emotion comparison
+- Icon exploration
+- Shape study
+- Brand guideline
+- Motion sequence
+- UI component page
+- Closing poster
+
+Composition Rules:
+- 1スライド1テーマ
+- 目だけで感情を表現する
+- 顔や体は描かない
+- 図形は2〜4個だけで構成する
+- フラットカラーのみ使用する
+- 白・黒・背景色だけで構成する
+- 強い余白を活かす
+- 均一なグリッドで整理する
+- プレゼンではなくブランドデザインシステムとして見せる
+
+Design Keywords:
+- Minimal Eyes
+- Character System
+- Bauhaus
+- Geometric Design
+- Brand Identity
+- Icon Library
+- Editorial Grid
+- UI Components
+- Flat Vector
+- Shape Language
+- Swiss Design
+- Visual Identity
+
+Avoid:
+- Photorealism
+- 3D graphics
+- Gradients
+- Outlines
+- Realistic anatomy
+- Facial details beyond eyes
+- Heavy textures
+- Corporate presentation layouts
+- Decorative effects
+- Dense information

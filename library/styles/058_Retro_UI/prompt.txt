@@ -1,0 +1,94 @@
+Design Style:
+Name: "Retro UI"
+
+Concept: >
+1990年代のWindows UIを
+現代的なミニマルデザインで再構成した
+ソフトレトロプレゼンテーション。
+
+パステルカラー、
+太いアウトライン、
+ウィンドウ風カードレイアウトを用い、
+親しみやすく整理された情報設計を実現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Friendly
+- Retro
+- Clean
+- Organized
+- Educational
+- Playful
+- Minimal
+- Professional
+
+Color Palette:
+
+Background:
+Primary: "#D8D0C7"
+
+Surface:
+Primary: "#F4F0E7"
+
+Text:
+Primary: "#111111"
+
+Accent:
+Pink: "#E6C5D9"
+Peach: "#F4C7B5"
+Sage: "#D6E0D5"
+
+Typography:
+
+Headings:
+Style: Rounded Sans
+Weight: 800-900
+
+Body:
+Style: Clean Sans
+Weight: 400-500
+
+Illustration:
+
+Style:
+Soft UI Icons
+
+Objects:
+- Mouse
+- Window
+- Folder
+- Pencil
+- Notification
+- Rating
+- Button
+
+Layout:
+
+Structure:
+- Window UI frames
+- Large headline
+- Card-based content
+- Strong hierarchy
+- Wide whitespace
+
+Effects:
+
+Borders:
+Thick black outlines
+
+Shadows:
+Hard offset shadow
+
+Gradients:
+None
+
+Rules:
+- Use soft pastel accents
+- Keep interfaces simple
+- Maintain retro computer aesthetic
+- Avoid bright neon colors
+- Prioritize readability
+- Use generous spacing
+- Suitable for education, consulting, workshops, AI literacy, and business presentations

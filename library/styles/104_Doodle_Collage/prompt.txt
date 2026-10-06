@@ -1,0 +1,282 @@
+Design Style:
+Name: "Doodle Collage"
+
+Concept: >
+ヴィンテージ雑誌のエディトリアルデザインと、
+手描きの落書き（Doodle）を融合した
+コラージュスタイルのプレゼンテーション。
+
+モノクロ写真を大胆に切り抜き、
+手書きの矢印や囲み線、
+アンダーラインを加えることで、
+「雑誌を切り貼りしたノート」のような
+感性的で印象に残る世界観を演出する。
+
+ファッション、ブランドストーリー、
+心理学、カルチャー、教育、
+ウェルビーイング、ライフスタイル提案、
+クリエイティブワークショップに適した
+温かみと個性のあるプレゼンテーション。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Editorial
+- Artistic
+- Playful
+- Expressive
+- Human
+- Vintage
+- Emotional
+- Contemporary
+
+Color Palette:
+
+Background:
+Primary: "#F2EEE7"
+
+Text:
+Primary: "#111111"
+Secondary: "#444444"
+
+Accent:
+Coral: "#E56A67"
+Mustard: "#DDBE63"
+
+Illustration:
+Outline: "#E56A67"
+
+Typography:
+
+Headings:
+Style: "Elegant Editorial Serif"
+Weight: 700
+Color: "#111111"
+
+Body:
+Style: "Clean Humanist Sans"
+Weight: 400
+Color: "#222222"
+
+Highlight:
+Style: "Editorial Serif"
+Weight: 600
+Color: "#111111"
+
+Photography:
+
+Style:
+Black and white portrait
+
+Treatment:
+High contrast grayscale
+Soft matte finish
+Slight grain texture
+
+Composition:
+Cutout collage
+Partial crop
+Faces and gestures emphasized
+
+Subjects:
+- Emotional expressions
+- Human interaction
+- Lifestyle portraits
+- Fashion editorial poses
+- Diverse people
+
+Collage:
+
+Elements:
+- Monochrome cutout photos
+- Mustard geometric blocks
+- Overlapping rectangles
+- Layered compositions
+
+Characteristics:
+- Asymmetrical balance
+- Magazine cut-and-paste feeling
+- Intentional cropping
+- Negative space emphasis
+
+Doodles:
+
+Style:
+Hand-drawn marker
+
+Stroke:
+Medium thickness
+
+Color:
+Coral
+
+Elements:
+- Arrows
+- Zigzag lines
+- Scribbles
+- Loops
+- Underlines
+- Starbursts
+- Circles
+- Triangles
+- Freeform outlines
+
+Highlights:
+
+Style:
+Marker highlight
+
+Color:
+Mustard
+
+Usage:
+- Behind keywords
+- Under names
+- Behind subtitles
+- Behind section titles
+
+Layout:
+
+Philosophy:
+Editorial storytelling with emotional impact.
+
+Structure:
+- Large portrait imagery
+- Oversized typography
+- Intentional asymmetry
+- Strong focal hierarchy
+- Spacious composition
+
+Grid:
+Columns: 12
+Margins: Wide
+Alignment: Flexible
+
+Components:
+
+Cover:
+Layout:
+- Large title on left
+- Monochrome portrait on right
+- Highlighted subtitle
+- Decorative doodles
+
+Quote:
+Layout:
+- Portrait on one side
+- Large quotation opposite
+- Author highlighted
+- Hand-drawn accents
+
+Statement:
+Layout:
+- Oversized central word
+- Supporting paragraph below
+- Doodle emphasis marks
+
+Agenda:
+Layout:
+- Two-column structure
+- Large section numbers
+- Highlighted section titles
+- Short descriptions
+
+Section Divider:
+Layout:
+- Large section number
+- Bold editorial title
+- Supporting image
+- Highlight accents
+
+Comparison:
+Layout:
+- Two-column content blocks
+- Central visual anchor
+- Curved doodle arrows
+- Highlighted keywords
+
+Team:
+Layout:
+- Portrait cards
+- Name highlights
+- Short descriptions
+- Emotional labels
+
+Closing:
+Layout:
+- Large thank-you message
+- Contact information
+- Editorial image
+- Decorative doodles
+
+Illustration Rules:
+- Use hand-drawn elements sparingly.
+- Keep doodles secondary to typography.
+- Prioritize emotional photography.
+- Crop portraits boldly.
+- Maintain generous whitespace.
+- Allow slight imperfection.
+- Preserve an editorial magazine feel.
+
+Effects:
+
+Shadows:
+None
+
+Gradients:
+None
+
+Texture:
+Soft paper grain
+
+Borders:
+None
+
+Whitespace:
+
+Usage:
+Generous
+
+Purpose:
+Enhance sophistication
+Improve readability
+Create editorial rhythm
+
+Content Density:
+
+Titles:
+Large
+
+Body:
+Minimal
+
+Messaging:
+Emotional and concise
+
+Visual Balance:
+50% whitespace
+25% typography
+25% imagery
+
+Suitable For:
+- Brand storytelling
+- Fashion presentations
+- Psychology lectures
+- Wellness programs
+- Cultural studies
+- Educational workshops
+- Personal branding
+- Creative portfolios
+- Social issue presentations
+- Lifestyle marketing
+
+Avoid:
+- Corporate blue palettes
+- Complex infographics
+- Heavy shadows
+- Photorealistic color imagery
+- Technical diagrams
+- Dense tables
+- Excessive animation
+- Highly formal business layouts

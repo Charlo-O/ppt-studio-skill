@@ -1,0 +1,173 @@
+Design Style:
+Name: "Pastel Glass"
+
+Concept: >
+AppleのLiquid Glass表現と、
+パステルトーンのソフトUIを融合した
+軽やかで親しみやすいインターフェースデザイン。
+
+半透明のフロストガラス素材に、
+淡い色彩のグラデーションと柔らかな影を加え、
+「触れたくなる」質感を持つUIコンポーネントとして表現する。
+
+プロダクト紹介、SaaSサービス、
+AIツール、アプリ提案資料、
+デザインシステム解説などに適した、
+上質でミニマルな未来感を演出する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Soft
+- Friendly
+- Premium
+- Minimal
+- Airy
+- Contemporary
+- Elegant
+- Playful
+
+Color Palette:
+
+Background:
+Primary: "#F3F2F0"
+Secondary: "#ECEAE8"
+
+Glass:
+Base: "rgba(255,255,255,0.28)"
+Frosted: "rgba(255,255,255,0.45)"
+Border: "rgba(255,255,255,0.75)"
+
+Accent:
+Lavender: "#D8D6FF"
+Mint: "#DDF3E7"
+Peach: "#FFE3CC"
+BabyBlue: "#DDEFFD"
+BlushPink: "#F7D8E8"
+
+Text:
+Primary: "#1A1A1A"
+Secondary: "#666666"
+
+Illustration:
+
+Style:
+Liquid Glass Soft UI
+
+Rendering:
+Frosted translucent material
+Ultra smooth surfaces
+Rounded geometry
+Subtle depth
+Minimal detailing
+Soft highlights
+
+Visual Effects:
+- Background blur
+- Glass transparency
+- Soft ambient shadows
+- Delicate edge highlights
+- Gentle inner glow
+- Diffused reflections
+- Light scattering
+- Floating depth
+
+Typography:
+
+Headings:
+Style: Modern sans-serif
+Weight: 700
+Color: "#1A1A1A"
+
+Body:
+Style: Clean sans-serif
+Weight: 400-500
+Color: "#666666"
+
+Layout:
+
+Structure:
+- Modular UI showcase
+- Grid-based composition
+- Consistent spacing
+- Multiple floating components
+- Large negative space
+- Balanced visual rhythm
+
+Alignment:
+- Symmetrical arrangement
+- Card-based organization
+- Equal component spacing
+- Clear grouping by function
+
+Components:
+
+Buttons:
+Shape: Capsule
+Material: Frosted glass
+Treatment:
+- Soft pastel tint
+- Floating shadow
+- Gloss highlight
+- Thick transparent edge
+
+Input Fields:
+Shape: Pill
+Material: Semi-transparent glass
+Features:
+- Minimal borders
+- Internal padding
+- Soft inset highlight
+
+Toggle Switches:
+Shape: Rounded capsule
+Material: Colored translucent glass
+Thumb:
+- Circular glass knob
+- Elevated appearance
+
+Checkboxes:
+Shape: Rounded rectangle
+Material: Clear glass
+States:
+- Neutral frosted
+- Pastel active state
+
+Cards:
+Shape: Rounded rectangle
+Corner Radius: Extra large
+Material: Thick frosted glass
+Features:
+- Floating appearance
+- Layered shadows
+- Soft reflections
+
+Icons:
+Style: Minimal outline
+Weight: Medium
+Treatment:
+- Monochrome
+- Embedded within glass circles
+- Center aligned
+
+Background Treatment:
+Style: >
+明るいニュートラルカラーをベースに、
+控えめなグラデーションと柔らかな光を加える。
+背景自体は静かに保ち、
+ガラスコンポーネントの透明感と立体感を引き立てる。
+
+Overall Direction: >
+UIコンポーネントそのものを主役とした
+デザインシステムのような構成とする。
+情報量よりも質感・余白・統一感を重視し、
+「柔らかい未来感」と「高級感のある使いやすさ」を両立する。
+
+Restrictions:
+- Avoid sharp corners
+- Avoid high contrast colors
+- Avoid heavy textures
+- Avoid excessive decoration
+- Maintain consistent translucency
+- Preserve generous whitespace

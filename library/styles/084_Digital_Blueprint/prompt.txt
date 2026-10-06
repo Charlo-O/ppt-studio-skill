@@ -1,0 +1,124 @@
+Design Style:
+Name: "Digital Blueprint"
+
+Concept: >
+建築設計図とエンジニアリング図面から着想を得た
+ブループリントスタイルのプレゼンテーションデザイン。
+
+グリッド背景、ホワイトライン、
+ワイヤーフレームイラストを用いて、
+複雑なシステムや戦略を
+構造的かつ論理的に表現する。
+
+AI、DX、業務設計、システム構築、
+組織改革、研究開発資料に適した
+知的で信頼感のある世界観。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Technical
+- Structured
+- Intelligent
+- Strategic
+- Professional
+- Analytical
+- Futuristic
+- Precise
+
+Color Palette:
+
+Background:
+Primary: "#0066A8"
+Secondary: "#0A7BC2"
+Dark: "#004A80"
+
+Text:
+Primary: "#FFFFFF"
+Secondary: "#D7E7F5"
+
+Line:
+Primary: "#FFFFFF"
+
+Typography:
+
+Headings:
+Style: Technical Sans
+Weight: 300-500
+Case: Uppercase
+
+Body:
+Style: Modern Sans
+Weight: 300-400
+
+Background:
+
+Grid:
+Style: Blueprint Grid
+Opacity: 12%
+
+Illustration:
+
+Style:
+Wireframe Blueprint
+
+Rendering:
+White Line Drawing
+Technical Sketch
+CAD Inspired
+Monochrome
+
+Subjects:
+- Buildings
+- Systems
+- Networks
+- Data Architecture
+- Process Flow
+- Infrastructure
+- Technology
+
+Layout:
+
+Structure:
+- Framed composition
+- Technical panels
+- Modular content blocks
+- Blueprint-style divisions
+
+Components:
+
+Cover:
+- Large title block
+- Hero wireframe illustration
+
+Section Divider:
+- Large section number
+- Blueprint illustration background
+
+Content:
+- Process diagrams
+- Architecture maps
+- System frameworks
+- KPI dashboards
+- Comparison layouts
+
+Effects:
+
+Shadows:
+None
+
+Gradients:
+Very subtle
+
+Borders:
+White technical lines
+
+Rules:
+- Use only blueprint color palette
+- Maintain technical drawing consistency
+- Avoid realistic photography
+- Prefer line illustrations
+- Emphasize structure and hierarchy
+- Keep layouts modular and geometric
+- Suitable for AI, DX, consulting, engineering, strategy, research, architecture, and enterprise transformation

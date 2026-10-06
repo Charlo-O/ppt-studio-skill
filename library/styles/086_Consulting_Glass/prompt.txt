@@ -1,0 +1,267 @@
+Design Style:
+Name: "Consulting Glass"
+
+Concept: >
+コンサルティングファーム向けの
+Glassmorphism（ガラスモーフィズム）デザイン。
+
+半透明の大型ガラスパネルを中心に、
+柔らかなオーロラグラデーション背景と
+ミニマルな線画アイコンを組み合わせる。
+
+MBB・戦略コンサル・DX提案・経営企画・
+事業戦略・市場分析・新規事業提案に適した
+プレミアムかつ未来的な資料デザイン。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Premium
+- Strategic
+- Consulting
+- Executive
+- Minimal
+- Modern
+- Intelligent
+- Futuristic
+
+Color Palette:
+
+Background:
+Primary: "#D7E1E5"
+
+Glass:
+Base: "#FFFFFF"
+Opacity: "15-25%"
+
+Text:
+Primary: "#1E1E1E"
+Secondary: "#5E5E5E"
+
+Accent:
+Mint: "#59E1C2"
+Aqua: "#6CC9FF"
+Purple: "#9B72FF"
+Yellow: "#FFD867"
+Orange: "#FF9D42"
+
+Typography:
+
+Headings:
+Style: "Condensed Sans"
+Weight: 300
+Transform: "Uppercase"
+LetterSpacing: "0.08em"
+Color: "#1E1E1E"
+
+SectionNumbers:
+Weight: 300
+Color: "#5E5E5E"
+
+Body:
+Weight: 400
+Color: "#5E5E5E"
+
+Labels:
+Weight: 500
+Transform: "Uppercase"
+
+Layout:
+
+Structure:
+- One dominant glass panel
+- Centered composition
+- Large title area
+- Strong symmetry
+- Minimal visual clutter
+
+Grid:
+Columns: 12
+
+Margins:
+Outer: "Large"
+
+Glass Panel:
+
+Style:
+Rounded Rectangle
+
+Radius:
+Extra Large
+
+Fill:
+Color: "#FFFFFF"
+Opacity: "20%"
+
+Border:
+Color: "rgba(255,255,255,0.75)"
+Width: "4px"
+
+Blur:
+Strength: "High"
+
+Shadow:
+Color: "rgba(120,130,150,0.18)"
+Blur: "50px"
+OffsetY: "15px"
+
+Background:
+
+Style:
+Soft Aurora Gradient
+
+Elements:
+- Mint glow
+- Aqua glow
+- Purple glow
+- Yellow glow
+
+Characteristics:
+- Out-of-focus
+- Large scale
+- Edge placement only
+
+Icons:
+
+Style:
+Minimal Outline
+
+Stroke:
+Width: "2-3px"
+
+Color:
+"#1E1E1E"
+
+Subjects:
+- Strategy
+- Vision
+- Mission
+- KPI
+- Growth
+- Market
+- Innovation
+- Technology
+
+Illustration:
+
+Style:
+Glass UI Objects
+
+Examples:
+- Folder
+- Document
+- Notification
+- Dashboard
+- Shopping cart
+- Clock
+- Analytics
+
+Appearance:
+Semi-transparent
+Frosted glass
+Soft glow
+
+Components:
+
+Cover:
+- Large centered glass panel
+- Oversized title
+- Small subtitle
+- Three floating glass icons
+- Aurora background glow
+
+TableOfContents:
+- 2x2 section grid
+- Large numbering
+- Short descriptions
+- Small floating icon
+
+SectionDivider:
+- Large section number
+- Section title
+- Supporting icons
+- Center alignment
+
+Framework:
+- Mission
+- Vision
+- Objectives
+- Initiatives
+
+VennDiagram:
+- Three translucent circles
+- Strategic overlap highlight
+- External annotations
+
+Checklist:
+- Numbered question list
+- Colored category indicators
+- Clean table structure
+
+SWOT:
+- Four equal quadrants
+- Circular glass modules
+
+Timeline:
+- Horizontal progression
+- Minimal milestone markers
+
+KPI:
+- Large percentage
+- Progress bar
+- Supporting commentary
+
+Charts:
+
+Style:
+Executive Minimal
+
+Preferred:
+- Venn diagrams
+- SWOT
+- Timelines
+- KPI bars
+- Process flows
+- Strategic frameworks
+
+Avoid:
+- Dense spreadsheets
+- Complex dashboards
+- Heavy data visualization
+
+Effects:
+
+Blur:
+Usage: "Glass elements only"
+
+Glow:
+Usage: "Background accents"
+
+Reflection:
+Subtle
+
+Transparency:
+Medium
+
+Spacing:
+
+Whitespace:
+Generous
+
+ContentDensity:
+Low
+
+VisualHierarchy:
+Strong
+
+Rules:
+- Every slide should contain a dominant glass panel.
+- Use only 3–5 accent colors throughout the deck.
+- Keep charts simple and executive-focused.
+- Favor frameworks over dense data tables.
+- Use large condensed typography for titles.
+- Maintain strong symmetry and visual balance.
+- Background gradients must remain soft and blurred.
+- Icons should be outline style only.
+- Suitable for consulting proposals, business plans, strategy decks, market analysis, DX initiatives, AI transformation proposals, and executive presentations.

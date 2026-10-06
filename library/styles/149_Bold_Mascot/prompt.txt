@@ -1,0 +1,224 @@
+Design Style:
+Name: "Bold Mascot"
+
+Concept: >
+グローバルD2Cブランド、
+スタートアップブランドガイドライン、
+Nikeキャンペーン、
+Spotifyビジュアル、
+Oatly、
+Liquid Death、
+ストリートカルチャー、
+ZINE、
+モダンエディトリアルから着想を得た
+ブランドキャンペーン型プレゼンテーション。
+
+スライドを説明資料ではなく、
+ブランドブック、
+ブランドキャンペーン、
+アートディレクション資料、
+クリエイティブブランドサイトとして構成する。
+
+キャラクターをブランドアイコンとして扱い、
+余白・タイポグラフィ・色面で
+強いブランド体験を生み出す。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Bold
+- Energetic
+- Youthful
+- Editorial
+- Graphic
+- Playful
+- Premium
+- Modern
+
+Temperature:
+Overall: Vibrant
+
+Background:
+Style: "Solid Color"
+
+Color Palette:
+
+Primary:
+ElectricBlue: "#1892F5"
+
+Secondary:
+White: "#FFFFFF"
+Black: "#111111"
+
+Accent:
+HotPink: "#EF7BD7"
+Lemon: "#FFE248"
+Coral: "#FF5A45"
+Lime: "#64D84A"
+
+Typography:
+
+Style:
+- Neo Grotesk
+- Swiss
+- Ultra Bold
+- Editorial
+
+Heading:
+Weight: 900
+Scale: Huge
+Case: Mixed
+Tracking: Tight
+
+Body:
+Weight: Medium
+Alignment: Left
+Width: Narrow
+
+Labels:
+Small
+Minimal
+Editorial
+
+Layout:
+
+Grid:
+Swiss Editorial
+
+Composition:
+- Giant typography
+- Large empty space
+- One mascot illustration
+- Small editorial text block
+- Strong asymmetrical balance
+- Bold cropping
+- Clean margins
+
+Illustration:
+
+Style: "Brand mascot"
+
+Characteristics:
+- Flat vector
+- Thick black outline
+- Simple geometric construction
+- Cute but confident
+- Highly recognizable silhouette
+- Large expressive eyes
+- Minimal facial details
+- Oversized mouth
+- Dynamic pose
+
+Construction:
+
+Shapes:
+- Rectangle
+- Triangle
+- Circle
+- Rounded rectangle
+- Zigzag
+- Capsule
+
+Rules:
+- Thick outline
+- Flat fills
+- No gradients
+- No texture
+- Simple geometry
+- Strong silhouette
+- High contrast
+
+Graphic Elements:
+- Oversized typography
+- Cropped mascot
+- Large color blocks
+- Editorial spacing
+- Minimal icons
+- Graphic bars
+- Vertical headlines
+- Horizontal rules
+
+Photography:
+
+Style:
+- Lifestyle photography
+- Youth culture
+- Dynamic motion
+- Outdoor scenes
+- Fashion editorial
+- High saturation
+- Bright daylight
+
+Composition:
+- Full bleed
+- Strong crop
+- Typography overlaps image
+
+Image Style:
+
+Rendering:
+- Flat vector mascot
+- Modern photography
+- Editorial composition
+- Crisp edges
+
+Whitespace:
+Very Large
+
+Slide Variations:
+- Hero cover
+- Giant mascot crop
+- Typography-first layout
+- Lifestyle photo with overlay
+- Manifesto page
+- Product introduction
+- Quote page
+- Minimal information page
+- Closing campaign poster
+
+Brand Language:
+
+Characteristics:
+- Confident
+- Friendly
+- Fresh
+- Youthful
+- Honest
+- Energetic
+
+Composition Rules:
+- キャラクターはブランドの象徴として扱う
+- タイトルは画面いっぱいに大胆に配置する
+- 情報量は最小限
+- 大きな余白を積極的に使う
+- 文字もビジュアル要素として扱う
+- 写真は大胆にトリミングする
+- キャラクターは画面からはみ出してよい
+- 強い色面でブランド認知を高める
+- スライド全体をブランドガイドラインのように統一する
+
+Design Keywords:
+- Swiss Editorial
+- Neo Grotesk
+- Brand Identity
+- Startup Branding
+- D2C
+- Graphic Design
+- Mascot Branding
+- Art Direction
+- Campaign Design
+- Modern Poster
+- Youth Culture
+- Editorial Layout
+
+Avoid:
+- Photorealistic illustrations
+- Corporate templates
+- Gradients
+- Decorative ornaments
+- Complex diagrams
+- Dense text
+- Skeuomorphic UI
+- 3D effects
+- Stock presentation aesthetics

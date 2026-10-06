@@ -1,0 +1,182 @@
+Design Style:
+Name: "Miniature Landscape"
+
+Concept: >
+ミニチュアフィギュア、
+日用品の再解釈、
+コンセプチュアルフォトグラフィー、
+アートディレクション、
+Miniature Lifeから着想を得た
+詩的なビジュアルメタファー型エディトリアルデザイン。
+
+日常の物体を本来の用途から切り離し、
+海辺、雪原、リゾート、都市、公園、山岳地帯などの
+新しい風景として再構築する。
+
+モノの機能ではなく、
+「どう見立てるか」を主役にする。
+
+情報を説明するのではなく、
+一枚の静かな物語として伝える。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Poetic
+- Minimal
+- Calm
+- Imaginative
+- Elegant
+- Human
+- Editorial
+- Reflective
+
+Temperature:
+Overall: Warm
+
+Color Palette:
+Background:
+SoftIvory: "#F6F1E8"
+
+Natural:
+OceanBlue: "#66C6E6"
+PalmGreen: "#4F8A63"
+SnowWhite: "#FAFAF7"
+SandBeige: "#DCC8A3"
+
+Accent:
+CoralRed: "#E86A5F"
+SunnyYellow: "#F1C453"
+
+Typography:
+Style: >
+Thin editorial sans-serif.
+Magazine cover aesthetic.
+Spacious and elegant.
+Minimal typographic presence.
+
+Layout:
+Structure: >
+One dominant visual metaphor per slide.
+Large areas of negative space.
+Minimal supporting elements.
+
+Composition:
+Asymmetrical.
+Photography-led.
+Quiet and contemplative.
+
+Flow:
+Each slide feels like a page
+from an art photography book.
+
+Background:
+Base: >
+Clean studio backdrop.
+
+Texture:
+Soft matte surface.
+
+Visual Metaphor:
+Principle: >
+Everyday objects become places.
+
+Examples:
+Salt becomes a beach.
+Soap becomes an iceberg.
+Foam becomes snow.
+Notebook spiral becomes a swimming pool.
+Books become a diving platform.
+Office supplies become architecture.
+Household objects become geography.
+
+Illustration Style:
+Type: "Miniature Conceptual Photography"
+
+Characteristics:
+- Tiny human figures
+- Everyday object transformation
+- Realistic materials
+- Visual metaphor
+- Editorial photography
+- Minimal compositions
+
+Characters:
+Style:
+Miniature model figures.
+
+Activities:
+- Swimming
+- Relaxing
+- Exploring
+- Gathering
+- Working
+- Observing
+- Playing
+- Traveling
+
+Photography:
+Lens:
+Macro photography.
+
+Focus:
+Selective focus.
+
+Depth:
+Strong shallow depth of field.
+
+Lighting:
+Soft natural light.
+Bright highlights.
+Gentle shadows.
+
+Atmosphere:
+Dreamlike realism.
+
+Content Containers:
+Titles:
+Positioned in open negative space.
+
+Text:
+Minimal.
+Never competes with the visual story.
+
+Charts:
+Reimagined as physical objects
+inside the miniature world.
+
+Images:
+Integrated seamlessly into the landscape.
+
+Effects:
+Shadows:
+Natural photographic shadows.
+
+Gradients:
+None.
+
+Glassmorphism: False
+
+Texture:
+Real-world material textures emphasized.
+
+Visual References:
+- Miniature Life
+- Editorial Photography
+- Conceptual Still Life
+- Visual Metaphor Art
+- Minimal Art Direction
+- Surreal Everyday Landscapes
+
+Keywords:
+- Miniature Landscape
+- Everyday Object Metaphor
+- Tiny People
+- Macro Photography
+- Editorial Art Direction
+- Surreal Realism
+- Visual Storytelling
+- Conceptual Photography
+- Poetic Design
+- Miniature Life

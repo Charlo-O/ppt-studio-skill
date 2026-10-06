@@ -1,0 +1,228 @@
+Design Style:
+Name: "Expressive Character"
+
+Concept: >
+Flashアニメーション、
+インディーゲーム、
+キャラクター設定資料、
+表情シート、
+ステッカーアート、
+Cartoon Network、
+モーションデザイン、
+シンプルなマスコットデザインから着想を得た
+エクスプレッシブ・キャラクターシステム型エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+アニメーション制作会社の
+キャラクター設定資料、
+表情集、
+ポーズライブラリ、
+アニメーションガイドとして構成する。
+
+一つのキャラクターが
+表情、
+ポーズ、
+シルエットだけで
+多様な感情を表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Playful
+- Expressive
+- Funny
+- Graphic
+- Minimal
+- Cartoon
+- Friendly
+- Energetic
+
+Temperature:
+Overall: Bright
+
+Background:
+Style: "Pure White"
+
+Color Palette:
+
+Primary:
+SkyBlue: "#29B6F6"
+
+Accent:
+Red: "#F44336"
+Black: "#111111"
+Pink: "#FF4FA3"
+White: "#FFFFFF"
+
+Typography:
+
+Style:
+- Handwritten Notes
+- Sketchbook
+- Animation Sheet
+- Minimal Sans
+
+Heading:
+Weight: Bold
+Scale: Large
+
+Annotation:
+Weight: Regular
+Size: Small
+Style: Handwritten
+
+Layout:
+
+Structure: "Character Expression Sheet"
+
+Composition:
+- Character variations arranged in a loose grid
+- Handwritten notes and arrows
+- Equal spacing
+- Sketchbook feeling
+- Clean white background
+
+Character:
+
+Style: "Simple blob mascot"
+
+Characteristics:
+- Rounded rectangular body
+- Soft organic silhouette
+- No clothing
+- Large cartoon eyes
+- Flexible mouth
+- Tiny arms
+- Tiny feet
+- Rubber-hose animation feeling
+- Friendly proportions
+
+Construction:
+
+Base Shape:
+- Rounded rectangle
+- Capsule
+- Blob
+
+Rules:
+- Uniform black outline
+- Flat colors only
+- No gradients
+- No shadows
+- Simple silhouette
+- Deform body freely for emotion
+- Keep overall recognisable shape
+
+Expression Library:
+
+Emotions:
+- Happy
+- Angry
+- Sad
+- Shocked
+- Scared
+- Curious
+- Sleepy
+- Confused
+- Excited
+- Proud
+- Embarrassed
+- Laughing
+- Crying
+- Evil
+- Relaxed
+- Thinking
+- Love
+- Determined
+
+Pose Library:
+- Walking
+- Running
+- Jumping
+- Stretching
+- Pointing
+- Waving
+- Dancing
+- Hiding
+- Sitting
+- Falling
+- Celebrating
+- Looking around
+
+Graphic Elements:
+- Hand-drawn arrows
+- Expression numbers
+- Sketch annotations
+- Motion lines
+- Small doodles
+
+Rendering:
+
+Style:
+- Flat vector
+- Character turnaround sheet
+- Animation model sheet
+- Editorial illustration
+
+Image Treatment:
+
+Texture:
+None
+
+Lighting:
+None
+
+Shadows:
+None
+
+Whitespace:
+Large
+
+Slide Variations:
+- Expression sheet
+- Pose library
+- Emotion guide
+- Character acting
+- Animation key poses
+- Storyboard cover
+- Character profile
+- Motion study
+- Sticker collection
+
+Composition Rules:
+- 1スライド1キャラクター
+- キャラクターは同一デザインを維持する
+- 表情だけを変化させる
+- ポーズは大胆にデフォルメする
+- 手描きメモや矢印を加えて設定資料らしく見せる
+- 色数は3〜4色以内にする
+- 線の太さは統一する
+- シルエットの認識性を最優先する
+- プレゼンではなくキャラクター開発ドキュメントとして構成する
+
+Design Keywords:
+- Character Design
+- Expression Sheet
+- Animation Model Sheet
+- Cartoon Mascot
+- Rubber Hose
+- Flat Illustration
+- Character Library
+- Indie Animation
+- Motion Design
+- Visual Development
+- Sticker Character
+- Editorial Illustration
+
+Avoid:
+- Photorealism
+- 3D graphics
+- Gradients
+- Heavy shadows
+- Complex anatomy
+- Detailed costumes
+- Corporate presentation layouts
+- Dense information
+- Realistic proportions
+- Decorative textures

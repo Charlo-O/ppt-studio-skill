@@ -1,0 +1,206 @@
+Design Style:
+Name: "Playful Brand"
+
+Concept: >
+Pentagram、
+Paul Rand、
+Experimental Jetset、
+Swiss International Style、
+Bauhaus、
+Wolff Olins、
+Graphic Standards Manual、
+ブランドアイデンティティデザイン、
+CIガイドライン、
+デザインマニュアル、
+モダンエディトリアルから着想を得た
+ブランドガイドライン・エディトリアルデザイン。
+
+スライドを一般的なプレゼン資料ではなく、
+ブランドガイドライン、
+デザインシステム、
+ビジュアルアイデンティティブック、
+グラフィックデザイン教材として構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Editorial
+- Graphic
+- Playful
+- Modern
+- Bold
+- Clean
+- Minimal
+- Creative
+
+Temperature:
+Overall: Bright
+
+Background:
+Color: "#F8F5EF"
+
+Color Palette:
+
+Primary:
+Cyan: "#3DB9E6"
+
+Secondary:
+Orange: "#F5B21A"
+
+Accent:
+Coral: "#F2675B"
+
+Neutral:
+Navy: "#18344B"
+White: "#FFFFFF"
+Black: "#202020"
+
+Typography:
+
+Style:
+Swiss Graphic
+
+Title:
+Font:
+Style: Bold Sans-serif
+
+Weight: ExtraBold
+Size: Extra Large
+Tracking: Slightly Tight
+Color: Navy
+
+Heading:
+Weight: Bold
+Color: Navy
+
+Body:
+Weight: Regular
+Size: Small
+Line Height: Spacious
+Color: "#4F4F4F"
+
+Caption:
+Size: Small
+Color: "#888888"
+
+Grid:
+
+System:
+Swiss Modular Grid
+
+Alignment:
+Strict
+
+Margins:
+Large
+
+White Space:
+Generous
+
+Composition:
+
+- Poster-inspired layouts
+- Editorial rhythm
+- Large typography
+- Wide margins
+- Flat geometric graphics
+- Logo-focused pages
+- Modular content blocks
+- Strong visual hierarchy
+- Balanced asymmetry
+
+Shapes:
+
+Style:
+- Circle
+- Semi-circle
+- Rectangle
+- Square
+- Triangle
+- Blob-like paper cut shapes
+
+Graphics:
+
+Style:
+Flat Vector
+Simple Geometric
+Paper Cut
+
+Illustration:
+
+Style:
+Minimal icons
+Brand symbols
+Abstract graphics
+
+Photography:
+
+Style:
+Authentic
+Community
+Lifestyle
+Documentary
+
+Crop:
+Grid layout
+Square
+Full-width
+
+Infographics:
+
+Style:
+Flat
+Minimal
+Poster-like
+
+Elements:
+Bubble charts
+Maps
+Icon systems
+Process diagrams
+Large statistics
+
+Icons:
+
+Style:
+Filled
+Simple
+Geometric
+
+Brand Elements:
+
+- Logo showcase
+- Identity system
+- Graphic patterns
+- Icon family
+- Typography samples
+- Color specifications
+
+Decorations:
+
+- Large color fields
+- Simple geometric compositions
+- Minimal construction lines
+- Abstract paper-cut graphics
+- Oversized headlines
+
+Animation Feeling:
+
+Calm
+Confident
+Editorial
+
+Restrictions:
+
+- Avoid gradients
+- Avoid glassmorphism
+- Avoid skeuomorphism
+- Avoid drop shadows
+- Avoid glossy effects
+- Avoid 3D graphics
+- Avoid excessive illustration
+- Avoid complex textures
+- Use only cyan, orange, coral and navy as accent colors
+- Keep illustrations flat and geometric
+- Prioritize typography and whitespace

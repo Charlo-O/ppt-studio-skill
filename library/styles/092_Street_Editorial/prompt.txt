@@ -1,0 +1,223 @@
+Design Style:
+Name: "Street Editorial"
+
+Concept: >
+ストリートカルチャー、
+アンダーグラウンド音楽ポスター、
+90年代スポーツブランド広告、
+グランジタイポグラフィ、
+都市の壁のポスター文化から着想を得た
+エモーショナルなアーバンエディトリアルデザイン。
+
+都市のざらつきや衝動を、
+巨大なタイポグラフィと写真の断片、
+手書きの痕跡によって可視化する。
+
+完璧に洗練された都会ではなく、
+「街で生きる本能」をテーマに、
+若さ・反骨心・仲間意識を表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Urban
+- Rebellious
+- Emotional
+- Energetic
+- Raw
+- Editorial
+- Youthful
+- Authentic
+
+Temperature:
+Overall: Cool
+
+Color Palette:
+Background:
+ConcreteGray: "#D8D6D1"
+AsphaltBlack: "#1D1B1F"
+
+Primary:
+ElectricTeal: "#27D6D6"
+
+Secondary:
+Charcoal: "#343238"
+
+Accent:
+White: "#FFFFFF"
+SoftGray: "#A5A3A0"
+
+Typography:
+Headlines:
+Style: >
+極端に縦長で圧縮されたサンセリフ。
+
+Helvetica Condensed、
+Bebas Neue Condensed、
+Agency系を想起させる
+ストリートポスター風タイポグラフィ。
+
+文字そのものを建築物のように扱い、
+ページを縦断する存在感を持たせる。
+
+Weight: 700-900
+Tracking: Very Tight
+Scale: Monumental
+Orientation:
+- Vertical stacking
+- Oversized cropping
+
+Secondary:
+Style: >
+手書きスクリプト、
+ラフな筆記体、
+ノートへの走り書きのような文字。
+
+感情的なアクセントとして使用する。
+
+Weight: Variable
+
+Body:
+Style: >
+細身のサンセリフ。
+
+小さな声明文やマニフェストのように配置する。
+
+Weight: 300-400
+LineHeight: 1.3-1.5
+
+Layout:
+Structure: >
+ファッション広告と
+ストリートポスターを融合した
+高コントラストなエディトリアル構成。
+
+厳格なグリッドをベースとしながら、
+タイポグラフィや写真を大胆に越境させる。
+
+Composition:
+- Monumental typography
+- Vertical text columns
+- Layered photography
+- Editorial asymmetry
+- Large negative space
+- Urban poster layouts
+- Manifesto blocks
+- Dynamic cropping
+
+Alignment:
+Preference: Grid with disruption
+ControlledChaos: Medium
+
+Graphic Elements:
+Shapes:
+- Vertical bars
+- Thin rule lines
+- Radiating lines
+- Geometric blocks
+- Rough rectangles
+- Poster frames
+- Wave distortions
+- Layer masks
+
+Symbols:
+- Wings
+- Anatomical hearts
+- Handwritten marks
+- Street signatures
+- Directional arrows
+- Minimal emblems
+
+Decorative Rules:
+- Use restraint in decoration.
+- Typography should dominate imagery.
+- Symbols should feel iconic.
+- Preserve visual tension.
+
+Patterns:
+Style:
+- Screen print textures
+- Fabric grain
+- Distressed overlays
+- Interference waves
+- Urban weathering
+
+Imagery:
+Style: >
+都市風景、
+若者文化、
+彫刻、
+解剖学図版などを
+モノクロ写真として扱い、
+ティールの単色で染め上げる。
+
+写真は記録ではなく、
+都市の感情を象徴する断片として配置する。
+
+Treatment:
+- Monochrome duotone
+- Cyan-teal overlays
+- Grainy reproduction
+- Rough halftones
+- Distressed textures
+- Minimal shadows
+- High contrast integration
+
+Subjects:
+- Urban landscapes
+- Youth portraits
+- Classical sculptures
+- Anatomical illustrations
+- Street scenes
+- Documentary fragments
+- Symbolic objects
+
+Background:
+Style: >
+コンクリートのような
+グレーやブラックを基調とする。
+
+余白を大胆に使いながら、
+ティールのインクを差し込むことで、
+夜の都市にネオンが灯るような緊張感を生み出す。
+
+Effects:
+Texture:
+Screen print grain
+Newsprint softness
+Fabric texture
+Distressed paper
+Urban wall imperfections
+
+Shadow:
+Minimal
+
+Depth:
+Flat editorial layering
+
+Distortion:
+Analog scan artifacts
+Wavy interference patterns
+Slight typographic stretching
+
+Visual Rules:
+- Use teal as the only vibrant accent color.
+- Typography should function as architecture.
+- Allow headlines to extend beyond the canvas.
+- Preserve large areas of negative space.
+- Mix rational grids with emotional gestures.
+- Treat imagery as urban memories rather than documentation.
+- Embrace distressed textures and imperfections.
+- Design for both street posters and mobile viewing.
+
+Exclusions:
+- Corporate presentation aesthetics
+- Luxury minimalism
+- Bright multicolor palettes
+- Glassmorphism
+- Photorealistic lifestyle photography
+- Smooth gradients
+- Cute illustration styles
+- Complex 3D rendering
+- Excessive decorative ornamentation

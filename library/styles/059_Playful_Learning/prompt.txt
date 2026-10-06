@@ -1,0 +1,115 @@
+Design Style:
+Name: "Playful Learning"
+
+Concept: >
+学習、教育、研修、ワークショップ向けの
+手描きイラストスタイルのプレゼンテーション。
+
+シンプルな線画人物、
+ノート風レイアウト、
+大きなタイポグラフィと余白を活用し、
+学びや知識共有を親しみやすく表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Educational
+- Friendly
+- Playful
+- Minimal
+- Human
+- Creative
+- Approachable
+- Workshop
+
+Color Palette:
+
+Background:
+Primary: "#EAEAEA"
+
+Text:
+Primary: "#111111"
+
+Accent:
+Yellow: "#F5C84C"
+Blue: "#8CB7F0"
+Pink: "#EC74C0"
+
+Illustration:
+
+Style:
+Hand Drawn Editorial
+
+Subjects:
+- Students
+- Teachers
+- Learning
+- Reading
+- Workshops
+- Presentation
+- Laptop
+- Notes
+- Discussion
+
+Rendering:
+Black outlines
+Flat colors
+Minimal detail
+Sketch style
+
+Typography:
+
+Headings:
+Style: Rounded Sans
+Weight: 800-900
+
+Body:
+Style: Humanist Sans
+Weight: 400-500
+
+Layout:
+
+Structure:
+- Large title areas
+- Strong section numbers
+- Editorial compositions
+- Large illustration zones
+- Wide whitespace
+
+Components:
+
+Cover:
+- Large title
+- Human illustration
+
+Section Divider:
+- Section number
+- Supporting illustration
+
+Content:
+- Cards
+- Quotes
+- Statistics
+- Process diagrams
+- Learning frameworks
+
+Effects:
+
+Borders:
+Hand drawn
+
+Shadows:
+Minimal
+
+Gradients:
+None
+
+Rules:
+- Use generous whitespace
+- Prioritize readability
+- Keep illustrations simple
+- Maintain notebook-like atmosphere
+- Avoid corporate visual language
+- Use only a few accent colors
+- Suitable for education, workshops, AI literacy, presentations, training, and learning programs

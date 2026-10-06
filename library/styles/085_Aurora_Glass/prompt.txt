@@ -1,0 +1,260 @@
+Design Style:
+Name: "Aurora Glass"
+
+Concept: >
+オーロラのような偏光ガラスオブジェクトと、
+フロストガラス（すりガラス）パネルを組み合わせた
+プレミアム・エディトリアルデザイン。
+
+透明感のある大型カード、
+柔らかな背景、
+有機的な3Dグラスフォルムをアクセントとして配置し、
+科学・医療・テクノロジー・ウェルネス分野にふさわしい
+静かで未来的な世界観を演出する。
+
+情報を余白の中で整理し、
+洗練されたミニマリズムと
+高級感のあるビジュアル体験を両立する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Premium
+- Futuristic
+- Elegant
+- Minimal
+- Scientific
+- Editorial
+- Calm
+- Sophisticated
+
+Color Palette:
+
+Background:
+Primary: "#DDE4E6"
+Secondary: "#E8ECEE"
+
+Text:
+Primary: "#111111"
+Secondary: "#4B4F56"
+Light: "#8F96A1"
+
+Accent:
+Purple: "#7B2FA5"
+
+Aurora:
+Mint: "#6EEAD7"
+Aqua: "#8BE4F8"
+Lavender: "#B892FF"
+Violet: "#A16EFF"
+Pink: "#E8B7FF"
+
+Typography:
+
+Headings:
+Font: "Modern Sans Serif"
+Weight: 700
+Transform: "Uppercase"
+LetterSpacing: "-0.03em"
+Color: "#111111"
+
+Display:
+Font: "Modern Sans Serif"
+Weight: 700
+Color: "#7B2FA5"
+
+Subheadings:
+Font: "Sans Serif"
+Weight: 500
+Color: "#4B4F56"
+
+Body:
+Font: "Sans Serif"
+Weight: 400
+Color: "#4B4F56"
+LineHeight: 1.6
+
+Numbers:
+Font: "Modern Sans Serif"
+Weight: 700
+Color: "#7B2FA5"
+
+Layout:
+
+Structure:
+- Editorial composition
+- Large hero statement
+- Minimal information density
+- Strong asymmetrical balance
+- Generous whitespace
+
+Grid:
+Columns: 12
+Gutters: "Wide"
+
+Margins:
+Outer: "Extra Large"
+
+Components:
+
+Cover:
+- Large frosted glass panel
+- Aurora glass object in upper-left corner
+- Secondary aurora object in lower-right corner
+- Hero title block
+- Minimal metadata area
+
+TableOfContents:
+- Vertical numbered list
+- Large section names
+- Decorative aurora object
+- Editorial title anchor
+
+HeroStatistics:
+- Oversized KPI number
+- Frosted glass container
+- Supporting statement
+- Floating aurora accents
+
+KeyIdeas:
+- Two-column editorial layout
+- Independent content blocks
+- Large section heading
+- Decorative object placement
+
+Percentages:
+- Percentage callouts
+- Rounded progress bars
+- Supporting explanations
+- Minimal comparison layout
+
+Quotes:
+- Large editorial statements
+- Generous whitespace
+- Small supporting notes
+
+Illustration:
+
+Style:
+Aurora Glass 3D
+
+Rendering:
+Iridescent translucency
+Organic fluid geometry
+High gloss finish
+Soft reflections
+Semi-transparent appearance
+
+Characteristics:
+- Biomorphic forms
+- Smooth contours
+- Floating composition
+- Minimal quantity
+
+Glass Panels:
+
+Style:
+Frosted Glass
+
+Appearance:
+Transparency: "Low"
+Blur: "Medium"
+Tint: "#FFFFFF"
+
+Radius:
+Large
+
+Borders:
+Color: "rgba(255,255,255,0.35)"
+Thickness: "Thin"
+
+Shadows:
+Type: "Soft ambient"
+
+Color: "rgba(125,135,145,0.12)"
+Blur: "40px"
+Offset: "0 12px"
+
+Charts:
+
+Style:
+Minimal editorial
+
+Preferred:
+- Progress bars
+- Percentage indicators
+- Large statistics
+- Simple comparisons
+
+Avoid:
+- Complex dashboards
+- Dense tables
+- Detailed graphs
+
+ProgressBars:
+
+Track:
+Color: "#CFCBE5"
+Radius: "Full"
+
+Fill:
+Color: "#7B2FA5"
+
+Height: "Medium"
+
+Decorations:
+
+AuroraObjects:
+Placement:
+- Top left corner
+- Bottom right corner
+- Partial edge crop
+- Floating overlap
+
+Quantity:
+Maximum: 2
+
+Scale:
+Large
+
+BackgroundElements:
+- None
+
+Spacing:
+
+SectionGap: "Extra Large"
+ComponentGap: "Large"
+InternalPadding: "Generous"
+
+Effects:
+
+Shadows:
+Usage: "Essential"
+
+Characteristics:
+- Ambient diffusion
+- Low contrast
+- Soft depth
+- Natural light behavior
+
+Gradients:
+Usage: "Aurora objects only"
+
+Borders:
+Usage: "Glass panels only"
+
+Textures:
+Usage: "Subtle glass grain"
+
+Rules:
+- Use aurora glass forms as the signature visual motif.
+- Limit decorative objects to preserve elegance.
+- Emphasize large typography and generous whitespace.
+- Present information with minimal visual noise.
+- Use frosted glass panels for hero sections and KPI slides.
+- Reserve purple accents for numbers, highlights, and progress indicators.
+- Avoid heavy charts, dense layouts, and excessive decoration.
+- Maintain a calm, scientific, and premium atmosphere.
+- Ensure all slides share a cohesive glassmorphism aesthetic.
+- Suitable for healthcare presentations, biotech reports, wellness topics, AI strategy decks, scientific storytelling, premium consulting presentations, and future-oriented keynote presentations.

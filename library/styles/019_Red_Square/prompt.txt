@@ -1,0 +1,147 @@
+Design Style:
+Name: "Modern Red Corporate Editorial"
+Concept: "白背景に赤・黒・グレーを効かせた、企業紹介向けのモダンでシャープなエディトリアル型プレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Corporate
+- Modern
+- Editorial
+- Clean
+- Sharp
+- Professional
+- Minimal
+- Dynamic
+
+Color Palette:
+Background:
+Main: "#FFFFFF"
+SoftGray: "#F5F5F5"
+DarkOverlay: "rgba(0,0,0,0.55)"
+
+Text:
+Primary: "#111111"
+Secondary: "#555555"
+Light: "#FFFFFF"
+
+Accent:
+Red: "#F00000"
+DeepRed: "#C90000"
+SoftRed: "#FF4A4A"
+Black: "#111111"
+
+Typography:
+Heading:
+Font: "Modern Geometric Sans"
+Weight: "700-900"
+Style:
+- "large bold title"
+- "clean corporate look"
+- "short impactful headline"
+
+Body:
+Font: "Clean Sans Serif"
+Weight: "400-500"
+Style:
+- "small readable text"
+- "minimal business copy"
+- "left aligned"
+
+Layout:
+Overall:
+- "use strong white space"
+- "combine large photos with bold typography"
+- "use red blocks and thin red lines as accents"
+- "create asymmetric editorial layouts"
+- "keep margins wide and clean"
+- "avoid decorative clutter"
+
+Header:
+Position: "top"
+Style:
+- "thin corporate header line"
+- "small logo/title centered or aligned"
+- "small category text on left and right"
+
+Footer:
+Style:
+- "small page indicator"
+- "thin black or red line"
+- "minimal navigation dots"
+
+Images:
+Style:
+- "business photography"
+- "office, meeting, teamwork, technology scenes"
+- "rectangular crops"
+- "some slides may use dark overlay on photos"
+- "photo placement can be full width, half width, or layered"
+
+Red Elements:
+Usage:
+- "solid red rectangles for emphasis"
+- "red timeline blocks"
+- "red underline above headings"
+- "red highlight words inside titles"
+- "red label bars"
+
+Slide Types:
+Cover:
+Background: "full photo with dark overlay"
+Layout:
+- "large white title on left"
+- "red horizontal bar near bottom"
+- "small subtitle and label text"
+Style:
+- "bold corporate opening"
+- "premium business template feel"
+
+Introduction:
+Layout:
+- "white background"
+- "large title on left"
+- "photo collage on right"
+- "small red line above title"
+
+Timeline:
+Layout:
+- "three red blocks horizontally"
+- "year numbers in white"
+- "vertical title on right"
+- "photos placed above timeline blocks"
+
+Content:
+Layout:
+- "large headline"
+- "short body text"
+- "one or two business photos"
+- "red accent word in heading"
+
+Profile:
+Layout:
+- "white background"
+- "portrait photo as main visual"
+- "small text columns beside photo"
+- "clean editorial spacing"
+
+Collaboration:
+Layout:
+- "large title on left"
+- "red banner label across center"
+- "image grid on right"
+
+VisionMission:
+Background: "dark photo with overlay"
+Layout:
+- "large white title"
+- "red keyword highlight"
+- "thin white divider lines"
+- "small text blocks across bottom"
+
+Rules:
+- "スライドは白背景を基本にする"
+- "赤は強調・見出し・ライン・カードに限定して使う"
+- "本文は短く、情報量を詰め込みすぎない"
+- "写真と余白を大きく使い、企業資料らしく洗練させる"

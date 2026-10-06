@@ -1,0 +1,188 @@
+Design Style:
+Name: "Playful Isometric"
+
+Concept: >
+教育、学習、研修、子ども向け教材、
+STEM、サイエンス、学校紹介、
+ワークショップ資料向けの
+ポップなアイソメトリックデザイン。
+
+都市、建物、エネルギー、
+サイエンス、テクノロジー、
+学習環境をモチーフとした
+シンプルな3Dアイソメトリックイラストを配置する。
+
+楽しさと学びを両立し、
+子どもにも直感的に理解しやすい
+ビジュアルコミュニケーションを実現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Educational
+- Playful
+- Bright
+- Optimistic
+- Friendly
+- Creative
+- Modern
+- Engaging
+
+Color Palette:
+
+Background:
+Primary: "#5D98D5"
+
+Text:
+Primary: "#E8E8E8"
+Secondary: "#F5F5F5"
+
+Accent:
+Yellow: "#E8D400"
+Orange: "#F37C3E"
+Pink: "#E94F9A"
+SkyBlue: "#67AEEF"
+
+Surface:
+LightGray: "#D9D9D9"
+
+Typography:
+
+Title:
+Style: "Bold Condensed Sans"
+Weight: 900
+Case: "Uppercase"
+Color: "#E8E8E8"
+
+Section:
+Style: "Bold Condensed Sans"
+Weight: 900
+Case: "Uppercase"
+Color: "#E8E8E8"
+
+Body:
+Style: "Rounded Sans"
+Weight: 400
+Color: "#F5F5F5"
+
+Numbers:
+Style: "Bold Condensed Sans"
+Weight: 900
+Color: "#5D98D5"
+
+Layout:
+
+Structure:
+- Large Title Area
+- Large Open Center Space
+- Decorative City Around Edges
+
+Content:
+Position: "Center Focus"
+
+Illustration:
+Position: "Bottom Corners"
+
+Spacing:
+OuterMargin: "Large"
+SectionGap: "Large"
+ContentGap: "Medium"
+
+Background:
+
+Style: "Full Color"
+
+Characteristics:
+- Solid Background
+- High Contrast
+- Minimal Texture
+
+Illustration:
+
+Style: "Simple Isometric City"
+
+Perspective:
+Angle: "30 Degrees"
+
+Characteristics:
+- Flat Colors
+- Minimal Detail
+- No Gradients
+- Toy City Appearance
+- Educational Feel
+- Large Geometric Shapes
+
+Objects:
+- Buildings
+- Factories
+- Energy Towers
+- Trees
+- Roads
+- City Blocks
+- Cylinders
+- Cubes
+
+Placement:
+Hero:
+Size: "Very Large"
+
+Content:
+Integrated: true
+
+Decorations:
+
+Elements:
+- Clouds
+- Smoke Shapes
+- Simple Trees
+- Geometric Landmarks
+
+Density: "Low"
+
+Charts:
+
+Style: "Educational Infographic"
+
+Characteristics:
+- Simple Pie Charts
+- Percentage Graphics
+- Icon Charts
+- Basic Statistics
+
+Colors:
+Primary: "#E8D400"
+Secondary: "#F37C3E"
+Accent: "#E94F9A"
+
+Shapes:
+
+Style: "Geometric"
+
+Characteristics:
+- Cubes
+- Cylinders
+- Rectangular Towers
+- Square Platforms
+
+Effects:
+
+Shadows:
+Type: "Hard Isometric"
+Opacity: 20%
+
+Borders:
+Usage: "Minimal"
+
+Gradients:
+Usage: "None"
+
+Rules:
+- Use bold condensed uppercase titles
+- Maintain playful educational atmosphere
+- Use bright primary colors
+- Keep city illustrations simple and geometric
+- Leave large empty areas for content
+- Avoid realistic rendering
+- Prefer infographic-style data visualization
+- Suitable for education, science, STEM, workshops, children, and training materials

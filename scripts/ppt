@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+# ppt-studio command runner. Usage: bash scripts/ppt <command> [args]
+set -euo pipefail
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SKILL_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+VENV_DIR="${PPT_STUDIO_VENV:-${XDG_CACHE_HOME:-$HOME/.cache}/ppt-studio/venv}"
+
+usage() {
+  cat <<'TXT'
+ppt-studio commands
+  setup [--force]   prepare the Python runtime (runs automatically on first use)
+  doctor [--fonts]  check runtime, browser, style library, image backend, installed fonts
+  styles ...        browse / search / show / use   (160-style library)
+  init DIR ...      create a deck project
+  imagegen ...      check | gen | batch   (text-free artwork assets)
+  img ...           info | grid | measure | crop | fit | key | trim | split | sheet | pair
+  icons ...         search | svg | inline   (Lucide, inline SVG)
+  render DECK ...   render slides to PNG, run checks, contact sheet
+  export DECK ...   editable PPTX, image PPTX, PDF
+Add --help after a command for its options.
+TXT
+}
+
+cmd="${1:-help}"
+[[ $# -gt 0 ]] && shift
+case "$cmd" in
+  setup) exec bash "$SCRIPT_DIR/setup.sh" "$@" ;;
+  doctor) script=doctor.py ;;
+  styles) script=styles.py ;;
+  init) script=init_deck.py ;;
+  imagegen) script=imagegen.py ;;
+  img) script=imgtool.py ;;
+  icons) script=icons.py ;;
+  render) script=render.py ;;
+  export) script=export_pptx.py ;;
+  help|-h|--help) usage; exit 0 ;;
+  *) echo "unknown command: $cmd" >&2; usage >&2; exit 2 ;;
+esac
+
+if [[ ! -f "$VENV_DIR/.ready" || ! -x "$VENV_DIR/bin/python" ]]; then
+  bash "$SCRIPT_DIR/setup.sh" >&2
+fi
+exec "$VENV_DIR/bin/python" "$SCRIPT_DIR/$script" "$@"

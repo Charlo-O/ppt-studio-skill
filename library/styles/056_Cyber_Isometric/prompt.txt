@@ -1,0 +1,205 @@
+Design Style:
+Name: "Cyber Isometric"
+
+Concept: >
+近未来的なアイソメトリックスライドデザイン。
+
+深いブルーグラデーション背景の上に、
+フォルダ・ファイル・ロック・データボックス・
+サーバーなどをモチーフとした
+3Dアイソメトリックイラストを配置する。
+
+情報資産や知識の整理・検索・保護を
+ビジュアルで表現する世界観。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Futuristic
+- Digital
+- Secure
+- Intelligent
+- Structured
+- Technical
+- Clean
+- Professional
+
+Color Palette:
+Background:
+Primary: "#3B44E6"
+Secondary: "#4D52F2"
+Dark: "#272A8F"
+
+Text:
+Primary: "#FFFFFF"
+Secondary: "#E7E9FF"
+
+Accent:
+Beige: "#E7D8CF"
+Sand: "#DCA06B"
+LightPeach: "#F2C6A3"
+Gold: "#FFD98B"
+
+Illustration:
+White: "#F4F0F0"
+LightGray: "#D9D2D2"
+Navy: "#2B2964"
+
+Typography:
+Title:
+Style: "Bold Geometric Sans"
+Weight: 800
+Color: "#FFFFFF"
+
+Heading:
+Style: "Bold Sans"
+Weight: 700
+Color: "#FFFFFF"
+
+Body:
+Style: "Modern Sans"
+Weight: 400
+Color: "#E7E9FF"
+
+Numbers:
+Style: "ExtraBold Sans"
+Weight: 800
+Color: "#FFFFFF"
+
+Background:
+Type: "Isometric Grid"
+
+Elements:
+- Fine diagonal grid
+- Perspective lattice pattern
+- Floating cubes
+- Small geometric blocks
+- Orbital line graphics
+- Sparkle accents
+
+Density: "Medium"
+
+Illustration Style:
+Type: "3D Isometric Digital Objects"
+
+Characteristics:
+- Soft 3D vector rendering
+- Isometric perspective
+- Long shadows
+- Rounded edges
+- Minimal textures
+- High contrast against background
+
+Subjects:
+- File folders
+- Digital documents
+- Knowledge repositories
+- Search interfaces
+- Magnifying glasses
+- Archive boxes
+- Security locks
+- Database structures
+- Cloud storage
+- Data governance
+- AI memory systems
+- Information architecture
+
+Layout Principles:
+- Large hero object
+- Strong left-right composition
+- Minimal clutter
+- High readability
+- Large typography
+- Wide margins
+
+Cover Slides:
+Layout:
+- Large title block on left
+- Hero illustration on right
+- Subtitle below title
+- Background grid visible
+
+Section Slides:
+Layout:
+- Large section number
+- Massive heading
+- Large themed illustration
+- Minimal supporting text
+
+Content Slides:
+Statistics:
+Style: "Big Numbers"
+
+Comparison:
+Style: "Cards or Matrix"
+
+Process:
+Style: "Linear Flow"
+
+Repository:
+Style: "Folder Structure"
+
+Security:
+Style: "Lock & Access Diagram"
+
+Knowledge Base:
+Style: "Node Network"
+
+Data Visualization:
+Charts:
+Style: "Minimal White"
+
+Line Charts:
+Stroke: "#FFFFFF"
+
+Bar Charts:
+Fill: "#FFFFFF"
+
+Progress Rings:
+Stroke: "#FFFFFF"
+
+Labels:
+Color: "#FFFFFF"
+
+Illustration Placement:
+Hero:
+Large dominant object
+
+Content:
+One primary illustration
+Supported by data visuals
+
+Decorative Elements:
+- Floating cubes
+- Sparkles
+- Thin orbital curves
+- Isometric blocks
+- Small particles
+
+Effects:
+Shadows:
+Type: "Long Isometric Shadow"
+Opacity: 25%
+
+Glow:
+Type: "Soft"
+Opacity: 10%
+
+Gradients:
+Usage: "Background Only"
+
+Spacing:
+OuterMargin: "Large"
+SectionGap: "Large"
+ContentGap: "Medium"
+
+Rules:
+- Always use deep blue digital background
+- Maintain isometric perspective consistency
+- Use white typography only
+- Use one dominant object per slide
+- Preserve strong contrast
+- Keep decorative elements subtle
+- Use geometric grid throughout
+- Suitable for AI, IT, Cybersecurity, Data Management, Knowledge Systems, Digital Transformation presentations

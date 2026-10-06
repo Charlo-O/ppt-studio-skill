@@ -1,0 +1,124 @@
+Design Style:
+Name: "Watercolor Botanical"
+
+Concept: >
+水彩画で描かれた植物、
+小鳥、
+蝶をモチーフとした
+ナチュラルエディトリアルデザイン。
+
+自然観察ノート、
+絵本、
+ガーデンジャーナル、
+ライフスタイル誌のような
+優しく落ち着いた世界観を表現する。
+
+教育、
+ウェルビーイング、
+サステナビリティ、
+女性向けサービス、
+コミュニティ、
+AI教育、
+子ども向け教材に適する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Calm
+- Natural
+- Elegant
+- Gentle
+- Organic
+- Educational
+- Botanical
+- Editorial
+
+Color Palette:
+
+Background:
+Primary: "#E9EEEA"
+
+Text:
+Primary: "#355C55"
+Secondary: "#4F5F5A"
+
+Accent:
+Lavender: "#8B86C8"
+Sage: "#8DAA8A"
+Mint: "#CDE6D2"
+SkyBlue: "#BFD8EA"
+Coral: "#E59A74"
+
+Illustration:
+
+Style:
+Watercolor Botanical
+
+Rendering:
+Soft watercolor
+Hand painted
+Light transparency
+Organic brush texture
+
+Subjects:
+- Wild flowers
+- Botanical leaves
+- Butterflies
+- Small birds
+- Garden plants
+- Nature motifs
+
+Typography:
+
+Headings:
+Style: Elegant Editorial Serif
+Weight: 300-400
+
+Body:
+Style: Modern Humanist Sans
+
+Layout:
+
+Structure:
+- Large whitespace
+- Minimal composition
+- Centered layouts
+- Soft asymmetry
+- Editorial magazine style
+
+Components:
+
+Cover:
+- Large elegant title
+- Watercolor bird illustration
+
+Section Divider:
+- Large section number
+- Decorative butterfly
+
+Content:
+- Spacious text blocks
+- Minimal bullet lists
+
+Data:
+- Simple charts
+- Soft accent colors
+
+Effects:
+
+Texture:
+- Watercolor paper
+- Soft wash background
+
+Shadows:
+- None
+
+Rules:
+- Use watercolor illustrations only
+- Avoid hard edges and sharp geometry
+- Maintain soft pastel harmony
+- Use abundant whitespace
+- Keep layouts calm and uncluttered
+- Illustrations should frame content, not dominate it
+- Suitable for education, sustainability, wellness, culture, AI literacy and community presentations

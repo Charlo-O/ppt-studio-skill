@@ -1,0 +1,168 @@
+Design Style:
+Name: "Monochrome Yellow"
+
+Concept: >
+フラットレイ写真、
+プロダクトスタイリング、
+デザインスタジオ、
+Muji、
+HAY、
+Braun、
+Appleアクセサリー、
+文房具コレクション、
+ミュージアム展示、
+Instagram Flat Lay、
+デザインカタログから着想を得た
+モノクローム・オブジェクトコレクションデザイン。
+
+スライドを説明資料ではなく、
+一つの色だけで構成された
+プロダクトコレクション、
+デザインサンプル集、
+ビジュアルアーカイブ、
+オブジェクト図鑑として構成する。
+
+情報ではなく、
+モノの配置、
+リズム、
+余白、
+整列によって
+プレゼン全体を構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Graphic
+- Organized
+- Playful
+- Contemporary
+- Editorial
+- Museum
+- Curated
+
+Temperature:
+Overall: Bright
+
+Background:
+Style:
+- Single solid color
+- Matte paper texture
+- Seamless monochrome backdrop
+
+Color Palette:
+
+Primary:
+MonochromeYellow: "#F5D300"
+
+Secondary:
+WarmCream: "#FFF7D6"
+
+Accent:
+White: "#FFFFFF"
+Black: "#222222"
+
+Typography:
+
+Style:
+- Minimal Sans Serif
+- Modern Grotesk
+- Small captions
+- Museum labeling
+
+Layout:
+
+Structure:
+- Flat lay composition
+- Modular grid
+- Floating object arrangement
+- Equal spacing
+- Large negative space
+
+Composition:
+
+Principles:
+- Objects viewed from directly above
+- Every object separated
+- Consistent spacing
+- Carefully balanced asymmetry
+- Visual rhythm through repetition
+
+Photography:
+
+Style:
+- Flat lay photography
+- Top-down view
+- Studio lighting
+- Soft shadows
+- Matte surfaces
+- Product catalog photography
+
+Objects:
+
+Style:
+- Everyday objects
+- Office supplies
+- Stationery
+- Design tools
+- Small gadgets
+- Lifestyle accessories
+- Simple geometric items
+
+Image Treatment:
+- Entire slide uses one dominant color
+- Objects painted the same color as background
+- Matte finish
+- Soft realistic shadows
+- Clean cutouts
+- No reflections
+- No clutter
+
+Graphic Elements:
+- Thin labels
+- Small numbers
+- Minimal arrows
+- Grid alignment
+- Catalog markers
+
+Rendering:
+
+Style:
+- Photorealistic
+- High-end product photography
+- Editorial still life
+
+Whitespace:
+Density: Very High
+
+Visual Rules:
+- 全ページを一色だけで構成する。
+- オブジェクトと背景は同系色で統一する。
+- 真上から撮影したフラットレイ構図を維持する。
+- オブジェクト同士は均等な余白を保つ。
+- 情報よりも「配置の美しさ」を優先する。
+- コレクションを眺めるような構成にする。
+- 整理整頓されたデザインスタジオの机のように見せる。
+- シンプルな形状のモノを中心に配置する。
+- 写真全体にマットな質感を持たせる。
+- 高級デザイン誌のビジュアルページのように仕上げる。
+
+Avoid:
+- Busy backgrounds
+- Multiple color palettes
+- Heavy gradients
+- Glassmorphism
+- Neon colors
+- Complex illustrations
+- Cartoon graphics
+- Crowded layouts
+- Excessive text
+- Decorative borders
+
+Do Not Specify:
+- Titles
+- Body text
+- Topic
+- Names
+- Numbers

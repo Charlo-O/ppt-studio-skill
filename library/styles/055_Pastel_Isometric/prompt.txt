@@ -1,0 +1,196 @@
+Design Style:
+Name: "Pastel Isometric "
+
+Concept: >
+スタートアップ・事業計画向けの
+ミニマルなアイソメトリックプレゼンテーションデザイン。
+
+アイソメトリックイラストを各スライドのアクセントとして配置し、
+大きなタイポグラフィと余白を活かしてシンプルかつ視覚的に情報を伝える。
+
+コンテンツの理解を妨げないよう、
+装飾は最小限に抑えながら
+柔らかなパステルカラーで親しみやすさを演出する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Modern
+- Clean
+- Friendly
+- Professional
+- Isometric
+- Airy
+- Soft
+
+Color Palette:
+Background:
+Primary: "#F7F7F7"
+Grid: "#E5E5E5"
+
+Text:
+Primary: "#111111"
+Secondary: "#7A7A7A"
+
+Accent:
+Blue: "#D9E7E8"
+Pink: "#E9B8B1"
+Beige: "#E7DFC7"
+Coral: "#E88E84"
+
+Illustration:
+DeviceFrame: "#2A2A2A"
+Shadow: "#6B6B6B"
+
+Typography:
+Title:
+Font: "Montserrat"
+Style: "Light"
+Weight: 300
+Case: "Uppercase"
+Color: "#111111"
+
+Heading:
+Font: "Montserrat"
+Weight: 400
+Color: "#111111"
+
+Body:
+Font: "Roboto"
+Weight: 300
+Color: "#6F6F6F"
+
+Number:
+Font: "Montserrat"
+Weight: 200
+Scale: "Oversized"
+
+Layout:
+Structure: >
+左右非対称レイアウト。
+テキストブロックとアイソメトリックイラストを
+対角線上に配置し、
+大きな余白を確保する。
+
+Margins:
+Top: "8%"
+Bottom: "8%"
+Left: "8%"
+Right: "8%"
+
+Alignment:
+Primary: "Left"
+Secondary: "Center"
+
+Background:
+Base: >
+明るいグレー背景。
+
+Pattern:
+Type: "Isometric Grid"
+Opacity: 10%
+
+Decorative Elements:
+- Small dotted pattern clusters
+- Rounded geometric corner panels
+- Soft colored highlight rectangles
+
+Illustration Style:
+Type: "Flat Isometric Vector"
+
+Characteristics:
+- Smartphone mockups
+- Online shopping scenes
+- Delivery interactions
+- Human figures
+- Shopping carts
+- Retail products
+- Marketplace visuals
+
+Style Rules:
+- Soft pastel colors
+- Thin shadows
+- No gradients
+- Minimal details
+- Clean vector appearance
+- Consistent isometric perspective
+
+Shapes:
+Corner Panels:
+Shape: "Large rounded rectangles"
+Placement:
+- Top Left
+- Bottom Right
+- Alternating by slide
+
+Highlight Bars:
+Purpose: "Behind titles and numbers"
+Height: "10-15% of title height"
+Opacity: 100%
+
+Section Slides:
+Layout:
+- Large section number
+- Large uppercase title
+- Minimal subtitle
+- Illustration on opposite side
+
+Emphasis:
+- Strong typography
+- Minimal text
+- Generous whitespace
+
+Content Slides:
+Title Position: "Upper Left"
+
+Body Layout:
+- Single-column content
+- Timeline
+- Numbered list
+- Comparison blocks
+- Quote layout
+
+Illustration Placement:
+- Opposite side of content
+- Bottom corner
+- Side anchor
+
+Data Visualization:
+Style:
+- Minimal
+- Thin lines
+- Soft pastel accents
+
+Components:
+- Timelines
+- KPI blocks
+- Process steps
+- Comparison lists
+- Number cards
+
+Iconography:
+Style:
+- Simple line icons
+- Rounded corners
+- Consistent stroke weight
+
+Spacing:
+Density: "Low"
+
+Principles:
+- Large whitespace
+- Minimal clutter
+- One focal point per slide
+- Clear visual hierarchy
+
+Avoid:
+- Dark backgrounds
+- Heavy gradients
+- Complex textures
+- Dense information layouts
+- Thick borders
+- Bright saturated colors
+- 3D realistic renders
+- Decorative typography

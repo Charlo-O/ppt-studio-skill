@@ -1,0 +1,183 @@
+Design Style:
+Name: "Monochrome White"
+
+Concept: >
+Apple、
+Braun、
+Dieter Rams、
+MUJI、
+Aesop、
+Kinfolk、
+Scandinavian Design、
+Studio Workspace、
+Product Photography、
+Flat Lay、
+Design Museum、
+Lifestyle Editorialから着想を得た
+ホワイト・キュレーテッド・フラットレイデザイン。
+
+スライドをプレゼン資料ではなく、
+デザインスタジオの机、
+ライフスタイル誌、
+ブランドルックブック、
+プロダクトカタログ、
+美術館の展示ケースとして構成する。
+
+情報を説明するのではなく、
+モノの配置、
+余白、
+質感、
+整理された秩序によって
+世界観を作る。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Premium
+- Clean
+- Editorial
+- Contemporary
+- Calm
+- Scandinavian
+- Curated
+
+Temperature:
+Overall: Cool
+
+Background:
+Style:
+- Pure white seamless paper
+- Matte studio backdrop
+- Clean gallery wall
+
+Color Palette:
+
+Primary:
+PureWhite: "#FFFFFF"
+WarmWhite: "#F9F9F7"
+
+Secondary:
+LightGray: "#ECECEC"
+Silver: "#D9D9D9"
+
+Accent:
+Black: "#222222"
+
+Typography:
+
+Style:
+- Helvetica inspired
+- SF Pro inspired
+- Neue Haas Grotesk
+- Minimal Sans Serif
+- Museum captions
+- Small labels
+- Wide letter spacing
+
+Layout:
+
+Structure:
+- Flat lay grid
+- Modular alignment
+- Editorial spacing
+- Product showcase
+- Museum display
+
+Composition:
+
+Principles:
+- Top-down composition
+- Carefully balanced asymmetry
+- Equal spacing
+- Large negative space
+- One hero object with supporting objects
+- Visual rhythm through repetition
+
+Photography:
+
+Style:
+- Flat lay photography
+- Studio product photography
+- Soft daylight
+- Minimal shadows
+- Matte textures
+- High-key lighting
+
+Objects:
+
+Style:
+- Laptop
+- Smartphone
+- Notebook
+- Keyboard
+- Mouse
+- Headphones
+- Watch
+- Camera
+- Coffee cup
+- Stationery
+- Cosmetics
+- Everyday tools
+- Lifestyle accessories
+- Minimal office supplies
+
+Image Treatment:
+- Neutral white color grading
+- Matte finish
+- Soft shadows
+- Clean silhouettes
+- Minimal reflections
+- Premium product photography
+- Perfect cutouts
+
+Graphic Elements:
+- Thin divider lines
+- Small editorial labels
+- Catalog markers
+- Minimal geometric guides
+- Museum annotations
+
+Rendering:
+
+Style:
+- Ultra realistic
+- Commercial photography
+- Apple advertisement
+- Product catalog
+- Lifestyle magazine
+
+Whitespace:
+Density: Extremely High
+
+Visual Rules:
+- 真上から撮影したフラットレイ構図を維持する。
+- 白を基調とした配色で統一する。
+- オブジェクト同士の間隔を均等に保つ。
+- グリッドを意識して整然と配置する。
+- Apple製品や文房具、生活用品を美しく整理して並べる。
+- 一つひとつのオブジェクトが独立して見えるよう十分な余白を確保する。
+- 強い影ではなく柔らかな自然光で立体感を表現する。
+- 雑誌のライフスタイル特集やブランドルックブックのような完成度を目指す。
+- 「Less but Better」の思想を全体に反映する。
+- 情報量よりも秩序・静けさ・美しさを優先する。
+
+Avoid:
+- Bright colors
+- Rainbow palettes
+- Heavy gradients
+- Neon effects
+- Clip art
+- Cartoon illustrations
+- Decorative borders
+- Busy layouts
+- Random object placement
+- Strong shadows
+
+Do Not Specify:
+- Titles
+- Body text
+- Topic
+- Names
+- Numbers

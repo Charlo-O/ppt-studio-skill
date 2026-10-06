@@ -1,0 +1,128 @@
+Design Style:
+Name: "Art Magazine"
+
+Concept: >
+美術館図録、
+高級ライフスタイル誌、
+ナショナルジオグラフィック、
+現代アート出版、
+カルチャーマガジンから着想を得た
+アートマガジン型エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+上質な雑誌の特集記事として構成する。
+
+写真、
+アート、
+ストーリー、
+タイポグラフィを組み合わせ、
+読み進めたくなる誌面をつくる。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Elegant
+- Intellectual
+- Artistic
+- Refined
+- Calm
+- Premium
+- Editorial
+- Inspiring
+
+Temperature:
+Overall: Soft
+
+Background:
+Color: "#FFFFFF"
+
+Color Palette:
+Primary:
+AquaBlue: "#78C9D4"
+Teal: "#5CBEC7"
+
+Secondary:
+SoftGray: "#E8E8E8"
+WarmWhite: "#FAFAF8"
+
+Accent:
+DeepNavy: "#233548"
+
+Typography:
+Style:
+- Editorial serif
+- Contemporary serif
+- Elegant sans-serif
+- Magazine typography
+
+Treatment:
+- Large opening capitals
+- Feature headlines
+- Multi-column articles
+- Refined hierarchy
+
+Layout:
+Composition:
+- Magazine spread
+- Feature article structure
+- Visual storytelling
+- Gallery-inspired layout
+
+Structure:
+- Cover page
+- Feature story
+- Full-page imagery
+- Editorial article
+- Quote pages
+- Insight sections
+
+Photography:
+Style:
+- Fine art photography
+- Editorial portraiture
+- Nature imagery
+- Abstract art
+- Museum-quality visuals
+
+Treatment:
+- Large image dominance
+- Elegant cropping
+- High resolution
+- Gallery presentation
+
+Visual Elements:
+Components:
+- Pull quotes
+- Captions
+- Editorial sidebars
+- Intro paragraphs
+- Feature headings
+
+Decorative:
+- Thin rules
+- Color panels
+- Image windows
+- Minimal accents
+
+Effects:
+- Print publication aesthetic
+- Soft editorial tone
+- No excessive graphics
+- Gallery-quality presentation
+
+Image Style:
+Treatment:
+- Artistic
+- Curated
+- Premium
+- Museum-inspired
+
+Design Rules:
+- Prioritize imagery and storytelling.
+- Use generous whitespace.
+- Maintain a calm editorial rhythm.
+- Let visuals guide the reader.
+- Use typography with restraint.
+- Create the feeling of a premium art publication.
+- Balance elegance and readability.

@@ -1,0 +1,163 @@
+Design Style:
+Name: "Conversation Bubble"
+
+Concept: >
+Bauhaus、
+Swiss International Style、
+Google Material Icons、
+チャットアプリUI、
+インフォグラフィック、
+ブランドポスター、
+ミニマルグラフィック、
+ソーシャルコミュニケーションデザインから着想を得た
+カンバセーション・バブル型エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+会話そのものを可視化した
+デザインポスター、
+コミュニケーションのビジュアルシステム、
+現代アート作品として構成する。
+
+情報を文章ではなく、
+吹き出し、
+色、
+重なり、
+余白、
+リズムによって伝える。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Friendly
+- Graphic
+- Editorial
+- Contemporary
+- Minimal
+- Playful
+- Human
+- Modern
+
+Temperature:
+Overall: Bright
+
+Background:
+Color: "#F5F3EE"
+
+Color Palette:
+
+Primary:
+TomatoRed: "#EF2B3A"
+AquaBlue: "#67C7D5"
+Lavender: "#A74CA9"
+Peach: "#F6B089"
+SunYellow: "#F6C34A"
+EmeraldGreen: "#2FA34A"
+
+Secondary:
+LightGray: "#CDD6D8"
+DeepPurple: "#4E4469"
+
+Neutral:
+White: "#FFFFFF"
+Black: "#111111"
+
+Typography:
+
+Style:
+- Swiss Sans Serif
+- Geometric Sans
+- Grotesk
+- Bold Editorial
+- Clean Typography
+
+Heading:
+Weight: ExtraBold
+Scale: Large
+
+Body:
+Weight: Medium
+Size: Small
+
+Layout:
+
+Structure:
+- Loose modular grid
+- Layered composition
+- Asymmetrical balance
+- Floating graphic objects
+
+Composition:
+
+Principles:
+- Large overlapping speech bubbles
+- Clear hierarchy
+- Rhythmic repetition
+- Balanced negative space
+- Organic layering
+
+Illustration:
+
+Style:
+- Flat vector
+- Simple geometry
+- Minimal iconography
+
+Speech Bubble Library:
+Shapes:
+- Circle bubbles
+- Rounded rectangles
+- Square bubbles
+- Capsule bubbles
+- Oval bubbles
+- Minimal tails
+- Soft organic bubbles
+
+Graphic Elements:
+- Conversation bubbles
+- Layered circles
+- Rounded rectangles
+- Overlapping color fields
+- Simple geometric accents
+- Minimal interface symbols
+
+Rendering:
+
+Style:
+- Flat vector
+- Editorial illustration
+- Crisp geometry
+- Matte print aesthetic
+
+Image Treatment:
+- No photography
+- No gradients
+- No shadows
+- Flat colors only
+- Slight paper texture
+
+Whitespace:
+Density: Medium
+
+Visual Rules:
+- 吹き出しを主役にレイアウトする。
+- 吹き出し同士を重ねて会話の流れを表現する。
+- 色の重なりによってリズムを生み出す。
+- 角丸と円形を組み合わせて柔らかさを演出する。
+- フラットカラーのみで構成する。
+- 幾何学的なバランスを維持する。
+- 写真は使用せず、ベクターだけで構成する。
+- 余白を十分に残し、軽やかな印象にする。
+- 一枚のブランドポスターのような完成度を目指す。
+- スライド全体をコミュニケーションの可視化として表現する。
+
+Avoid:
+- Photorealism
+- 3D graphics
+- Glassmorphism
+- Skeuomorphism
+- Heavy shadows
+- Decorative textures
+- Dense layouts
+- Clip Art
+- Corporate PowerPoint templates

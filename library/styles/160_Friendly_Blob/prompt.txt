@@ -1,0 +1,193 @@
+Design Style:
+Name: "Friendly Blob"
+
+Concept: >
+北欧キャラクターデザイン、
+ミッドセンチュリーモダン、
+Bauhaus、
+LINEスタンプ、
+Google Doodle、
+絵文字、
+インディーコミック、
+ポップアート、
+キッズブランド、
+デザイン玩具から着想を得た
+フレンドリーブロブ・ライフエディトリアルデザイン。
+
+スライドを説明資料ではなく、
+キャラクター図鑑、
+小さな絵本、
+ポスターコレクション、
+感情辞典、
+ブランドビジュアルシステムとして構成する。
+
+情報を文章ではなく、
+キャラクター、
+表情、
+色、
+シンプルな形、
+リズムによって伝える。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Friendly
+- Cute
+- Optimistic
+- Playful
+- Human
+- Editorial
+- Minimal
+- Whimsical
+
+Temperature:
+Overall: Soft
+
+Background:
+Color: "#111111"
+
+Color Palette:
+
+Primary:
+LemonYellow: "#F4D74A"
+CoralRed: "#F74B42"
+BubblePink: "#E7A8D7"
+MintGreen: "#C7E59A"
+SkyBlue: "#B7DCEC"
+Tangerine: "#F48A2C"
+
+Secondary:
+Lavender: "#C9B5F2"
+Cream: "#FFF7E8"
+
+Accent:
+White: "#FFFFFF"
+Black: "#111111"
+
+Typography:
+
+Style:
+- Rounded Sans Serif
+- Friendly Grotesk
+- Bold Minimal Sans
+
+Layout:
+
+Structure:
+- Loose modular grid
+- Large playful composition
+- Floating characters
+- Poster layout
+
+Composition:
+
+Principles:
+- One hero character
+- Strong negative space
+- Balanced asymmetry
+- Large graphic shapes
+- Character-first hierarchy
+
+Illustration:
+
+Style:
+- Flat vector
+- Friendly blobs
+- Rounded geometry
+- Minimal facial features
+- Abstract creatures
+
+Character Design:
+
+Shapes:
+- Organic blobs
+- Flowers
+- Leaves
+- Hearts
+- Rainbows
+- Soft arches
+- Rounded rectangles
+- Capsules
+- Beans
+- Petals
+- Simple abstract creatures
+
+Face:
+Eyes:
+- Oversized cartoon eyes
+- Tiny dot eyes
+- Half-closed sleepy eyes
+- Looking sideways
+- Cross-eyed
+- Curious eyes
+
+Mouth:
+- Tiny smile
+- Open smile
+- Straight face
+- Small surprised mouth
+- Tongue out
+- Cute expression
+
+Emotion:
+- Happy
+- Curious
+- Calm
+- Sleepy
+- Silly
+- Shy
+- Proud
+- Confused
+
+Graphic Elements:
+- Flowers
+- Leaves
+- Abstract plants
+- Organic shapes
+- Floating dots
+- Tiny stars
+- Small geometric accents
+- Minimal decorative lines
+
+Rendering:
+
+Style:
+- Flat vector
+- Matte paper texture
+- Slight screen print grain
+- Crisp silhouette
+
+Image Treatment:
+- Flat colors only
+- No gradients
+- No shadows
+- Soft paper grain
+- Bold silhouettes
+
+Whitespace:
+Density: Medium
+
+Visual Rules:
+- すべての図形に人格が宿っているように見せる。
+- キャラクターは非常に単純な図形だけで構成する。
+- 顔のパーツは最小限にする。
+- 大きな余白でキャラクターを引き立てる。
+- 黒背景の上で鮮やかな色を際立たせる。
+- 形・表情・視線だけでストーリーを感じさせる。
+- イラストは必ずフラットベクターで描く。
+- かわいさよりもグラフィック性を重視する。
+- スライド全体をブランドポスターのように統一する。
+- 一枚一枚が独立したアート作品として成立する。
+
+Avoid:
+- Photorealism
+- 3D graphics
+- Gradients
+- Glassmorphism
+- Skeuomorphism
+- Realistic anatomy
+- Complex illustrations
+- Heavy shadows
+- Dense layouts
+- Corporate presentation

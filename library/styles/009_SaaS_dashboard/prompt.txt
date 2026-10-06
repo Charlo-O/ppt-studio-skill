@@ -1,0 +1,106 @@
+Color Palette:
+Background:
+- "#F3F4F7"
+- "#ECECEC"
+- "#FFFFFF"
+
+Card:
+- "#ECECEC"
+- "#F5F5F5"
+- "#FFFFFF"
+
+Text:
+Primary: "#111111"
+Secondary: "#666666"
+Light: "#FFFFFF"
+
+Accent:
+Purple: "#6C35FF"
+Violet: "#7B3CFF"
+SoftPurple: "#DCCEFF"
+
+Highlight:
+Mint: "#35F2B2"
+
+Neutral:
+- "#D9D9D9"
+- "#BFBFBF"
+- "#888888"
+
+Layout:
+Cards:
+Shape: "rounded rectangles"
+Radius: "24-36px"
+Border: "none"
+Shadow: "none"
+Padding: "generous"
+
+Visual Elements:
+UI:
+Style: "flat modern SaaS dashboard"
+Elements:
+- "progress bars"
+- "data charts"
+- "circular graphs"
+- "stat cards"
+- "timeline indicators"
+- "floating labels"
+- "minimal badges"
+
+Icons:
+Style: "flat minimal icons"
+Shape: "rounded"
+Colors:
+- "#6C35FF"
+- "#7B3CFF"
+- "#FFFFFF"
+
+Charts:
+Style:
+- "minimal axis"
+- "purple highlight bars"
+- "thin gray grid lines"
+- "clean white chart area"
+- "dashboard aesthetic"
+
+Graphs:
+- "bar charts"
+- "line charts"
+- "donut charts"
+- "percentage circles"
+- "comparison tables"
+
+Components:
+TeamCards:
+Style:
+- "portrait image cards"
+- "minimal captions"
+- "rounded corners"
+- "soft gray backgrounds"
+
+PricingCards:
+Style:
+- "3-column pricing layout"
+- "soft purple backgrounds"
+- "minimal borders"
+- "center aligned"
+
+SWOT:
+Style:
+- "large typography initials"
+- "purple highlight quadrant"
+- "clean white cards"
+
+ProcessFlow:
+Style:
+- "connected circles"
+- "step indicators"
+- "minimal arrows"
+- "horizontal workflow"
+
+Design Rules:
+- "Avoid shadows entirely"
+- "Use flat minimal UI elements"
+- "Favor clean white and light-gray surfaces"
+- "Use purple as the primary accent color"
+- "Maintain spacious modern SaaS layouts"

@@ -1,0 +1,117 @@
+Design Style:
+Name: "Neon Editorial Minimal"
+Concept: "ネオンカラーとクラシックなセリフ体を組み合わせた、雑誌風の大胆でモードなプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Bold
+- Editorial
+- Fashion
+- Neon
+- Minimal
+- Modern
+- Energetic
+- Creative
+
+Color Palette:
+Background:
+Main: "#F7F7F2"
+Light: "#FFFFFF"
+Dark: "#0B0B0B"
+
+Text:
+Primary: "#0B0B0B"
+Secondary: "#555555"
+Light: "#FFFFFF"
+
+Accent:
+NeonLime: "#C8FF00"
+ElectricPurple: "#9B7BFF"
+VividOrange: "#FF7A00"
+SoftPink: "#F7B6C8"
+
+Typography:
+Heading:
+Font: "Classic Editorial Serif"
+Weight: "Bold"
+Style: "Large, dramatic, magazine-title style"
+Usage: "Use oversized serif titles as the main visual element"
+
+Body:
+Font: "Clean Sans Serif"
+Weight: "Regular"
+Style: "Small, compact, structured"
+
+Label:
+Font: "Condensed Sans Serif"
+Weight: "Bold"
+Style: "Uppercase, tiny captions and section labels"
+
+Layout:
+Style:
+- Editorial magazine spread
+- Large typography
+- Strong asymmetry
+- Wide margins
+- High contrast color blocks
+- Minimal text density
+- Photo-based accent composition
+
+Grid:
+Columns: 12
+Margin: "Generous"
+Alignment: "Strict but playful"
+Spacing: "Wide negative space with compact information blocks"
+
+Composition:
+- Use one oversized headline per slide
+- Place small metadata text in corners
+- Use bright neon rectangles as visual anchors
+- Combine black-and-white or fashion-style photos with neon frames
+- Allow titles to overlap image areas slightly
+- Use thin lines and small labels for editorial detail
+
+Image Style:
+Treatment:
+- Fashion editorial photography
+- Cropped portrait or lifestyle images
+- High contrast
+- Clean rectangular framing
+- Neon color overlays or borders
+
+Graphic Elements:
+- Neon color blocks
+- Thin black divider lines
+- Small page numbers
+- Tiny uppercase captions
+- Minimal table-of-contents lists
+- Large numeric highlight cards
+
+Slide Types:
+Title Slide:
+Layout: "Huge serif title with neon background or dark minimal background"
+
+Contents Slide:
+Layout: "Clean white background, compact list, small image accent"
+
+About Slide:
+Layout: "Text-heavy editorial block with one neon-framed image"
+
+Project Detail Slide:
+Layout: "Large image on one side with neon title block"
+
+Case Study Slide:
+Layout: "Dark background, neon headline, photo collage"
+
+Data Slide:
+Layout: "Stacked neon statistic cards with large numbers"
+
+Rules:
+- Do not use decorative gradients
+- Do not use rounded corporate cards
+- Keep text blocks small and structured
+- Use strong contrast between serif titles and tiny sans-serif labels
+- Keep the overall look editorial, bold, and fashion-oriented
+- Use neon colors as accents, not as full background on every slide

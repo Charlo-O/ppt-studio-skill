@@ -1,0 +1,165 @@
+Design Style:
+Name: "Academic Isometric"
+
+Concept: >
+アカデミックな
+アイソメトリックデザイン。
+
+本、ノート、
+地球儀、卒業帽、
+文房具、教室、
+学習者をモチーフに構成する。
+
+知的で信頼感があり、
+教育機関らしい世界観を表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Academic
+- Educational
+- Intelligent
+- Trustworthy
+- Structured
+- Clean
+- Professional
+- Global
+
+Color Palette:
+
+Background:
+Primary: "#EDEEF8"
+
+Text:
+Primary: "#0F1D5C"
+Secondary: "#4A4DB5"
+
+Accent:
+Primary: "#B60E2B"
+
+Surface:
+Primary: "#FFFFFF"
+
+Illustration:
+
+Style:
+Academic Isometric
+
+Rendering:
+Flat vector
+Soft shadows
+Clean geometry
+Educational editorial
+
+Subjects:
+- Books
+- Globe
+- Graduation Cap
+- Pencils
+- Learning Materials
+- Students
+- Teachers
+- Research
+
+Typography:
+
+Headings:
+Weight: 700-800
+Color: "#4A4DB5"
+
+Highlight:
+Color: "#B60E2B"
+
+Layout:
+
+Philosophy:
+Education-first
+
+Structure:
+- Large academic illustration
+- Strong title hierarchy
+- Clean text zones
+- Balanced whitespace
+
+Components:
+
+Cover:
+- Educational illustration
+- Large title
+
+Section Divider:
+- Large section number
+- Academic object illustration
+
+Learning Framework:
+- 3 to 6 concept cards
+
+Timeline:
+- Academic journey roadmap
+
+Comparison:
+- Structured matrix
+
+Statistics:
+- Clean percentage charts
+
+Decorations:
+
+Elements:
+- Minimal stationery
+- Globe
+- Paper clips
+- Geometric accents
+
+Charts:
+
+Style:
+Academic infographic
+
+Types:
+- Learning pathways
+- Timelines
+- Comparison tables
+- Process diagrams
+- Percentage charts
+
+Spacing:
+
+Density:
+Medium-Low
+
+White Space:
+Generous
+
+Visual Hierarchy:
+
+Level1:
+Section title
+
+Level2:
+Illustration
+
+Level3:
+Key concept
+
+Level4:
+Supporting explanation
+
+Avoid:
+- Startup aesthetics
+- Heavy gradients
+- Dark themes
+- Complex dashboards
+- Corporate finance imagery
+
+Keywords:
+- Education
+- Learning
+- Global Education
+- Academic
+- School
+- University
+- Career Development
+- AI Literacy
+- Educational Isometric

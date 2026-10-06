@@ -1,0 +1,157 @@
+Design Style:
+Name: "Monochrome Runner"
+
+Concept: >
+プラモデルのランナー、
+工業製品の設計図、
+ミュージアムの収蔵品ラベル、
+オブジェクト図鑑から着想を得た
+ミニマルなエディトリアルデザイン。
+
+情報を文章ではなく「部品」として扱い、
+それぞれの要素をランナーで接続された
+コレクションのように配置する。
+
+コンテンツは説明資料ではなく、
+一枚の設計シートや標本シートのような
+美しい構造物として見せる。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Systematic
+- Curated
+- Industrial
+- Modular
+- Clean
+- Graphic
+- Contemporary
+
+Temperature:
+Overall: Neutral
+
+Color Palette:
+Background:
+SoftGray: "#ECECEC"
+
+Primary:
+SignalRed: "#E53935"
+
+Secondary:
+White: "#FFFFFF"
+
+Typography:
+Style: >
+Clean modern sans-serif.
+Minimal labeling.
+Strong visual hierarchy.
+Museum catalog aesthetic.
+
+Layout:
+Structure: >
+Entire slide organized as a large runner frame.
+Every content block exists inside its own compartment.
+Thick interconnected borders create a unified system.
+
+Grid:
+Geometric and highly ordered.
+Balanced rectangular modules.
+
+Composition:
+Object-centered.
+Large visual elements surrounded by generous space.
+
+Background:
+Base: >
+Flat neutral background with no gradients.
+
+Graphic Elements:
+Runner Frame:
+Thick rounded runner structure.
+Consistent stroke width.
+Injection-mold aesthetic.
+
+Connectors:
+Mechanical attachment points.
+Straight industrial connections.
+
+Objects:
+Silhouette illustrations.
+Simple geometric forms.
+Everyday objects treated as collectible components.
+
+Illustration Style:
+Type: "Monochrome Object Silhouette"
+
+Characteristics:
+- Flat vector shapes
+- No shading
+- No realism
+- Strong silhouettes
+- Uniform visual language
+- Museum specimen aesthetic
+
+Shapes:
+Primary:
+- Rounded rectangles
+- Straight connectors
+- Object silhouettes
+
+Secondary:
+- Small labels
+- Index markers
+- Collection identifiers
+
+Content Containers:
+Titles:
+Integrated into the runner system.
+
+Text:
+Minimal and compact.
+Treated as supporting metadata.
+
+Images:
+Displayed as collectible parts inside modules.
+
+Charts:
+Simplified into object-like visual components.
+
+Spacing:
+Density: Medium
+
+Balance: >
+Equal visual weight across the entire slide.
+Strong use of negative space.
+
+Effects:
+Shadows: None
+Gradients: None
+Glassmorphism: False
+
+Texture:
+None
+
+Borders:
+Thick monochrome outlines.
+
+Visual References:
+- Plastic model runner
+- Design museum catalog
+- Industrial object archive
+- Product blueprint
+- Collection board
+- Specimen display
+
+Keywords:
+- Runner Frame
+- Object Collection
+- Industrial Editorial
+- Product Catalog
+- Design Archive
+- Museum Graphic
+- Modular Layout
+- Flat Vector
+- Monochrome Illustration
+- Minimal System Design

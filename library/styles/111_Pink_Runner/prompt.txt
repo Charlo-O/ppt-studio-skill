@@ -1,0 +1,164 @@
+Design Style:
+Name: "Pink Runner"
+
+Concept: >
+建築模型アクセサリーパーツ、
+スケールモデルランナー、
+建築家の素材サンプルボード、
+ミニマルな図鑑レイアウトから着想を得た
+カタログ型エディトリアルデザイン。
+
+人物、家具、植物、乗り物、建築要素などを
+独立したパーツとして整理し、
+一枚のコレクションボードのように構成する。
+
+情報を説明するのではなく、
+コンテンツを収集・分類・展示することで
+全体像を伝える。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Curated
+- Minimal
+- Architectural
+- Graphic
+- Organized
+- Contemporary
+- Editorial
+- Playful
+
+Temperature:
+Overall: Warm
+
+Color Palette:
+Background:
+VividMagenta: "#E94A9B"
+
+Objects:
+PureWhite: "#FFFFFF"
+
+Typography:
+Style: >
+Thin geometric sans-serif.
+Editorial magazine aesthetic.
+Light typography with generous spacing.
+Elegant and contemporary.
+
+Layout:
+Structure: >
+Full-slide runner board composition.
+Multiple compartments of varying sizes.
+Every content element appears as a detachable model component.
+
+Grid:
+Strict modular architecture.
+Balanced asymmetry.
+Museum catalog organization.
+
+Composition:
+Collection-first design.
+Objects distributed evenly throughout the canvas.
+
+Background:
+Base: >
+Solid monochrome color field.
+
+Texture:
+Flat printed-paper appearance.
+
+Graphic Elements:
+Runner Frame:
+Thin rounded structural frame.
+Uniform white stroke.
+Precision model-kit construction.
+
+Compartments:
+Various rectangular modules.
+Object-sized containers.
+Consistent spacing.
+
+Labels:
+Small catalog identifiers.
+Minimal metadata tags.
+Architectural archive aesthetic.
+
+Illustration Style:
+Type: "Architectural Silhouette"
+
+Characteristics:
+- Pure silhouette forms
+- Flat vector graphics
+- Uniform scale relationships
+- No shading
+- No gradients
+- Technical catalog appearance
+
+Objects:
+Categories:
+- People
+- Furniture
+- Transportation
+- Interior accessories
+- Plants
+- Architectural elements
+
+Treatment:
+Each object displayed as a collectible model part.
+
+Content Containers:
+Titles:
+Integrated into the top frame area.
+
+Text:
+Minimal.
+Secondary to visual organization.
+
+Images:
+Converted into silhouette-style modules.
+
+Charts:
+Simplified into geometric catalog components.
+
+Spacing:
+Density: High
+
+Balance: >
+Dense object collection while maintaining
+clean negative space around each element.
+
+Effects:
+Shadows: None
+Gradients: None
+Glassmorphism: False
+
+Depth:
+Completely flat.
+
+Borders:
+Style:
+Thin white outlines.
+
+Radius:
+Rounded corners.
+
+Visual References:
+- Architectural model accessories
+- Scale model kits
+- Design museum archive
+- Product specimen sheets
+- Editorial object collections
+- Contemporary graphic catalogs
+
+Keywords:
+- Architectural Model Kit
+- Scale Figure Runner
+- Object Catalog
+- Design Collection Board
+- Silhouette Editorial
+- Museum Archive
+- Flat Vector System
+- Modular Collection
+- Graphic Inventory
+- Curated Object Layout

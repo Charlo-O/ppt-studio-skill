@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Studio"
+  short_description: "Styled, editable PPT decks from 160 slide styles"
+  default_prompt: "Use $ppt-studio to design a complete, editable slide deck in a style from the library."

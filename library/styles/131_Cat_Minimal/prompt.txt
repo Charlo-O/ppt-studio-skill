@@ -1,0 +1,227 @@
+Design Style:
+Name: "Cat Minimal"
+
+Concept: >
+Discordカルチャー、
+インターネット猫ミーム、
+ステッカーパック、
+ミニマルUI、
+スイスグラフィック、
+デザインZINE、
+実験的ポスター、
+現代グラフィックデザインから着想を得た
+猫ミーム・クラブエディトリアルデザイン。
+
+スライドを説明資料ではなく、
+デザイン雑誌、
+インディーズZINE、
+アートイベントポスター、
+UIコンポーネント集として構成する。
+
+猫ミームは
+写真ではなく、
+シンプルなアイコン、
+顔、
+シルエット、
+ステッカーとして登場する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Internet
+- Editorial
+- Graphic
+- Modern
+- Experimental
+- Clever
+- Playful
+
+Temperature:
+Overall: High Contrast
+
+Background:
+Color: "#FFFFFF"
+
+Color Palette:
+
+Primary:
+White: "#FFFFFF"
+Black: "#111111"
+
+Accent:
+MemeGreen: "#3CFF00"
+
+Typography:
+
+Style:
+- Huge bold sans-serif
+- Condensed uppercase
+- Minimal labels
+- Tiny UI text
+
+Treatment:
+- Extremely oversized headlines
+- Tight spacing
+- Vertical labels
+- Corner annotations
+- UI badges
+- Tiny metadata
+
+Layout:
+
+Structure: >
+スライド全体を
+UIカードを組み合わせた
+モジュールレイアウトで構成する。
+
+情報はグリッドで整理し、
+余白を十分確保する。
+
+一つ一つのブロックが
+ステッカーやアプリカードのように見える。
+
+Photography:
+
+Style: >
+猫ミームは
+白背景で切り抜き。
+
+モノクロまたは
+高コントラスト。
+
+表情だけを
+大胆にトリミングする。
+
+Illustration:
+
+Style: >
+シンプルな顔文字、
+スマイル、
+吹き出し、
+UIアイコン、
+矢印、
+幾何学図形で構成する。
+
+Visual Elements:
+
+Components:
+- HUH Cat
+- Popcat
+- Keyboard Cat
+- Banana Cat
+- Crying Cat
+- Business Cat
+- Deal With It Cat
+- Loading Cat
+- Sleeping Cat
+- Brainrot Cat
+
+- Emoji faces
+- Cursor
+- Speech bubbles
+- Tiny arrows
+- Loading bars
+- Status icons
+- Progress circles
+- Window frames
+
+Shapes:
+
+Usage:
+- Rounded cards
+- Thin borders
+- Large circles
+- Grid panels
+- Square modules
+- UI windows
+
+Effects:
+- Flat graphics
+- Sticker cutout
+- High contrast
+- Minimal shadows
+- Screen printed feel
+
+Infographics:
+
+Style: >
+インフォグラフィックも
+UIパーツとして構成する。
+
+数字、
+アイコン、
+ラベルのみで
+シンプルに見せる。
+
+Composition:
+
+Characteristics:
+- Modular grid
+- Dashboard inspired
+- Editorial layout
+- White space first
+- UI card system
+- Poster composition
+- Sticker arrangement
+- Strong hierarchy
+
+Slide Patterns:
+
+Cover:
+- Huge title
+- One oversized cat meme
+- Grid modules
+- Small UI labels
+
+Section:
+- Large icon
+- Minimal heading
+- Accent color block
+
+Content:
+- Multiple UI cards
+- Small meme stickers
+- Diagram blocks
+
+Quote:
+- Huge typography
+- Tiny cat reaction
+
+Timeline:
+- UI progress tracker
+
+Closing:
+- Minimal poster
+- Single meme character
+
+Design Rules:
+- Large typography dominates every slide.
+- Use only black, white, and one neon accent color.
+- Every element should align to a strict grid.
+- Cats appear as modular UI components rather than decorative photos.
+- Keep compositions clean but playful.
+- Prefer geometric simplicity over realism.
+- Every slide should resemble a contemporary design magazine or experimental interface.
+
+Avoid:
+- Corporate consulting slides
+- Glassmorphism
+- Heavy gradients
+- Photo collages
+- Decorative clip art
+- Busy backgrounds
+- Traditional business charts
+
+Keywords:
+- Cat Meme
+- Swiss Graphic
+- Editorial Design
+- Modular Grid
+- UI Design
+- Design Zine
+- Minimal Poster
+- Sticker UI
+- Internet Culture
+- Contemporary Graphic Design

@@ -1,0 +1,228 @@
+Design Style:
+Name: "Geometry Face"
+
+Concept: >
+Bauhaus、
+Memphis、
+Google Doodles、
+北欧キッズデザイン、
+幾何学ポスター、
+LEGO、
+フラットアイコン、
+モダンキャラクターデザインから着想を得た
+ジオメトリック・フェイス型エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+キャラクターライブラリ、
+感情辞典、
+デザインシステム、
+ポップアートポスターとして構成する。
+
+基本図形そのものが
+キャラクターになり、
+顔の表情だけで
+個性と感情を表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Playful
+- Bold
+- Cute
+- Graphic
+- Friendly
+- Contemporary
+- Minimal
+- Joyful
+
+Temperature:
+Overall: Vibrant
+
+Background:
+Style: "Solid"
+
+Color:
+Black: "#0B0B0B"
+
+Color Palette:
+
+Primary:
+Blue: "#3D86CF"
+Red: "#FF3B30"
+Yellow: "#F7B718"
+Pink: "#F6A5C8"
+Orange: "#F6761E"
+Green: "#0D8353"
+Purple: "#8C6BE8"
+
+Neutral:
+White: "#FFFFFF"
+Black: "#111111"
+
+Typography:
+
+Style:
+- Rounded Sans
+- Geometric
+- Minimal
+- Modern
+
+Heading:
+Weight: ExtraBold
+Scale: Large
+
+Caption:
+Weight: Medium
+Size: Small
+
+Layout:
+
+Structure: "Character Grid"
+
+Composition:
+- Large geometric characters
+- Strong modular spacing
+- Equal visual weight
+- Clean alignment
+- Poster-like rhythm
+
+Illustration:
+
+Style: "Flat geometric faces"
+
+Characteristics:
+- Simple geometric body
+- Large cartoon eyes
+- Tiny mouth
+- Friendly expressions
+- Soft rounded forms
+- No outlines
+- Bold silhouette
+- High contrast
+
+Construction:
+
+Base Shapes:
+- Circle
+- Square
+- Rounded Square
+- Triangle
+- Heart
+- Hexagon
+- Flower
+- Capsule
+- Clover
+- Starburst
+- Blob
+- Semi-circle
+
+Face Elements:
+Eyes:
+- Large white circles
+- Black pupils
+- Tiny dot eyes
+- Closed smiling eyes
+
+Mouth:
+- Smile
+- Open smile
+- Tongue out
+- Surprised
+- Frown
+- Neutral
+
+Expression:
+- Happy
+- Curious
+- Sleepy
+- Excited
+- Confused
+- Silly
+- Proud
+- Shy
+
+Rules:
+- One geometric shape = one character
+- No gradients
+- No shadows
+- Flat colors only
+- Minimal facial features
+- Oversized eyes
+- Strong silhouette
+- Simple construction
+- Equal visual proportions
+
+Graphic Elements:
+- Geometric repetition
+- Character collections
+- Simple modular grid
+- Negative space
+- Bright color blocking
+
+Rendering:
+
+Style:
+- Flat vector
+- Sticker design
+- Children's illustration
+- Icon system
+
+Image Treatment:
+
+Texture:
+None
+
+Lighting:
+None
+
+Whitespace:
+Medium
+
+Slide Variations:
+- Character collection
+- Emotion chart
+- Shape transformation
+- Icon library
+- Face expressions
+- Color palette showcase
+- Educational poster
+- Brand mascot sheet
+- Closing poster
+
+Composition Rules:
+- 1スライド1テーマ
+- 図形そのものをキャラクター化する
+- 顔だけで感情を伝える
+- 色数は6〜8色以内で統一する
+- すべて同じサイズ感で配置する
+- シンプルな形状を維持する
+- 太いシルエットで認識できるようにする
+- プレゼンではなくキャラクターライブラリとして見せる
+- 全体をポップなデザインシステムとして統一する
+
+Design Keywords:
+- Bauhaus
+- Memphis
+- Geometric Characters
+- Shape Language
+- Flat Illustration
+- Sticker Design
+- Character System
+- Visual Identity
+- Minimal Mascots
+- Scandinavian Graphics
+- Children's Design
+- Pop Geometry
+
+Avoid:
+- Photorealism
+- 3D graphics
+- Gradients
+- Drop shadows
+- Outlines
+- Complex anatomy
+- Dense information
+- Corporate presentation layouts
+- Realistic textures
+- Decorative effects

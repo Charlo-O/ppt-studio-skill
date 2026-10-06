@@ -1,0 +1,221 @@
+Design Style:
+Name: "Brand Guideline"
+
+Concept: >
+Pentagram、
+Manual Creative、
+Collins、
+Wolff Olins、
+Base Design、
+Swiss International Style、
+Corporate Identity Manual、
+Brand Guideline、
+Modern Design System、
+Graphic Standards Manualから着想を得た
+ブランドガイドライン・エディトリアルデザイン。
+
+スライドを一般的なプレゼン資料ではなく、
+ブランドガイドライン、
+CIマニュアル、
+デザインシステム、
+コーポレートブランドブックとして構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Professional
+- Modern
+- Minimal
+- Structured
+- Editorial
+- Bold
+- Precise
+- Premium
+
+Temperature:
+Overall: Neutral
+
+Background:
+Color: "#FAFAF8"
+
+Color Palette:
+Primary:
+BrandOrange: "#FF612D"
+
+Secondary:
+SkyBlue: "#AFD9E7"
+
+Neutral:
+White: "#FFFFFF"
+Charcoal: "#2B2B2B"
+LightGray: "#F3F3F3"
+
+Typography:
+Style:
+Heading:
+Font: "Bold Geometric Sans Serif"
+Weight: Bold
+Case: Uppercase
+Alignment: Left
+
+Body:
+Font: "Modern Sans Serif"
+Weight: Regular
+
+Caption:
+Font: "Condensed Sans Serif"
+Weight: Medium
+Size: Small
+
+Labels:
+Font: "Minimal Sans Serif"
+Weight: Medium
+LetterSpacing: Wide
+
+Layout:
+Style:
+- Brand guideline
+- Swiss grid
+- Editorial documentation
+- Modular composition
+- Structured information design
+
+Grid:
+Columns: 12
+Gutters: Wide
+Margins: Large
+Baseline: Consistent
+
+Composition:
+Principles:
+- Strict grid alignment
+- Modular information blocks
+- Large white space
+- Documentation-first layout
+- Consistent visual rhythm
+- One topic per slide
+- Clear hierarchy
+
+Graphic Elements:
+- Logo construction
+- Color palette cards
+- Grid systems
+- Safe area diagrams
+- Typography specimens
+- Icon specifications
+- Usage examples
+- Do / Don't comparisons
+- Numbered sections
+- Thin divider lines
+
+Shapes:
+Primary:
+- Rectangle
+- Square
+- Grid
+- Thin rule
+- Outline box
+
+Photography:
+Style:
+- Optional
+- Product photography
+- Lifestyle
+- Brand mockups
+- Packaging
+- Stationery
+
+Treatment:
+- Bright
+- Minimal
+- Neutral lighting
+
+Illustrations:
+Style:
+- Flat vector
+- Brand mascot
+- Minimal icons
+- Simple geometric graphics
+
+Icons:
+Style:
+- Outline
+- Consistent stroke
+- Brand system
+
+Charts:
+Style:
+- Modular
+- Flat
+- Brand color driven
+- Minimal labels
+
+Effects:
+Shadows:
+- None
+
+Gradients:
+- None
+
+Texture:
+- Flat print finish
+
+Decorations:
+Include:
+- Large section numbers
+- Color chips
+- Construction grids
+- Alignment guides
+- Documentation labels
+- Consistent spacing
+- Brand rule diagrams
+
+Avoid:
+- 3D graphics
+- Glassmorphism
+- Heavy shadows
+- Decorative illustrations
+- Metallic effects
+- Complex backgrounds
+- Busy layouts
+
+Spacing:
+Outer Margin: Extra Large
+Inner Padding: Spacious
+
+Text Density:
+Medium
+
+Image Ratio:
+Documentation:
+Approximately 60–75%
+
+Photography & Graphics:
+Approximately 25–40%
+
+Visual Rhythm:
+- Cover
+- Table of contents
+- Brand philosophy
+- Logo system
+- Logo variations
+- Incorrect usage
+- Typography
+- Color palette
+- Illustration style
+- Grid system
+- Applications
+- Closing
+
+Overall Impression: >
+PentagramやCollinsが制作するブランドガイドラインのような、
+美しく整理されたCIマニュアル。
+厳密なスイスグリッド、
+広い余白、
+ブランドカラーをアクセントにした
+ミニマルなレイアウト、
+ロゴ仕様・配色・タイポグラフィ・アイコン・グリッドを
+一貫したデザインシステムで整理し、
+企業ブランドブックのような
+洗練されたエディトリアルデザインを構成する。

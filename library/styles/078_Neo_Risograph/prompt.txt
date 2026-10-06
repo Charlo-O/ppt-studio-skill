@@ -1,0 +1,176 @@
+Design Style:
+Name: "Neo Risograph"
+
+Concept: >
+古代彫刻、考古学図録、
+モダンタイポグラフィ、
+リソグラフ印刷から着想を得た
+実験的エディトリアルデザイン。
+
+古典美術のモチーフを切り抜き、
+大胆な文字組みと幾何学的構成によって再編集する。
+
+歴史と現代性、
+学術性と遊び心、
+秩序と偶然性を融合した
+知的でアート性の高い世界観を構築する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Intellectual
+- Experimental
+- Editorial
+- Contemporary
+- Cultural
+- Playful
+- Graphic
+- Sophisticated
+
+Color Palette:
+Background:
+Paper: "#F7F7F3"
+
+Ink:
+Cyan: "#5EC8F3"
+MintGreen: "#72D58B"
+WarmYellow: "#EFCB58"
+
+Text:
+Primary: "#2B2B2B"
+Secondary: "#6B6B6B"
+
+Typography:
+Headlines:
+Style: "Condensed geometric sans serif"
+Weight: 700
+Case: Uppercase
+Tracking: Expanded
+
+DisplayLetters:
+Style: "Geometric sans serif"
+Weight: 300
+Size: Oversized
+Opacity: 70%
+
+Body:
+Style: "Modern serif"
+Weight: 400
+Color: Primary
+
+Illustration:
+Style:
+Neo-classical editorial collage
+
+Subjects:
+- Classical statues
+- Archaeological artifacts
+- Ancient helmets
+- Mythological references
+- Monument fragments
+- Sculptural silhouettes
+
+Rendering:
+- Monochrome cut-outs
+- Flat color overlays
+- Halftone textures
+- Risograph grain
+- Minimal shading
+- Posterized imagery
+- Sharp silhouettes
+
+Print Effects:
+Techniques:
+- Two-color risograph
+- Slight misregistration
+- Ink overlap
+- Halftone dots
+- Visible print texture
+- Offset imperfections
+
+Texture:
+Intensity: Medium
+
+Typography Composition:
+Elements:
+- Oversized letters
+- Vertical type
+- Cropped characters
+- Floating initials
+- Typographic layering
+- Alphabet fragments
+
+Layout:
+Overall:
+- Editorial poster composition
+- Asymmetrical balance
+- Modular collage
+- Museum publication aesthetic
+
+Structure:
+- Large visual anchors
+- Interplay between text and image
+- Generous whitespace
+- Dynamic reading paths
+
+Decorative Elements:
+- Thin alignment lines
+- Typographic guides
+- Alphabet specimens
+- Registration marks
+- Small annotations
+- Minimal geometric accents
+
+Information Design:
+Hierarchy:
+- Image-first storytelling
+- Display typography as focal points
+- Secondary explanatory blocks
+- Minimal supporting text
+
+Composition Rules:
+- Let typography behave as image
+- Allow intentional overlap
+- Contrast classical forms with modern graphics
+- Maintain visual tension
+- Balance precision and spontaneity
+- Preserve editorial sophistication
+
+Design Rules:
+- Reinterpret history through design
+- Use restraint in color quantity
+- Favor bold composition over decoration
+- Celebrate print imperfections
+- Keep illustrations graphic and symbolic
+
+Avoid:
+- Photorealistic sculptures
+- Marble textures
+- Luxury branding aesthetics
+- Gold embellishments
+- Renaissance paintings
+- 3D rendering
+- Excessive ornamentation
+- Corporate layouts
+- Dense infographics
+
+Suitable For:
+- Art history lectures
+- Philosophy presentations
+- Cultural studies
+- Museum education
+- Humanities research
+- Brand storytelling
+- Creative direction proposals
+- Innovation talks
+
+Keywords:
+- Neo Classical
+- Risograph Editorial
+- Archaeological Collage
+- Experimental Typography
+- Museum Graphics
+- Editorial Poster
+- Contemporary Classicism
+- Cultural Design

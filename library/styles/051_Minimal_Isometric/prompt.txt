@@ -1,0 +1,226 @@
+Design Style:
+Name: "Minimal Isometric"
+
+Concept: >
+企業の戦略資料、提案書、事業計画、
+マーケティング資料、研修資料、
+ピッチデック、社内報告資料など、
+幅広いビジネス用途に対応する
+ミニマルなアイソメトリックデザイン。
+
+大型のタイポグラフィと
+シンプルな幾何学構成をベースに、
+ビジネスシーンを表現した
+アイソメトリックイラストを組み合わせる。
+
+情報の視認性を最優先としながら、
+モダンで親しみやすく、
+説得力のあるプレゼンテーションを実現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Professional
+- Modern
+- Strategic
+- Minimal
+- Clean
+- Structured
+- Friendly
+- Corporate
+
+Color Palette:
+
+Background:
+Primary: "#F2F2F2"
+Secondary: "#FFFFFF"
+
+Text:
+Primary: "#000000"
+Secondary: "#4A4A4A"
+
+Accent:
+Primary: "#F6C300"
+
+Neutral:
+Dark: "#3F3F3F"
+Light: "#D9D9D9"
+
+Typography:
+
+Title:
+Style: "Bold Sans Serif"
+Weight: 800
+Case: "Title Case"
+Color: "#000000"
+
+Section:
+Style: "Bold Sans Serif"
+Weight: 700
+Color: "#000000"
+
+Body:
+Style: "Modern Sans Serif"
+Weight: 400
+Color: "#4A4A4A"
+
+Numbers:
+Style: "Bold Sans Serif"
+Weight: 800
+Color: "#FFFFFF"
+
+Layout:
+
+Structure:
+- Large Typography Area
+- Isometric Illustration Area
+- Generous White Space
+
+Alignment:
+Titles: "Left or Center"
+Content: "Grid Based"
+Illustration: "Opposite Side of Title"
+
+Grid:
+Type: "Flexible"
+Columns: 12
+
+Margins:
+Outer: "Large"
+
+Spacing:
+SectionGap: "Large"
+ContentGap: "Medium"
+
+Background:
+
+Style: "Soft Geometric"
+
+Elements:
+- Large Diagonal Shapes
+- Subtle Corner Panels
+- Minimal Layered Surfaces
+
+Opacity:
+DecorativeShapes: 8%
+
+Shapes:
+
+Style: "Geometric"
+
+Characteristics:
+- Large Diagonal Blocks
+- Triangles
+- Angled Panels
+- Minimal Decorations
+
+Illustration:
+
+Style: "Flat Isometric"
+
+Theme:
+- Business
+- Analytics
+- Dashboard
+- Productivity
+- Communication
+- Strategy
+- Data Visualization
+- Workflow
+- Digital Operations
+
+Placement:
+Hero:
+Size: "Large"
+Position: "Right"
+
+SectionDivider:
+Size: "Medium"
+Position: "Opposite Title"
+
+Content:
+Size: "Medium"
+Position: "Integrated"
+
+Characteristics:
+- Human Figures
+- Business Devices
+- Dashboards
+- Charts
+- Process Visuals
+- Office Tools
+- Search & Analysis Motifs
+
+Colors:
+Primary: "#F6C300"
+Dark: "#3F3F3F"
+Light: "#FFFFFF"
+
+Charts:
+
+Style: "Minimal Corporate"
+
+Characteristics:
+- Thin Gridlines
+- Accent Highlight Series
+- Neutral Secondary Series
+- No 3D Effects
+
+Colors:
+Highlight: "#F6C300"
+Secondary: "#3F3F3F"
+Tertiary: "#CFCFCF"
+
+Icons:
+
+Style: "Simple Geometric"
+
+Stroke:
+Weight: "Medium"
+
+Color:
+Primary: "#000000"
+Accent: "#F6C300"
+
+Effects:
+
+Shadows:
+Type: "Soft"
+Opacity: 6%
+
+Borders:
+Usage: "Minimal"
+
+Gradients:
+Usage: "None"
+
+Content Rules:
+
+Titles:
+- Very Large
+- High Contrast
+- Maximum 2–4 Lines
+
+Text:
+- Prioritize Readability
+- Short Paragraphs
+- Strong Visual Hierarchy
+
+Illustration Ratio:
+- 30% to 45% of Slide Area
+
+Visual Balance:
+- Typography First
+- Illustration Supports Content
+
+Rules:
+- Use large bold headlines
+- Use yellow only as an accent color
+- Keep backgrounds clean and bright
+- Maintain strong contrast
+- Use diagonal geometric compositions
+- Avoid decorative clutter
+- Use isometric illustrations consistently
+- Favor whitespace over dense layouts
+- Suitable for consulting, marketing, SaaS, corporate strategy, research, education, and business presentations

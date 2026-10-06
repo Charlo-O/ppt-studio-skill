@@ -1,0 +1,235 @@
+Design Style:
+Name: "Architectural Isometric"
+
+Concept: >
+スタートアップ、Fintech、SaaS、
+事業計画、投資家向けピッチ資料、
+DX戦略、企業紹介資料向けの
+建築的ミニマルデザイン。
+
+建築空間、階段、アーチ窓、
+幾何学オブジェクトをモチーフに構成し、
+成長・挑戦・到達・変革を
+視覚的に表現する。
+
+シンプルな図形と大胆な余白を活用し、
+洗練されたブランドイメージを演出する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Modern
+- Strategic
+- Premium
+- Minimal
+- Architectural
+- Editorial
+- Clean
+- Sophisticated
+
+Color Palette:
+
+Background:
+Primary: "#D8E2E1"
+
+Text:
+Primary: "#173C4A"
+Secondary: "#355768"
+
+Accent:
+Orange: "#FF7C45"
+Blue: "#68A9E6"
+Peach: "#F3D8CC"
+
+Surface:
+White: "#F7F4F2"
+DarkBlue: "#173C4A"
+
+Illustration:
+
+Style:
+Architectural Isometric
+
+Rendering:
+Flat vector
+Soft gradients
+Clean geometry
+Minimal details
+
+Subjects:
+- Staircases
+- Arched Windows
+- Platforms
+- Pedestals
+- Architectural Structures
+- Geometric Blocks
+- Abstract Buildings
+- Human Figures
+- Floating Spheres
+- Circular Frames
+- Pathways
+- Growth Stages
+
+Typography:
+
+Headings:
+Weight: 800
+Style: Modern Sans Serif
+Color: "#173C4A"
+
+Body:
+Weight: 400
+Color: "#173C4A"
+
+Numbers:
+Weight: 700
+Color: "#FF7C45"
+
+Layout:
+
+Structure:
+- Large editorial title
+- Spacious composition
+- Illustration integrated into architecture
+- Strong asymmetry
+- Large negative space
+
+Alignment:
+Title: Left
+Content: Left
+Illustration: Integrated
+
+Margins:
+Outer: Large
+
+Architecture Elements:
+
+Staircases:
+Style: Geometric Steps
+
+Characteristics:
+- Large block stairs
+- Diagonal composition
+- Blue and orange surfaces
+- Symbolic progression
+
+Windows:
+Style: Arched
+
+Characteristics:
+- Rounded top
+- Deep shadows
+- Soft gradient interior
+
+Platforms:
+- Floating podiums
+- Geometric stages
+- Circular bowls
+- Architectural blocks
+
+Illustration Placement:
+
+Hero:
+Integrated into architecture
+
+Content:
+Contextual storytelling
+
+Human Figures:
+
+Style:
+Minimal editorial characters
+
+Characteristics:
+- Flat vector
+- Soft pastel skin tones
+- Simplified clothing
+- Dynamic poses
+
+Components:
+
+Cover:
+- Large title
+- Architectural hero scene
+- Monumental composition
+
+Agenda:
+- Two-column layout
+- Numbered sections
+- Architectural framing
+
+Section Divider:
+- Large section number
+- Oversized heading
+- Staircase motif
+
+Company:
+- Large illustration left
+- Content right
+
+Problem:
+- Character interacting with obstacle
+- Strong visual metaphor
+
+Solution:
+- Character progressing upward
+- Architectural achievement metaphor
+
+SWOT:
+- Large circular framework
+- Minimal labels
+- Spacious grid
+
+Timeline:
+- Horizontal milestones
+- Circular year markers
+- Architectural supports
+
+Metrics:
+- Large numeric values
+- Pedestal-based visualisation
+- Minimal supporting text
+
+Shapes:
+
+Type:
+Geometric Architectural
+
+Elements:
+- Circles
+- Arches
+- Cubes
+- Steps
+- Platforms
+- Rectangular blocks
+
+Effects:
+
+Shadows:
+Type: Soft Long Shadow
+Opacity: 12%
+
+Gradients:
+Usage: Subtle
+Direction: Vertical
+
+Borders:
+Usage: Minimal
+
+Spacing:
+
+OuterMargin: Large
+ContentGap: Large
+SectionGap: ExtraLarge
+
+Rules:
+- Use architecture as a storytelling device
+- Maintain generous whitespace
+- Prefer large geometric forms over icons
+- Keep illustrations minimal and symbolic
+- Use orange only as an accent color
+- Maintain premium startup pitch deck aesthetics
+- Avoid visual clutter
+- Prioritize clarity and sophistication
+- Suitable for fintech, SaaS, startup, venture capital, strategy, innovation, consulting, and investor presentations

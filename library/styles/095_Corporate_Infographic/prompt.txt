@@ -1,0 +1,203 @@
+Design Style:
+Name: "Corporate Infographic"
+
+Concept: >
+ビジネスレポートや市場分析資料、
+経営会議、IR資料、コンサルティング提案書向けの
+クリーンなインフォグラフィックデザイン。
+
+グラフ、チャート、地図、タイムライン、
+KPI、比較表、アイコンを組み合わせ、
+情報を視覚的かつ体系的に整理する。
+
+雑誌のインフォグラフィック特集のように、
+多くのデータを1枚のスライドに美しく配置し、
+論理性と視認性を両立する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Professional
+- Analytical
+- Structured
+- Informative
+- Corporate
+- Clean
+- Modern
+- Data-driven
+
+Color Palette:
+
+Background:
+Primary: "#FFFFFF"
+
+Text:
+Primary: "#4A4A58"
+Secondary: "#8A8EA3"
+
+Accent:
+Mint: "#5EDFCF"
+Aqua: "#4ECDE6"
+Navy: "#4B4E68"
+LightGray: "#D8DCE7"
+
+Chart:
+Positive: "#5EDFCF"
+Secondary: "#4ECDE6"
+Neutral: "#A7ADBE"
+Highlight: "#4B4E68"
+
+Typography:
+
+Headings:
+Font: "Condensed Sans Serif"
+Weight: 700
+LetterSpacing: "0.03em"
+Transform: "Uppercase"
+Color: "#4A4A58"
+
+Subheadings:
+Font: "Modern Sans Serif"
+Weight: 600
+Color: "#6F748A"
+
+Body:
+Font: "Sans Serif"
+Weight: 400
+Color: "#7F8597"
+LineHeight: 1.4
+
+Numbers:
+Font: "Condensed Sans Serif"
+Weight: 700
+Color: "#4A4A58"
+
+Layout:
+
+Structure:
+- Multi-column editorial grid
+- Dense information architecture
+- Balanced modular composition
+- Consistent spacing
+- High scanability
+
+Grid:
+Columns: 4
+Gutters: "Medium"
+Alignment: "Strict"
+
+Margins:
+Outer: "Medium"
+
+Components:
+
+Charts:
+- Vertical bar charts
+- Horizontal bar charts
+- Stacked bars
+- Comparison charts
+- Area charts
+- Line graphs
+- Percentage rings
+- Donut charts
+- Radial progress charts
+- Bubble charts
+
+Infographics:
+- Timeline blocks
+- Process arrows
+- KPI counters
+- Statistic callouts
+- Icon lists
+- Numbered steps
+- People comparison graphics
+- Device illustrations
+
+Maps:
+- World map
+- Regional maps
+- Country highlight maps
+- Location emphasis
+- Minimal geographic detail
+
+Data Modules:
+- Reusable information cards
+- Metric panels
+- Comparison tiles
+- Summary blocks
+
+Illustration:
+
+Style:
+Minimal Infographic
+
+Rendering:
+Flat vector
+No gradients
+Thin outlines
+Simple geometry
+Editorial aesthetics
+
+Icons:
+
+Style:
+Monoline
+Circular container
+Uniform stroke width
+
+Characteristics:
+- Minimal
+- Consistent sizing
+- Business oriented
+- Neutral appearance
+
+Charts:
+
+Axis:
+Color: "#C9CED9"
+Thickness: "Thin"
+
+Labels:
+Color: "#7F8597"
+Size: "Small"
+
+Gridlines:
+Usage: "Subtle"
+Color: "#ECEFF5"
+
+DataHighlights:
+UseAccentColor: true
+LimitHighlights: 2
+
+Spacing:
+
+SectionGap: "Medium"
+ComponentGap: "Small"
+DataGap: "Tight"
+
+Effects:
+
+Shadows:
+Usage: "None"
+
+Borders:
+Usage: "Minimal"
+Color: "#ECEFF5"
+
+Gradients:
+Usage: "None"
+
+Decorations:
+Usage: "None"
+
+Rules:
+- Prioritize clarity over decoration.
+- Use accent colors sparingly to emphasize key data.
+- Maintain strict alignment throughout the slide.
+- Ensure all charts share a unified visual language.
+- Avoid 3D effects and skeuomorphic elements.
+- Present information in modular blocks for easy scanning.
+- Use large numeric figures as visual anchors.
+- Keep illustrations simple and functional.
+- Suitable for consulting reports, annual reports, dashboards, business reviews, and strategy presentations.

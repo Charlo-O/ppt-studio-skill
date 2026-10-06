@@ -1,0 +1,198 @@
+Design Style:
+Name: "Object Editorial"
+
+Concept: >
+現代アート写真集、
+プロダクトデザインポートフォリオ、
+ファッションルックブック、
+ライフスタイルブランド資料、
+ミュージアムショップカタログから着想を得た
+ミニマルなオブジェクト主導型エディトリアルデザイン。
+
+情報を説明するのではなく、
+一つのモノを主役にした
+ギャラリー展示として見せる。
+
+オブジェクトは作品、
+スライドは展示壁、
+テキストはキャプションとして扱う。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Modern
+- Elegant
+- Creative
+- Curated
+- Editorial
+- Sophisticated
+- Gallery-Like
+
+Temperature:
+Overall: Bright
+
+Color Palette:
+Background:
+GalleryWhite: "#F5F4EF"
+
+Primary:
+SunshineYellow: "#FFD633"
+SkyBlue: "#63C7F7"
+CandyPink: "#FF7CC5"
+MintGreen: "#7CF36D"
+
+Secondary:
+Lavender: "#C8B5FF"
+SoftCoral: "#FF9D7B"
+
+Accent:
+Charcoal: "#222222"
+White: "#FFFFFF"
+
+Typography:
+Style: >
+高級雑誌のような
+エレガントなセリフ体。
+
+見出しは小さめで上品。
+
+本文は細く整理。
+
+タイポグラフィよりも
+写真を主役にする。
+
+Layout:
+Structure: >
+ギャラリー展示型レイアウト。
+
+余白を大きく確保。
+
+一つのスライドに
+一つの主役オブジェクト。
+
+写真とテキストを
+独立して配置する。
+
+Grid:
+Style: >
+建築ポートフォリオのような
+見えないグリッド。
+
+整然としているが
+窮屈ではない。
+
+Photography:
+Style: >
+スタジオ撮影。
+
+単色背景。
+
+強い自然光。
+
+長い影。
+
+オブジェクト単体を
+中央または大胆にトリミングして配置。
+
+背景色は鮮やかな単色。
+
+Objects:
+Style: >
+日用品、
+ガジェット、
+フード、
+ファッション、
+インテリア雑貨など。
+
+オブジェクト自体が
+デザイン作品のように見える。
+
+Composition:
+Characteristics:
+- One object per slide
+- Gallery exhibition feeling
+- Large white space
+- Product photography focus
+- Editorial sophistication
+- Museum catalog layout
+- Clean hierarchy
+- Visual curation
+
+Shapes:
+Usage:
+- Simple rectangles
+- Image frames
+- Thin dividers
+- Caption blocks
+
+Rules: >
+装飾図形は最小限。
+
+写真が最も目立つようにする。
+
+Visual Direction:
+- Modern product photography
+- Design portfolio
+- Lifestyle magazine
+- Museum shop catalog
+- Curated object collection
+- Contemporary editorial
+- Color-block photography
+- Art-directed presentation
+
+Slide Patterns:
+
+Cover:
+- Large hero object
+- Minimal title
+- Gallery-like spacing
+
+Project:
+- One featured image
+- Small descriptive text
+
+Collection:
+- Multiple related objects
+- Consistent spacing
+
+Detail:
+- Close-up photography
+- Minimal annotation
+
+Comparison:
+- Object pairs
+- Color contrast
+
+Closing:
+- Signature object
+- Elegant contact section
+
+Effects:
+- Studio lighting
+- Long soft shadows
+- High-key photography
+- Clean print aesthetic
+
+Avoid:
+- Corporate charts
+- Heavy infographics
+- Busy layouts
+- Dark themes
+- Glassmorphism
+- Complex gradients
+- Decorative illustrations
+- Dense text blocks
+
+Keywords:
+- Product Portfolio
+- Editorial Photography
+- Gallery Catalog
+- Lifestyle Branding
+- Design Portfolio
+- Object Collection
+- Studio Photography
+- Contemporary Editorial
+- Color Block Photography
+- Curated Presentation

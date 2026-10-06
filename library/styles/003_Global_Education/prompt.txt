@@ -1,0 +1,161 @@
+Design Style:
+Name: "Global Education Pop Editorial"
+Concept: "教育・未来・グローバル感をポップで親しみやすく伝えるプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+Background: "#F3F3F3"
+Layout: "余白を活かしたモダンなグリッド構成"
+
+Mood:
+- "未来感"
+- "親しみやすい"
+- "ポジティブ"
+- "教育的"
+- "グローバル"
+- "クリーン"
+
+Color Palette:
+Main:
+- "#27B37A"
+- "#F26FD2"
+- "#F5C400"
+
+Neutral:
+- "#F3F3F3"
+- "#FFFFFF"
+- "#111111"
+
+Accent:
+- "#00B894"
+- "#FFD54A"
+
+Typography:
+Heading:
+Font: "太めのモダンゴシック"
+Weight: "800-900"
+Color: "#111111"
+Style: "大きく力強い"
+
+Subheading:
+Font: "Rounded Sans Serif"
+Weight: "700"
+Color: "#27B37A"
+
+Body:
+Font: "読みやすいゴシック"
+Weight: "400-500"
+Color: "#222222"
+LineHeight: "広め"
+
+Layout Rules:
+- "左右分割レイアウトを多用する"
+- "余白を大きく取り、情報を整理する"
+- "タイトルは左寄せで大きく配置"
+- "本文は読みやすい行間で配置"
+- "写真や図版は大きめに見せる"
+- "カードや罫線で情報を整理する"
+
+Visual Identity:
+Shapes:
+- "大きな円"
+- "半円"
+- "ストライプ入りサークル"
+- "ドットグリッド"
+- "太いライン"
+
+Decorations:
+- "コーナーに丸型モチーフ"
+- "小さなドットパターン"
+- "カラーブロック"
+- "幾何学装飾"
+
+Graphic Style:
+- "シンプル"
+- "フラット"
+- "ベクター風"
+- "SNS向けの視認性"
+
+Image Style:
+Theme:
+- "子ども"
+- "教育"
+- "海外"
+- "学び"
+- "未来"
+- "グローバル"
+
+Treatment:
+- "自然光"
+- "明るい"
+- "高彩度すぎない"
+- "ポジティブ"
+- "親しみやすい"
+
+Components:
+Cover:
+Layout:
+- "左に大きなタイトル"
+- "右に写真"
+- "背景を大胆なカラーブロックで分割"
+- "装飾サークルを配置"
+
+Section Header:
+Layout:
+- "英語カテゴリを上に小さく表示"
+- "日本語タイトルを大きく配置"
+- "余白を広く取る"
+
+Comparison:
+Layout:
+- "左右2カラム"
+- "比較項目を横並び"
+- "上部にラインを配置"
+
+Cards:
+Layout:
+- "均等グリッド"
+- "白背景"
+- "余白広め"
+- "タイトル＋本文"
+
+Photo Grid:
+Layout:
+- "横並び3カラム"
+- "画像＋短い説明"
+- "画像サイズを統一"
+
+Data Visualization:
+Layout:
+- "シンプルな図形グラフ"
+- "色分けされたブロック"
+- "余計な装飾なし"
+
+Conclusion:
+Layout:
+- "中央寄せ"
+- "大きなメッセージ"
+- "余白重視"
+- "装飾円を角に配置"
+
+Lines & Borders:
+- "太めのカラーライン"
+- "区切り線を活用"
+- "カードは境界を薄くする"
+
+Spacing:
+OuterMargin: "Large"
+SectionGap: "Wide"
+TextGap: "Comfortable"
+
+Animation Feel:
+- "スライド単位でシンプル"
+- "軽快"
+- "視線誘導重視"
+
+Restrictions:
+- "過度な影は禁止"
+- "リアルな3D表現は禁止"
+- "色数を増やしすぎない"
+- "文字量を詰め込みすぎない"
+- "コンテンツ内容は生成元に従い、このYAMLでは指定しない"

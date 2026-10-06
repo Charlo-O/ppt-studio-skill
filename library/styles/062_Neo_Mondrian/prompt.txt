@@ -1,0 +1,141 @@
+Design Style:
+Name: "Neo Mondrian"
+
+Concept: >
+モンドリアンとデ・ステイル運動から
+インスピレーションを得た
+モダニストプレゼンテーションデザイン。
+
+太いブラックグリッド、
+幾何学図形、
+原色アクセントを用いて
+情報を構造的に整理する。
+
+アート、教育、
+戦略資料、研究発表、
+デザイン提案書、
+AI・テクノロジー資料に適する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Modernist
+- Structured
+- Rational
+- Geometric
+- Academic
+- Bold
+- Minimal
+- Editorial
+
+Color Palette:
+
+Background:
+Primary: "#ECECEC"
+
+Text:
+Primary: "#111111"
+
+Accent:
+Red: "#E53935"
+Blue: "#1565C0"
+Yellow: "#F4C20D"
+
+Lines:
+Black: "#000000"
+
+Typography:
+
+Headings:
+Style: Condensed Sans
+Weight: 800
+
+Body:
+Style: Geometric Sans
+Weight: 400
+
+Layout:
+
+Structure:
+- Strong grid system
+- Modular composition
+- Rectangular content zones
+- Asymmetrical balance
+
+Grid:
+
+Stroke:
+Thickness: Heavy
+
+Behavior:
+- Visible framework
+- Structural element
+- Content alignment guide
+
+Illustration:
+
+Style:
+Minimal Line Art
+
+Subjects:
+- Classical sculptures
+- Architecture
+- Abstract objects
+- Educational diagrams
+- Icons
+
+Rendering:
+Monoline
+Black outline only
+
+Components:
+
+Cover:
+- Large title block
+- Mondrian composition
+
+Section Divider:
+- Large section number
+- Color block emphasis
+
+Content:
+- Grid aligned cards
+- Diagram based layouts
+- Structured comparison blocks
+
+Conclusion:
+- Strong geometric closure
+
+Shapes:
+
+Allowed:
+- Rectangle
+- Square
+- Circle
+
+Forbidden:
+- Organic shapes
+- Gradients
+- Soft shadows
+
+Effects:
+
+Shadows:
+None
+
+Gradients:
+None
+
+Texture:
+None
+
+Rules:
+- Use only primary colors
+- Maintain strict grid alignment
+- Use thick black dividers
+- Favor geometry over decoration
+- Prioritize structure and clarity
+- Keep illustrations simple
+- Avoid visual noise
+- Create architectural balance

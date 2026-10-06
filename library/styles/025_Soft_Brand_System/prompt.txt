@@ -1,0 +1,132 @@
+Design Style:
+Name: "Soft Neo Brand Guidelines"
+Concept: "パステルカラーとミニマルグリッドを組み合わせた、現代的で洗練されたブランドガイドラインデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Soft
+- Modern
+- Branding
+- Editorial
+- Clean
+- Calm
+- Contemporary
+
+Color Palette:
+Text:
+Primary: "#222222"
+Secondary: "#666666"
+Light: "#FFFFFF"
+
+Accent:
+Mint: "#78E7D5"
+SoftLavender: "#DCD2FF"
+Charcoal: "#3B3B3B"
+PaleGray: "#EEF1F3"
+
+Neutral:
+LightGray: "#F4F4F4"
+MediumGray: "#D8D8D8"
+BorderGray: "#CFCFCF"
+
+Typography:
+Heading:
+Font: "Modern Geometric Sans"
+Weight: "Bold"
+Style: "Large clean sans-serif headlines"
+
+Display:
+Font: "Wide Sans Serif"
+Weight: "ExtraBold"
+Style: "Oversized cropped typography"
+
+Body:
+Font: "Minimal Grotesk"
+Weight: "Regular"
+Style: "Small structured body copy"
+
+Caption:
+Font: "Condensed Sans Serif"
+Weight: "Medium"
+Style: "Tiny navigation labels and annotations"
+
+Layout:
+Style:
+- Minimal brand guideline layout
+- Clean modular grid system
+- Spacious editorial composition
+- Flat geometric structure
+- Large typography areas
+- Product-brand presentation style
+- Structured information hierarchy
+
+Grid:
+Columns: 12
+Margin: "Wide clean margins"
+Alignment: "Strict geometric alignment"
+Spacing: "Open and balanced"
+
+Composition:
+- Use large sans-serif titles with strong spacing
+- Combine pastel color blocks with neutral whitespace
+- Arrange images inside clean rectangular frames
+- Keep layouts highly modular and minimal
+- Use small navigation text on edges and corners
+- Align all elements precisely to grid lines
+- Allow oversized cropped typography for impact
+
+Image Style:
+Treatment:
+- Minimal lifestyle photography
+- Cosmetic and branding visuals
+- Soft natural lighting
+- Neutral product photography
+- Fashion and skincare inspired imagery
+- Clean monochrome backgrounds
+- Minimal object compositions
+
+Graphic Elements:
+- Thin divider lines
+- Minimal iconography
+- Flat color blocks
+- Small percentage labels
+- Typography showcase layouts
+- Brand logo variations
+- Structured palette sections
+
+Slide Types:
+Cover Slide:
+Layout: "Huge cropped typography with centered logo"
+
+Mission Slide:
+Layout: "Minimal text and product image composition"
+
+Brand System Slide:
+Layout: "Grid-based logo and identity presentation"
+
+Color Palette Slide:
+Layout: "Flat pastel color distribution blocks"
+
+Typography Slide:
+Layout: "Structured font hierarchy showcase"
+
+Usage Guide Slide:
+Layout: "Minimal examples with modular image layouts"
+
+Social Media Slide:
+Layout: "Clean device mockup presentation"
+
+Rules:
+- Do not use gradients
+- Do not use glossy effects
+- Avoid complex 3D illustrations
+- Keep layouts flat and geometric
+- Use pastel colors as soft accents only
+- Maintain strong whitespace throughout
+- Prioritize typography and alignment
+- Avoid excessive decoration
+- Keep overall feeling calm, premium, and minimal
+- Use clean editorial balance with branding-focused structure

@@ -1,0 +1,135 @@
+Design Style:
+Name: "Neon Poster"
+
+Concept: >
+ネオンサイン、
+ポップアート、
+ベクターイラスト、
+音楽フェスティバルポスター、
+ライブイベントビジュアル、
+現代グラフィックアートから着想を得た
+ネオンラインアート型エディトリアルデザイン。
+
+情報を説明するのではなく、
+光るアイコンとシンボルによる
+一枚のポスター作品として表現する。
+
+テキスト、
+図形、
+イラスト、
+数字をすべて
+ネオンチューブとして描画する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Neon
+- Playful
+- Creative
+- Energetic
+- Pop
+- Bold
+- Contemporary
+- Graphic
+
+Temperature:
+Overall: Electric
+
+Background:
+Color: "#0A0A0A"
+
+Color Palette:
+Neon:
+NeonPink: "#FF48C4"
+ElectricBlue: "#00B8FF"
+NeonRed: "#FF4040"
+NeonYellow: "#FFE600"
+NeonPurple: "#A855FF"
+NeonOrange: "#FF8A00"
+NeonGreen: "#7DFF4A"
+WhiteGlow: "#FFFFFF"
+
+Illustration Style:
+Type:
+- Neon line art
+- Vector illustration
+- Outline drawing
+- Pop iconography
+
+Characteristics:
+- Uniform line weight
+- Rounded neon tubing
+- Continuous line construction
+- Clean vector geometry
+- Handcrafted sign appearance
+
+Typography:
+Style:
+- Neon script
+- Rounded display type
+- Outline typography
+- Decorative lettering
+
+Treatment:
+- Neon glow
+- Tube construction
+- Integrated with illustrations
+
+Layout:
+Composition:
+- Poster composition
+- Central hero illustration
+- Dense icon collage
+- Floating decorative elements
+- Layered visual rhythm
+
+Visual Elements:
+Icons:
+- Hearts
+- Lightning bolts
+- Stars
+- Music symbols
+- Hands
+- Eyes
+- Skulls
+- Playing cards
+- Bottles
+- Arrows
+- Speech bubbles
+- Abstract symbols
+
+Decorative:
+- Curved lines
+- Radiating marks
+- Neon frames
+- Circular accents
+- Geometric symbols
+
+Effects:
+Lighting:
+- Strong glow effect
+- Bloom lighting
+- Colored halo
+- Soft neon reflections
+
+Surface:
+- Dark textured background
+- Night-club atmosphere
+- Concert-poster aesthetic
+
+Image Style:
+Treatment:
+- Illustration only
+- No photography
+- No realistic rendering
+- Flat vector artwork
+
+Design Rules:
+- Every major object should appear illuminated.
+- Build graphics entirely from neon-style outlines.
+- Use icons as storytelling elements.
+- Avoid realistic shadows and 3D rendering.
+- Prioritize graphic impact over information density.
+- Create the feeling of a glowing wall installation.
+- Combine pop culture and modern illustration aesthetics.

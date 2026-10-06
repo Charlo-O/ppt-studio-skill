@@ -1,0 +1,170 @@
+Design Style:
+Name: "Natural Lifestyle Editorial Minimal"
+Concept: "余白・植物・自然光を活かした、暮らし系ミニマルデザイン"
+
+Canvas:
+Ratio: "16:9"
+Background: "#F5F3EF"
+Layout: "左右分割型レイアウト"
+
+Mood:
+- "やさしい"
+- "上品"
+- "静けさ"
+- "暮らし感"
+- "ナチュラル"
+- "整った印象"
+
+Color Palette:
+Background:
+- "#F5F3EF"
+- "#EFEAE4"
+- "#FFFFFF"
+
+Text:
+- "#2D241F"
+- "#4A4038"
+- "#8E7F73"
+
+Accent:
+- "#CFC7BE"
+- "#DED8D1"
+- "#B8B0A7"
+
+Nature:
+- "#5E7D57"
+- "#88A878"
+
+Typography:
+Heading:
+Font: "高級感のある明朝体"
+Weight: "500-700"
+Color: "#2D241F"
+Style: "大きめ・余白重視"
+
+Script:
+Font: "手書き風スクリプト"
+Weight: "Regular"
+Color: "#2D241F"
+Usage: "英語の章タイトルや装飾見出し"
+
+Body:
+Font: "読みやすい日本語明朝体"
+Weight: "400"
+Color: "#2D241F"
+LineHeight: "ゆったり"
+
+Layout Rules:
+- "左に文章、右に縦長写真を配置する"
+- "余白を大きく取り、情報密度を下げる"
+- "文字は左揃えで整列"
+- "写真は1枚を大きく大胆に使う"
+- "ベージュ系カードや枠を使い、柔らかい区切りを作る"
+- "スライドごとに統一された余白ルールを維持する"
+
+Image Style:
+Theme:
+- "植物"
+- "自然光"
+- "ナチュラルインテリア"
+- "木の家具"
+- "整理された空間"
+
+Treatment:
+- "明るめ"
+- "柔らかい光"
+- "低コントラスト"
+- "生活感を残す"
+- "落ち着いたトーン"
+
+Components:
+Section Title:
+Style:
+- "英語の手書き文字"
+- "小さな日本語サブタイトル"
+- "左上配置"
+
+Content Box:
+Style:
+- "淡いベージュ背景"
+- "角丸"
+- "薄い境界線"
+- "余白を広めに"
+
+Cards:
+Style:
+- "均等グリッド"
+- "淡色背景"
+- "余白大きめ"
+- "ミニマルな構成"
+
+Process Flow:
+Style:
+- "番号付きステップ"
+- "細い線"
+- "シンプルな矢印"
+- "円形ラベル"
+
+Quote / Conclusion:
+Style:
+- "背景写真を薄く敷く"
+- "大きな余白"
+- "印象的な一文を大きく配置"
+
+Slide Patterns:
+Cover:
+Layout:
+- "左にタイトル"
+- "右に大きな縦長写真"
+- "中央付近に短い英語メッセージ"
+- "下部に細いライン"
+
+TableOfContents:
+Layout:
+- "左に目次"
+- "右に植物写真"
+- "目次はカード内に配置"
+
+Introduction:
+Layout:
+- "左に本文"
+- "右に写真"
+- "箇条書きを適度に使用"
+
+Comparison / Transformation:
+Layout:
+- "横長カードを縦に並べる"
+- "左に項目名"
+- "右に説明"
+
+Grid Summary:
+Layout:
+- "2列グリッド"
+- "カード形式"
+- "均等余白"
+
+Process:
+Layout:
+- "横方向フロー"
+- "ステップ番号を円で強調"
+- "矢印で接続"
+
+Closing:
+Layout:
+- "背景写真を淡く全面配置"
+- "大きなメッセージ"
+- "静かな終わり方"
+
+Decorative Rules:
+- "影は極力弱くする"
+- "装飾は少なく上品に"
+- "直線と余白で整える"
+- "色数を絞る"
+- "視線誘導は写真と余白で行う"
+
+Restrictions:
+- "派手なアニメーション風表現は禁止"
+- "強いビビッドカラーは禁止"
+- "アイコン大量使用は禁止"
+- "過度な装飾や立体感は禁止"
+- "コンテンツ内容は生成元に従い、このYAMLでは指定しない"

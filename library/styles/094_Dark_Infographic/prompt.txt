@@ -1,0 +1,226 @@
+Design Style:
+Name: "Dark Infographic"
+
+Concept: >
+ダークグレーの背景に鮮やかなアクセントカラーを配置した、
+雑誌のインフォグラフィック特集のような
+モダン・エディトリアルデザイン。
+
+1ページごとに独立したテーマを持ちながら、
+グラフ、人物図、地図、タイムライン、
+KPI、デバイスイラストなどを用いて、
+情報を直感的かつスタイリッシュに伝える。
+
+情報量は多くても視認性を損なわず、
+プレゼン資料、ホワイトペーパー、
+提案書、デジタルレポートに適した世界観。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Dark
+- Editorial
+- Modern
+- Informative
+- Professional
+- Vibrant
+- Structured
+- Data-driven
+
+Color Palette:
+
+Background:
+Primary: "#4E5563"
+Secondary: "#596171"
+Dark: "#434A57"
+
+Text:
+Primary: "#FFFFFF"
+Secondary: "#D6DAE2"
+
+Accent:
+Cyan: "#42D4E8"
+Green: "#8AD64B"
+Pink: "#F25BA7"
+Yellow: "#F4D548"
+Orange: "#F29B38"
+
+Neutral:
+LightGray: "#BFC6D1"
+MidGray: "#8892A0"
+
+Typography:
+
+Headings:
+Font: "Condensed Sans Serif"
+Weight: 800
+Transform: "Uppercase"
+LetterSpacing: "-0.03em"
+Color: "#FFFFFF"
+
+Subheadings:
+Font: "Sans Serif"
+Weight: 600
+Color: "#FFFFFF"
+
+Body:
+Font: "Sans Serif"
+Weight: 400
+Color: "#D6DAE2"
+LineHeight: 1.5
+
+Numbers:
+Font: "Condensed Sans Serif"
+Weight: 700
+Color: "#FFFFFF"
+
+Layout:
+
+Structure:
+- Editorial magazine composition
+- Independent infographic modules
+- Vertical storytelling blocks
+- Strong title hierarchy
+- Balanced density and whitespace
+
+Grid:
+Columns: 3
+Gutters: "Medium"
+
+Margins:
+Outer: "Medium"
+
+Components:
+
+Cover:
+- Large editorial title
+- Subtle dotted world map
+- Highlight information card
+- Minimal footer accent strip
+
+Charts:
+- Donut charts
+- Pie charts
+- Line graphs
+- Percentage rings
+- Progress indicators
+- Comparison bars
+- Mini dashboards
+
+Infographics:
+- Timeline layouts
+- Three-step process diagrams
+- Puzzle diagrams
+- Human body illustrations
+- People comparison graphics
+- Checklist icons
+- KPI summaries
+- Metric callouts
+
+Maps:
+- Dotted world maps
+- Regional highlights
+- Geographic comparison blocks
+
+Devices:
+- Desktop monitor illustrations
+- Laptop illustrations
+- Tablet illustrations
+- Smartphone illustrations
+
+Illustration:
+
+Style:
+Flat Editorial Vector
+
+Rendering:
+Flat color
+Minimal detail
+Rounded corners
+Clean silhouettes
+Consistent stroke language
+
+Icons:
+
+Style:
+Filled pictograms
+
+Characteristics:
+- Simple geometry
+- Rounded appearance
+- High recognition
+- Uniform sizing
+
+Charts:
+
+Axis:
+Color: "#A8B0BD"
+Thickness: "Thin"
+
+Labels:
+Color: "#D6DAE2"
+Size: "Small"
+
+Gridlines:
+Usage: "Subtle"
+Color: "#687180"
+
+Highlights:
+UseAccentColors: true
+MaximumAccentColors: 4
+
+DataEmphasis:
+Style: "Color-driven"
+
+Cards:
+
+Style:
+Floating panels
+
+Appearance:
+Background: "Transparent"
+Border: "None"
+Radius: "Small"
+
+Spacing:
+
+SectionGap: "Large"
+ComponentGap: "Medium"
+InternalPadding: "Medium"
+
+Effects:
+
+Shadows:
+Usage: "Soft"
+Opacity: "Low"
+
+Borders:
+Usage: "Minimal"
+
+Gradients:
+Usage: "None"
+
+Textures:
+Usage: "None"
+
+Decorations:
+
+BackgroundElements:
+- Dotted world maps
+- Minimal connector lines
+- Small geometric accents
+
+Footer:
+- Thin multicolor accent strip
+
+Rules:
+- Use bold condensed typography as the primary visual anchor.
+- Organize each slide into independent infographic modules.
+- Maintain a consistent dark editorial aesthetic throughout.
+- Use vibrant accent colors only to highlight important information.
+- Ensure all icons, charts, and illustrations follow a unified flat vector style.
+- Avoid realistic rendering, heavy shadows, and 3D effects.
+- Balance dense information with generous spacing for readability.
+- Prioritize quick scanning and intuitive understanding.
+- Suitable for annual reports, strategy decks, business proposals, dashboards, and magazine-style presentations.

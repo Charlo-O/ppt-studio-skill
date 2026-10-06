@@ -1,0 +1,175 @@
+Design Style:
+Name: "Retro Runner"
+
+Concept: >
+1970〜80年代の企業研修資料、
+組み立て式プラモデルのランナー、
+ヴィンテージ家電マニュアル、
+レトロSFポスターから着想を得た
+ノスタルジックなエディトリアルデザイン。
+
+スライド上のすべての要素は
+プラモデルのパーツのように
+フレームで接続されており、
+情報そのものが組み立てキットとして表現される。
+
+人物・図版・チャート・アイコンは
+独立した部品として配置され、
+ひとつのシステムとして視覚的に統合される。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Retro
+- Corporate
+- Systematic
+- Analog
+- Minimal
+- Editorial
+- Playful
+- Surreal
+
+Temperature:
+Overall: Warm
+
+Color Palette:
+Background:
+AgedPaper: "#F2E9D0"
+
+Primary:
+VintageTeal: "#53B8A5"
+
+Secondary:
+DarkInk: "#222222"
+CreamWhite: "#FFF9E8"
+
+Accent:
+MutedOlive: "#8B9B6E"
+
+Typography:
+Style: >
+Clean sans-serif typography inspired by
+vintage instruction manuals and corporate handbooks.
+Large headers.
+Compact captions.
+Simple geometric lettering.
+
+Layout:
+Structure: >
+Entire slide constructed as a model-kit frame.
+Rounded rectangular compartments.
+Thick interconnected borders.
+Visual hierarchy created through module size.
+
+Grid:
+Symmetrical and highly structured.
+
+Flow:
+Information connected through continuous pathways,
+creating the feeling of an assembled system.
+
+Background:
+Base: >
+Aged paper texture with subtle grain.
+
+Surface:
+Printed poster quality.
+Slight imperfections and analog character.
+
+Graphic Elements:
+Frames:
+Thick cream-colored runner frames.
+Rounded corners.
+Consistent stroke width.
+
+Connectors:
+Plastic model runner joints.
+Mechanical attachment points.
+Uniform spacing.
+
+Panels:
+Various module sizes.
+Large central feature modules.
+Small supporting compartments.
+
+Illustration Style:
+Type: "Vintage Technical Line Art"
+
+Characteristics:
+- Monoline illustrations
+- Hand-drawn precision
+- Minimal detail
+- Flat rendering
+- Instruction-manual aesthetic
+- Retro corporate illustration
+
+Icons:
+Style:
+- Outline only
+- Monochrome
+- Technical symbols
+- Retro technology references
+
+People:
+Appearance:
+- Simplified line drawings
+- Neutral expressions
+- Corporate handbook style
+- Uniform visual treatment
+
+Charts & Diagrams:
+Style:
+- Embedded inside compartments
+- Technical-document appearance
+- Minimal decoration
+- Strong outlines
+
+Borders:
+Weight: Heavy
+
+Style:
+- Rounded
+- Continuous
+- Model-kit inspired
+
+Effects:
+Shadows: None
+Gradients: None
+Glassmorphism: False
+
+Texture:
+Light paper grain
+Slight print aging
+
+Spacing:
+Density: Medium
+
+Balance: >
+Generous negative space within each module.
+Consistent padding throughout the layout.
+
+Content Containers:
+Titles:
+Large modular header area integrated into the frame.
+
+Text:
+Contained within dedicated compartments.
+
+Images:
+Treated as collectible parts inside the runner system.
+
+Data:
+Presented as technical inserts within modules.
+
+Keywords:
+- Plastic Model Runner
+- Retro Corporate Manual
+- Analog Editorial
+- Vintage Instruction Sheet
+- System Diagram
+- Technical Illustration
+- Modular Layout
+- Retro Office Aesthetic
+- Mid-Century Print Design
+- Assembly Kit

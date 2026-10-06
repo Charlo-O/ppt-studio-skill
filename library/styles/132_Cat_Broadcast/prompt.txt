@@ -1,0 +1,176 @@
+Design Style:
+Name: "Cat Broadcast"
+
+Concept: >
+インターネット猫ミーム、
+Discordカルチャー、
+Brainrot Meme、
+TikTok、
+Reddit、
+Instagramカルーセル、
+リアクションキャット、
+インターネット掲示板、
+デジタルカルチャー、
+2000年代MTV、
+実験的モーショングラフィックから着想を得た
+猫ミーム・ブロードキャスト型グラフィックデザイン。
+
+スライド全体を、
+猫ミーム専門チャンネル、
+インターネットカルチャー番組、
+SNSトレンド紹介、
+デジタルポップカルチャー番組の
+オープニング映像のように構成する。
+
+猫ミーム、
+PNG切り抜き、
+リアクション画像、
+Discordスタンプ、
+タイポグラフィ、
+図形、
+UI断片を大胆に重ね、
+リズムと勢いのある画面を作る。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Internet
+- Meme
+- Energetic
+- Youthful
+- Chaotic
+- Graphic
+- Experimental
+- Playful
+
+Temperature:
+Overall: Vibrant
+
+Color Palette:
+Primary:
+MemePink: "#FF4FA8"
+DiscordBlue: "#5865F2"
+Cyan: "#00D8FF"
+LimeGreen: "#93FF5B"
+SignalYellow: "#FFD83D"
+White: "#FFFFFF"
+
+Background:
+- White
+- Bright color blocks
+- Flat gradients
+- Digital textures
+
+Typography:
+Style:
+- Bold grotesk
+- Condensed uppercase
+- Meme captions
+- Large headlines
+- Tiny interface labels
+- Editorial typography
+
+Treatment:
+- Oversized headlines
+- Rotated labels
+- Vertical text
+- Outline text
+- Layered typography
+- High contrast hierarchy
+
+Layout:
+Composition:
+- Asymmetrical editorial grid
+- Floating sticker collage
+- Multiple overlapping layers
+- Dynamic diagonal composition
+- Magazine spread rhythm
+- Broadcast graphics
+
+Frame:
+- Thin borders
+- Broadcast labels
+- Editorial tags
+- Category markers
+- Archive numbers
+
+Photography:
+Style:
+- Cat reaction memes
+- Korean cat memes
+- Viral internet cats
+- Discord reaction images
+- PNG cutout cats
+- Funny facial expressions
+
+Image Treatment:
+- White sticker outline
+- Transparent PNG cutouts
+- Slight drop shadow
+- Screenshot aesthetic
+- Editorial cropping
+- High-contrast photography
+
+Graphic Elements:
+- Sticker labels
+- Notification badges
+- Chat bubbles
+- Discord UI fragments
+- Browser tabs
+- Cursor icons
+- Emoji
+- Reaction symbols
+- Dotted textures
+- Geometric frames
+
+Effects:
+- Cutout collage
+- Layered stickers
+- Rough print texture
+- Noise
+- Transparent overlays
+- Motion graphics feeling
+
+Composition:
+Characteristics:
+- Internet collage
+- Editorial poster
+- Broadcast graphics
+- Digital culture magazine
+- Large hero images
+- Strong visual rhythm
+- Organized chaos
+- Contemporary internet aesthetic
+
+Design Rules:
+- Every slide should feel like a TV title sequence for internet culture.
+- Cats are always the heroes of the composition.
+- Treat reaction cats as celebrities or pop idols.
+- Layer PNG stickers, captions, and graphic elements dynamically.
+- Use bold asymmetrical layouts with energetic movement.
+- Mix premium editorial typography with chaotic meme imagery.
+- Alternate between full-bleed hero images and collage compositions.
+- Make every slide resemble a viral social media campaign or MTV broadcast package.
+
+Avoid:
+- Corporate consulting layouts
+- Traditional business slides
+- Minimal dashboards
+- Realistic office photography
+- Dense bullet lists
+- Glassmorphism
+- Skeuomorphic UI
+- Technical diagrams
+
+Keywords:
+- Cat Meme
+- Reaction Cat
+- Brainrot Meme
+- Discord
+- Internet Culture
+- MTV Graphics
+- Broadcast Design
+- Editorial Poster
+- Digital Pop Culture
+- Viral Internet

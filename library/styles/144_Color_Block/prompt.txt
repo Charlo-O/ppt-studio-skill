@@ -1,0 +1,198 @@
+Design Style:
+Name: "Color Block"
+
+Concept: >
+Marimekko、
+HAY、
+COS、
+Muji、
+Uniqlo Creative、
+Scandinavian Graphic Design、
+Bauhaus、
+Modern Fashion Campaign、
+Lifestyle Branding、
+Contemporary Editorialから着想を得た
+モダン・カラーブロック・エディトリアルデザイン。
+
+スライドを一般的なプレゼン資料ではなく、
+ライフスタイルブランドのルックブック、
+アパレルブランドキャンペーン、
+北欧デザイン誌、
+ミニマルブランドカタログとして構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Modern
+- Minimal
+- Bright
+- Fresh
+- Graphic
+- Editorial
+- Contemporary
+- Optimistic
+
+Temperature:
+Overall: Bright
+
+Background:
+Color: "#FAFAF7"
+
+Color Palette:
+Primary:
+CobaltBlue: "#1F63F2"
+VividOrange: "#FF6A2A"
+FreshGreen: "#47C34A"
+SunshineYellow: "#F6C83B"
+
+Accent:
+Black: "#111111"
+White: "#FFFFFF"
+
+Typography:
+Style:
+Heading:
+Font: "Modern Geometric Sans Serif"
+Weight: Bold
+Case: Sentence Case
+Alignment: Left
+
+Body:
+Font: "Minimal Sans Serif"
+Weight: Regular
+
+Caption:
+Font: "Light Sans Serif"
+Weight: Light
+Size: Small
+
+Layout:
+Style:
+- Scandinavian editorial
+- Modular grid
+- Large color blocks
+- Image-first layout
+- Minimal composition
+
+Grid:
+Columns: 12
+Gutters: Wide
+Margins: Large
+
+Composition:
+Principles:
+- Large geometric color fields
+- Strong visual hierarchy
+- Generous whitespace
+- Photography integrated into shapes
+- Asymmetrical balance
+- Minimal copy
+- One dominant focal point per slide
+
+Photography:
+Style:
+- Fashion editorial
+- Lifestyle
+- Studio photography
+- Full body portraits
+- Neutral expression
+- Clean styling
+- Minimal background
+
+Treatment:
+- Bright lighting
+- Soft shadows
+- High resolution
+- Clean commercial finish
+- Natural colors
+
+Graphic Elements:
+- Large circles
+- Semi circles
+- Quarter circles
+- Rounded arches
+- Thick outline circles
+- Simple rectangles
+- Color panels
+- Thin divider lines
+- Scandinavian floral icons
+- Simple wave patterns
+
+Shapes:
+Primary:
+- Circle
+- Rectangle
+- Semi-circle
+- Quarter-circle
+- Outline circle
+
+Icons:
+Style:
+- Minimal
+- Flat
+- Scandinavian
+
+Effects:
+Shadows:
+- Very soft natural shadows
+
+Gradients:
+- None
+
+Texture:
+- Flat colors
+- Matte finish
+
+Decorations:
+Include:
+- Oversized geometric forms
+- Clean outline graphics
+- Modular color blocks
+- Minimal decorative patterns
+- Large framed photography
+
+Avoid:
+- 3D effects
+- Glassmorphism
+- Heavy gradients
+- Neon colors
+- Distressed textures
+- Complex illustrations
+- Busy layouts
+
+Spacing:
+Outer Margin: Extra Large
+Inner Padding: Spacious
+
+Text Density:
+Low
+
+Image Ratio:
+Photography:
+Approximately 40–55%
+
+Graphics & Typography:
+Approximately 45–60%
+
+Visual Rhythm:
+- Hero introduction
+- Lifestyle campaign
+- Graphic pattern
+- Fashion portrait
+- Color exploration
+- Individual highlight
+- Shape composition
+- Collection overview
+- Closing message
+
+Overall Impression: >
+MarimekkoやHAY、COSのブランドビジュアルのような、
+北欧らしいシンプルさとポップな色彩を融合した
+モダンエディトリアルデザイン。
+大胆なカラーブロック、
+幾何学図形、
+クリーンな余白、
+明るいファッションフォト、
+ミニマルなタイポグラフィによって、
+洗練されながら親しみやすいブランドプレゼンテーションを構成する。

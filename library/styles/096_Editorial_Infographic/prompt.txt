@@ -1,0 +1,238 @@
+Design Style:
+Name: "Editorial Infographic"
+
+Concept: >
+北欧ミニマルデザインと雑誌のエディトリアルレイアウトを融合した、
+軽やかで親しみやすいインフォグラフィックスタイル。
+
+大胆なタイポグラフィ、
+柔らかなパステルカラー、
+フラットアイコン、
+長いドロップシャドウを組み合わせ、
+情報を楽しく直感的に理解できるよう構成する。
+
+教育資料、ワークショップ、
+スタートアップ提案、
+マーケティング資料、
+社内報などに適した、
+カジュアルかつ洗練された世界観。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Fresh
+- Editorial
+- Minimal
+- Friendly
+- Creative
+- Informative
+- Playful
+- Modern
+
+Color Palette:
+
+Background:
+Primary: "#F7F7F5"
+
+Text:
+Primary: "#1E1F23"
+Secondary: "#9EA5AC"
+Light: "#C8CDD2"
+
+Accent:
+Mint: "#74D7D3"
+Pink: "#F27EB2"
+Slate: "#547283"
+
+Neutral:
+Gray: "#DADDE2"
+LightGray: "#EEF0F2"
+
+Typography:
+
+Headings:
+Font: "Condensed Sans Serif"
+Weight: 800
+Transform: "Uppercase"
+LetterSpacing: "-0.03em"
+Color: "#111111"
+
+Subheadings:
+Font: "Sans Serif"
+Weight: 600
+Transform: "Uppercase"
+Color: "#C3C8CC"
+
+Body:
+Font: "Sans Serif"
+Weight: 400
+Color: "#666C73"
+LineHeight: 1.6
+
+Numbers:
+Font: "Condensed Sans Serif"
+Weight: 700
+Color: "#111111"
+
+Layout:
+
+Structure:
+- Editorial infographic composition
+- Three-column magazine layout
+- Independent content modules
+- Vertical storytelling flow
+- Generous whitespace
+
+Grid:
+Columns: 3
+Gutters: "Wide"
+
+Margins:
+Outer: "Large"
+
+Components:
+
+Charts:
+- Donut charts
+- Ring charts
+- Percentage circles
+- Pie charts
+- Horizontal comparison bars
+- Mini dashboards
+- Timeline charts
+- Bubble comparisons
+
+Infographics:
+- Vertical timelines
+- Checklist diagrams
+- Comparison tables
+- Option cards
+- Overlapping circle diagrams
+- Process arrows
+- Statistic callouts
+- Information panels
+
+Devices:
+- Desktop monitor icons
+- Tablet icons
+- Laptop icons
+- Email illustrations
+- Globe and network icons
+
+Objects:
+- Eyeglasses illustrations
+- Envelope icons
+- Security symbols
+- Communication graphics
+
+Illustration:
+
+Style:
+Minimal Flat Editorial
+
+Rendering:
+Flat vector
+Rounded geometry
+Thin outlines
+Long shadow effects
+Minimal details
+
+Icons:
+
+Style:
+Outline pictograms
+
+Characteristics:
+- Thin strokes
+- Rounded edges
+- Friendly appearance
+- Consistent visual weight
+- Simple symbolism
+
+Charts:
+
+Axis:
+Color: "#DADDE2"
+Thickness: "Thin"
+
+Labels:
+Color: "#666C73"
+Size: "Small"
+
+Gridlines:
+Usage: "Minimal"
+Color: "#EEF0F2"
+
+Highlights:
+UseAccentColors: true
+MaximumAccentColors: 3
+
+DataEmphasis:
+Style: "Color contrast"
+
+Tables:
+
+Style:
+Minimal comparison matrix
+
+Appearance:
+Header:
+Background: "#547283"
+Text: "#FFFFFF"
+
+Cells:
+Background: "#FFFFFF"
+Border: "#EEF0F2"
+
+Cards:
+
+Style:
+Floating editorial blocks
+
+Appearance:
+Background: "Transparent"
+Radius: "Small"
+Border: "None"
+
+Spacing:
+
+SectionGap: "Large"
+ComponentGap: "Medium"
+InternalPadding: "Medium"
+
+Effects:
+
+Shadows:
+Usage: "Long shadows"
+Direction: "Bottom-right"
+Opacity: "Subtle"
+
+Borders:
+Usage: "Minimal"
+
+Gradients:
+Usage: "None"
+
+Textures:
+Usage: "None"
+
+Decorations:
+
+BackgroundElements:
+- Fine divider lines
+- Minimal connectors
+- Dashed guide lines
+- Subtle geometric accents
+
+Rules:
+- Combine editorial sophistication with friendly accessibility.
+- Use bold condensed typography to establish hierarchy.
+- Maintain abundant whitespace between infographic modules.
+- Apply pastel accent colors sparingly for emphasis.
+- Use long shadows consistently across icons and illustrations.
+- Keep all visual elements flat and lightweight.
+- Avoid realistic rendering and heavy decorative effects.
+- Ensure charts, icons, and diagrams share a unified visual language.
+- Optimize for quick scanning and intuitive understanding.
+- Suitable for workshops, education, startup presentations, internal communications, marketing explainers, and magazine-style reports.

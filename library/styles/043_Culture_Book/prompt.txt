@@ -1,0 +1,155 @@
+Design Style:
+Name: "Philosophical Culture Book"
+
+Concept: >
+採用資料ではなく、
+企業の思想・価値観・原体験を伝える
+カルチャーブック型デザイン。
+
+ビジネス資料ではなく、
+一冊の読み物として成立する
+ブランドブックを目指す。
+
+雑誌の特集記事、
+自伝、
+エッセイ集、
+企業文化誌の中間のような世界観。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Philosophical
+- Human
+- Authentic
+- Editorial
+- Emotional
+- Japanese
+- Thoughtful
+- Timeless
+
+Color Palette:
+
+Background:
+PaperWhite: "#F7F6F2"
+
+Text:
+Black: "#111111"
+Gray: "#666666"
+
+Accent:
+Black: "#111111"
+
+Typography:
+
+Heading:
+Style: "Large Japanese Mincho"
+Weight: "Bold"
+
+EditorialTitle:
+Style: "Vertical Japanese Typography"
+
+Body:
+Style: "Book Typography"
+
+Quote:
+Style: "Large Editorial Quote"
+
+Layout:
+
+Composition:
+- Magazine article layout
+- Large whitespace
+- Vertical title blocks
+- Long-form storytelling
+- Asymmetrical composition
+- Editorial rhythm
+- Book-like reading experience
+
+Grid:
+
+Columns: 12
+Margins: Very Wide
+Gutters: Medium
+
+Visual Elements:
+
+Illustration:
+Style: "Hand Drawn Ink Illustration"
+
+Subjects:
+- People
+- Nature
+- Festivals
+- Local communities
+- Traditional culture
+- Daily life
+
+Treatment:
+- Monochrome
+- Fine line drawing
+- Sketch style
+- Storybook aesthetic
+
+Photography:
+
+Style:
+- Documentary
+- Natural moments
+- Black and white preferred
+- Human-centered
+
+Editorial Components:
+
+- Long-form essays
+- Founder stories
+- Personal reflections
+- Interview excerpts
+- Quotations
+- Margin notes
+- Cultural references
+
+Page Types:
+
+Cover:
+- Large title
+- Hand-drawn illustration
+- Minimal information
+
+Philosophy:
+- Large vertical headline
+- Essay text
+- Generous margins
+
+Founder Story:
+- Personal narrative
+- Timeline elements
+- Editorial illustrations
+
+Culture:
+- Values explained through stories
+- Real employee voices
+- Interview format
+
+Community:
+- Local connections
+- Customer stories
+- Social impact
+
+Closing:
+- Manifesto
+- Future vision
+- Reflective ending
+
+Design Rules:
+
+- Prioritize story over information
+- Prioritize philosophy over business
+- Use white space generously
+- Allow long reading sections
+- Embrace Japanese editorial aesthetics
+- Use illustrations instead of icons
+- Avoid corporate stock imagery
+- Make every page feel like a book spread
+- Focus on emotion and meaning
+- Preserve a timeless atmosphere

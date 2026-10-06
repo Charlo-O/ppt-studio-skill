@@ -1,0 +1,157 @@
+Design Style:
+Name: "yellow blueprint"
+
+Concept: >
+DIYカルチャー、
+オープンソースハードウェア、
+メーカームーブメント、
+デザインミュージアムの展示ポスター、
+実験的エディトリアルから着想を得た
+設計図スタイルのプレゼンテーション。
+
+アイデアを完成品としてではなく、
+「誰でも組み立てられるプロセス」として表現する。
+
+部品、工程、試作、改善を可視化し、
+発明する楽しさと知的好奇心を伝える。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Inventive
+- DIY
+- Experimental
+- Educational
+- Open
+- Curious
+- Technical
+- Optimistic
+
+Color Palette:
+Background:
+BlueprintYellow: "#F4D83A"
+
+Ink:
+Black: "#111111"
+
+Accent:
+White: "#FFFFFF"
+
+Typography:
+Headlines:
+Style: "Bold grotesque sans serif"
+Weight: 800
+Case: Uppercase
+
+Labels:
+Style: "Condensed sans serif"
+Weight: 500
+
+Body:
+Style: "Neutral sans serif"
+Weight: 400
+Size: Small
+
+Illustration:
+Style:
+DIY blueprint drawing
+
+Rendering:
+- Uniform line drawings
+- Minimal outlines
+- Hand-assembled feeling
+- Technical simplification
+- Flat vector illustration
+- No shading
+- No realism
+
+Objects:
+Treatment:
+- Show components separately
+- Explain assembly visually
+- Reveal construction logic
+- Celebrate visible mechanisms
+- Preserve approachability
+
+Layout:
+Overall:
+- Instruction-poster format
+- Modular grid system
+- Sequential storytelling
+- Workshop manual composition
+
+Composition:
+- Large hero assembly
+- Numbered instruction panels
+- Supporting close-up details
+- Bottom summary section
+- Strong framing borders
+
+Information Design:
+Structure:
+- Build step by step
+- Number every stage
+- Explain through diagrams
+- Reduce text dependency
+- Encourage experimentation
+
+Graphic Elements:
+- Numbered boxes
+- Technical arrows
+- Frame borders
+- Leader lines
+- Check symbols
+- Minimal captions
+
+Storytelling:
+Flow:
+- Gather components
+- Assemble modules
+- Connect systems
+- Test prototypes
+- Launch into action
+
+Composition Rules:
+- Make complexity approachable
+- Celebrate making
+- Show the process honestly
+- Encourage curiosity
+- Prioritize clarity over polish
+
+Design Rules:
+- Ideas should feel buildable
+- Learning happens through making
+- Imperfection is acceptable
+- Simplicity creates confidence
+- Empower the audience to try
+
+Avoid:
+- Photorealistic rendering
+- Luxury aesthetics
+- Corporate polish
+- Decorative excess
+- Heavy gradients
+- Emotional stock photography
+- Dense paragraphs
+- Abstract conceptual metaphors
+
+Suitable For:
+- STEM education
+- AI workflow explanations
+- Innovation processes
+- Product development
+- Startup methodologies
+- Workshop materials
+- Maker education
+- Design thinking lectures
+
+Keywords:
+- Maker Movement
+- Open Source Design
+- DIY Blueprint
+- Instruction Poster
+- Learning by Making
+- Experimental Education
+- Workshop Editorial
+- Buildable Ideas

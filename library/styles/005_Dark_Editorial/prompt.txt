@@ -1,0 +1,195 @@
+Design Style:
+Name: "Dark Financial Editorial"
+Concept: "高級感・知性・モダン建築美を融合した資産形成プレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+Background:
+Primary: "#1B1B1D"
+Secondary: "#E7E7E7"
+
+Mood:
+- "Luxury"
+- "Minimal"
+- "Editorial"
+- "Architectural"
+- "Strategic"
+- "Global"
+
+Color Palette:
+Base:
+- "#1B1B1D"
+- "#E7E7E7"
+
+Text:
+- "#FFFFFF"
+- "#111111"
+
+Accent:
+- "#FF5A0A"
+
+Secondary:
+- "#5A5A5A"
+- "#BDBDBD"
+
+Typography:
+Heading:
+Font: "Modern Sans Serif"
+Weight: "800-900"
+Style:
+- "Bold"
+- "Wide Tracking"
+- "Large Scale"
+Color:
+DarkBG: "#FFFFFF"
+LightBG: "#111111"
+
+JapaneseHeading:
+Font: "Rounded Modern Gothic"
+Weight: "300-500"
+Style:
+- "Elegant"
+- "Spacious"
+
+Body:
+Font: "Minimal Sans Serif"
+Weight: "300-400"
+LineHeight: "1.7-2.0"
+Color:
+DarkBG: "#F2F2F2"
+LightBG: "#222222"
+
+Numbers:
+Font: "Condensed Sans"
+Weight: "700"
+
+Visual Identity:
+Core Elements:
+- "巨大なドーナツリング"
+- "半透明サークル"
+- "グリッド構造"
+- "モノクロ建築写真"
+- "強い余白"
+
+Shapes:
+- "Circle"
+- "Donut"
+- "Rounded Rectangle"
+- "Full-height Split"
+
+Decorations:
+- "極小ロゴ"
+- "アクセントボタン"
+- "オレンジのライン"
+- "半透明オーバーレイ"
+
+Image Style:
+Theme:
+- "Brutalist Architecture"
+- "Modern Buildings"
+- "Urban Geometry"
+- "Monochrome"
+- "Glass & Concrete"
+
+Treatment:
+- "Black and White"
+- "High Contrast"
+- "Film Grain"
+- "Architectural Perspective"
+
+Layout System:
+Principles:
+- "左右分割を基本にする"
+- "大きな余白を確保"
+- "情報量を絞る"
+- "視線誘導を明確にする"
+
+Grid:
+Columns: 12
+Gutters: "Wide"
+
+Slide Types:
+
+Cover:
+Background: "Dark"
+Layout:
+- "左テキスト / 右ビジュアル"
+- "巨大なドーナツ形状"
+- "建築写真を円形マスク"
+- "左下に著者情報"
+- "小さなアクセントボタン"
+
+Contents:
+Background: "Dark"
+Layout:
+- "左に目次"
+- "右に巨大リング装飾"
+- "番号を大きく表示"
+
+Section Intro:
+Layout:
+- "全面写真"
+- "半透明カラー円"
+- "左上にタイトル"
+- "余白を活かした本文"
+
+Dual Cards:
+Layout:
+- "左右均等"
+- "円形イメージ"
+- "下に短文"
+- "中央揃え"
+
+Data Split:
+Layout:
+- "左グラフ / 右テキスト"
+- "背景色を左右で分割"
+- "グラフはシンプル"
+
+Chart Layout:
+ChartStyle:
+- "線は最小限"
+- "軸装飾を減らす"
+- "オレンジを強調線に使用"
+- "白・グレーを補助線に使用"
+
+Closing:
+Layout:
+- "左に大きな写真"
+- "右に結論"
+- "余白を広く取る"
+- "背景にアクセントカラー"
+
+Components:
+Buttons:
+Shape: "Rounded Pill"
+Background: "#FF5A0A"
+TextColor: "#FFFFFF"
+
+Labels:
+Style:
+- "Small Caps"
+- "Minimal"
+- "Tracking Wide"
+
+Cards:
+Radius: "Large"
+Shadow: "None"
+
+Spacing:
+OuterMargin: "Very Large"
+ContentGap: "Large"
+SectionGap: "Very Large"
+
+Animation Feel:
+- "Slow Fade"
+- "Elegant Motion"
+- "Editorial Transition"
+
+Restrictions:
+- "グラデーション多用禁止"
+- "派手な色は禁止"
+- "過度な3D表現禁止"
+- "情報を詰め込みすぎない"
+- "カジュアルすぎる装飾禁止"
+- "コンテンツ内容は生成元に従い、このYAMLでは指定しない"

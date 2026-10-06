@@ -1,0 +1,243 @@
+Design Style:
+Name: "Luminous Editorial"
+
+Concept: >
+幻想的な発光表現とエディトリアルタイポグラフィを融合した
+Luminous（ルミナス）スタイル。
+
+ネオンのように滲む光、
+パステルトーンのグラデーション、
+夢の中のような動植物のモチーフを背景に用い、
+静かな没入感とアート性を演出する。
+
+ファッション、ブランドストーリー、
+クリエイティブマーケティング、
+ウェルビーイング、未来予測、
+ライフスタイル提案資料に適した
+詩的で感性的なプレゼンテーションデザイン。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Dreamlike
+- Artistic
+- Luminous
+- Editorial
+- Elegant
+- Ethereal
+- Emotional
+- Contemporary
+
+Color Palette:
+
+Background:
+Pink: "#F8D8E3"
+Aqua: "#7CF1EC"
+Lavender: "#DCCBFF"
+Peach: "#FFC7A5"
+White: "#FFF8F5"
+
+Text:
+Primary: "#111111"
+Secondary: "#2E2E2E"
+
+Glow:
+Cyan: "#6AF5F0"
+Coral: "#FF9D7B"
+Violet: "#C89CFF"
+Lemon: "#FFE58A"
+
+Typography:
+
+Headings:
+Style: "Modern Sans"
+Weight: 400
+Color: "#111111"
+LetterSpacing: "-0.02em"
+
+EditorialScript:
+Style: "Luxury Script"
+Weight: 400
+Usage: "Single oversized decorative initials"
+
+SectionNumbers:
+Weight: 500
+Color: "#111111"
+
+Body:
+Weight: 400
+Color: "#1F1F1F"
+
+Layout:
+
+Structure:
+- Full-bleed visual storytelling
+- Large hero imagery
+- Editorial asymmetry
+- Minimal content density
+- Strong focal points
+
+Grid:
+Columns: 12
+
+Margins:
+Outer: "Medium"
+
+Background:
+
+Style:
+Luminous Gradient
+
+Characteristics:
+- Soft diffusion
+- Airbrushed blending
+- Dreamlike transitions
+- Slight grain texture
+- No hard edges
+
+ColorFlow:
+- Pink to aqua
+- Aqua to lavender
+- Coral highlights
+- Cream transitions
+
+Illustration:
+
+Style:
+Glowing Fantasy Editorial
+
+Rendering:
+Soft focus
+Airbrush texture
+Neon diffusion
+Bloom effect
+Painterly realism
+
+Subjects:
+- White tiger
+- Forest landscapes
+- Flowers
+- Rabbits
+- Butterflies
+- Jellyfish
+- Hands holding stars
+- Ethereal animals
+- Symbolic nature elements
+
+Effects:
+
+Glow:
+Intensity: "High"
+
+Bloom:
+Usage: "Illustrations only"
+
+Blur:
+Strength: "Medium"
+
+Grain:
+Strength: "Subtle"
+
+Contrast:
+Soft
+
+Decorative Elements:
+
+ScriptInitials:
+Style: Oversized calligraphic letterforms
+
+Usage:
+- Title accents
+- Section dividers
+- Editorial overlays
+
+Characteristics:
+- Black ink appearance
+- Thin strokes
+- Flowing curves
+
+Components:
+
+Cover:
+- Full-screen luminous illustration
+- Large modern title
+- Oversized script initial
+- Minimal supporting text
+- Small metadata placement
+
+TableOfContents:
+- Hero visual background
+- Large script letter overlay
+- Right-aligned section list
+- Minimal numbering
+
+SectionDivider:
+- Full-bleed environmental artwork
+- Large section title
+- Decorative script overlay
+- Strong emotional atmosphere
+
+StorySlide:
+- Large image dominance
+- Left-aligned narrative text
+- Generous spacing
+
+InsightSlide:
+- Short key statements
+- Supporting illustration
+- Minimal hierarchy
+
+Timeline:
+- Vertical editorial timeline
+- Thin divider lines
+- Compact annotations
+
+QuoteSlide:
+- Oversized quotation
+- Emotional visual backdrop
+
+Closing:
+- Single symbolic image
+- Minimal concluding message
+
+Content Density:
+
+Titles:
+Large
+
+Body:
+Minimal
+
+VisualPriority:
+Very High
+
+DataPriority:
+Low
+
+Imagery Rules:
+- Use one dominant visual per slide.
+- Avoid stock-photo realism.
+- Prefer symbolic storytelling imagery.
+- Apply luminous bloom to key subjects.
+- Preserve soft transitions between colors.
+- Maintain an ethereal atmosphere throughout the deck.
+
+Avoid:
+- Dense charts
+- Heavy tables
+- Technical dashboards
+- Corporate blue palettes
+- Sharp geometric compositions
+- Excessive bullet points
+
+Suitable For:
+- Brand storytelling
+- Creative marketing proposals
+- Trend reports
+- Fashion presentations
+- Wellness presentations
+- Lifestyle strategy
+- Future vision decks
+- Cultural narratives
+- Inspirational keynote presentations

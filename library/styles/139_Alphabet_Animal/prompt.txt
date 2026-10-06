@@ -1,0 +1,223 @@
+Design Style:
+Name: "Alphabet Animal"
+
+Concept: >
+バウハウス、
+ミッドセンチュリーグラフィック、
+モダンタイポグラフィ、
+アルファベットポスター、
+北欧キッズデザイン、
+アイコンシステム、
+ブランドシンボル、
+幾何学アートから着想を得た
+アルファベット・アニマル型エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+タイポグラフィ作品集、
+アルファベット図鑑、
+ブランドアイデンティティ、
+現代グラフィックポスターとして構成する。
+
+文字そのものが
+動物、
+生き物、
+キャラクターへ変化し、
+「読む」よりも
+「発見する」体験を生み出す。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Bold
+- Minimal
+- Graphic
+- Curious
+- Contemporary
+- Educational
+- Playful
+- Iconic
+
+Temperature:
+Overall: Cool
+
+Background:
+Style: "Flat Color"
+
+Color:
+ElectricBlue: "#2E2BFF"
+
+Texture:
+- Fine paper grain
+- Screen print noise
+- Matte finish
+
+Color Palette:
+
+Primary:
+ElectricBlue: "#2E2BFF"
+
+Neutral:
+White: "#FAFAF8"
+
+Typography:
+
+Philosophy:
+Typography becomes illustration.
+
+Style:
+- Geometric Sans
+- Modular
+- Bauhaus
+- Alphabet System
+
+Heading:
+Weight: ExtraBold
+Scale: Huge
+
+Layout:
+
+Structure: "Modular Alphabet Composition"
+
+Grid:
+Dense Modular Grid
+
+Composition:
+- Giant letters overlap freely
+- Characters emerge from typography
+- Large abstract rhythm
+- No obvious reading order
+- Entire slide behaves like one poster
+
+Alphabet Construction:
+
+Rules:
+- Every letter may transform into an animal
+- Characters are built directly from typography
+- Maintain recognisable letterforms
+- Use extreme simplification
+- Strong silhouettes
+- Letters overlap naturally
+
+Illustration:
+
+Style: "Geometric alphabet creatures"
+
+Construction:
+
+Shapes:
+- Circle
+- Half Circle
+- Rectangle
+- Square
+- Triangle
+- Capsule
+- Arc
+
+Rules:
+- Flat fills only
+- No gradients
+- No outlines
+- Minimal geometry
+- Tiny circular eyes
+- Small beaks or noses
+- Characters emerge from letters
+
+Subjects:
+
+Possible Animals:
+- Bird
+- Owl
+- Penguin
+- Elephant
+- Dog
+- Cat
+- Bear
+- Fox
+- Fish
+- Rabbit
+- Whale
+- Giraffe
+- Dinosaur
+- Seal
+- Chick
+- Abstract creature
+
+Graphic Elements:
+- Modular typography
+- Tiny eyes
+- Negative space
+- Repeated geometric rhythm
+- Cropped letters
+- Hidden characters
+
+Rendering:
+
+Style:
+- Flat vector
+- Poster quality
+- Crisp geometry
+- Minimal print aesthetic
+
+Image Treatment:
+
+Texture:
+- Slight risograph grain
+- Soft print noise
+
+Lighting:
+None
+
+Shadows:
+None
+
+Whitespace:
+Medium
+
+Slide Variations:
+- Alphabet poster
+- Letter exploration
+- Animal collection
+- Hidden creature puzzle
+- Initial-based illustration
+- Modular typography page
+- Full alphabet spread
+- Brand identity page
+- Closing poster
+
+Composition Rules:
+- アルファベット自体をイラストとして扱う
+- 動物は文字から自然に生まれるように構成する
+- 画面全体を一つのタイポグラフィ作品にする
+- 白と青の強いコントラストを維持する
+- 線ではなく面で構成する
+- 装飾を極力排除する
+- ミニマルな目だけで生命感を与える
+- グリッドを感じさせながら自由に重ねる
+- プレゼンではなくデザインポスターとして見せる
+
+Design Keywords:
+- Bauhaus
+- Modular Typography
+- Alphabet Design
+- Animal Alphabet
+- Graphic Identity
+- Flat Vector
+- Icon System
+- Geometric Illustration
+- Scandinavian Design
+- Swiss Poster
+- Editorial Design
+- Contemporary Graphic Art
+
+Avoid:
+- Photorealism
+- 3D graphics
+- Outlines
+- Gradients
+- Drop shadows
+- Complex illustrations
+- Decorative ornaments
+- Corporate presentation layouts
+- Dense text
+- Realistic animal anatomy

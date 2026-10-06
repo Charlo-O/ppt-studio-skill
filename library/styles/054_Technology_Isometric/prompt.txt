@@ -1,0 +1,187 @@
+Design Style:
+Name: "Technology Isometric"
+
+Concept: >
+アイソメトリックインフォグラフィックデザイン。
+複雑な技術情報を
+シンプルで親しみやすく可視化し、
+SaaS企業の会社紹介資料や
+ITサービス説明資料に適した構成。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Modern
+- Digital
+- Friendly
+- Professional
+- Innovative
+- Clean
+- Structured
+- Technology
+
+Color Palette:
+
+Background:
+Primary: "#F5F5F5"
+
+Text:
+Primary: "#111111"
+Secondary: "#444444"
+
+Accent:
+Primary: "#16BCE3"
+Secondary: "#0B72D9"
+Tertiary: "#B9F1FF"
+
+Illustration:
+
+Style:
+Isometric 3D
+
+Rendering:
+Flat shading
+Soft shadows
+Rounded geometry
+Minimal detail
+
+Objects:
+- Cloud
+- Laptop
+- Smartphone
+- Server
+- Database
+- Dashboard
+- API
+- Network
+- AI
+- Analytics
+
+Typography:
+
+Headings:
+Style: Bold geometric sans-serif
+Weight: 700-800
+Color: "#111111"
+
+Body:
+Style: Modern sans-serif
+Weight: 400-500
+Color: "#444444"
+
+Layout:
+
+Philosophy:
+Visual explanation first
+
+Structure:
+- Large illustration area
+- Simple infographic blocks
+- Wide spacing
+- Balanced composition
+- Minimal text density
+
+Components:
+
+Cover:
+- Isometric illustration
+- Bold title
+- Simple supporting graphics
+
+Feature List:
+- Numbered points
+- Isometric icons
+- Short descriptions
+
+Process Flow:
+- Sequential steps
+- Cloud connectors
+- Arrow-based navigation
+
+Statistics:
+- Donut charts
+- Semi-circle charts
+- Isometric bar charts
+
+Architecture Diagram:
+- Central platform
+- Connected components
+- Simple callouts
+
+Graphics:
+
+Icons:
+Style: Thin line icons
+Shape: Circular containers
+
+Decorative Elements:
+- Curved connection lines
+- Floating cloud icons
+- Minimal geometric accents
+
+Charts:
+
+Style:
+Isometric infographic charts
+
+Types:
+- Donut
+- Progress
+- Bar
+- Process
+- KPI
+
+Spacing:
+
+White Space:
+Very generous
+
+Density:
+Low
+
+Margins:
+Large
+
+Visual Hierarchy:
+
+Level1:
+Large title
+
+Level2:
+Isometric illustration
+
+Level3:
+Number indicators
+
+Level4:
+Supporting text
+
+Background:
+
+Style:
+Clean light canvas
+
+Decorations:
+Subtle clouds
+Thin connection lines
+
+Avoid:
+- Dark backgrounds
+- Heavy gradients
+- Realistic rendering
+- Skeuomorphism
+- Dense dashboards
+- Cyberpunk aesthetics
+
+Keywords:
+- SaaS Presentation
+- Cloud Technology
+- AI Platform
+- Digital Transformation
+- Isometric Cloud
+- Tech Infographic
+- Data Infrastructure
+- Modern Startup Deck
+- Software Architecture
+- Enterprise Technology

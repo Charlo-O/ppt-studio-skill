@@ -1,0 +1,196 @@
+Design Style:
+Name: "Cinematic Infographic"
+
+Concept: >
+映画オープニングタイトル、
+ミッドセンチュリーモダン、
+Saul Bassポスター、
+ヴィンテージ雑誌、
+インフォグラフィック、
+モーショングラフィックスから着想を得た
+シネマティックなエディトリアルデザイン。
+
+情報を説明資料ではなく、
+映画のクレジットシークエンスとして表現する。
+
+人物、
+オブジェクト、
+数字、
+図形、
+線を組み合わせ、
+一枚の映画ポスターのような世界観をつくる。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Cinematic
+- Retro
+- Sophisticated
+- Editorial
+- Intelligent
+- Stylish
+- Artistic
+- Narrative
+
+Temperature:
+Overall: Warm
+
+Color Palette:
+Background:
+VintageCream: "#F2E9D8"
+
+Primary:
+MustardYellow: "#E3B438"
+DustyTeal: "#8FC6C1"
+CoralRed: "#D95A52"
+
+Secondary:
+MutedBlue: "#5D8CB8"
+WarmGray: "#A9A29A"
+Charcoal: "#333333"
+
+Accent:
+SoftPink: "#E88BA8"
+PaleCyan: "#BEE6E4"
+
+Typography:
+Style: >
+映画タイトルカードのような
+大胆なサンセリフ体。
+
+見出しは短く、
+強い存在感を持たせる。
+
+サブタイトルは
+カラーバーの上に配置。
+
+本文は小さく整理し、
+情報密度を抑える。
+
+Layout:
+Structure: >
+一枚完結型ポスター構成。
+
+左右どちらかに
+主役ビジュアルを配置。
+
+残りの空間に
+タイトル、
+数字、
+図形を配置する。
+
+情報は余白の中に
+浮遊するように置く。
+
+Composition:
+Characteristics:
+- Hero object composition
+- Editorial asymmetry
+- Large negative space
+- Geometric storytelling
+- Film title sequence aesthetics
+- Infographic layering
+- Object-focused layout
+- Visual hierarchy by scale
+
+Photography:
+Style: >
+モノクロ写真または
+低彩度写真。
+
+切り抜き人物を使用。
+
+被写体は単独で配置。
+
+ポートレートや
+オブジェクト写真を主役にする。
+
+Objects:
+Style: >
+カメラ、
+楽器、
+ファッション、
+建築、
+道具などを
+展示物のように見せる。
+
+オブジェクト単体で
+ストーリーを語らせる。
+
+Shapes:
+Usage:
+- Concentric circles
+- Geometric overlays
+- Color bars
+- Thin lines
+- Technical diagrams
+- Data markers
+
+Rules: >
+円形を中心に構成。
+
+情報図解と
+グラフィック装飾を融合する。
+
+線は極細。
+
+図形は抽象的に扱う。
+
+Graphics:
+Style: >
+科学図鑑、
+設計図、
+モーショングラフィック、
+インフォグラフィックの
+中間的表現。
+
+数字や記号を
+ビジュアル要素として使う。
+
+Effects:
+- Paper texture
+- Vintage print feel
+- Film title aesthetic
+- Slight grain
+- Editorial illustration feel
+
+Illustration:
+Style: >
+ミッドセンチュリー風。
+
+抽象図形を中心に構成。
+
+アイコンは最小限。
+
+Visual Direction:
+- Saul Bass inspired composition
+- Retro film title sequence
+- Mid-century modern graphics
+- Geometric storytelling
+- Editorial infographic design
+- Object-centered layouts
+- Vintage documentary aesthetics
+- Museum exhibition graphics
+
+Avoid:
+- Corporate templates
+- PowerPoint business style
+- Glassmorphism
+- Modern SaaS aesthetics
+- Heavy gradients
+- Realistic 3D
+- Crowded layouts
+- Excessive text blocks
+
+Keywords:
+- Saul Bass
+- Mid Century Modern
+- Retro Infographic
+- Film Credits Design
+- Editorial Poster
+- Vintage Magazine
+- Geometric Storytelling
+- Cinematic Layout
+- Motion Graphics Style
+- Documentary Design

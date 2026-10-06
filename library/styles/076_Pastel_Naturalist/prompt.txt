@@ -1,0 +1,137 @@
+Design Style:
+Name: "Pastel Naturalist"
+
+Concept: >
+野生動物図鑑、
+フィールドノート、
+ボタニカルスケッチ、
+ナチュラルヒストリーをモチーフにした
+エディトリアルデザイン。
+
+手描きの線画、
+淡いパステルカラー、
+余白を活かしたレイアウトで
+穏やかで知的な世界観を表現する。
+
+教育、
+環境、
+サステナビリティ、
+研究、
+地域活動、
+子ども向け教材、
+NPOレポート向け。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Natural
+- Organic
+- Educational
+- Calm
+- Editorial
+- Friendly
+- Sustainable
+- Intelligent
+
+Color Palette:
+
+Background:
+Primary: "#F1EFE1"
+
+Text:
+Primary: "#1F2B3A"
+Secondary: "#45505D"
+
+Accent:
+Blue: "#BFD2EE"
+Mint: "#CBECE1"
+Pink: "#F3B8B2"
+Sand: "#E7D0AE"
+Stone: "#D6CCC8"
+
+Illustration:
+
+Style:
+Vintage Naturalist Sketch
+
+Rendering:
+Hand Drawn
+Fine Line Art
+Editorial Illustration
+
+Subjects:
+- Wild Animals
+- Tropical Birds
+- Fish
+- Reptiles
+- Leaves
+- Flowers
+- Forest
+- Desert Plants
+- Landscape
+
+Typography:
+
+Headings:
+Style: Handwritten Editorial
+Weight: Bold
+
+Body:
+Style: Humanist Sans Serif
+Weight: Regular
+
+Characteristics:
+- Soft curves
+- Natural spacing
+- Large margins
+- Calm hierarchy
+
+Layout:
+
+Structure:
+- Large illustration anchors
+- Wide whitespace
+- Editorial composition
+- Flexible asymmetry
+
+Components:
+
+Cover:
+- Large animal illustration
+- Editorial title
+- Minimal subtitle
+
+Section Divider:
+- Large section number
+- Full width illustration
+
+Content:
+- Clean text area
+- Decorative nature sketches
+
+Infographics:
+- Soft pastel circles
+- Organic iconography
+- Minimal charts
+
+Effects:
+
+Shadows:
+Usage: None
+
+Borders:
+Usage: None
+
+Texture:
+- Paper feel
+- Illustration detail only
+
+Rules:
+- Prioritize whitespace
+- Use nature illustrations as focal points
+- Keep charts minimal
+- Avoid heavy decoration
+- Avoid bright saturated colors
+- Maintain educational tone
+- Suitable for sustainability, education, research, ecology, wildlife, tourism and nonprofit presentations

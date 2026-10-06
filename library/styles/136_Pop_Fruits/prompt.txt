@@ -1,0 +1,184 @@
+Design Style:
+Name: "Pop Fruits"
+
+Concept: >
+ポップアート、
+Andy Warhol、
+Memphis Design、
+Instagramフードフォト、
+グラフィックポスター、
+カラーブロッキング、
+フラットレイ写真、
+ビビッドカラー、
+ファッション広告、
+現代アート、
+デザイン雑誌から着想を得た
+ポップ・フルーツ・エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+フルーツブランドの広告、
+ポスター、
+ライフスタイル雑誌、
+アートブック、
+デザインカタログとして構成する。
+
+情報ではなく、
+色、
+リズム、
+パターン、
+写真そのものによって
+世界観を作る。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Vibrant
+- Fresh
+- Colorful
+- Playful
+- Energetic
+- Editorial
+- Modern
+- Fun
+
+Temperature:
+Overall: Extremely Vibrant
+
+Background:
+
+Style:
+- Solid color only
+- Bright yellow
+- Hot pink
+- Cyan
+- Mint
+- Coral
+- Aqua
+- Lavender
+
+Color Palette:
+
+Primary:
+LemonYellow: "#FFE500"
+HotPink: "#FF4FAF"
+Aqua: "#47E5F0"
+Mint: "#B7FFD6"
+Coral: "#FF6A6A"
+
+Secondary:
+Orange: "#FFA500"
+Purple: "#B56DFF"
+SkyBlue: "#74D9FF"
+White: "#FFFFFF"
+
+Accent:
+Black: "#202020"
+
+Typography:
+
+Style:
+- Bold geometric sans-serif
+- Large headlines
+- Wide spacing
+- Clean modern typography
+
+Layout:
+
+Structure:
+- Full-bleed hero photography
+- Large image areas
+- Generous whitespace
+- Simple editorial layout
+- Strong visual hierarchy
+
+Composition:
+
+Principles:
+- Repeating patterns
+- Objects evenly distributed
+- Diagonal rhythm
+- Floating composition
+- Graphic balance
+
+Photography:
+
+Style:
+- High-key studio photography
+- Top-down photography
+- Flat lay
+- Pop advertising
+- Commercial product photography
+- Saturated colors
+
+Subjects:
+
+Style:
+- Pineapples
+- Bananas
+- Oranges
+- Lemons
+- Grapefruit
+- Strawberries
+- Cherries
+- Watermelon
+- Tropical fruits
+- Citrus
+- Fresh produce
+
+Image Treatment:
+- Oversaturated colors
+- Artificial color tinting
+- Candy colors
+- High contrast
+- Clean cutout
+- Sharp shadows
+- Studio lighting
+
+Graphic Elements:
+- Repeating fruit patterns
+- Color blocks
+- Circles
+- Simple geometric shapes
+- Minimal icons
+
+Lighting:
+
+Style:
+- Strong sunlight
+- Hard directional shadows
+- Bright studio flash
+- High contrast
+
+Whitespace:
+Density: Medium
+
+Visual Rules:
+- 背景は必ず鮮やかな単色にする。
+- フルーツを規則的なパターンで配置する。
+- 被写体は画面いっぱいに大胆に配置する。
+- ビビッドな補色を積極的に組み合わせる。
+- 人物写真は使用しない。
+- 写真は広告写真のようにクリアで高彩度にする。
+- 強い影を使って立体感を演出する。
+- 色を現実より大胆に変更してもよい。
+- プレゼンではなく現代アートポスターとして構成する。
+- 余白を活かし、1枚で強いインパクトを作る。
+
+Avoid:
+- Neutral colors
+- Dark backgrounds
+- Vintage textures
+- Paper texture
+- Corporate layouts
+- Dense information
+- Realistic documentary photography
+- Muted colors
+- Minimal color palettes
+
+Do Not Specify:
+- Titles
+- Body text
+- Topic
+- Names
+- Numbers

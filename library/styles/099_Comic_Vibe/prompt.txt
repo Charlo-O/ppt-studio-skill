@@ -1,0 +1,235 @@
+Design Style:
+Name: "Comic Vibe"
+
+Concept: >
+インディーコミック、
+ニューヨーカー風カートゥーン、
+90年代オルタナティブ漫画、
+SNSミーム文化、
+ZINEカルチャーから着想を得た
+ユーモラスで共感性の高いエディトリアルデザイン。
+
+日常のどうでもいい瞬間や、
+ちょっとした感情の暴走を、
+コミックのコマ割りによって描き出す。
+
+「あるある」と「なんだこれ」を行き来しながら、
+見る人の記憶に残るストーリーテリングを生み出す。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Humorous
+- Relatable
+- Playful
+- Chaotic
+- Warm
+- Expressive
+- Youthful
+- Story-driven
+
+Temperature:
+Overall: Bright
+
+Color Palette:
+Background:
+PaperWhite: "#F6F4EF"
+
+Primary:
+CandyPink: "#F3A9D8"
+SunshineYellow: "#F5E34B"
+SkyBlue: "#9FD8F6"
+
+Secondary:
+MintGreen: "#A9D88E"
+SoftPeach: "#F3C7A5"
+WarmGray: "#D8D3CA"
+
+Accent:
+InkBlack: "#111111"
+White: "#FFFFFF"
+
+Color Rules:
+MaximumColorsPerSlide: 5
+FlatColorsOnly: true
+
+Typography:
+Headlines:
+Style: >
+手描き感のある太めのサンセリフ。
+
+コミックのタイトルロゴのように、
+少し不揃いで親しみやすい印象を持たせる。
+
+大文字を中心に、
+大胆に配置する。
+
+Weight: 700-900
+Tracking: Slightly Tight
+Case: Uppercase preferred
+
+Dialogue:
+Style: >
+ノートに書き込んだような
+ラフな手書き文字。
+
+吹き出しや独り言、
+感情のツッコミとして使用する。
+
+Weight: Variable
+
+Secondary:
+Style: >
+シンプルなサンセリフ。
+
+補足情報やラベルとして
+最小限に使用する。
+
+Weight: 400-500
+
+Body:
+Weight: 400
+LineHeight: 1.3-1.5
+
+Layout:
+Structure: >
+3×3のコミックグリッドを基本とする。
+
+1枚のスライドを
+「短編マンガの1ページ」として設計し、
+起承転結のリズムをつくる。
+
+Composition:
+- Comic panel systems
+- Narrative sequences
+- Speech bubbles
+- Character close-ups
+- Reaction shots
+- Punchline panels
+- Consistent framing
+- Editorial storytelling
+
+Alignment:
+Preference: Panel-first
+ControlledChaos: Medium
+
+Graphic Elements:
+Shapes:
+- Comic frames
+- Speech bubbles
+- Rounded captions
+- Music notes
+- Tiny hearts
+- Stars
+- Exclamation marks
+- Scribble effects
+
+Symbols:
+- Sweat drops
+- Sound effects
+- Emoji-like expressions
+- Tiny icons
+- Floating thoughts
+- Handwritten arrows
+- Motion lines
+- Mood indicators
+
+Decorative Rules:
+- Emotion should be exaggerated.
+- Humor should emerge from everyday situations.
+- Use repetition for comedic timing.
+- Let silence and reaction shots breathe.
+
+Patterns:
+Style:
+- Simple dots
+- Minimal hatching
+- Small decorative motifs
+- Occasional checkerboard details
+
+Imagery:
+Style: >
+少し脱力感のある
+カートゥーンキャラクターを描く。
+
+人物や動物は
+ぷっくりしたフォルムと
+大きな鼻や目を持ち、
+愛嬌とだらしなさを併せ持つ。
+
+完璧な美しさではなく、
+「ちょっと変」が魅力になる。
+
+Treatment:
+- Thick black outlines
+- Flat color fills
+- Minimal shading
+- Rounded anatomy
+- Expressive faces
+- Exaggerated reactions
+- Soft imperfections
+
+Subjects:
+- Everyday people
+- Anthropomorphic animals
+- Friends
+- Families
+- Drivers
+- Music lovers
+- Urban moments
+- Relatable scenarios
+
+Character Design Rules:
+- Prioritize personality over attractiveness.
+- Use expressive eyes and noses.
+- Exaggerate emotional reactions.
+- Keep proportions slightly awkward.
+- Make every character feel approachable.
+- Blend absurdity with sincerity.
+
+Background:
+Style: >
+日常の風景を
+シンプルな舞台装置として描く。
+
+車内、部屋、街並みなどは
+必要最小限の情報にとどめ、
+キャラクターの感情を引き立てる。
+
+Effects:
+Texture:
+Smooth print finish
+Slight marker texture
+Minimal paper grain
+
+Shadow:
+None
+
+Depth:
+Flat comic layering
+
+Distortion:
+Hand-drawn wobble
+Slight line inconsistency
+
+Visual Rules:
+- Treat each slide as a complete comic strip.
+- Use 6–9 panels for storytelling when appropriate.
+- Prioritize emotional relatability over polish.
+- Combine humor with small moments of truth.
+- Use dialogue sparingly and naturally.
+- Leave room for reaction shots.
+- Maintain visual consistency across characters.
+- Design for both mobile reading and print.
+
+Exclusions:
+- Corporate presentation aesthetics
+- Luxury branding
+- Glassmorphism
+- Photorealistic imagery
+- Smooth gradients
+- Complex 3D rendering
+- Hyper-detailed realism
+- Anime aesthetics
+- Excessive information density

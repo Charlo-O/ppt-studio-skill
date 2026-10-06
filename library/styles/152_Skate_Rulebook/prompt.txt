@@ -1,0 +1,212 @@
+Design Style:
+Name: "Skate Rulebook"
+
+Concept: >
+スケートカルチャー、
+ストリートステッカー、
+スケートショップポスター、
+インディーズZINE、
+キャラクターデザイン、
+フラットベクター、
+ピクトグラム、
+レトロゲームアイコンから着想を得た
+スケートルールブック型エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+スケートパークに掲示される
+ポップなルールポスター、
+ステッカーコレクション、
+キャラクター図鑑として構成する。
+
+一つのルール、
+一つの行動、
+一つのキャラクターだけで
+メッセージを伝える。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Playful
+- Youthful
+- Bold
+- Graphic
+- Fun
+- Minimal
+- Energetic
+- Street
+
+Temperature:
+Overall: Vibrant
+
+Background:
+Style: "Solid White"
+
+Color Palette:
+
+Background:
+White: "#FAFAFA"
+
+Characters:
+Orange: "#FF8A2A"
+Pink: "#FF4DB8"
+Purple: "#8E55FF"
+Blue: "#31A9FF"
+Cyan: "#19C8C2"
+Green: "#47D75A"
+Lime: "#C9F22A"
+Yellow: "#FFD633"
+
+Neutral:
+Black: "#111111"
+
+Typography:
+
+Style:
+- Bold Sans Serif
+- Skate Magazine
+- Sticker Typography
+
+Heading:
+Weight: ExtraBold
+Case: Uppercase
+Alignment: Left
+Scale: Large
+
+Caption:
+Weight: Medium
+Size: Small
+
+Layout:
+
+Structure: "Sticker Poster"
+
+Composition:
+- Large title at top
+- Character centered
+- Strong white space
+- Minimal supporting text
+- Poster-like balance
+
+Illustration:
+
+Style: "Flat mascot illustration"
+
+Characteristics:
+- Thick black outline
+- Rounded body
+- Minimal anatomy
+- Large expressive eyes
+- Tiny mouth
+- Dynamic pose
+- Cartoon movement
+- High readability
+
+Construction:
+
+Shapes:
+- Circle
+- Capsule
+- Rounded rectangle
+- Simple limbs
+- Dot eyes
+
+Rules:
+- Thick outlines
+- Flat fills only
+- No gradients
+- No shadows
+- Bold silhouette
+- Simplified anatomy
+- Exaggerated gestures
+
+Characters:
+
+Themes:
+- Walking
+- Running
+- Jumping
+- Sitting
+- Dancing
+- Reading
+- Working
+- Playing
+- Carrying objects
+- Teamwork
+- Sports
+- Everyday actions
+
+Graphic Elements:
+- Thick divider lines
+- Motion lines
+- Tiny dots
+- Minimal icons
+- Skateboard shapes
+- Sticker-style composition
+
+Rendering:
+
+Style:
+- Flat vector
+- Sticker illustration
+- Screen print
+- Crisp edges
+
+Image Treatment:
+
+Texture:
+None
+
+Shadows:
+None
+
+Whitespace:
+Large
+
+Slide Variations:
+- Rule poster
+- Character action
+- Do / Don't comparison
+- Safety reminder
+- Icon collection
+- Instruction page
+- Community guideline
+- Poster cover
+- Closing page
+
+Composition Rules:
+- 1スライド1ルール
+- 1スライド1キャラクター
+- キャラクターは画面中央に大きく配置する
+- タイトルは短く大胆に配置する
+- 背景は白を基本とする
+- 色数は3〜4色以内に抑える
+- 太い黒線で統一する
+- ステッカーのような親しみやすい雰囲気にする
+- プレゼンではなくルールブック兼ポスターとして見せる
+
+Design Keywords:
+- Skate Culture
+- Sticker Design
+- Character System
+- Flat Illustration
+- Street Graphics
+- Mascot Design
+- Editorial Poster
+- Youth Culture
+- Graphic Icons
+- Minimal Cartoon
+- Screen Print
+- Playful Design
+
+Avoid:
+- Photorealism
+- 3D graphics
+- Thin outlines
+- Gradients
+- Realistic anatomy
+- Complex backgrounds
+- Corporate presentation layouts
+- Heavy textures
+- Decorative effects
+- Dense information

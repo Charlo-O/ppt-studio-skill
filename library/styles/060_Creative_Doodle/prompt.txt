@@ -1,0 +1,110 @@
+Design Style:
+Name: "Creative Doodle"
+
+Concept: >
+ワークショップ、アイデア創出、
+教育、マーケティング、AI活用、
+ブレインストーミング向けの
+メンフィスデザイン風プレゼンテーション。
+
+カラフルな抽象図形、
+手描きの落書き線、
+シンプルなタイポグラフィを組み合わせ、
+創造性と親しみやすさを表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Creative
+- Playful
+- Modern
+- Educational
+- Friendly
+- Innovative
+- Workshop
+- Inspiring
+
+Color Palette:
+
+Background:
+Primary: "#E9E5E0"
+
+Text:
+Primary: "#444444"
+
+Accent:
+Coral: "#FF6B73"
+Mint: "#72C694"
+Yellow: "#F2D530"
+Lavender: "#8A88E6"
+
+Illustration:
+
+Style:
+Memphis Doodle
+
+Elements:
+- Organic shapes
+- Scribbles
+- Brush strokes
+- Abstract blobs
+- Waves
+- Dots
+- Hand drawn lines
+
+Typography:
+
+Headings:
+Style: Modern Sans
+Weight: 600-700
+
+Body:
+Style: Humanist Sans
+Weight: 400
+
+Layout:
+
+Structure:
+- Minimal content zones
+- Large whitespace
+- Abstract corner decorations
+- Clean infographic layouts
+- Simple diagrams
+
+Components:
+
+Cover:
+- Large centered title
+- Abstract doodle decorations
+
+Section Divider:
+- Large number badge
+- Color coded section title
+
+Content:
+- Two-column layouts
+- Infographics
+- Process diagrams
+- Comparison slides
+- Workshop frameworks
+
+Effects:
+
+Borders:
+None
+
+Shadows:
+None
+
+Gradients:
+None
+
+Rules:
+- Use only flat colors
+- Keep layouts minimal
+- Maintain playful energy
+- Use abstract graphics only
+- Avoid realistic illustrations
+- Prioritize creativity and clarity
+- Suitable for workshops, education, marketing, AI, innovation, and brainstorming sessions

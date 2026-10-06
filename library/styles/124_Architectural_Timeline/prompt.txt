@@ -1,0 +1,183 @@
+Design Style:
+Name: "Architectural Timeline"
+
+Concept: >
+建築雑誌、
+展覧会パネル、
+アートブック、
+建築家のポートフォリオ、
+ミュージアム展示グラフィックから着想を得た
+コラージュ型タイムラインエディトリアルデザイン。
+
+人物、建築、写真、引用、年代を
+一枚のビジュアルアーカイブとして再構成する。
+
+スライドは説明資料ではなく、
+展覧会の壁面パネルや
+建築展のインフォメーションボードのように見せる。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Editorial
+- Architectural
+- Curated
+- Sophisticated
+- Contemporary
+- Museum-like
+- Intellectual
+- Elegant
+
+Temperature:
+Overall: Cool
+
+Color Palette:
+Background:
+GalleryWhite: "#F4F4F2"
+
+Primary:
+CharcoalBlack: "#222222"
+
+Accent:
+SoftLavender: "#CDB7E8"
+
+Secondary:
+ConcreteGray: "#BDBDBD"
+
+Typography:
+Style: >
+Thin modern sans-serif.
+Architectural magazine typography.
+Large whitespace.
+Elegant hierarchy.
+Minimal decorative elements.
+
+Layout:
+Structure: >
+Vertical or horizontal timeline system.
+Images and text connected through chronology.
+Strong asymmetrical composition.
+
+Grid:
+Editorial magazine grid.
+Flexible modular structure.
+
+Composition:
+Layered collage with overlapping elements.
+Controlled visual tension.
+
+Background:
+Base: >
+Clean gallery wall aesthetic.
+
+Texture:
+Smooth matte paper.
+No visible texture.
+
+Graphic Elements:
+Timeline:
+Large vertical timeline spine.
+Years displayed as oversized typography.
+
+Collage:
+Cut-out portraits.
+Architectural photography.
+Archival imagery.
+Cropped fragments.
+
+Labels:
+Museum-style captions.
+Exhibition panel annotations.
+
+Illustration Style:
+Type: "Architectural Editorial Collage"
+
+Characteristics:
+- Layered imagery
+- Cutout photography
+- Architectural focus
+- Magazine-inspired composition
+- Curated visual storytelling
+- Exhibition design aesthetic
+
+Photography:
+Treatment:
+High-contrast monochrome.
+
+Accent Use:
+Selective color overlay.
+Monochrome plus one accent color.
+
+Cropping:
+Dynamic editorial crops.
+Large portrait fragments.
+Architectural details.
+
+Timeline Design:
+Years:
+Oversized.
+Vertical orientation.
+Integrated into layout architecture.
+
+Events:
+Connected visually rather than with arrows.
+
+Reading Flow:
+Natural exhibition-style exploration.
+
+Content Containers:
+Titles:
+Large and understated.
+Positioned with generous whitespace.
+
+Text:
+Short editorial descriptions.
+Museum label style.
+
+Quotes:
+Featured as architectural annotations.
+
+Images:
+Dominant storytelling element.
+
+Effects:
+Shadows: None
+
+Gradients:
+Very subtle only.
+
+Glassmorphism: False
+
+Transparency:
+Occasional color overlays.
+
+Layering:
+Strong image overlap.
+
+Spacing:
+Density: Medium
+
+Balance: >
+Large areas of negative space balanced
+with dense collage clusters.
+
+Visual References:
+- Architectural Digest
+- Dezeen Editorial
+- Museum Exhibition Panels
+- Architecture Biennale Graphics
+- Design Monograph Layouts
+- Contemporary Art Catalogues
+
+Keywords:
+- Architectural Timeline
+- Editorial Collage
+- Exhibition Design
+- Museum Graphics
+- Visual Archive
+- Architecture Monograph
+- Curated Storytelling
+- Cutout Photography
+- Chronological Narrative
+- Magazine Layout

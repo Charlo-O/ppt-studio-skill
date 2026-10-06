@@ -1,0 +1,39 @@
+:root {
+  --canvas-w: 1920px;
+  --canvas-h: 1080px;
+  --bg: #F4F4F2;
+  --surface: #FFFFFF;
+  --ink: #141414;
+  --ink-2: #3A3A3A;
+  --muted: #7A7A7A;
+  --line: #D9D9D6;
+  --accent: #1F4FFF;
+  --accent-2: #FFB800;
+  --on-accent: #FFFFFF;
+  --font-display: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --font-body: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --font-num: "Helvetica Neue", "DIN Alternate", Arial, sans-serif;
+  --margin-x: 112px;
+  --margin-y: 88px;
+  --radius: 24px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body { width: var(--canvas-w); height: var(--canvas-h); background: #7F7F7F; overflow: hidden; }
+
+.slide-canvas {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: geometricPrecision;
+}
+
+.slide-canvas > * { position: absolute; }
+
+.slide-canvas img { display: block; }

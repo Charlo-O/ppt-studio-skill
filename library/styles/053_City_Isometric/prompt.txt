@@ -1,0 +1,218 @@
+Design Style:
+Name: "City Isometric"
+
+Concept: >
+都市開発、テクノロジー戦略向けの
+ダークモード・アイソメトリックインフォグラフィックデザイン。
+
+3Dアイソメトリックイラストと、ミニマルなタイポグラフィを組み合わせ、
+プロジェクト進捗、組織図、ロードマップなどをスタイリッシュかつ論理的に表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Futuristic
+- Smart
+- Urban
+- Technological
+- Structured
+- Strategic
+- Clean
+- Minimal
+
+Color Palette:
+Background:
+Primary: "#1D2633"
+Secondary: "#222D3B"
+Dark: "#17202A"
+
+Text:
+Primary: "#FFFFFF"
+Secondary: "#D9E3EA"
+Muted: "#A8B3BE"
+
+Accent:
+Mint: "#BFDC8C"
+Green: "#8CC9A9"
+Teal: "#6DB7C3"
+Cyan: "#5A9DB5"
+
+Line:
+Primary: "#FFFFFF"
+Secondary: "#AAB7C3"
+
+Typography:
+Title:
+Style: "Condensed Geometric Sans"
+Weight: 300
+Case: "Mixed"
+Color: "#8CC9A9"
+Tracking: "Wide"
+
+Section:
+Style: "Condensed Sans"
+Weight: 500
+Case: "Uppercase"
+Color: "#BFDC8C"
+
+Body:
+Style: "Light Sans Serif"
+Weight: 300
+Color: "#FFFFFF"
+
+Numbers:
+Style: "Condensed Display"
+Weight: 600
+Color: "#8CC9A9"
+
+Background:
+Type: "Dark Minimal"
+
+Elements:
+- Solid dark surface
+- No gradients
+- No textures
+- Large empty negative space
+- Minimal visual noise
+
+Illustration Style:
+Type: "Isometric 3D Vector"
+
+Characteristics:
+- Low-poly appearance
+- Soft geometric volumes
+- Clean edges
+- Flat shading
+- Minimal detailing
+- Consistent isometric angle
+
+Subjects:
+- Smart city buildings
+- Urban infrastructure
+- Communication towers
+- Data centers
+- Mobile devices
+- Smart objects
+- IoT devices
+- Office equipment
+- Team avatars
+
+Layout Principles:
+- Large empty dark background
+- Left aligned section labels
+- Central visual object
+- Content anchored around illustration
+- Wide spacing
+- Minimal decoration
+- High information clarity
+- Strong visual hierarchy
+
+Section Labels:
+Position: "Top Left"
+Style:
+Border: "#FFFFFF"
+Fill: "Transparent"
+Shape: "Rectangle"
+LineWeight: "Thin"
+
+Diagram Styles:
+
+Timeline:
+Style: "Linear Roadmap"
+Orientation: "Vertical or Diagonal"
+
+Process:
+Style: "Step Based"
+Components:
+- Isometric blocks
+- Number markers
+- Thin connector lines
+
+OrganizationChart:
+Style: "Minimal Tree Structure"
+Connectors: "Thin White Lines"
+Nodes:
+Shape: "Isometric Cube"
+
+Comparison:
+Style: "Side-by-Side Annotation"
+
+Checklist:
+Style: "Sequential Milestones"
+
+Statistics:
+Style: "Large Percentage Highlights"
+
+Charts:
+Style: "3D Isometric Bar Chart"
+Bars:
+Colors:
+- "#BFDC8C"
+- "#8CC9A9"
+- "#6DB7C3"
+- "#5A9DB5"
+
+Icons:
+Style: "Isometric Object Icons"
+
+Examples:
+- Wifi
+- Security
+- Communication
+- Banking
+- Transportation
+- Analytics
+- Documents
+- Targets
+
+Appearance:
+- 3D vector
+- Simple geometry
+- Consistent scale
+
+Illustration Placement:
+Cover:
+Large cityscape on left and right edges
+Open center composition
+
+Content Slides:
+Single dominant isometric illustration
+Supporting callouts around object
+
+Callouts:
+Connectors:
+Type: "Thin White Lines"
+
+Labels:
+Alignment: "Outside Illustration"
+Style: "Minimal"
+
+Spacing:
+OuterMargin: "Extra Large"
+SectionGap: "Large"
+ElementGap: "Generous"
+
+Effects:
+Shadows:
+Type: "Soft Isometric"
+Opacity: 15%
+
+Borders:
+Weight: "Thin"
+
+Gradients:
+Usage: "Very Limited"
+
+Rules:
+- Use only dark backgrounds
+- Maintain consistent isometric perspective
+- Prioritize negative space
+- Avoid photography
+- Avoid realistic rendering
+- Use thin white connector lines
+- Use mint, teal and cyan accents only
+- Keep typography light and condensed
+- Every slide should contain one dominant isometric object
+- Information should orbit around the illustration
+- Preserve a premium technology presentation aesthetic

@@ -1,0 +1,173 @@
+Design Style:
+Name: "Luxury Earthtone Editorial"
+Concept: "アースカラーの背景に、高級ファッション写真・極太タイポグラフィを組み合わせた、ラグジュアリー系エディトリアルプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Luxury
+- Editorial
+- Fashion
+- Minimal
+- Earthtone
+- Premium
+- Contemporary
+- Gallery
+
+Color Palette:
+Background:
+Main: "#0A0A0A"
+DeepBlack: "#050505"
+
+Base:
+Cream: "#F2E9D8"
+WarmWhite: "#F7F2E8"
+Beige: "#D6C5AA"
+
+Accent:
+Brown: "#9B5A1A"
+Clay: "#A5672A"
+Olive: "#7E7B2E"
+Moss: "#6F7430"
+Sand: "#C69A62"
+
+Text:
+PrimaryLight: "#F5F1E8"
+PrimaryDark: "#111111"
+Secondary: "#B6A88D"
+
+Typography:
+Heading:
+Font: "Bold Grotesk Sans"
+Weight: "800-900"
+Style:
+- "oversized uppercase typography"
+- "editorial fashion magazine look"
+- "tight line spacing"
+- "minimal grotesk aesthetic"
+
+Body:
+Font: "Minimal Sans Serif"
+Weight: "400-500"
+Style:
+- "small editorial copy"
+- "airy spacing"
+- "luxury brand tone"
+
+Label:
+Font: "Condensed Sans Serif"
+Weight: "600"
+Style:
+- "micro labels"
+- "gallery metadata"
+- "small corner information"
+
+Layout:
+General:
+- "strict modular editorial grid"
+- "large asymmetrical image placement"
+- "wide negative space"
+- "bold text blocks"
+- "gallery exhibition composition"
+
+Grid:
+Columns: "4-8 column layout"
+Rows: "3-5 modular rows"
+Gap: "minimal"
+
+Composition:
+- "image and typography balance"
+- "large horizontal sections"
+- "editorial spread feeling"
+- "intentional empty space"
+
+Images:
+Style:
+- "luxury fashion photography"
+- "editorial portrait images"
+- "warm cinematic tones"
+- "high contrast skin tones"
+- "minimal muted colors"
+
+Crop:
+- "large horizontal crop"
+- "partial face crop"
+- "full bleed image sections"
+- "gallery contact sheet feeling"
+
+Visual Elements:
+Panels:
+- "large earthtone blocks"
+- "olive green sections"
+- "warm brown editorial panels"
+- "cream information areas"
+
+Lines:
+- "thin minimal dividers"
+- "subtle grid separators"
+
+Decorations:
+- "micro typography"
+- "small page metadata"
+- "gallery style captions"
+- "minimal corner labels"
+
+Slide Types:
+Cover:
+Background: "#0A0A0A"
+Layout:
+- "oversized headline"
+- "large fashion image"
+- "minimal metadata"
+Style:
+- "luxury magazine cover"
+- "dark editorial atmosphere"
+
+Gallery Slide:
+Layout:
+- "multiple portrait blocks"
+- "small captions"
+- "large empty areas"
+
+Portfolio Slide:
+Layout:
+- "large image left or right"
+- "oversized title"
+- "small descriptive copy"
+
+Introduction Slide:
+Layout:
+- "minimal typography"
+- "single strong image"
+- "earthtone color panel"
+
+Process Slide:
+Layout:
+- "olive background section"
+- "minimal text grid"
+- "editorial hierarchy"
+
+Branding Slide:
+Layout:
+- "cream background"
+- "black typography"
+- "large image strip"
+
+Mission Slide:
+Layout:
+- "brown editorial block"
+- "minimal supporting text"
+- "fashion photo crop"
+
+Rules:
+
+- "スライド背景は黒・クリーム・ブラウン・オリーブで構成"
+- "写真はファッション誌風に大きく配置"
+- "余白を大胆に使う"
+- "文字は極太・大きめで配置"
+- "情報量は少なめにし、ビジュアル重視"
+- "高級ブランドのLookbookのような雰囲気にする"
+- "グリッド感を保ちながら自由な構図にする"
+- "装飾は最小限"
+- "グラデーションや派手な影は使わない"

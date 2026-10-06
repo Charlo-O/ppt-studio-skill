@@ -1,0 +1,178 @@
+Design Style:
+Name: "Neo Editorial Brutalist"
+Concept: "ブラック背景にビビッドなイエロー・オレンジ・ホワイトを組み合わせた、雑誌的タイポグラフィ中心のブルータリスト・エディトリアルデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Brutalist
+- Editorial
+- Fashion
+- Bold
+- Minimal
+- Graphic
+- Experimental
+- Modern
+
+Color Palette:
+Background:
+PureBlack: "#0A0A0A"
+Charcoal: "#1A1A1A"
+
+Base:
+White: "#F5F1E8"
+SoftWhite: "#EFE8DD"
+
+Accent:
+NeonYellow: "#F6EA00"
+BrightOrange: "#FF5A1F"
+WarmCream: "#E9DDC8"
+
+Text:
+Light: "#F5F1E8"
+Dark: "#0A0A0A"
+OrangeText: "#FF5A1F"
+YellowText: "#F6EA00"
+
+Typography:
+Heading:
+Font: "Ultra Bold Grotesk"
+Weight: "900"
+Case: "UPPERCASE"
+Style:
+- "oversized typography"
+- "tight spacing"
+- "editorial poster style"
+- "high contrast"
+- "bold brutalist composition"
+
+Subheading:
+Font: "Condensed Sans"
+Weight: "700"
+
+Body:
+Font: "Minimal Grotesk Sans"
+Weight: "400-500"
+Style:
+- "small editorial text"
+- "compact captions"
+- "minimal readable copy"
+
+Labels:
+Font: "Micro Sans"
+Weight: "500"
+Style:
+- "tiny metadata labels"
+- "grid references"
+- "magazine annotations"
+
+Layout:
+Structure:
+- "strict editorial grid"
+- "modular asymmetrical layout"
+- "horizontal composition blocks"
+- "text-image collision design"
+
+Grid:
+Columns: "6-12"
+Rows: "4-8"
+Gap: "tight"
+
+Composition:
+- "large typography areas"
+- "split image sections"
+- "full-width text bands"
+- "modular photo placement"
+- "cropped portrait frames"
+- "alternating dark/light panels"
+
+Visual Elements:
+Panels:
+- "solid neon color blocks"
+- "black editorial sections"
+- "minimal white layouts"
+
+Borders:
+- "thin grid lines"
+- "subtle frame outlines"
+
+Decorations:
+- "micro captions"
+- "small corner numbering"
+- "editorial reference marks"
+- "minimal alignment guides"
+
+Images:
+Style:
+- "high contrast monochrome portraits"
+- "fashion editorial photography"
+- "cinematic portrait crops"
+- "grainy magazine photography"
+
+Crop:
+- "tight face crops"
+- "portrait rectangles"
+- "horizontal image strips"
+- "large image blocks"
+
+Slides:
+Cover:
+Background: "#F6EA00"
+Layout:
+- "huge condensed title"
+- "single portrait image"
+- "bold asymmetrical balance"
+- "minimal supporting text"
+
+Section Divider:
+Background: "#0A0A0A"
+Text: "#F6EA00"
+Layout:
+- "large typography only"
+- "minimal image accents"
+
+Editorial Slide:
+Layout:
+- "two-column editorial composition"
+- "large image block"
+- "compact body text"
+- "oversized title"
+
+Gallery Slide:
+Layout:
+- "multi-image modular grid"
+- "small editorial captions"
+- "tight spacing"
+
+About Slide:
+Layout:
+- "single monochrome portrait"
+- "large left-aligned headline"
+- "small metadata text"
+
+Quote Slide:
+Layout:
+- "oversized brutalist typography"
+- "minimal image usage"
+- "strong negative space"
+
+Closing Slide:
+Background: "#FF5A1F"
+Text: "#0A0A0A"
+Layout:
+- "full-screen typography"
+- "minimal footer labels"
+
+Rules:
+- "タイポグラフィを主役にする"
+- "文字は極太・大文字中心"
+- "ネオンイエローとオレンジを大胆に使用"
+- "黒・白・ビビッドカラーの強いコントラストを作る"
+- "余白を広く使いながら情報密度を高くする"
+- "写真は白黒または低彩度で統一"
+- "雑誌・ポスターのような編集デザインにする"
+- "整列感の強いグリッドレイアウトを維持"
+- "グラデーションは使用しない"
+- "フラットでシャープなデザインを優先"
+- "小さな注釈テキストを散りばめる"

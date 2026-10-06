@@ -1,0 +1,143 @@
+Design Style:
+Name: "Clean Tech Infographic Minimal"
+Concept: "白背景にブルー・円形を組み合わせた、IT/サービス紹介向けのミニマルで図解中心のプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Clean
+- Modern
+- Tech
+- Minimal
+- Infographic
+- Dynamic
+- Professional
+
+Color Palette:
+Background:
+Main: "#FFFFFF"
+SoftBlue: "#EAF4FF"
+
+Text:
+Primary: "#111111"
+Secondary: "#555555"
+Light: "#FFFFFF"
+
+Accent:
+Blue: "#1768E8"
+Red: "#FF1744"
+
+Gray: "#D9D9D9"
+
+Typography:
+Heading:
+Font: "Bold Geometric Sans"
+Weight: "800-900"
+Color: "#111111"
+Style:
+- "large bold title"
+- "short headline"
+- "modern tech look"
+
+Body:
+Font: "Clean Sans Serif"
+Weight: "400-500"
+Color: "#555555"
+Style:
+- "compact body text"
+- "high readability"
+
+Layout:
+General:
+- "large white space"
+- "asymmetric layout"
+- "bold title on left or center"
+- "content arranged in clean grid"
+- "use rounded circles"
+- "avoid heavy decoration"
+
+ImageTreatment:
+Shape:
+- "large circle crop"
+- "organic rounded blob crop"
+- "device mockup frame"
+Style:
+- "high contrast tech photo"
+- "blue and red lighting photo"
+- "clean product mockup"
+
+Infographics:
+Style:
+- "thin line circles"
+- "simple icons"
+- "numbered steps"
+- "timeline"
+- "process diagram"
+- "pie chart"
+- "line chart"
+- "gauge chart"
+- "service circle diagram"
+Stroke:
+Width: "1.5-2px"
+Color: "Accent colors only"
+Icons:
+Style: "minimal outline icons"
+Color: "Blue"
+
+Slide Types:
+Cover:
+Background: "#1768E8"
+Text: "#FFFFFF"
+Layout: "large bold title on left, circular photo crop on right"
+Style:
+- "strong blue background"
+- "red circular accent"
+- "minimal text"
+
+Section Divider:
+Background: "#1768E8"
+Text: "#FFFFFF"
+Layout: "left aligned title with large organic image crop"
+Style:
+- "bold"
+- "simple"
+- "high contrast"
+
+Content Slide:
+Background: "#FFFFFF"
+Layout:
+- "title at top or left"
+- "3-column or 4-column grid"
+- "small icons with short text"
+- "thin divider lines"
+
+Infographic Slide:
+Background: "#FFFFFF"
+Layout:
+- "centered diagram"
+- "large circles"
+- "minimal labels around diagram"
+
+Chart Slide:
+Background: "#FFFFFF"
+Layout:
+- "chart on right or center"
+- "title and short explanation on left"
+- "soft pastel circle accent in corner"
+
+Decorative Elements:
+- "small red dot after titles"
+
+- "thin horizontal guide lines"
+- "small page number in red or blue"
+- "minimal outline icons"
+
+Rules:
+- "スライド背景は基本白"
+- "タイトル・扉・まとめスライドの背景は青も許可"
+- "写真は円形または有機的な丸い形でトリミング"
+- "青をメインアクセントとして使い、赤は視線を集中させたい場合のみ使用を許可"
+- "文字量は少なく、図解を多めにする"
+- "余白を広く取り、要素を詰め込みすぎない"
+- "影は弱め、または使用しない"

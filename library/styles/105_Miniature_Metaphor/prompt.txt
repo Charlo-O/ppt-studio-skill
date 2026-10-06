@@ -1,0 +1,178 @@
+Design Style:
+Name: "Miniature Metaphor "
+
+Concept: >
+ミニチュアフィギュア、
+ジオラマアート、
+日用品の再解釈、
+コンセプチュアルフォトグラフィー、
+ミニチュアライフから着想を得た
+ストーリーテリング型エディトリアルデザイン。
+
+日常のありふれた物体を
+巨大な世界として捉え直し、
+小さな人々がその中で暮らし、
+働き、学び、協力する姿を描く。
+
+情報を説明するのではなく、
+「比喩としての風景」を通じて
+直感的に理解させる。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Imaginative
+- Human
+- Warm
+- Playful
+- Clever
+- Inspirational
+- Creative
+- Editorial
+
+Temperature:
+Overall: Warm
+
+Color Palette:
+Background:
+SoftCream: "#F6F2EA"
+
+Objects:
+NaturalWhite: "#FFFFFF"
+WarmGray: "#D9D4CC"
+
+Accent:
+TomatoRed: "#E85A4F"
+Mustard: "#D9A441"
+SkyBlue: "#5DADE2"
+LeafGreen: "#66BB6A"
+
+Typography:
+Style: >
+Clean editorial sans-serif.
+Light and elegant.
+Minimal text.
+Human-centered presentation design.
+
+Layout:
+Structure: >
+One central visual metaphor per slide.
+Large hero scene dominates the composition.
+Supporting information kept secondary.
+
+Composition:
+Asymmetrical.
+Photography-first.
+Strong storytelling focus.
+
+Flow:
+Each slide represents a single visual idea.
+
+Background:
+Base: >
+Minimal studio backdrop.
+
+Texture:
+Soft paper-like surface.
+Clean and uncluttered.
+
+Visual Metaphor:
+Principle: >
+Transform ordinary objects into meaningful landscapes.
+
+Examples:
+Keyboard becomes a city.
+Canvas becomes a building.
+LEGO becomes a farm.
+Dining table becomes a supply chain.
+Ladder becomes personal growth.
+Pins become clothing stores.
+Household items become infrastructure.
+
+Illustration Style:
+Type: "Miniature Diorama Photography"
+
+Characteristics:
+- Tiny human figures
+- Real-world objects
+- Unexpected scale contrast
+- Macro photography
+- Narrative scenes
+- Conceptual storytelling
+
+Characters:
+Style:
+Miniature model figures.
+
+Activities:
+- Building
+- Creating
+- Learning
+- Farming
+- Exploring
+- Collaborating
+- Repairing
+- Celebrating
+
+Photography:
+Lens:
+Macro photography.
+
+Depth:
+Shallow depth of field.
+
+Focus:
+Sharp foreground.
+Soft blurred background.
+
+Lighting:
+Natural studio lighting.
+Soft shadows.
+Bright and optimistic mood.
+
+Content Containers:
+Titles:
+Integrated naturally into the environment.
+
+Text:
+Minimal.
+Positioned away from the main scene.
+
+Charts:
+Reimagined as physical objects inside the miniature world.
+
+Images:
+Part of the story environment.
+
+Effects:
+Shadows:
+Natural photographic shadows.
+
+Gradients:
+None.
+
+Glassmorphism: False
+
+Texture:
+Real materials only.
+
+Visual References:
+- Miniature Life
+- Diorama Photography
+- Conceptual Still Life
+- Everyday Object Art
+- Editorial Visual Metaphors
+- Miniature Storytelling
+
+Keywords:
+- Miniature People
+- Visual Metaphor
+- Everyday Objects
+- Diorama Editorial
+- Macro Photography
+- Tiny Workers
+- Human-Centered Design
+- Storytelling Slides
+- Conceptual Photography
+- Miniature Life

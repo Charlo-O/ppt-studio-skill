@@ -1,0 +1,278 @@
+Design Style:
+Name: "Multi Neumo"
+
+Concept: >
+ニューモーフィズムの柔らかな立体感と、
+ミニマルなインフォグラフィックデザインを融合した
+モダンで親しみやすいプレゼンテーションスタイル。
+
+丸みのあるカード、
+浮遊する円形バッジ、
+繊細なシャドウ、
+シンプルなラインアイコンを用いて、
+プロセスやステップを直感的に整理する。
+
+情報量を絞り込み、
+余白を大胆に活かすことで、
+上質さと視認性を両立する。
+
+サービス紹介、業務フロー、
+ロードマップ、教育資料、
+ワークショップ、スタートアップ提案に適した世界観。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Soft
+- Friendly
+- Modern
+- Elegant
+- Clean
+- Playful
+- Premium
+
+Color Palette:
+
+Background:
+Primary: "#ECECEC"
+
+Text:
+Primary: "#2F3137"
+Secondary: "#8F949C"
+Light: "#B8BDC4"
+
+Accent:
+Coral: "#FF7A59"
+Orange: "#F5B338"
+Mint: "#48D8C4"
+Teal: "#13B0A4"
+Sky: "#4AA9E9"
+Indigo: "#5963D9"
+Purple: "#8E4BB7"
+Pink: "#FF4F7B"
+Navy: "#0B4154"
+Slate: "#95AEB8"
+
+Typography:
+
+Headings:
+Font: "Condensed Sans Serif"
+Weight: 700
+Transform: "Uppercase"
+LetterSpacing: "0.08em"
+Color: "#2F3137"
+
+Logo:
+Style: >
+Selected characters highlighted with
+alternating accent colors while maintaining
+a monochrome heading system.
+
+Subheadings:
+Font: "Sans Serif"
+Weight: 500
+Color: "#8F949C"
+
+Body:
+Font: "Sans Serif"
+Weight: 400
+Color: "#6E747C"
+LineHeight: 1.7
+
+Numbers:
+Font: "Condensed Sans Serif"
+Weight: 700
+Color: "#FFFFFF"
+
+Layout:
+
+Structure:
+- Large whitespace
+- Centered composition
+- Modular infographic cards
+- Step-by-step storytelling
+- Symmetrical balance
+
+Grid:
+Columns: 3
+Gutters: "Wide"
+
+Margins:
+Outer: "Extra Large"
+
+Components:
+
+Step Cards:
+- Rounded rectangle cards
+- Floating circular badges
+- Independent information blocks
+- Large step numbers
+- Short explanatory text
+
+Process:
+- Three-step layouts
+- Four-step layouts
+- Six-step layouts
+- Horizontal flows
+- Vertical sequences
+- Grid-based comparisons
+
+Timelines:
+- Rounded timeline bars
+- Sequential milestones
+- Connected step indicators
+
+Information Blocks:
+- Service descriptions
+- Feature highlights
+- Workflow explanations
+- Category overviews
+
+Illustration:
+
+Style:
+Minimal Line Infographic
+
+Rendering:
+Flat vector
+Rounded geometry
+Simple forms
+Soft proportions
+Minimal detail
+
+Icons:
+
+Style:
+Thin outline icons
+
+Characteristics:
+- Uniform stroke width
+- Rounded corners
+- Simple symbolism
+- Small visual footprint
+- Centered composition
+
+Subjects:
+- Chat
+- User
+- Refresh
+- Globe
+- Briefcase
+- Email
+- Browser
+- Dashboard
+
+Cards:
+
+Shape:
+Rounded Rectangle
+
+Radius:
+Large
+
+Appearance:
+Background: "#F3F3F3"
+
+Shadows:
+Type: "Neumorphic"
+
+LightShadow:
+Color: "#FFFFFF"
+Offset: "-8px -8px"
+Blur: "18px"
+
+DarkShadow:
+Color: "rgba(0,0,0,0.12)"
+Offset: "8px 8px"
+Blur: "18px"
+
+Badges:
+
+Shape:
+Circle
+
+Placement:
+- Top overlap
+- Bottom overlap
+- Corner overlap
+- Side overlap
+
+Style:
+Floating element
+
+Shadows:
+Type: "Soft"
+
+Contents:
+- Step number
+- Icon
+- Category marker
+
+Charts:
+
+Usage:
+Minimal
+
+Preferred:
+- Progress indicators
+- Percentage highlights
+- Simple comparisons
+
+Spacing:
+
+SectionGap: "Extra Large"
+ComponentGap: "Large"
+InternalPadding: "Generous"
+
+Effects:
+
+Shadows:
+Usage: "Essential"
+
+Style:
+- Soft diffusion
+- Low contrast
+- Consistent direction
+
+Borders:
+Usage: "Minimal"
+
+Style:
+Color: "rgba(255,255,255,0.5)"
+Thickness: "Thin"
+
+Gradients:
+Usage: "Subtle"
+
+Style:
+- Single-direction
+- Low saturation
+
+Textures:
+Usage: "None"
+
+Decorations:
+
+BackgroundElements:
+- None
+
+AccentUsage:
+Apply only to:
+- Step indicators
+- Badge circles
+- Icons
+- Key numbers
+
+Rules:
+- Embrace whitespace as a primary design element.
+- Use soft neumorphic shadows consistently throughout.
+- Keep content concise and modular.
+- Limit each card to a single key message.
+- Maintain rounded geometry across all elements.
+- Use accent colors sparingly to establish hierarchy.
+- Avoid heavy charts and dense data visualizations.
+- Ensure icons remain simple and universally recognizable.
+- Preserve a calm, premium, and approachable aesthetic.
+- Suitable for process explanations, onboarding flows, service introductions, educational content, startup presentations, and workshop materials.

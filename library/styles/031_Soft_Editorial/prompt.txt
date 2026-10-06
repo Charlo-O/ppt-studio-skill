@@ -1,0 +1,123 @@
+Design Style:
+Name: "Soft Luxury Editorial Strategy"
+Concept: "ハイブランドのブランド戦略資料やファッションエディトリアルをベースにした、静かで洗練されたラグジュアリープレゼンテーション"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Luxury
+- Editorial
+- Minimal
+- Sophisticated
+- Calm
+- Strategic
+- Fashion
+- Elegant
+
+Color Palette:
+Background:
+WarmWhite: "#F6F5F2"
+SoftLavender: "#C7C9E8"
+DeepBlack: "#1A1A1A"
+SoftGold: "#E3B458"
+
+Accent:
+DustyBlue: "#7076B7"
+MutedYellow: "#E5B652"
+WarmGray: "#CFC8C1"
+
+Text:
+Primary: "#111111"
+Secondary: "#666666"
+Light: "#FFFFFF"
+
+Typography:
+Heading:
+Font: "Elegant High-Contrast Serif"
+Weight: "Regular"
+Style: "Refined editorial serif typography"
+Usage: "Use elegant large serif titles with generous spacing"
+
+Body:
+Font: "Minimal Sans Serif"
+Weight: "Light"
+Style: "Small luxury editorial body text"
+Usage: "Use thin paragraphs with spacious line-height"
+
+Accent:
+Font: "Condensed Sans Serif"
+Weight: "Medium"
+Style: "Small metadata and annotation typography"
+
+Layout:
+General:
+- Use elegant editorial grid layouts
+- Maintain large negative space
+- Use soft asymmetrical balance
+- Keep compositions minimal and calm
+- Use refined alignment and spacing
+- Prioritize breathing room over density
+
+Structure:
+- Use split layouts with text and photography
+- Combine serif headlines with small sans-serif details
+- Alternate light and dark section slides
+- Use large image panels with subtle crop framing
+- Keep information modular and highly curated
+
+Composition:
+- Place headings near upper-left corners
+- Use thin divider lines and subtle captions
+- Use wide horizontal layouts
+- Add editorial spacing between content blocks
+- Keep typography visually delicate
+
+Visual Elements:
+Imagery:
+- Use monochrome and muted-tone fashion photography
+- Use soft editorial portrait imagery
+- Prefer natural lighting and calm compositions
+- Use minimal image counts per slide
+- Apply subtle grain or matte texture feeling
+
+Shapes:
+- Thin-line frames
+- Minimal rectangular image masks
+- Soft color panels
+- Delicate separators
+- Clean geometric alignment
+
+Charts & Infographics:
+Style:
+- Minimal business charts
+- Thin-line diagrams
+- Small elegant metric displays
+- Editorial table layouts
+- Luxury-style information hierarchy
+
+Colors:
+- Use muted blue and warm yellow as highlights
+- Keep graphs understated and minimal
+- Use monochrome tones for structure
+
+Slide Variations:
+- Editorial cover slide
+- Minimal contents page
+- Discovery and insights layouts
+- Audience strategy pages
+- Goals and purpose slides
+- Manifesto and quote layouts
+- Research and estimate sections
+- Dark luxury section divider slides
+- Contact and closing pages
+
+Design Rules:
+- Avoid heavy effects and gradients
+- Avoid dense information layouts
+- Use serif typography as emotional focal point
+- Keep imagery elegant and understated
+- Use refined luxury magazine composition
+- Maintain calm premium spacing
+- Use muted sophisticated colors only
+- Prioritize editorial atmosphere over corporate rigidity

@@ -1,0 +1,219 @@
+Design Style:
+Name: "Kawaii Monster"
+
+Concept: >
+日本のソフビ文化、
+インディーキャラクタートイ、
+ステッカーパック、
+子ども向け図鑑、
+Y2Kキャラクターブランドから着想を得た
+ポップで愛嬌あふれるエディトリアルデザイン。
+
+少しヘンテコで不完全なモンスターたちを
+「個性の象徴」として扱い、
+違いを楽しむ世界観をつくる。
+
+情報を説明するのではなく、
+キャラクターとの出会いを通して
+好奇心と親近感を生み出す。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Playful
+- Cute
+- Quirky
+- Friendly
+- Youthful
+- Collectible
+- Graphic
+- Optimistic
+
+Temperature:
+Overall: Vibrant
+
+Color Palette:
+Background:
+PaperWhite: "#F7F7F5"
+
+Primary:
+TomatoRed: "#FF3B4E"
+SunshineYellow: "#F4E81E"
+ElectricBlue: "#25B8FF"
+
+Secondary:
+MintGreen: "#59D86D"
+BubblePink: "#FF7FB8"
+
+Accent:
+InkBlack: "#111111"
+White: "#FFFFFF"
+
+Color Rules:
+MaximumColorsPerSlide: 3
+OneSolidBackgroundPerCard: true
+
+Typography:
+Headlines:
+Style: >
+太くて丸みのあるサンセリフ。
+
+キャラクターパッケージのロゴのように、
+シンプルかつ強い存在感を持たせる。
+
+タイトルは左上に固定配置し、
+シリーズ感を生み出す。
+
+Weight: 700-900
+Case: Uppercase preferred
+Tracking: Tight
+
+Secondary:
+Style: >
+図鑑の分類ラベルや
+おもちゃのパッケージ情報を思わせる
+コンパクトなサンセリフ。
+
+Weight: 400-600
+
+Body:
+Weight: 400
+LineHeight: 1.2-1.4
+
+Layout:
+Structure: >
+コレクションカードや
+ブラインドボックスのパッケージを思わせる
+タイル型レイアウト。
+
+1スライドにつき1体のキャラクターを主役とし、
+情報は最小限に整理する。
+
+Composition:
+- Character-centered layouts
+- Large title blocks
+- Sticker-like hierarchy
+- Product-card structure
+- Strong symmetry
+- Generous margins
+- Collectible layouts
+- Minimal information density
+
+Alignment:
+Preference: Centered
+ControlledChaos: Low
+
+Graphic Elements:
+Shapes:
+- Rounded rectangles
+- Simple circles
+- Oval shadows
+- Small badges
+- Capsule labels
+- Sticker tabs
+- Rounded frames
+- Tiny icons
+
+Symbols:
+- Eyes
+- Crowns
+- Stars
+- Hearts
+- Sparkles
+- Tiny monsters
+- Exclamation marks
+- Smiley faces
+
+Decorative Rules:
+- Characters must remain the hero.
+- Use minimal supporting decoration.
+- Preserve a toy packaging aesthetic.
+- Prioritize instant recognition.
+
+Patterns:
+Style:
+- Solid color fills
+- Minimal dots
+- Tiny icon repetition
+- Sticker motifs
+
+Imagery:
+Style: >
+愛嬌のあるモンスターを
+フラットなキャラクターイラストとして描く。
+
+少し奇妙でアンバランスな特徴を持ちながらも、
+怖さより親しみやすさを優先する。
+
+「失敗したところが魅力になる」
+不完全さを積極的に残す。
+
+Treatment:
+- Thick black outlines
+- Flat colors
+- Minimal shading
+- Exaggerated proportions
+- Toy-like silhouettes
+- Simplified anatomy
+- Expressive eyes
+
+Subjects:
+- Friendly monsters
+- Hybrid creatures
+- Anthropomorphic objects
+- Animal-inspired mascots
+- Fantasy companions
+- Collectible characters
+- Playful oddities
+
+Character Design Rules:
+- One defining feature per character.
+- Mix cute and strange equally.
+- Favor asymmetry and imperfection.
+- Use expressive eyes and tiny limbs.
+- Silhouettes should be instantly recognizable.
+- Each character should feel collectible.
+
+Background:
+Style: >
+白、赤、黄、青などの
+単色背景をカードごとに切り替える。
+
+背景は装飾しすぎず、
+キャラクターが浮かび上がる舞台として機能する。
+
+Effects:
+Texture:
+Smooth print finish
+Toy packaging cleanliness
+
+Shadow:
+Simple oval drop shadow
+
+Depth:
+Flat character layering
+
+Distortion:
+None
+
+Visual Rules:
+- Use only one dominant background color per slide.
+- Limit each character to 3–5 colors.
+- Maintain thick black outlines consistently.
+- Keep compositions simple and centered.
+- Treat every slide as a collectible card.
+- Balance cuteness with absurdity.
+- Optimize for instant readability on mobile.
+- Design to encourage collecting and sharing.
+
+Exclusions:
+- Photorealistic imagery
+- Glassmorphism
+- Luxury branding aesthetics
+- Heavy gradients
+- Complex 3D rendering
+- Corporate presentation templates
+- Horror gore aesthetics
+- Excessive visual clutter
+- Highly detailed realism

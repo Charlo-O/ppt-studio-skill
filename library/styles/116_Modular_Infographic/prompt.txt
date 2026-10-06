@@ -1,0 +1,192 @@
+Design Style:
+Name: "Modular Infographic"
+
+Concept: >
+ブランドガイドライン、
+広告キャンペーン、
+企業ポスター、
+データビジュアライゼーション、
+玩具パッケージデザインから着想を得た
+ブランド統一型インフォグラフィックデザイン。
+
+スライドそのものを
+組み立てブロックの世界観で構築する。
+
+背景、
+タイポグラフィ、
+図形、
+データ、
+レイアウトすべてを
+共通の造形言語で統一する。
+
+情報は説明ではなく、
+ブロックから生まれる
+アイデアと創造性の可視化として表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+
+* Creative
+* Playful
+* Bold
+* Optimistic
+* Inventive
+* Educational
+* Iconic
+* Graphic
+
+Temperature:
+Overall: Vibrant
+
+Color Palette:
+Primary:
+Yellow: "#FFD500"
+Red: "#E3000B"
+
+Secondary:
+Blue: "#0057B8"
+Green: "#009B3A"
+White: "#FFFFFF"
+Black: "#111111"
+
+Background:
+Style: Modular Block Surface
+
+Options:
+- Studded construction surface
+- Large connection-point pattern
+- Monochrome block wall
+- Flat primary color background
+
+Typography:
+Style: >
+極太サンセリフ。
+
+広告ポスターのような
+力強く遊び心のある見出し。
+
+Characteristics:
+- Large headlines
+- Block-like letterforms
+- Strong vertical rhythm
+- High contrast hierarchy
+
+Layout:
+Structure: >
+ポスター型レイアウト。
+
+情報ブロックを
+組み立てブロックのように積み重ねる。
+
+中央に大きなヒーロービジュアルを配置し、
+周囲にデータや説明を展開する。
+
+Composition:
+- Hero block object
+- Modular information blocks
+- Modular grid
+- Strong geometric sections
+- Editorial poster structure
+
+Visual Elements:
+Hero Objects:
+- Giant construction block
+- Toy character head
+- Block pieces explosion
+- Modular structures
+- Block-built symbols
+
+Decorative Elements:
+- Connection studs
+- Block connectors
+- Block silhouettes
+- Geometric outlines
+- Construction lines
+
+Infographics:
+Style: >
+グラフや図表も
+ブロックで構築されたように見せる。
+
+Components:
+- Block bar charts
+- Block timelines
+- Block statistics
+- Modular diagrams
+- Block-based icons
+
+Illustration:
+Style: >
+フラットデザインと
+シンプルな立体表現を融合。
+
+シンプルだが
+ブランド性が強い。
+
+Lighting:
+Type: Bright Commercial
+
+Characteristics:
+- Clean shadows
+- High visibility
+- Product photography feel
+- Toy catalog quality
+
+Materials:
+Modular Plastic:
+Finish: Glossy
+Surface: Smooth
+Detail: Visible connection points
+
+Spacing:
+Density: Medium
+Alignment: Structured
+Margins: Generous
+
+Visual Direction:
+
+* LEGO-style block aesthetics
+* Modular information design
+* Creative advertising graphics
+* Visual thinking systems
+* Playful brand communication
+* Block-based infographics
+* Poster-style layouts
+* Geometric storytelling
+
+Visual Rules:
+
+* High-end toy advertising quality
+* Bold primary colors
+* Background connection-point patterns
+* Large hero block object
+* Information organized as modules
+* Strong geometric composition
+* Poster-quality visual hierarchy
+* Sophisticated rather than childish
+* Data visualized through block structures
+
+Avoid:
+
+* Realistic photo collages
+* Corporate template aesthetics
+* Pale color palettes
+* Overly complex charts
+* Excessive whitespace
+* Technical engineering diagrams
+* Generic presentation design
+
+Keywords:
+
+* Modular Infographic
+* Block-Based Design
+* Creative Advertising
+* Visual Thinking
+* Brand Communication
+* Educational Graphics
+* Modular Storytelling
+* Poster Design
+* Information Visualization
+* Geometric Systems

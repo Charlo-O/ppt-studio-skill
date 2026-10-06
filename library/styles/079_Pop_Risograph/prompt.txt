@@ -1,0 +1,176 @@
+Design Style:
+Name: "Pop Risograph"
+
+Concept: >
+古代彫刻、考古学図版、
+ファッション雑誌、
+Y2Kグラフィックデザイン、
+ポップアートから着想を得た
+実験的エディトリアルスタイル。
+
+古典的なモチーフを
+鮮やかな単色インクで大胆に着色し、
+軽快なタイポグラフィと組み合わせることで、
+「歴史を今の感覚で遊び直す」
+グラフィック世界を構築する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Trendy
+- Playful
+- Editorial
+- Youthful
+- Cultural
+- Experimental
+- Graphic
+- Contemporary
+
+Color Palette:
+Background:
+Paper: "#F7F7F4"
+
+Primary:
+ButterYellow: "#F4D34F"
+
+Secondary:
+ElectricCyan: "#42C7F4"
+
+Text:
+Charcoal: "#303030"
+SoftGray: "#7D7D7D"
+
+Typography:
+Headlines:
+Style: "Geometric sans serif"
+Weight: 300
+Case: Uppercase
+Tracking: Expanded
+
+AccentWords:
+Style: "Light sans serif"
+Weight: 300
+Rotation: Random
+
+Body:
+Style: "Neo-grotesque sans serif"
+Weight: 400
+
+Illustration:
+Style:
+Pop classical collage
+
+Subjects:
+- Classical statues
+- Mythological figures
+- Ancient animals
+- Roman artifacts
+- Decorative objects
+- Symbolic accessories
+
+Rendering:
+- Monochrome recoloring
+- Flat ink fills
+- Posterized cut-outs
+- Clean silhouettes
+- Minimal details
+- Graphic simplification
+
+Color Treatment:
+Rules:
+- One object uses one dominant color
+- Yellow statues
+- Cyan outlines and accents
+- No realistic coloration
+- High contrast against white space
+
+Typography Composition:
+Elements:
+- Floating keywords
+- Curved text placement
+- Diagonal arrangements
+- Oversized letterforms
+- Repeated short phrases
+- Rotated captions
+
+Graphic Elements:
+- Abstract arrows
+- Zigzag connectors
+- Eyeglass icons
+- Geometric outlines
+- Minimal symbols
+- Hand-drawn loops
+
+Layout:
+Overall:
+- Fashion editorial composition
+- Poster-like arrangement
+- Scattered visual rhythm
+- Collage aesthetic
+
+Composition:
+- Objects distributed across the page
+- Large areas of whitespace
+- No strict grid
+- Controlled asymmetry
+- Visual surprises
+
+Information Design:
+Hierarchy:
+- Imagery first
+- Headlines second
+- Supporting text minimized
+- Decorative typography integrated
+
+Print Effects:
+Style:
+- Smooth flat color
+- No visible halftone
+- Clean digital finish
+- Screenprint-inspired simplicity
+
+Composition Rules:
+- Treat artifacts as fashion objects
+- Combine seriousness with humor
+- Keep imagery iconic
+- Emphasize unexpected juxtapositions
+- Preserve visual lightness
+- Avoid clutter
+
+Design Rules:
+- Make history feel current
+- Prioritize playfulness
+- Use typography as decoration
+- Celebrate graphic reduction
+- Favor bold simplicity
+
+Avoid:
+- Photorealistic sculptures
+- Marble textures
+- Museum catalog aesthetics
+- Heavy shadows
+- Luxury branding
+- Dense infographics
+- Vintage distress effects
+- Three-dimensional rendering
+
+Suitable For:
+- Philosophy presentations
+- Art history lectures
+- Museum education
+- Cultural studies
+- Humanities classes
+- Creative workshops
+- Trend reports
+- Brand storytelling
+
+Keywords:
+- Neo Pop Classicism
+- Fashion Editorial
+- Y2K Graphics
+- Contemporary Mythology
+- Playful Humanities
+- Classical Pop
+- Editorial Collage
+- Cultural Remix

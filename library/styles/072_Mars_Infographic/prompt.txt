@@ -1,0 +1,165 @@
+Design Style:
+Name: "Mars Infographic"
+
+Concept: >
+宇宙開発・未来都市・研究プロジェクト向けの
+SFインフォグラフィックデザイン。
+火星の地表をモチーフにした単色背景の上に、
+アイソメトリックイラストとシンプルな図解を配置し、
+情報を視覚的に整理して伝える。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Futuristic
+- Scientific
+- Exploratory
+- Structured
+- Informative
+- Technical
+- Minimal
+- Bold
+
+Color Palette:
+Background:
+Primary: "#C96B1A"
+Secondary: "#B85F15"
+Dark: "#8E4710"
+
+Text:
+Primary: "#FFFFFF"
+Secondary: "#F3E6D8"
+
+Accent:
+Brown: "#8A4A10"
+DarkBrown: "#6A340A"
+Sand: "#D7C8B5"
+Gray: "#E8E5DF"
+Navy: "#23344D"
+Blue: "#6E8DBA"
+
+Typography:
+Title:
+Style: "Heavy Condensed"
+Weight: 800
+Case: "Uppercase"
+Color: "#FFFFFF"
+Tracking: "Slightly Expanded"
+
+Heading:
+Style: "Bold Sans Serif"
+Weight: 700
+Color: "#FFFFFF"
+
+Body:
+Style: "Clean Sans Serif"
+Weight: 400
+Color: "#F3E6D8"
+
+Numbers:
+Style: "Heavy Sans"
+Weight: 800
+Color: "#FFFFFF"
+
+Background:
+Type: "Illustrated Surface"
+
+Elements:
+- Large abstract polygonal terrain shapes
+- Soft topographic overlays
+- Small scattered rocks
+- Subtle texture
+- No photography
+
+Density: "Low"
+
+Illustration Style:
+Type: "Isometric Vector"
+
+Characteristics:
+- Clean geometric construction
+- Soft shadows
+- Simplified details
+- Consistent perspective
+- Flat vector rendering
+- Semi-realistic industrial objects
+
+Subjects:
+- Spacecraft
+- Habitats
+- Rovers
+- Solar panels
+- Research facilities
+- Exploration equipment
+
+Layout Principles:
+- Large title area at top
+- Strong horizontal composition
+- Centered focal illustration
+- Wide margins
+- Balanced symmetry
+- Clear visual hierarchy
+- High readability
+
+Infographic Components:
+Timeline:
+Style: "Linear"
+Connectors: "Thin White Lines"
+Markers:
+Shape: "Circle"
+Fill: "#8A4A10"
+Text: "#FFFFFF"
+
+Process:
+Style: "Step Based"
+Flow: "Horizontal"
+
+Comparison:
+Style: "Side By Side"
+
+Statistics:
+Style: "Progress Bars"
+Fill: "#FFFFFF"
+Track: "#8A4A10"
+
+Tables:
+Border: "#FFFFFF"
+LineWeight: "Thin"
+
+Callouts:
+Shape: "Rounded Rectangle"
+Stroke: "#FFFFFF"
+Fill: "Transparent"
+
+Icons:
+Style: "Thin Line"
+Color: "#FFFFFF"
+Stroke: "Consistent"
+
+Spacing:
+OuterMargin: "Large"
+SectionGap: "Generous"
+ElementGap: "Medium"
+
+Effects:
+Shadows:
+Type: "Soft Offset"
+Opacity: 20%
+
+Gradients:
+Usage: "Minimal"
+
+Borders:
+Weight: "Thin"
+
+Rules:
+- Use only vector illustrations
+- No stock photos
+- Maintain isometric perspective
+- Keep color palette limited
+- Prioritize diagrams over text
+- Large numerical labels for steps
+- Strong contrast between background and content
+- Consistent use of brown circular markers
+- White connectors and frames throughout

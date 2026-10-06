@@ -1,0 +1,131 @@
+Design Style:
+Name: "Corporate Data Storytelling"
+Concept: "グローバルコンサルティングファームの調査レポートをベースにした、データドリブンなエグゼクティブ向けプレゼンテーション"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Corporate
+- Executive
+- Strategic
+- Analytical
+- Data-driven
+- Professional
+- Modern
+- Trustworthy
+
+Layout:
+Structure:
+- Large visual background
+- Left-aligned content zone
+- Modular information blocks
+- Consistent navigation header
+- Strong visual hierarchy
+
+Grid:
+Columns: 12
+Gutters: "Medium"
+Margins: "Wide"
+
+Composition:
+- Use large negative space
+- Separate insights into clear sections
+- Balance quantitative data with visual storytelling
+- Maintain generous spacing between charts
+- Prioritize readability over density
+
+Typography:
+Heading:
+Font: "Condensed Sans Serif"
+Weight: "Bold"
+Style: "Executive report title"
+
+SectionTitle:
+Font: "Condensed Sans Serif"
+Weight: "SemiBold"
+Style: "Small category label"
+
+Statistic:
+Font: "Condensed Sans Serif"
+Weight: "ExtraBold"
+Style: "Large percentage figures"
+
+Body:
+Font: "Modern Sans Serif"
+Weight: "Regular"
+Style: "Readable business report text"
+
+Navigation:
+Font: "Minimal Sans Serif"
+Weight: "Regular"
+Style: "Small section navigation"
+
+Data Visualization:
+Charts:
+- Circular progress charts
+- Horizontal progress bars
+- Percentage callouts
+- KPI highlights
+- Minimal iconography
+
+Rules:
+- Display percentages prominently
+- Use large numeric emphasis
+- Keep chart labels concise
+- Avoid excessive decoration
+- Prioritize comparison and ranking
+
+Visual Elements:
+Background:
+Style: "Full-bleed photographic hero image"
+Treatment:
+- Dark overlay
+- Atmospheric lighting
+- High contrast foreground
+- Subtle visual texture
+
+Photography:
+- Environmental landscapes
+- Long-exposure light painting
+- Abstract technology motifs
+- Human-centered storytelling
+- Minimal distractions
+
+Icons:
+Style: "Thin line icons"
+Weight: "Light"
+Usage: "Supporting information only"
+
+Information Hierarchy:
+Level1:
+- Section title
+
+Level2:
+- Key insight statement
+
+Level3:
+- Primary statistics
+
+Level4:
+- Supporting explanation
+
+Slide Types:
+- Cover slide
+- Executive summary
+- Insight overview
+- KPI dashboard
+- Trend analysis
+- Challenge assessment
+- Opportunity analysis
+- Future outlook
+- Closing slide
+
+Design Principles:
+- One key message per slide
+- Data first, decoration second
+- Large readable statistics
+- Consistent chart system
+- Strong executive-report aesthetic
+- Clear storytelling flow
+- High credibility and authority

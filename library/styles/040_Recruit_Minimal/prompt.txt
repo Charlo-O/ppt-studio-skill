@@ -1,0 +1,165 @@
+Design Style:
+Name: "Minimal Culture Book"
+Concept: "企業カルチャーブックと採用ピッチを融合した、余白と思想を重視するミニマルエディトリアルデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Human
+- Philosophical
+- Minimal
+- Editorial
+- Authentic
+- Intellectual
+- Calm
+- Premium
+
+Color Palette:
+
+Background:
+Primary: "#F3F3F1"
+
+Text:
+Primary: "#111111"
+Secondary: "#555555"
+Muted: "#999999"
+
+Accent:
+Primary: "#111111"
+
+Typography:
+
+Heading:
+Font: "Condensed Sans Serif"
+Weight: "Light"
+Style: "large editorial typography"
+
+Body:
+Font: "Modern Japanese Sans Serif"
+Weight: "Regular"
+
+Layout:
+
+Grid:
+Columns: 12
+Margins: "Very Wide"
+Gutters: "Medium"
+
+Composition:
+- Large whitespace
+- Strong asymmetry
+- Editorial rhythm
+- Minimal decoration
+- Quiet visual hierarchy
+
+Structure:
+
+Sections:
+- Philosophy
+- Culture
+- Values
+- Business
+- Products
+- Data
+- People
+- Future
+- Recruiting
+
+Section Pages:
+
+Style:
+- Large section number
+- Minimal title
+- Wide empty space
+- Single key statement
+
+Content Pages:
+
+Rules:
+- One message per slide
+- Large margins
+- Few visual elements
+- Strong reading flow
+- Prioritize clarity over density
+
+Visual Elements:
+
+Diagrams:
+Style:
+- Thin lines
+- Circles
+- Timeline structures
+- Minimal frameworks
+
+Charts:
+Style:
+- Monochrome
+- Minimal labels
+- Clean presentation
+
+Photography:
+
+Style:
+- Black and white
+- Documentary
+- Real employees
+- Natural moments
+- Soft contrast
+
+Illustration:
+
+Style:
+- None or minimal
+- Functional only
+
+Cards:
+
+Style:
+- Borderless
+- White space driven
+- Editorial grouping
+
+Slide Types:
+
+Cover:
+- Large philosophy statement
+- Monochrome photography
+
+Philosophy Page:
+- Large quote
+- Minimal supporting text
+
+Culture Page:
+- Numbered framework
+- Simple diagram
+
+Product Page:
+- Product screenshot
+- Large whitespace
+
+People Page:
+- Portrait grid
+- Minimal profile information
+
+Recruiting Page:
+- Large typography
+- Strong call to action
+
+Design Rules:
+- One core message per slide
+- Prefer whitespace over content density
+- Use photography sparingly
+- Avoid decorative graphics
+- Create an editorial book feeling
+- Emphasize philosophy before business
+- Keep visual language timeless
+
+Forbidden:
+- Bright colors
+- Heavy gradients
+- Neon accents
+- Dense dashboards
+- Decorative icons
+- Glassmorphism
+- Corporate stock imagery

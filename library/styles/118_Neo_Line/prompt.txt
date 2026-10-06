@@ -1,0 +1,141 @@
+Design Style:
+Name: "Neo Line"
+
+Concept: >
+文具雑貨店、
+クラフトマーケット、
+アートフェア、
+日本のZINE、
+インフォグラフィックポスター、
+Harajukuカルチャー、
+ミニマルな線画イラストから着想を得た
+アイコン主導型エディトリアルデザイン。
+
+スライド全体を
+一枚のポスターとして構成する。
+
+情報は文章ではなく、
+線画アイコン、
+装飾モチーフ、
+タイポグラフィによって表現する。
+
+図解とアートポスターの中間にある
+グラフィックデザインを目指す。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Creative
+- Playful
+- Friendly
+- Graphic
+- Youthful
+- Handmade
+- Minimal
+- Inventive
+
+Temperature:
+Overall: Bright
+
+Background:
+Color: "#F5F5F3"
+
+Color Palette:
+Primary:
+Pink: "#FF5FA8"
+Cyan: "#28A7FF"
+
+Secondary:
+Orange: "#FFB347"
+Mint: "#7EE8D0"
+
+Accent:
+Black: "#222222"
+
+Illustration Style:
+Type:
+- Monoline drawing
+- Outline illustration
+- Geometric iconography
+- Editorial doodles
+
+Characteristics:
+- Uniform stroke width
+- Rounded corners
+- Minimal fills
+- Clean vector appearance
+- Continuous line motifs
+
+Typography:
+Style:
+- Thin geometric sans-serif
+- Rounded display type
+- Outline typography
+- Decorative lettering
+
+Treatment:
+- Integrated into illustrations
+- Built from line shapes
+- Graphic rather than textual
+
+Layout:
+Composition:
+- Poster-like arrangement
+- Central visual hierarchy
+- Dense icon ecosystem
+- Symmetrical balance
+- Decorative framing
+
+Structure:
+- Large central motif
+- Supporting icons around perimeter
+- Visual storytelling through symbols
+
+Visual Elements:
+Icons:
+- Light bulbs
+- Pencils
+- Computers
+- Books
+- Cameras
+- Hearts
+- Stars
+- Clouds
+- Buildings
+- Stationery
+- Creative tools
+
+Decorative:
+- Dotted lines
+- Wavy lines
+- Geometric connectors
+- Circles
+- Diamonds
+- Arrows
+- Banners
+- Borders
+
+Effects:
+- Flat vector graphics
+- No shadows
+- No gradients
+- Crisp outlines
+- Screen-print aesthetic
+
+Image Style:
+Treatment:
+- Illustration-first
+- Icon-based storytelling
+- No realistic photography
+- Graphic poster approach
+
+Design Rules:
+- Use line art as the primary visual language.
+- Keep fills minimal.
+- Build meaning through icons rather than paragraphs.
+- Maintain consistent stroke weight.
+- Use only 2–4 colors.
+- Prioritize visual rhythm over strict grids.
+- Make the slide feel like a creative market poster.
+- Blend infographic clarity with playful illustration.

@@ -1,0 +1,163 @@
+Design Style:
+Name: "Recruitment Magazine"
+
+Concept: >
+大学案内パンフレット、
+IT企業採用冊子、
+カルチャーマガジン、
+若年層向け広報誌、
+エディトリアルデザインから着想を得た
+ポップで知的なマガジンスタイル。
+
+情報を説明資料として扱わず、
+雑誌の特集記事のように構成する。
+
+写真、図形、余白、タイポグラフィを
+組み合わせながら、
+楽しさと信頼感を両立する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Editorial
+- Playful
+- Intelligent
+- Friendly
+- Modern
+- Energetic
+- Informative
+- Youthful
+
+Temperature:
+Overall: Bright
+
+Color Palette:
+Background:
+White: "#FFFFFF"
+
+Primary:
+Cyan: "#5FD7E5"
+Turquoise: "#17C5B7"
+LemonYellow: "#F4ED4A"
+CoralPink: "#F56D8A"
+SkyBlue: "#66B6FF"
+
+Secondary:
+Violet: "#8D4AC7"
+DeepBlue: "#2E5FC7"
+Mint: "#A6F0E3"
+SoftPink: "#F8D6E5"
+
+Typography:
+Style: >
+雑誌の見出しを思わせる
+大胆な縦横ミックスレイアウト。
+
+タイトルは極めて大きく、
+ページをまたいで配置。
+
+英数字はクラシックな
+セリフ体風の高級感。
+
+日本語見出しは
+太めのモダンゴシック。
+
+本文は読みやすい
+軽量ゴシック。
+
+Layout:
+Structure: >
+エディトリアル誌面レイアウト。
+
+グリッドは厳密すぎず、
+有機的な構成。
+
+写真と図形が重なりながら
+リズムを生む。
+
+左右ページで
+大きなビジュアル展開を行う。
+
+コンテンツごとに
+レイアウト変化を許容する。
+
+Shapes:
+Usage:
+- Large circles
+- Partial circles
+- Rounded capsules
+- Vertical labels
+- Overlapping geometric blocks
+- Soft organic cutouts
+
+Rules: >
+円形を主役とする。
+
+図形は背景ではなく
+情報を整理するフレームとして使う。
+
+色付き円を大胆に重ね、
+写真やテキストと融合させる。
+
+Photography:
+Style: >
+人物写真を大きく使用。
+
+切り抜きまたは
+高コントラスト処理。
+
+被写体は自然な表情。
+
+写真は図形の中に収めるか、
+図形と重ねる。
+
+Illustration:
+Style: >
+フラットで親しみやすい
+ベクターイラスト。
+
+インフォグラフィック要素や
+小さなアイコンを活用。
+
+Infographics:
+Style: >
+データはポップな図解として表現。
+
+円、数字、アイコンを組み合わせ、
+楽しく理解できる構成。
+
+余白を大きく確保する。
+
+Composition:
+Characteristics:
+- Large editorial headlines
+- Dynamic asymmetry
+- Color blocking
+- Circle-driven layouts
+- Magazine-style spreads
+- Strong visual hierarchy
+- Human-centered imagery
+- Playful information design
+
+Avoid:
+- Corporate templates
+- Heavy tables
+- Dense bullet lists
+- Excessive gradients
+- Skeuomorphism
+- Dark backgrounds
+- Strict presentation grids
+- Academic document layouts
+
+Keywords:
+- Editorial Magazine
+- Recruitment Brochure
+- Japanese Design
+- Color Block Layout
+- Circle Composition
+- Modern Typography
+- Youth Branding
+- Infographic Magazine
+- Pop Corporate
+- Contemporary Print Design

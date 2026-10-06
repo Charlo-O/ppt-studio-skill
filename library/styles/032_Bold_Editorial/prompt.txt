@@ -1,0 +1,130 @@
+Design Style:
+Name: "Bold Editorial Brand Manual"
+Concept: "ファッションブランドやカルチャーブランドのVIガイドラインをベースにした、巨大タイポグラフィ主体のエディトリアルデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Bold
+- Editorial
+- Branding
+- Fashion
+- Minimal
+- Vintage
+- Experimental
+- Premium
+
+Color Palette:
+Background:
+Cream: "#E9E2B8"
+SoftBeige: "#EFE7C9"
+Black: "#111111"
+
+Accent:
+VintageRed: "#E35A68"
+DustyPink: "#E9828F"
+WarmOrange: "#F0673A"
+
+Text:
+Primary: "#111111"
+Secondary: "#7B6A5E"
+Light: "#F8F5EE"
+
+Typography:
+Heading:
+Font: "Ultra Condensed Sans Serif"
+Weight: "ExtraBold"
+Style: "Massive compressed editorial typography"
+Usage: "Use oversized uppercase titles dominating the layout"
+
+Body:
+Font: "Minimal Grotesk Sans"
+Weight: "Regular"
+Style: "Tiny editorial annotation text"
+Usage: "Use small supporting text with large spacing"
+
+Accent:
+Font: "Elegant Serif"
+Weight: "Light"
+Style: "Refined editorial serif accents"
+
+Layout:
+General:
+- Use oversized typography as the primary visual element
+- Maintain strong asymmetrical editorial layouts
+- Use large empty spaces around text
+- Keep all compositions highly structured
+- Use modular grid systems
+- Combine typography with minimal image blocks
+
+Structure:
+- Use split layouts with typography and image panels
+- Place giant headings aligned left
+- Use thin labels and metadata along top edges
+- Add large section numbers on dark slides
+- Use alternating dark and light section divider slides
+
+Composition:
+- Allow typography to overflow visually
+- Use image crops with strong vertical framing
+- Keep supporting text extremely small
+- Use strong alignment consistency
+- Use one dominant visual focus per slide
+
+Visual Elements:
+Imagery:
+- Use monochrome or duotone fashion photography
+- Apply warm red or pink tint overlays
+- Use editorial portrait photography
+- Use grainy magazine-style imagery
+- Prefer minimal image counts per slide
+
+Shapes:
+- Thin outline frames
+- Minimal geometric blocks
+- Soft rectangular image masks
+- Large flat color areas
+- Minimal line decorations
+
+Branding:
+- Include logo construction layouts
+- Use typography hierarchy examples
+- Add color palette systems
+- Include stationery and application mockups
+- Use editorial-style guideline compositions
+
+Charts & Infographics:
+Style:
+- Minimal flat charts
+- Simple pie charts
+- Large numeric hierarchy
+- Thin-line infographic layouts
+- Use typography-driven information design
+
+Colors:
+- Black and cream as primary contrast
+- Use vintage red for highlights
+- Keep chart colors muted and minimal
+
+Slide Variations:
+- Huge title cover slides
+- Brand core section dividers
+- Logo construction pages
+- Color system slides
+- Typography hierarchy layouts
+- Editorial imagery galleries
+- Social media guideline pages
+- Stationery mockup slides
+- Device application layouts
+- Minimal thank you slide
+
+Design Rules:
+- Prioritize typography over decoration
+- Avoid gradients and glossy effects
+- Avoid realistic shadows
+- Keep layouts flat and editorial
+- Use extremely large condensed text
+- Maintain premium magazine-inspired composition
+- Use muted vintage color tones
+- Keep slides minimal but visually powerful

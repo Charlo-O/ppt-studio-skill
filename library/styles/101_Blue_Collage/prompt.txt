@@ -1,0 +1,192 @@
+Design Style:
+Name: "Blue Collage"
+
+Concept: >
+不動産ニュースメディア、
+SNSカルーセル投稿、
+レトロ広告、新聞インフォグラフィック、
+現代の金融系Instagramアカウントから着想を得た
+情報発信型エディトリアルデザイン。
+
+難しいニュースや制度変更を、
+誰でも一瞬で理解できる
+「親しみやすいビジュアルニュース」として再構築する。
+
+モノクロ写真、ユーモラスなモチーフ、
+強いコントラストによって、
+専門性と拡散性を両立する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Informative
+- Accessible
+- Contemporary
+- Friendly
+- Editorial
+- Bold
+- Trustworthy
+- Conversational
+
+Temperature:
+Overall: Cool
+
+Color Palette:
+Background:
+LightGray: "#E9E9E7"
+
+Primary:
+RealtyBlue: "#0F6BFF"
+
+Secondary:
+Black: "#111111"
+
+Accent:
+White: "#FFFFFF"
+LightGray: "#F4F4F2"
+
+Typography:
+Headlines:
+Style: >
+太めで視認性の高いサンセリフ。
+
+ニュース見出しのように短く力強く、
+一目で内容が伝わることを重視する。
+
+Weight: 700-900
+Case: Mixed
+Tracking: Slightly Tight
+
+Secondary:
+Style: >
+シンプルなサンセリフ。
+
+補足情報や解説文は
+小さく整理して配置する。
+
+Weight: 400-600
+
+Numbers:
+Style: >
+統計や金額は極端に大きく扱い、
+インフォグラフィックの主役として機能させる。
+
+Weight: 800-900
+
+Layout:
+Structure: >
+Instagramカルーセルと
+ニュースカードを融合した
+シンプルな情報整理型レイアウト。
+
+各スライドは
+「見出し＋ビジュアル＋ポイント」
+の3層構造を基本とする。
+
+Composition:
+- Large headlines
+- Central imagery
+- Statistic callouts
+- Simple information blocks
+- Editorial balance
+- Strong focal points
+- Generous margins
+- Modular layouts
+
+Alignment:
+Preference: Left aligned
+ControlledChaos: Low
+
+Graphic Elements:
+Shapes:
+- Rounded labels
+- Information cards
+- Circular accents
+- Speech bubbles
+- Starburst symbols
+- Underlines
+- Simple frames
+
+Symbols:
+- Spark icons
+- Explosive bursts
+- Arrows
+- Chat bubbles
+- Minimal badges
+
+Decorative Rules:
+- Decorations should emphasize information.
+- Use symbols sparingly.
+- Maintain a clean news aesthetic.
+- Avoid unnecessary complexity.
+
+Imagery:
+Style: >
+モノクロ写真や人物写真を切り抜き、
+ブルーの色面と組み合わせる。
+
+深刻になりすぎないよう、
+動物、レトロ人物写真、
+彫刻などのユーモラスなモチーフも活用する。
+
+Treatment:
+- Black-and-white photography
+- Thick white outlines
+- Simple cutouts
+- High contrast
+- Minimal shadows
+- Editorial collage effect
+
+Subjects:
+- People reacting
+- Everyday financial situations
+- Classical sculptures
+- Pets and animals
+- Money-related objects
+- Consumer lifestyle scenes
+- Vintage imagery
+
+Background:
+Style: >
+明るいグレーを基調とし、
+ブルーとブラックのカードを差し込む。
+
+スライドごとに
+白・青・黒の面積比を変え、
+単調さを防ぐ。
+
+Effects:
+Texture:
+Subtle paper grain
+Newsprint softness
+
+Shadow:
+Minimal
+
+Depth:
+Flat editorial layering
+
+Distortion:
+None
+
+Visual Rules:
+- Use blue as the dominant accent color.
+- Headlines should be immediately understandable.
+- Prioritize clarity over decoration.
+- Use oversized numbers for data emphasis.
+- Combine seriousness with subtle humor.
+- Keep imagery simple and high contrast.
+- Maintain a clean editorial rhythm.
+- Design for mobile-first readability.
+
+Exclusions:
+- Luxury real estate aesthetics
+- Corporate stock photography
+- Glassmorphism
+- Heavy gradients
+- Metallic effects
+- Complex 3D rendering
+- Overly playful cartoon styles
+- Dense information overload
+- Decorative serif typography

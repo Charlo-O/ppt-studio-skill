@@ -1,0 +1,184 @@
+# presentation_style_minima_organic.yaml
+# Style: Organic Fashion Editorial
+# Concept: "深みのあるグリーンと自然素材を活かした、洗練されたライフスタイルプレゼン"
+
+Design Style:
+Name: "Organic Modern Editorial"
+Concept: "植物・自然光・ファッション写真を組み合わせた上質なナチュラルエディトリアルデザイン"
+
+Canvas:
+Ratio: "16:9"
+Background:
+Base: "#F4F3EF"
+
+Mood:
+- "Organic"
+- "Modern"
+- "Elegant"
+- "Lifestyle"
+- "Natural"
+- "Fashion Editorial"
+- "Calm"
+- "Premium"
+
+Color Palette:
+Background:
+- "#F4F3EF"
+- "#ECE9E2"
+- "#FFFFFF"
+
+Text:
+Primary: "#1E1E1E"
+Secondary: "#6A6A6A"
+
+Accent:
+DeepGreen: "#4E615B"
+MossGreen: "#6A756F"
+WarmGray: "#7B7070"
+Sand: "#C6B8A4"
+
+Nature:
+- "#7E8B72"
+- "#D7DCCF"
+
+Typography:
+Heading:
+Font: "Modern Geometric Sans Serif"
+Weight: "700-900"
+Tracking: "Wide"
+Style:
+- "Lowercase emphasis"
+- "Minimal"
+- "Luxury editorial"
+- "Strong whitespace"
+
+SubHeading:
+Font: "Light Sans Serif"
+Weight: "500-600"
+Tracking: "Medium"
+
+Body:
+Font: "Clean Sans Serif"
+Weight: "300-400"
+LineHeight: "1.8"
+Style:
+- "Magazine-like"
+- "Elegant"
+- "Minimal"
+
+Caption:
+Font: "Thin Sans Serif"
+Weight: "300"
+Tracking: "Wide"
+
+Layout:
+Structure:
+- "Editorial modular grid"
+- "Asymmetrical block composition"
+- "Floating image panels"
+- "Large negative space"
+- "Balanced collage layout"
+
+Margins:
+Outer: "Wide"
+
+Alignment:
+- "Mostly left aligned"
+- "Intentional offset positioning"
+- "Layered card composition"
+
+Components:
+Image Style:
+- "Natural lighting photography"
+- "Muted earthy tones"
+- "Plant close-up imagery"
+- "Lifestyle fashion portraits"
+- "Soft contrast"
+- "Organic textures"
+
+Shapes:
+- "Large rectangular color blocks"
+- "Soft overlapping cards"
+- "Minimal framed sections"
+- "Subtle geometric layering"
+
+Cards:
+- "Flat design"
+- "No shadows"
+- "Soft spacing"
+- "Editorial proportions"
+
+Visual Elements:
+- "Large green leaves"
+- "Natural materials"
+- "Minimal fashion photography"
+- "Soft textile textures"
+- "Earth-tone landscapes"
+- "Organic interior styling"
+
+Composition Rules:
+- "Use earthy muted colors only"
+- "Prioritize visual calmness"
+- "Keep typography minimal"
+- "Use oversized image areas"
+- "Allow overlapping blocks"
+- "Avoid cluttered layouts"
+- "Mix portrait and landscape crops"
+- "Create rhythm with alternating card sizes"
+- "Use whitespace as a design element"
+
+Slide Patterns:
+Cover:
+Layout:
+- "Large plant or lifestyle hero image"
+- "Floating title card"
+- "Minimal typography"
+
+Section Break:
+Layout:
+- "Full-width photography"
+- "Soft color overlay block"
+- "Elegant small typography"
+
+Team:
+Layout:
+- "Portrait image grid"
+- "Minimal profile text"
+- "Wide spacing"
+
+Vision:
+Layout:
+- "Large image background"
+- "Floating white information panel"
+- "Simple iconography"
+
+Services:
+Layout:
+- "Modular card layout"
+- "Circular or rectangular information blocks"
+- "Minimal supporting graphics"
+
+Effects:
+Shadows: "None"
+Gradients: "Very subtle only"
+Borders: "Thin soft-gray dividers"
+
+Avoid:
+- "Bright neon colors"
+- "Heavy gradients"
+- "Glossy UI effects"
+- "Dense corporate charts"
+- "Overly technical layouts"
+- "3D rendering"
+- "Harsh black backgrounds"
+- "Cute illustration styles"
+
+Rendering Keywords:
+- "Organic editorial presentation"
+- "Scandinavian lifestyle design"
+- "Minimal fashion branding"
+- "Natural luxury aesthetic"
+- "Earth-tone presentation"
+- "Modern botanical layout"
+- "Soft premium magazine style"
+- "Calm editorial composition"

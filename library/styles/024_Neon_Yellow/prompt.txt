@@ -1,0 +1,135 @@
+Design Style:
+Name: "Neon Yellow Fashion Editorial"
+Concept: "鮮やかなネオンイエローと白背景、太いセリフ体を組み合わせた、ファッション誌・ルックブック風の大胆なエディトリアルプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Fashion
+- Editorial
+- Bold
+- Minimal
+- Modern
+- Pop
+- High Contrast
+- Magazine Inspired
+
+Color Palette:
+Background:
+Main: "#FFFFFF"
+NeonYellow: "#F7FF00"
+
+Text:
+Primary: "#000000"
+Secondary: "#333333"
+Light: "#FFFFFF"
+
+Accent:
+Yellow: "#F7FF00"
+Black: "#000000"
+
+Typography:
+Heading:
+Font: "Bold Editorial Serif"
+Weight: "700-900"
+Style:
+- "large luxury magazine title"
+- "high contrast serif"
+- "bold fashion editorial typography"
+- "centered or left aligned"
+
+Body:
+Font: "Clean Sans Serif"
+Weight: "400-500"
+Style:
+- "simple readable paragraph"
+- "small editorial caption"
+- "minimal text block"
+
+Caption:
+Font: "Modern Sans Serif"
+Weight: "400-600"
+Style:
+- "tiny label text"
+- "vertical side text"
+- "fashion magazine annotation"
+
+Layout:
+Overall:
+- "large blocks of neon yellow"
+- "white editorial margins"
+- "bold serif headline as main focus"
+- "asymmetric image placement"
+- "fashion lookbook composition"
+- "generous negative space"
+
+Images:
+Style:
+- "fashion photography"
+- "streetwear and product detail shots"
+- "yellow color matching in photos"
+- "large rectangular crops"
+- "close-up portrait or footwear images"
+
+Composition:
+- "split screen layouts"
+- "oversized yellow panels"
+- "layered white cards"
+- "thin black divider lines"
+- "vertical title text on side margins"
+- "small caption blocks around images"
+
+Slide Types:
+Cover:
+Layout:
+- "large neon yellow upper panel"
+- "big black serif title centered"
+- "white footer band with small captions"
+Style:
+- "bold magazine cover"
+- "minimal premium fashion mood"
+
+TitleSlide:
+Layout:
+- "large white space"
+- "one large fashion photo"
+- "vertical serif title on side"
+- "small neon yellow accent block"
+
+SectionDivider:
+Background: "#F7FF00"
+Layout:
+- "large black serif title"
+- "minimal small caption text"
+- "wide empty space"
+
+Content:
+Layout:
+- "white background"
+- "large serif heading"
+- "short body text"
+- "one strong image"
+- "small yellow label or text box"
+
+ImageHero:
+Layout:
+- "large full-width image on top"
+- "white text area below"
+- "yellow caption label overlapping image"
+- "thin black divider line"
+
+ProductFashion:
+Layout:
+- "large product or outfit image"
+- "yellow panel beside image"
+- "minimal body copy"
+- "editorial caption placement"
+
+Rules:
+
+- "背景は白またはネオンイエローを基本にする"
+- "見出しは太いセリフ体で大きく配置する"
+- "本文は少なく、余白を大きく取る"
+- "写真はファッション・プロダクト・ストリート感のあるものを使用する"
+- "黄色は大胆な面として使い、細かい装飾は避ける"

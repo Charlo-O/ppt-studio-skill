@@ -1,0 +1,278 @@
+Design Style:
+Name: "Citrus Neumo"
+
+Concept: >
+次世代UIデザインとして注目される
+ニューモーフィズム（Soft UI）をベースにした、
+ミニマルかつプレミアムなインフォグラフィックスタイル。
+
+背景と同系色の立体要素、
+柔らかな陰影、
+浮き出し・押し込み表現を組み合わせ、
+インターフェースそのものをデザインモチーフとして活用する。
+
+ダッシュボード、SaaS説明資料、
+AIプロダクト紹介、アプリ提案書、
+UI/UXケーススタディに適した、
+洗練された未来的な世界観を表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Futuristic
+- Premium
+- Elegant
+- Soft
+- Technological
+- Calm
+- Intelligent
+
+Color Palette:
+
+Background:
+Primary: "#EEF0F4"
+Secondary: "#F4F5F8"
+
+Text:
+Primary: "#646A82"
+Secondary: "#A5ABBA"
+Light: "#C9CED8"
+
+Accent:
+Orange: "#FF9E2C"
+
+Neutral:
+White: "#FFFFFF"
+Gray: "#E5E7ED"
+DarkGray: "#8B92A3"
+
+Typography:
+
+Headings:
+Font: "Modern Sans Serif"
+Weight: 300
+LetterSpacing: "0.25em"
+Transform: "Uppercase"
+Color: "#646A82"
+
+Display:
+Font: "Geometric Sans Serif"
+Weight: 500
+Color: "#646A82"
+
+Subheadings:
+Font: "Sans Serif"
+Weight: 400
+LetterSpacing: "0.12em"
+Color: "#A5ABBA"
+
+Body:
+Font: "Sans Serif"
+Weight: 400
+Color: "#8B92A3"
+LineHeight: 1.7
+
+Numbers:
+Font: "Geometric Sans Serif"
+Weight: 600
+Color: "#646A82"
+
+Layout:
+
+Structure:
+- Interface-inspired composition
+- Modular dashboard arrangement
+- Large negative space
+- Symmetrical balance
+- Floating UI components
+
+Grid:
+Columns: 12
+Gutters: "Medium"
+
+Margins:
+Outer: "Extra Large"
+
+Components:
+
+Dashboard:
+- Metric cards
+- Status panels
+- Control widgets
+- Message panels
+- Settings sections
+
+Forms:
+- Input fields
+- Dropdown menus
+- Text areas
+- Selection boxes
+- Toggle groups
+
+Controls:
+- Sliders
+- Toggle switches
+- Checkboxes
+- Radio buttons
+- Buttons
+- Navigation tabs
+
+Notifications:
+- Floating alerts
+- Success states
+- Call-to-action cards
+
+Metrics:
+- Progress indicators
+- Minimal bar charts
+- Value highlights
+- Percentage displays
+
+Illustration:
+
+Style:
+Functional UI Components
+
+Rendering:
+Soft extrusions
+Rounded geometry
+Minimal detail
+Consistent depth
+Interface realism
+
+Icons:
+
+Style:
+Thin outline icons
+
+Characteristics:
+- Rounded terminals
+- Uniform stroke width
+- Monochrome appearance
+- Minimal symbolism
+- Functional purpose
+
+Subjects:
+- User
+- Home
+- Chart
+- Thermometer
+- Heart
+- Message
+- Check
+- Settings
+
+Neumorphism:
+
+Surface:
+Background: "#EEF0F4"
+
+Radius:
+Small: "12px"
+Medium: "20px"
+Large: "32px"
+
+Raised:
+Highlight:
+Color: "rgba(255,255,255,0.95)"
+Offset: "-8px -8px"
+Blur: "16px"
+
+Shadow:
+Color: "rgba(163,177,198,0.35)"
+Offset: "8px 8px"
+Blur: "16px"
+
+Pressed:
+Highlight:
+Color: "rgba(255,255,255,0.8)"
+Inset: true
+
+Shadow:
+Color: "rgba(163,177,198,0.25)"
+Inset: true
+
+Controls:
+
+Buttons:
+Style: "Raised"
+
+Inputs:
+Style: "Inset"
+
+Toggles:
+Track: "Inset"
+Knob: "Raised"
+
+Sliders:
+Track: "Inset"
+Thumb: "Raised"
+
+Cards:
+Style: "Raised"
+
+Accent Usage:
+
+Strategy:
+Use sparingly
+
+ApplyTo:
+- Active states
+- Slider progress
+- Toggle ON state
+- Key actions
+- Important metrics
+
+Effects:
+
+Shadows:
+Usage: "Essential"
+
+Characteristics:
+- Soft diffusion
+- Low contrast
+- Same direction
+- Multi-layered
+
+Borders:
+Usage: "Avoid"
+
+Gradients:
+Usage: "Minimal"
+
+Style:
+- Very subtle
+- Same color family
+
+Textures:
+Usage: "None"
+
+Decorations:
+
+BackgroundElements:
+- None
+
+VisualLanguage:
+- Interface first
+- Function over decoration
+- Calm surfaces
+
+Spacing:
+
+SectionGap: "Extra Large"
+ComponentGap: "Large"
+InternalPadding: "Generous"
+
+Rules:
+- Maintain a monochromatic surface language.
+- Use orange as the single accent color.
+- Ensure every component follows the same neumorphic depth system.
+- Prioritize usability and clarity over visual complexity.
+- Avoid sharp corners and heavy outlines.
+- Use whitespace generously to create a calm atmosphere.
+- Keep typography lightweight and elegant.
+- Limit charts to simple metrics and status indicators.
+- Preserve a premium, tactile interface aesthetic.
+- Suitable for SaaS presentations, AI product decks, dashboard showcases, UX case studies, app concepts, and digital product proposals.

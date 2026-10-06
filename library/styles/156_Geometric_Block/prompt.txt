@@ -1,0 +1,218 @@
+Design Style:
+Name: "Geometric Block"
+
+Concept: >
+Bauhaus、
+Scandinavian Graphic Design、
+Google Material Design、
+PowerPointHub、
+Flat Illustration、
+Modern Infographics、
+Swiss International Style、
+De Stijl、
+幾何学ポスター、
+ミニマルUIデザインから着想を得た
+ジオメトリック・ブロック・エディトリアルデザイン。
+
+スライドを一般的なプレゼン資料ではなく、
+デザインシステム、
+ブランドガイドライン、
+インフォグラフィック集、
+モダンプロダクトカタログとして構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Modern
+- Minimal
+- Geometric
+- Friendly
+- Bright
+- Editorial
+- Organized
+- Professional
+
+Temperature:
+Overall: Bright
+
+Background:
+Color: "#FFFFFF"
+
+Color Palette:
+Primary:
+RoyalBlue: "#1E63E9"
+GoldenYellow: "#F7C74A"
+CoralRed: "#F76A5F"
+
+Secondary:
+SkyBlue: "#A9DFF4"
+SoftPink: "#F7B7C9"
+
+Accent:
+White: "#FFFFFF"
+LightGray: "#F5F5F5"
+
+Typography:
+Style:
+Heading:
+Font: "Modern Geometric Sans Serif"
+Weight: Bold
+Case: Title Case
+Alignment: Left
+
+Body:
+Font: "Minimal Sans Serif"
+Weight: Regular
+
+Caption:
+Font: "Light Sans Serif"
+Weight: Medium
+Size: Small
+
+Layout:
+Style:
+- Modular grid
+- Geometric framing
+- Flat infographic layout
+- Clean editorial composition
+- Symmetrical balance
+
+Grid:
+Columns: 12
+Gutters: Wide
+Margins: Large
+
+Composition:
+Principles:
+- Geometry defines layout
+- Consistent spacing
+- Large white space
+- Flat color blocking
+- Balanced composition
+- Clear hierarchy
+- One visual focus per slide
+
+Graphic Elements:
+- Quarter circles
+- Semi circles
+- Full circles
+- Rounded rectangles
+- Color blocks
+- Grid patterns
+- Thin divider lines
+- Simple outline icons
+- Flat infographic components
+
+Shapes:
+Primary:
+- Circle
+- Semi-circle
+- Quarter-circle
+- Rounded rectangle
+- Rectangle
+- Square
+
+Patterns:
+- Modular geometric repetition
+- Rounded corner compositions
+- Simple tiled layouts
+
+Icons:
+Style:
+- Flat
+- Outline
+- Material Design inspired
+- Consistent stroke width
+
+Illustrations:
+Style:
+- Flat vector
+- Minimal
+- Geometric
+- Rounded
+
+Photography:
+Style:
+- Optional
+- Minimal usage
+- Clean product photography
+- UI mockups
+- Lifestyle
+
+Treatment:
+- Bright
+- High key
+- Neutral colors
+
+Effects:
+Shadows:
+- None
+
+Gradients:
+- None
+
+Texture:
+- Flat vector finish
+
+Decorations:
+Include:
+- Color corner blocks
+- Rounded geometry
+- Modular graphics
+- Minimal line accents
+- Repeating geometric borders
+
+Avoid:
+- Heavy shadows
+- Glassmorphism
+- 3D graphics
+- Metallic effects
+- Distressed textures
+- Realistic illustrations
+- Decorative ornaments
+
+Charts:
+Style:
+- Flat infographic
+- Rounded nodes
+- Consistent colors
+- Simple connectors
+- Minimal labels
+
+Spacing:
+Outer Margin: Extra Large
+Inner Padding: Spacious
+
+Text Density:
+Medium
+
+Image Ratio:
+Graphics:
+Approximately 65–80%
+
+Photography:
+Approximately 20–35%
+
+Visual Rhythm:
+- Cover
+- Agenda
+- Section divider
+- Feature
+- Process
+- Infographic
+- Timeline
+- Diagram
+- Closing
+
+Overall Impression: >
+PowerPointHubやGoogle Material Designを思わせる、
+幾何学図形を主役にしたフラットで洗練されたプレゼンテーション。
+円・半円・四分円・角丸矩形を組み合わせた
+モジュラー構成、
+ビビッドなブルー・イエロー・コーラル・ライトブルー・ピンクの配色、
+広い余白、
+ミニマルなタイポグラフィ、
+フラットなインフォグラフィックによって、
+親しみやすく情報整理された
+モダンエディトリアルデザインを構成する。

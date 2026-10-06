@@ -1,0 +1,248 @@
+Design Style:
+Name: "Urban Graffiti"
+
+Concept: >
+ストリートカルチャー、Z世代の自己表現、
+インディーズブランド、アンダーグラウンドアートから着想を得た
+エディトリアル・プレゼンテーションデザイン。
+
+夜の都市風景やリアルな人物写真を大胆に使用し、
+ピクセルタイポグラフィ、手描きの落書き、
+DIY精神を感じるグラフィックを重ねることで、
+「不完全さ」と「勢い」をデザインとして昇華する。
+
+起業家精神、ブランド戦略、
+クリエイティブ提案、
+若者向けプロジェクト、
+社会課題への挑戦など、
+熱量とリアリティを伝える資料に適した世界観。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Urban
+- Bold
+- Rebellious
+- Authentic
+- Raw
+- Energetic
+- Youthful
+- Expressive
+
+Color Palette:
+
+Background:
+Midnight: "#19161B"
+Asphalt: "#2A2523"
+Concrete: "#4B4B52"
+
+Accent:
+ElectricBlue: "#455BFF"
+NeonYellow: "#F3EB3C"
+
+Text:
+Primary: "#F7F7F7"
+Secondary: "#D7D7D7"
+
+Typography:
+
+Headings:
+Style: "Condensed Geometric Sans"
+Weight: 700
+Case: UPPERCASE
+Color: "#FFFFFF"
+
+PixelAccent:
+Style: "Pixel Display"
+Weight: 700
+Usage:
+- Selected letters
+- Word endings
+- Section emphasis
+
+Numbers:
+Style: "Condensed Sans"
+Weight: 700
+Color: "#F3EB3C"
+
+Body:
+Style: "Monospace"
+Weight: 400
+Color: "#F2F2F2"
+
+Layout:
+
+Structure:
+- Full-bleed photography
+- Editorial asymmetry
+- Large statement typography
+- Layered graphic interventions
+- Dynamic compositions
+
+Grid:
+Columns: 12
+
+Margins:
+Outer: "Medium"
+
+Photography:
+
+Style:
+Documentary Street Editorial
+
+Subjects:
+- Urban youth
+- Diverse communities
+- Street portraits
+- Night city scenes
+- Crosswalks
+- Basketball courts
+- Public spaces
+- Everyday rebellion
+
+Treatment:
+- Duotone effect
+- Blue monochrome tint
+- High contrast
+- Film grain
+- Slight blur softness
+- Low-light atmosphere
+
+Texture:
+
+Grain:
+Type: "Printed halftone"
+Strength: "Medium"
+
+Noise:
+Strength: "Subtle"
+
+Finish:
+Matte paper texture
+
+Illustration:
+
+Style:
+Hand-drawn graffiti
+
+Characteristics:
+- Scribbles
+- Arrows
+- Cross marks
+- Loops
+- Highlight circles
+- Rough underlines
+- Imperfect strokes
+
+Color:
+"#F3EB3C"
+
+Decorative Elements:
+
+Icons:
+Style: "Minimal outline"
+Color: "#F3EB3C"
+
+Placement:
+- Corners
+- Margins
+- Timeline headers
+
+Effects:
+
+Pixelation:
+Usage: "Selective typography only"
+
+Distortion:
+Strength: "Low"
+
+Overlay:
+BlendMode: "Multiply"
+
+Components:
+
+Cover:
+- Full-screen street photograph
+- Massive split title composition
+- Large typographic hierarchy
+- Hand-drawn annotations
+- Small manifesto statement
+
+TableOfContents:
+- Editorial list layout
+- Left-aligned numbering
+- Background portrait photography
+- Graffiti overlays
+- Oversized section title
+
+SectionDivider:
+- Full-bleed urban image
+- Large section number
+- Statement headline
+- Dynamic scribbles
+
+QuoteSlide:
+- One powerful sentence
+- Centered typography
+- Portrait background
+
+StorySlide:
+- Two-column editorial composition
+- Monospace body text
+- Supporting imagery
+
+ProcessSlide:
+- Horizontal progress bar
+- Four-step framework
+- Icon-led structure
+- Strong visual rhythm
+
+Closing:
+- Documentary photography
+- Large thank-you message
+- Contact details
+- Social media icons
+- Final handwritten accents
+
+Content Density:
+
+Titles:
+Very Large
+
+Body:
+Moderate
+
+VisualPriority:
+High
+
+DataPriority:
+Medium
+
+Imagery Rules:
+- Prioritize authentic people over polished corporate scenes.
+- Use imperfect moments and candid expressions.
+- Embrace negative space around typography.
+- Overlay hand-drawn interventions naturally.
+- Maintain strong contrast between photography and typography.
+- Preserve the tension between order and chaos.
+
+Suitable For:
+- Youth marketing presentations
+- Creative strategy decks
+- Startup storytelling
+- Brand campaigns
+- Social impact initiatives
+- Culture reports
+- Fashion presentations
+- Music and entertainment proposals
+- Community projects
+- Inspirational keynote presentations
+
+Avoid:
+- Corporate stock photography
+- Highly polished 3D graphics
+- Excessive gradients
+- Formal business charts
+- Conservative layouts
+- Dense analytical tables

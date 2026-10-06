@@ -1,0 +1,172 @@
+Design Style:
+Name: "Internet Nostalgia"
+
+Concept: >
+1990年代後半から2000年代初頭の
+GeoCities、
+Angelfire、
+MSN Spaces、
+Windows XP、
+初期PowerPoint、
+WordArt、
+ClipArt、
+個人ホームページ文化から着想を得た
+意図的に派手で統一感のない
+レトロインターネットデザイン。
+
+スライドを洗練されたプレゼンではなく、
+学校のパソコン室、
+初めて作ったホームページ、
+キラキラ掲示板、
+初期ブログ、
+懐かしいPowerPoint作品として構成する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Funny
+- Nostalgic
+- Chaotic
+- Amateur
+- Cute
+- Camp
+- Internet
+- Retro
+
+Temperature:
+Overall: Extremely Vibrant
+
+Background:
+Style:
+- Rainbow gradient
+- Sky with clouds
+- Green meadow
+- Sunset
+- Blue ocean
+- Generic desktop wallpaper
+
+Color Palette:
+Primary:
+RainbowGradient: "#FF0000 → #FFFF00 → #00FF00 → #00FFFF → #0000FF → #FF00FF"
+ElectricBlue: "#003BFF"
+NeonPink: "#FF38B8"
+LimeGreen: "#5DFF3A"
+BrightYellow: "#FFE400"
+
+Accent:
+White: "#FFFFFF"
+Black: "#000000"
+
+Typography:
+Style:
+- Comic Sans style
+- Curlz MT style
+- Papyrus style
+- WordArt inspired
+- Decorative fonts
+- Curved text
+- Shadow
+- Glow
+- Outline
+- Random font combinations
+
+Layout:
+Structure:
+- Random positioning
+- Floating text boxes
+- No consistent grid
+- Uneven margins
+- Mixed alignments
+- Sticker collage
+
+Composition:
+Principles:
+- Deliberately inconsistent
+- Busy layout
+- Many focal points
+- Amateur desktop publishing
+- Maximum visual noise
+
+Photography:
+Style:
+- Cute cats
+- Dogs
+- Frogs
+- Dolphins
+- Birds
+- Hamsters
+- Turtles
+- Balloons
+- Random nature photos
+
+Image Treatment:
+- Glow effect
+- Sticker outline
+- Shadow
+- Poor cutout
+- Decorative borders
+- Emoji frames
+
+Graphic Elements:
+- Clip Art
+- Emoji
+- Rainbows
+- Glitter stars
+- Hearts
+- Smiley faces
+- Flowers
+- Crowns
+- Butterflies
+- Balloons
+- Sparkles
+- Bubble graphics
+
+Effects:
+Text:
+- WordArt
+- Glow
+- Outline
+- Warp
+- Bevel
+- Rainbow gradient
+
+Background Graphics:
+- Rainbow gradients
+- Clouds
+- Grass fields
+- Water bubbles
+- Glitter
+- Desktop wallpapers
+
+Decorations:
+Style:
+- Animated GIF aesthetic
+- Pixel stickers
+- Neon borders
+- Rainbow buttons
+- Glitter effects
+- Cute internet icons
+
+Whitespace:
+Density: Very Low
+
+Visual Rules:
+- Use rainbow gradients without restraint.
+- Mix unrelated decorative elements freely.
+- Decorate every slide with emojis, clip art, and stickers.
+- Use multiple decorative fonts in the same presentation.
+- Apply glow, outlines, and WordArt effects to headings.
+- Include oversized animal photographs throughout.
+- Allow inconsistent layouts and color combinations.
+- Recreate the feeling of a 2002 personal homepage.
+
+Avoid:
+- Swiss Design
+- Minimalism
+- Editorial layout
+- Material Design
+- Glassmorphism
+- Modern UI
+- Consistent typography
+- Professional presentation design

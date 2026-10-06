@@ -1,0 +1,208 @@
+Design Style:
+Name: "Executive Risk Intelligence Report"
+Concept: "グローバルコンサルティングファームの調査レポートをベースにした、写真・データ・巨大タイポグラフィを融合したエグゼクティブ向けリサーチレポートデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Executive
+- Strategic
+- Analytical
+- Corporate
+- Modern
+- Data-driven
+- Global
+- Premium
+
+Layout:
+
+Structure:
+- Full-bleed photography sections
+- Editorial report layouts
+- Large chapter dividers
+- Data visualization focused pages
+- Modular content blocks
+- Wide white space
+- Consistent navigation system
+
+Grid:
+Columns: 12
+Gutters: "Medium"
+Margins: "Wide"
+
+Composition:
+- Alternate between image-heavy and data-heavy pages
+- Use oversized section numbers
+- Maintain strong left alignment
+- Allow large breathing space around content
+- Place visual hierarchy above content density
+- Create rhythm through alternating layouts
+- Use photography as emotional storytelling elements
+
+Navigation:
+
+PageNumber:
+Position: "Top left"
+Style: "Small minimalist numbering"
+
+SectionMarker:
+Position: "Left edge"
+Style: "Thin vertical navigation bar"
+
+UtilityLink:
+Position: "Top right"
+Style: "Minimal circular navigation cue"
+
+Typography:
+
+Display:
+Font: "Condensed Sans Serif"
+Weight: "ExtraBold"
+Style: "Oversized chapter numbers"
+Usage:
+- Chapter separators
+- Section dividers
+- Hero pages
+
+Heading:
+Font: "Modern Humanist Sans"
+Weight: "Light"
+Style: "Large editorial headlines"
+
+SectionTitle:
+Font: "Modern Sans Serif"
+Weight: "Medium"
+Style: "Clean report headings"
+
+Body:
+Font: "Professional Sans Serif"
+Weight: "Regular"
+Style: "Highly readable report text"
+
+DataLabel:
+Font: "Condensed Sans Serif"
+Weight: "Bold"
+Style: "Large numeric emphasis"
+
+Quote:
+Font: "Editorial Serif or Humanist Sans"
+Weight: "Regular"
+Style: "Executive insight quotations"
+
+Visual Elements:
+
+Photography:
+Style:
+- Corporate documentary
+- Technology environments
+- Architecture
+- Innovation spaces
+- Business professionals
+- Abstract light installations
+
+Treatment:
+- Full width hero imagery
+- High contrast
+- Editorial cropping
+- Immersive visual storytelling
+
+ImagePlacement:
+- Full-page background
+- Half-page visual panels
+- Large landscape strips
+- Embedded editorial imagery
+
+Data Visualization:
+
+Charts:
+Style: "Consulting report"
+
+Requirements:
+- Horizontal bar charts
+- Clean statistical graphics
+- Minimal gridlines
+- Strong emphasis on percentages
+- Generous spacing
+- Labels prioritized over decoration
+- Direct data interpretation
+
+Tables:
+Style:
+- Minimal borders
+- Editorial spacing
+- Report-quality formatting
+
+Content Blocks:
+
+InsightBox:
+Style:
+- Thin outline container
+- Generous padding
+- Highlight key message
+
+QuoteBlock:
+Style:
+- Large quotation mark
+- Editorial presentation
+- Positioned within photography
+
+Callout:
+Style:
+- Compact strategic takeaway
+- Visually separated from body text
+
+Pages:
+
+Cover:
+Layout:
+- Large feature image
+- Asymmetrical information panel
+- Strong visual contrast
+- Minimal text hierarchy
+
+ChapterDivider:
+Layout:
+- Oversized chapter number
+- Full-page photography
+- Minimal supporting text
+
+ExecutiveSummary:
+Layout:
+- Large headline
+- Summary modules
+- Editorial grid
+
+InsightPage:
+Layout:
+- Key takeaway box
+- Supporting narrative
+- Embedded image
+
+DataPage:
+Layout:
+- Large chart area
+- Interpretation section
+- Executive commentary
+
+ComparisonPage:
+Layout:
+- Multi-column statistics
+- Parallel visual hierarchy
+
+ClosingPage:
+Layout:
+- Large visual background
+- Resource or reference section
+- Minimal conclusion structure
+
+Design Principles:
+- Think like a global consulting report
+- Use photography to create emotion
+- Use data to create credibility
+- Use typography to create hierarchy
+- Prioritize executive readability
+- Maintain premium report aesthetics
+- Keep layouts calm and spacious
+- Balance storytelling with analytics
+- Emphasize insight over decoration

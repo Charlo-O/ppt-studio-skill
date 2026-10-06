@@ -1,0 +1,138 @@
+Design Style:
+Name: "Modern Oasis Brand System"
+Concept: "グリーンとイエローを軸にした、自然志向ブランドのためのモダンミニマルなブランドガイドラインデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Natural
+- Modern
+- Branding
+- Clean
+- Fresh
+- Premium
+- Structured
+
+Color Palette:
+Text:
+Primary: "#111111"
+Secondary: "#666666"
+Light: "#FFFFFF"
+
+Accent:
+Evergreen: "#005A32"
+MustardYellow: "#F2BE1A"
+SoftMint: "#D8E9D7"
+BrightRed: "#E61E24"
+
+Neutral:
+Cream: "#F7F5F0"
+WarmGray: "#D9D4CC"
+Black: "#1A1A1A"
+
+Typography:
+Heading:
+Font: "Modern Geometric Sans"
+Weight: "Bold"
+Style: "Large minimal sans-serif headlines"
+
+Display:
+Font: "Wide Condensed Sans Serif"
+Weight: "ExtraBold"
+Style: "Oversized numeric and section typography"
+
+Body:
+Font: "Minimal Grotesk Sans"
+Weight: "Regular"
+Style: "Compact structured brand guideline text"
+
+Caption:
+Font: "Thin Sans Serif"
+Weight: "Medium"
+Style: "Tiny navigation labels and annotations"
+
+Layout:
+Style:
+- Minimal brand guideline layout
+- Modular grid composition
+- Flat geometric structure
+- Spacious editorial balance
+- Structured branding system
+- Product-oriented presentation design
+- Scandinavian-inspired minimalism
+
+Grid:
+Columns: 12
+Margin: "Wide clean margins"
+Alignment: "Strict geometric alignment"
+Spacing: "Balanced whitespace"
+
+Composition:
+- Use large typography with strong spacing
+- Combine flat color blocks with product mockups
+- Arrange layouts inside modular rectangular grids
+- Keep large empty areas for visual calmness
+- Use oversized section numbers for hierarchy
+- Align all elements precisely to grid lines
+- Keep compositions minimal and structured
+
+Image Style:
+Treatment:
+- Minimal product photography
+- Lifestyle branding visuals
+- Natural material textures
+- Soft studio lighting
+- Neutral and earthy tones
+- Flat lay mockups
+- Modern e-commerce style imagery
+
+Graphic Elements:
+- Thin divider lines
+- Flat color palette blocks
+- Large numeric typography
+- Minimal logo showcase layouts
+- Structured typography samples
+- Modular image frames
+- Branding mockup presentations
+
+Slide Types:
+Logo Slide:
+Layout: "Large centered logo with flat color variations"
+
+Colour Slide:
+Layout: "Oversized section number with palette blocks"
+
+Typography Slide:
+Layout: "Font hierarchy showcase with clean spacing"
+
+Stationary Slide:
+Layout: "Business cards and letterhead mockup presentation"
+
+Merchandise Slide:
+Layout: "Minimal apparel and tote bag mockups"
+
+Social Media Slide:
+Layout: "Structured post and mobile preview layouts"
+
+App Slide:
+Layout: "Clean UI and app icon presentation"
+
+Photography Slide:
+Layout: "Editorial grid of lifestyle imagery"
+
+Closing Slide:
+Layout: "Minimal contact information with generous whitespace"
+
+Rules:
+- Do not use gradients
+- Do not use glossy or glassmorphism effects
+- Avoid complex 3D illustrations
+- Keep layouts flat, geometric, and minimal
+- Use green and yellow as primary accents
+- Maintain strong whitespace throughout
+- Prioritize alignment and typography hierarchy
+- Avoid excessive decoration or icons
+- Use product mockups as structured design elements
+- Keep overall feeling fresh, modern, and premium

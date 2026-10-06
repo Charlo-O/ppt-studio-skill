@@ -1,0 +1,207 @@
+Design Style:
+Name: "Minimal Character"
+
+Concept: >
+キャラクターブランドガイドライン、
+ミニマルロゴデザイン、
+ブランドスタイルガイド、
+Appleのシンプルさ、
+MUJI、
+LINEスタンプ、
+中国の新世代ブランドデザイン、
+フラットアイコンデザインから着想を得た
+キャラクター・ブランドシステム型エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+ブランドマニュアル、
+キャラクターデザインガイド、
+ビジュアルシステム、
+ブランドルックブックとして構成する。
+
+一匹のキャラクターを
+様々なポーズ、
+表情、
+シチュエーションで展開し、
+ブランドの世界観を構築する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Cute
+- Graphic
+- Premium
+- Contemporary
+- Playful
+- Clean
+- Iconic
+
+Temperature:
+Overall: Cool
+
+Background:
+Style: "Pure White"
+
+Color Palette:
+
+Primary:
+White: "#FAFAFA"
+Black: "#111111"
+
+Accent:
+Yellow: "#FFD400"
+
+Typography:
+
+Style:
+- Swiss Sans
+- Neo Grotesk
+- Brand Manual
+
+Heading:
+Weight: ExtraBold
+Case: Uppercase
+Scale: Large
+Alignment: Left
+
+Caption:
+Weight: Medium
+Size: Small
+
+Metadata:
+Weight: Regular
+Size: Tiny
+
+Layout:
+
+Structure: "Brand Card Grid"
+
+Composition:
+- Large page title
+- Uniform character cards
+- Wide white margins
+- Strict modular grid
+- Consistent spacing
+- Editorial hierarchy
+
+Grid:
+Modular
+Brand system
+
+Character:
+
+Style: "Minimal mascot"
+
+Characteristics:
+- One continuous black outline
+- White body
+- No fill details
+- Round eyes
+- Tiny mouth
+- Rounded silhouette
+- Simple anatomy
+- Highly recognizable shape
+- Friendly personality
+
+Construction:
+
+Rules:
+- Single line drawing
+- Uniform stroke width
+- No gradients
+- No shadows
+- No textures
+- No realistic anatomy
+- Maximum simplicity
+- Strong silhouette
+
+Shapes:
+- Blob
+- Oval
+- Circle
+- Curved line
+- Capsule
+
+Character Library:
+
+Variations:
+- Standing
+- Walking
+- Sitting
+- Sleeping
+- Jumping
+- Dancing
+- Stretching
+- Hugging
+- Looking
+- Waving
+- Thinking
+- Celebrating
+
+Graphic Elements:
+- Brand cards
+- Registration marks
+- Tiny labels
+- Logo placement
+- Minimal dividers
+- Simple icons
+
+Rendering:
+
+Style:
+- Flat vector
+- Brand guideline
+- Clean print
+- Icon design
+
+Whitespace:
+Very Large
+
+Slide Variations:
+- Character overview
+- Pose library
+- Expression library
+- Motion study
+- Brand guideline
+- Sticker sheet
+- Character evolution
+- Cover page
+- Closing brand poster
+
+Composition Rules:
+- 1スライド＝1つのブランドテーマ
+- キャラクターをブランド資産として扱う
+- 余白を大胆に使う
+- 線は均一な太さで描く
+- 色は白・黒を基本としアクセントカラーは最小限
+- レイアウトは厳密なグリッドで統一する
+- キャラクターはシンプルなポーズだけで感情を表現する
+- 写真や装飾は使用しない
+- プレゼンではなくブランドガイドラインとして見せる
+
+Design Keywords:
+- Brand Identity
+- Character System
+- Swiss Design
+- Minimal Mascot
+- Logo Design
+- Visual Identity
+- Editorial Grid
+- Flat Illustration
+- Icon Design
+- Brand Manual
+- Modern Graphic Design
+- Character Library
+
+Avoid:
+- Photorealism
+- 3D graphics
+- Gradients
+- Heavy shadows
+- Textures
+- Decorative illustrations
+- Complex backgrounds
+- Corporate PowerPoint layouts
+- Dense information
+- Inconsistent line weights

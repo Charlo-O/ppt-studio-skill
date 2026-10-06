@@ -1,0 +1,135 @@
+Design Style:
+Name: "Minimal Luxury Brand Strategy"
+Concept: "高級スキンケアブランドやファッションブランドの戦略資料をベースにした、静かで洗練されたエディトリアルデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Luxury
+- Minimal
+- Editorial
+- Calm
+- Strategic
+- Sophisticated
+- Neutral
+- Modern
+
+Color Palette:
+Text:
+Primary: "#111111"
+Secondary: "#666666"
+Light: "#FFFFFF"
+
+Accent:
+DeepRed: "#D61F1F"
+DarkForest: "#183126"
+SoftSage: "#DDE7D5"
+WarmGray: "#D8D4CC"
+
+Neutral:
+Cream: "#F5F3EE"
+LightGray: "#ECEAE5"
+Charcoal: "#1B1B1B"
+
+Typography:
+Heading:
+Font: "Modern Geometric Sans"
+Weight: "Bold"
+Style: "Large clean sans-serif headlines"
+
+Display:
+Font: "Wide Condensed Sans Serif"
+Weight: "ExtraBold"
+Style: "Oversized luxury editorial typography"
+
+Body:
+Font: "Minimal Grotesk Sans"
+Weight: "Regular"
+Style: "Compact premium editorial body copy"
+
+Caption:
+Font: "Condensed Sans Serif"
+Weight: "Medium"
+Style: "Tiny navigation labels and annotations"
+
+Layout:
+Style:
+- Luxury editorial presentation
+- Minimal brand strategy layout
+- Structured modular composition
+- Large whitespace balance
+- Magazine-inspired storytelling
+- High-end branding proposal style
+- Calm geometric design system
+
+Grid:
+Columns: 12
+Margin: "Wide premium spacing"
+Alignment: "Strict editorial alignment"
+Spacing: "Balanced negative space"
+
+Composition:
+- Use large typography with generous spacing
+- Combine editorial photography with minimal text blocks
+- Arrange content in modular rectangular grids
+- Keep layouts highly minimal and calm
+- Use asymmetrical balance with strong rhythm
+- Place tiny labels at corners and edges
+- Use accent colors only for highlights and key metrics
+
+Image Style:
+Treatment:
+- Luxury skincare photography
+- Fashion editorial imagery
+- Neutral muted tones
+- Soft cinematic lighting
+- Minimal product photography
+- Monochrome lifestyle portraits
+- Clean cropped compositions
+
+Graphic Elements:
+- Thin divider lines
+- Minimal charts and labels
+- Bold oversized typography
+- Small navigation text
+- Modular image blocks
+- Minimal statistics highlights
+- Flat color panels
+
+Slide Types:
+Cover Slide:
+Layout: "Minimal centered logo and oversized typography"
+
+Mission Slide:
+Layout: "Editorial text composition with calm imagery"
+
+Customer Experience Slide:
+Layout: "Horizontal modular image strip with refined text"
+
+Strategy Slide:
+Layout: "Large image block with clean information structure"
+
+Color & Logo Slide:
+Layout: "Flat palette showcase with minimal logo presentation"
+
+Content Marketing Slide:
+Layout: "Large typography with metrics and editorial image"
+
+Discovery Slide:
+Layout: "Dark editorial layout with strategic statement"
+
+Closing Slide:
+Layout: "Minimal thank-you composition with luxury whitespace"
+
+Rules:
+- Do not use gradients
+- Do not use glossy effects
+- Avoid corporate infographic styling
+- Maintain strong whitespace throughout
+- Use accent red sparingly for emphasis
+- Keep layouts geometric and editorial
+- Prioritize typography hierarchy over decoration
+- Use photography as modular design elements
+- Avoid rounded cards and excessive icons
+- Keep overall feeling premium, calm, and strategic

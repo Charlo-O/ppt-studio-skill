@@ -1,0 +1,176 @@
+Design Style:
+Name: "Playful Engineering Handbook"
+Concept: "エンジニア採用資料・技術広報資料向けの、図解とイラストを活用した親しみやすいテックプレゼンテーション"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+
+* Engineering
+* Startup
+* Friendly
+* Playful
+* Technical
+* Transparent
+* Human
+* Modern
+
+Color Palette:
+Background:
+Base: "White"
+
+Accent:
+Mint: "Bright Mint Green"
+Pink: "Soft Pink"
+Yellow: "Warm Yellow"
+Cyan: "Turquoise"
+Orange: "Soft Orange"
+
+Text:
+Primary: "Pure Black"
+Secondary: "Dark Gray"
+
+Typography:
+Heading:
+Font: "Bold Condensed Sans Serif"
+Weight: "ExtraBold"
+Style: "large, impactful, startup style"
+
+Body:
+Font: "Clean Japanese Sans Serif"
+Weight: "Regular"
+
+Label:
+Font: "Bold Sans Serif"
+Weight: "Bold"
+
+Layout:
+Structure:
+- Engineering handbook format
+- Recruiting presentation style
+- One message per slide
+- Illustration-driven storytelling
+- Diagram-centric communication
+- Strong visual hierarchy
+
+Grid:
+Columns: 12
+Margins: "Wide"
+
+Composition:
+- Large headline at top
+- Visual explanation in center
+- Minimal supporting text
+- Strong use of whitespace
+- Cartoon annotations
+- Callout boxes and speech balloons
+
+Navigation:
+
+* Small section number in corner
+* Minimal page number
+* Consistent chapter system
+
+Slide Types:
+
+Cover:
+- Large mission statement
+- Simple branding
+- Clean white background
+
+Vision:
+- Large typography
+- One key message
+- Supporting illustration
+
+Product Introduction:
+- Step-by-step flow diagrams
+- Device mockups
+- Simple explanatory labels
+
+Feature Overview:
+- Product screenshots
+- Process arrows
+- Callout annotations
+
+Technical Architecture:
+- System diagrams
+- Infrastructure maps
+- Platform relationships
+- Network visualizations
+
+Team Structure:
+- Organizational diagrams
+- Squad model visualizations
+- Cross-functional workflow
+
+Engineering Culture:
+- Principle cards
+- Simple illustrations
+- Culture explanations
+
+Technology Stack:
+- Technology logo grid
+- Categorized framework lists
+- Minimal technical tables
+
+Hiring:
+- Employee introduction cards
+- Career path explanations
+- Recruiting messages
+
+Visual Elements:
+
+Illustrations:
+Style:
+- Hand-drawn
+- Friendly
+- Mascot-based
+- Cartoon annotations
+- Informal visual language
+
+Speech Balloons:
+Usage:
+- Explain diagrams
+- Highlight insights
+- Add personality
+- Humanize technical content
+
+Diagrams:
+Style:
+- Simple
+- Black outlines
+- Color-coded categories
+- Easy-to-understand structure
+
+Device Mockups:
+- Smartphone screens
+- App flows
+- Product walkthroughs
+
+Charts:
+Style:
+- Flat design
+- Minimal decoration
+- Large labels
+- Strong contrast
+
+Brand Personality:
+
+* Engineering-first
+* Friendly and open
+* Transparent
+* Community-oriented
+* Product-driven
+* Playful but professional
+
+Rules:
+
+* One key message per slide
+* Prefer diagrams over paragraphs
+* Use illustrations to simplify concepts
+* Keep layouts highly readable
+* Avoid corporate stiffness
+* Make technical topics approachable
+* Use visual storytelling throughout

@@ -1,0 +1,132 @@
+Design Style:
+Name: "Neon Signboard"
+
+Concept: >
+東京の繁華街、
+昭和レトロ看板、
+ネオンサイン、
+サイバーパンク、
+夜の商店街、
+LEDアート、
+アーケード看板文化から着想を得た
+ネオンサイン型インフォグラフィックデザイン。
+
+スライド全体を
+夜の街に並ぶ巨大な看板群として構成する。
+
+テキストは文章ではなく
+発光するネオンサインとして扱う。
+
+情報は説明資料ではなく、
+夜の都市空間に浮かぶ
+光の広告として表現する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Neon
+- Energetic
+- Urban
+- Futuristic
+- Retro
+- Electric
+- Playful
+- Nightlife
+
+Temperature:
+Overall: High Contrast
+
+Background:
+Type: Deep Black
+
+Color Palette:
+Neon:
+ElectricBlue: "#00B7FF"
+NeonPink: "#FF3BC8"
+NeonRed: "#FF4040"
+NeonYellow: "#FFE600"
+NeonGreen: "#B8FF45"
+PureWhite: "#FFFFFF"
+NeonPurple: "#A855FF"
+NeonOrange: "#FF8A00"
+
+Typography:
+Style:
+- Neon tube lettering
+- Japanese signboard typography
+- Vertical signage
+- Light-outline typography
+- Retro advertising lettering
+
+Characteristics:
+- Glowing edges
+- Rounded corners
+- Hollow letterforms
+- Signboard framing
+- Bright illuminated strokes
+
+Layout:
+Composition:
+- Dense poster composition
+- Vertical sign structures
+- Layered signage
+- Asymmetrical arrangement
+- Floating neon elements
+- Packed urban landscape
+
+Structure:
+- Central hero sign
+- Multiple secondary signs
+- Decorative corner elements
+- Hanging signboards
+- City-night atmosphere
+
+Visual Elements:
+Objects:
+- Neon frames
+- Light tubes
+- Arrows
+- Stars
+- Hearts
+- Sparks
+- Geometric signs
+- Circular icons
+- Decorative symbols
+
+Patterns:
+- Dotted light rows
+- Neon borders
+- Signboard grids
+- Light bursts
+
+Effects:
+Lighting:
+- Strong neon glow
+- Bloom effect
+- Colored light spill
+- Soft halo
+- Multi-layer illumination
+
+Surface:
+- Dark night background
+- High contrast lighting
+- Glass-tube appearance
+
+Image Style:
+Treatment:
+- Minimal photography
+- Icon-driven
+- Symbol-based
+- Vector illustration
+- Signboard graphics
+
+Design Rules:
+- Use black background exclusively.
+- Every major element should appear illuminated.
+- Simulate real neon tube construction.
+- Prefer symbols and signage over traditional diagrams.
+- Create a crowded urban signboard feeling.
+- Combine retro Japanese aesthetics with cyberpunk energy.
+- Make the slide feel like a neon street at night.
+- Use glow as a primary visual language.

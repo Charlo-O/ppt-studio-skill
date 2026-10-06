@@ -1,0 +1,206 @@
+Design Style:
+Name: "Neo Swiss"
+
+Concept: >
+スイス・モダニズム、
+インフォメーションデザイン、
+科学図鑑、タイムテーブル、
+アーカイブ資料、実験的ポスターから着想を得た
+データ駆動型エディトリアルデザイン。
+
+情報を単なる説明ではなく、
+「視覚的な構造物」として再構築する。
+
+数字、図表、記号、タイポグラフィを
+幾何学的に配置し、
+知性と遊び心が共存する世界観を生み出す。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Intelligent
+- Analytical
+- Experimental
+- Precise
+- Editorial
+- Contemporary
+- Optimistic
+- Systematic
+
+Temperature:
+Overall: Cool
+
+Color Palette:
+Background:
+PaperWhite: "#F8F7F3"
+
+Primary:
+NeonPink: "#FF4FC3"
+AcidYellow: "#E7FF38"
+CyanBlue: "#72D7FF"
+
+Secondary:
+Black: "#111111"
+
+Accent:
+LightGray: "#DADADA"
+White: "#FFFFFF"
+
+Typography:
+Headlines:
+Style: >
+スイスグロテスク系サンセリフ。
+
+Helvetica、Univers、
+Akzidenz-Groteskを想起させる
+無機質で機能的な印象。
+
+文字そのものを図形として扱う。
+
+Weight: 700-900
+Case: Uppercase preferred
+Tracking: Tight
+Scale: Oversized
+
+Secondary:
+Style: >
+細身のサンセリフ。
+
+注釈、分類情報、
+データラベルとして使用する。
+
+Weight: 300-500
+Tracking: Slightly Wide
+
+Numbers:
+Style: >
+数字は主役として扱い、
+ページ全体を横断するほど
+大胆に拡大する。
+
+Weight: 800-900
+Scale: Monumental
+
+Body:
+Weight: 400
+LineHeight: 1.2-1.4
+
+Layout:
+Structure: >
+厳密なモジュラーグリッドを採用し、
+情報を体系的に整理する。
+
+ただし、
+巨大な数字やタイポグラフィによって
+グリッドを部分的に越境させ、
+実験性を加える。
+
+Composition:
+- Modular grid
+- Information hierarchy
+- Oversized numerals
+- Typographic layering
+- Structured asymmetry
+- Diagrammatic layouts
+- Data callouts
+- Editorial whitespace
+
+Alignment:
+Preference: Grid-first
+ControlledChaos: Low
+
+Graphic Elements:
+Shapes:
+- Circles
+- Measurement lines
+- Data tables
+- Timelines
+- Grid systems
+- Registration marks
+- Rule lines
+- Rectangular panels
+
+Symbols:
+- Technical notations
+- Arrows
+- Coordinate markers
+- Crosshairs
+- Scientific labels
+- Diagram indicators
+
+Decorative Rules:
+- Every decorative element should imply function.
+- Ornament should emerge from information systems.
+- Avoid purely decorative illustrations.
+- Use repetition to establish rhythm.
+
+Imagery:
+Style: >
+写真や図版は、
+学術資料やアーカイブ標本のように扱う。
+
+オブジェクトは切り抜き、
+データと同等の情報要素として配置する。
+
+Treatment:
+- High contrast cutouts
+- Minimal shadows
+- Flat reproduction
+- Technical labeling
+- Archive aesthetic
+- Editorial integration
+
+Subjects:
+- Scientific specimens
+- Historical artifacts
+- Everyday objects
+- Charts and diagrams
+- Educational references
+- Classification systems
+
+Background:
+Style: >
+白い紙面をベースに、
+グリッドや罫線を露出させる。
+
+ネオンピンク、
+アシッドイエロー、
+シアンブルーの色面を
+情報の分類装置として使用する。
+
+Effects:
+Texture:
+Smooth offset print texture
+Slight paper grain
+Archive reproduction feel
+
+Shadow:
+None
+
+Depth:
+Flat editorial layering
+
+Distortion:
+Precise and controlled
+
+Visual Rules:
+- Use white space generously.
+- Typography and data should dominate imagery.
+- Use oversized numbers as anchor points.
+- Restrict each slide to one dominant accent color.
+- Expose the underlying grid whenever possible.
+- Treat diagrams as visual storytelling devices.
+- Balance precision with experimentation.
+- Design for clarity at mobile viewing sizes.
+
+Exclusions:
+- Corporate presentation templates
+- Photorealistic lifestyle photography
+- Glassmorphism
+- Heavy gradients
+- Organic doodles
+- Decorative serif typography
+- Skeuomorphic effects
+- Excessive visual clutter
+- Luxury branding aesthetics

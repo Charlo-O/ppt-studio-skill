@@ -1,0 +1,223 @@
+Design Style:
+Name: "Naive Zine"
+
+Concept: >
+インディーズZINE、
+子どもの落書き、
+90年代の自主制作コミック、
+レコードジャケット、
+小さなアートブックから着想を得た
+素朴で詩的なエディトリアルデザイン。
+
+完璧ではない線、
+余白、
+ささやかなユーモアを通じて、
+「上手ではないからこそ伝わる感情」を大切にする。
+
+情報を説明するのではなく、
+誰かのノートを偶然のぞき込んだような
+親密な体験をつくる。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Naive
+- Gentle
+- Playful
+- Poetic
+- Handmade
+- Intimate
+- Nostalgic
+- Optimistic
+
+Temperature:
+Overall: Soft
+
+Color Palette:
+Background:
+CreamWhite: "#F7F4EE"
+
+Primary:
+InkBlack: "#111111"
+
+Secondary:
+BubblePink: "#F46EB6"
+SkyBlue: "#82D6F7"
+LemonYellow: "#F3DE53"
+
+Accent:
+Lavender: "#C5A6E8"
+MintGreen: "#B7D98B"
+White: "#FFFFFF"
+
+Color Rules:
+MaximumColorsPerSlide: 3
+FlatColorsOnly: true
+
+Typography:
+Headlines:
+Style: >
+子どものサインペンで書いたような
+不揃いの手描きレタリング。
+
+大文字・小文字を自由に混在させ、
+「整いすぎない魅力」を残す。
+
+Weight: Hand-drawn
+Tracking: Organic
+Scale: Large but casual
+
+Secondary:
+Style: >
+ノートの余白に書き込まれたような
+素朴な手書き文字。
+
+キャプションや短いメッセージとして使用する。
+
+Weight: Variable
+
+Body:
+Weight: 400
+LineHeight: 1.4-1.6
+
+Layout:
+Structure: >
+小さなZINEのページや
+ステッカーコレクションを思わせる
+タイル型レイアウト。
+
+1つのスライドに
+1つのイラストと1つの短いメッセージを配置し、
+呼吸するような余白を確保する。
+
+Composition:
+- Simple framed panels
+- Generous white space
+- Centered illustrations
+- Handwritten captions
+- Poster-like simplicity
+- Sticker arrangements
+- Visual pauses
+- Quiet asymmetry
+
+Alignment:
+Preference: Centered
+ControlledChaos: Low
+
+Graphic Elements:
+Shapes:
+- Hand-drawn frames
+- Rounded rectangles
+- Puffy clouds
+- Simple stars
+- Tiny hearts
+- Wavy lines
+- Imperfect circles
+- Border doodles
+
+Symbols:
+- Ghosts
+- Mountains
+- Fish
+- Eggs
+- Suns
+- Skulls
+- Friendly monsters
+- Tiny animals
+
+Decorative Rules:
+- Embrace imperfection.
+- Keep illustrations simple.
+- Use decoration sparingly.
+- Allow empty space to carry emotion.
+
+Patterns:
+Style:
+- Minimal doodles
+- Hand-drawn textures
+- Irregular borders
+- Tiny repeating icons
+
+Imagery:
+Style: >
+子どもの絵のような
+単純で素朴なキャラクターを描く。
+
+少しシュールで、
+少し寂しく、
+だけどどこか優しい存在として表現する。
+
+技術的な完成度よりも、
+感情の温度を優先する。
+
+Treatment:
+- Thick black outlines
+- Flat color fills
+- Minimal detail
+- Imperfect proportions
+- Visible hand-drawn quality
+- Simple facial expressions
+
+Subjects:
+- Friendly ghosts
+- Quiet monsters
+- Tiny people
+- Fish
+- Mountains
+- Toast
+- Everyday objects
+- Symbolic creatures
+
+Character Design Rules:
+- Favor awkward charm over polish.
+- Use simple dot eyes and tiny mouths.
+- Keep anatomy intentionally imperfect.
+- Let characters express subtle emotions.
+- Preserve innocence and humor.
+- Avoid complexity.
+
+Background:
+Style: >
+単色のパステル背景を
+小さなポスターのように切り替える。
+
+黒背景も時折使用し、
+イラストを静かに浮かび上がらせる。
+
+Effects:
+Texture:
+Slight paper grain
+Marker unevenness
+Handmade imperfections
+
+Shadow:
+None
+
+Depth:
+Flat zine layering
+
+Distortion:
+Natural hand wobble
+Uneven line quality
+
+Visual Rules:
+- Limit each slide to one illustration and one short message.
+- Preserve generous breathing room.
+- Use hand-drawn typography consistently.
+- Let awkwardness become a strength.
+- Balance melancholy with warmth.
+- Avoid visual noise.
+- Prioritize emotional connection over precision.
+- Design for intimate reading experiences.
+
+Exclusions:
+- Corporate presentation aesthetics
+- Glassmorphism
+- Photorealistic imagery
+- Smooth gradients
+- Complex 3D rendering
+- Luxury branding
+- Hyper-detailed illustration
+- Aggressive advertising aesthetics
+- Excessive information density

@@ -1,0 +1,123 @@
+Design Style:
+Name: "Watercolor Spring"
+
+Concept: >
+春の花々をモチーフにした
+水彩ボタニカルデザイン。
+
+桜、
+野花、
+花びら、
+小さな昆虫を
+水彩タッチで描き、
+優しく上品な世界観を表現する。
+
+女性向けブランド、
+教育、
+コミュニティ、
+ライフスタイル、
+ウェルビーイング、
+子ども向け教材に適したデザイン。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Soft
+- Elegant
+- Feminine
+- Natural
+- Spring
+- Educational
+- Calm
+- Editorial
+
+Color Palette:
+
+Background:
+Primary: "#F2F7F5"
+Watercolor: "#E8F2F0"
+
+Text:
+Primary: "#0F4F2D"
+Secondary: "#315C49"
+
+Accent:
+BlossomPink: "#F26A7D"
+SoftPink: "#F6C8D3"
+Lavender: "#B8AED8"
+Sage: "#8FB38D"
+Gold: "#C8A15A"
+
+Illustration:
+
+Style:
+Botanical Watercolor
+
+Rendering:
+Hand painted
+Watercolor texture
+Soft edges
+Organic composition
+
+Subjects:
+- Cherry blossom
+- Wild flowers
+- Flower buds
+- Petals
+- Butterflies
+- Dragonflies
+- Garden plants
+
+Typography:
+
+Headings:
+Style: Elegant Serif
+Weight: 400
+
+Body:
+Style: Humanist Sans
+Weight: 300-400
+
+Layout:
+
+Structure:
+- Large centered titles
+- Generous whitespace
+- Minimal content blocks
+- Floral corner framing
+
+Components:
+
+Cover:
+- Large title
+- Floral frame
+- Watercolor background
+
+Section Divider:
+- Large section number
+- Corner flowers
+
+Content:
+- Editorial text layout
+- Clean hierarchy
+
+Closing:
+- Centered thank you slide
+- Decorative botanical border
+
+Effects:
+
+Background:
+Watercolor paper texture
+
+Shadows:
+None
+
+Rules:
+- Use watercolor flowers only
+- Avoid geometric illustrations
+- Maintain elegant white space
+- Use floral framing around slide edges
+- Keep content centered and calm
+- Suitable for education, wellness, community, culture, sustainability, parenting and lifestyle presentations

@@ -1,0 +1,129 @@
+Design Style:
+Name: "Neo Editorial Brand System"
+Concept: "ブランドガイドラインブックのような、洗練されたモダンエディトリアルデザイン。大胆なタイポグラフィとネオングリーンをアクセントにした構成"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Editorial
+- Minimal
+- Luxury
+- Contemporary
+- Structured
+- Fashion
+- Clean
+- Premium
+
+Color Palette:
+Text:
+Primary: "#111111"
+Secondary: "#666666"
+Light: "#FFFFFF"
+
+Accent:
+NeonGreen: "#9BFF2E"
+Olive: "#6D7550"
+WarmGray: "#D9D6CE"
+SoftBlack: "#242220"
+
+Neutral:
+Beige: "#EFEDE6"
+LightGray: "#E8E8E8"
+BorderGray: "#D0D0D0"
+
+Typography:
+Heading:
+Font: "Elegant Editorial Serif"
+Weight: "Bold"
+Style: "Large sophisticated editorial headlines"
+
+Display:
+Font: "Condensed Sans Serif"
+Weight: "ExtraBold"
+Style: "Huge uppercase condensed typography"
+
+Body:
+Font: "Modern Grotesk Sans"
+Weight: "Regular"
+Style: "Small refined editorial body copy"
+
+Caption:
+Font: "Minimal Sans Serif"
+Weight: "Medium"
+Style: "Tiny uppercase labels and navigation text"
+
+Layout:
+Style:
+- Editorial publishing layout
+- Modular grid composition
+- Strong whitespace
+- Clean rectangular image framing
+- Asymmetrical balance
+- Minimal luxury aesthetic
+- Brand guideline document style
+
+Grid:
+Columns: 12
+Margin: "Wide editorial spacing"
+Alignment: "Strict geometric alignment"
+Spacing: "Open and breathable"
+
+Composition:
+- Use oversized typography with elegant spacing
+- Combine serif headlines and condensed sans-serif titles
+- Arrange images inside modular rectangular grids
+- Use small navigation text at top edges
+- Keep large empty areas for visual calmness
+- Align all elements precisely to grid lines
+- Use accent color only for emphasis blocks or keywords
+
+Image Style:
+Treatment:
+- Fashion editorial photography
+- Soft natural lighting
+- Muted tones
+- Minimal compositions
+- Luxury campaign visuals
+- Occasional monochrome photography
+- Tight crop portraits mixed with wide editorial shots
+
+Graphic Elements:
+- Thin divider lines
+- Small navigation headers
+- Editorial page markers
+- Modular image frames
+- Minimal data blocks
+- Large typography compositions
+- Accent-color rectangles and bars
+
+Slide Types:
+Cover Slide:
+Layout: "Large editorial title with modular image strip"
+
+Brand Overview Slide:
+Layout: "Minimal text blocks with luxury photography"
+
+Portfolio Slide:
+Layout: "Grid-based image showcase with editorial captions"
+
+System Slide:
+Layout: "Large typographic statement with supporting visuals"
+
+Content Slide:
+Layout: "Structured list with refined editorial spacing"
+
+Thank You Slide:
+Layout: "Minimal centered composition with elegant whitespace"
+
+Rules:
+- Do not use gradients
+- Do not use glossy UI effects
+- Avoid corporate infographic styling
+- Use strong whitespace throughout
+- Keep compositions calm and structured
+- Maintain editorial magazine aesthetics
+- Use accent green sparingly for impact
+- Prioritize typography hierarchy over decoration
+- Avoid rounded cards and soft shadows
+- Keep layouts geometric, clean, and luxurious

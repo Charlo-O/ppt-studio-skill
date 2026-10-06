@@ -1,0 +1,185 @@
+Design Style:
+Name: "Monochrome Editorial Minimal"
+Concept: "モノクロ写真と極太コンデンスフォントを組み合わせた、雑誌風のミニマル・エディトリアルプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Minimal
+- Editorial
+- Monochrome
+- Fashion
+- Modern
+- Clean
+- Bold
+- Magazine Inspired
+
+Color Palette:
+Background:
+Main: "#F4F4F2"
+SoftGray: "#E7E7E5"
+White: "#FFFFFF"
+
+Text:
+Primary: "#1A1A1A"
+Secondary: "#5C5C5C"
+Light: "#FFFFFF"
+
+Accent:
+DarkGray: "#2A2A2A"
+Charcoal: "#3A3A3A"
+Olive: "#8C8A63"
+
+Neutral:
+Gray: "#CFCFCB"
+LightGray: "#E8E8E8"
+
+Typography:
+Heading:
+Font: "Ultra Condensed Sans"
+Weight: "800-900"
+Style:
+- "bold condensed titles"
+- "editorial magazine typography"
+- "uppercase headlines"
+- "high contrast layout"
+
+Body:
+Font: "Modern Sans Serif"
+Weight: "400-500"
+Style:
+- "minimal paragraph spacing"
+- "clean editorial readability"
+- "small elegant captions"
+
+Caption:
+Font: "Condensed Sans"
+Weight: "500"
+
+Layout:
+Overall:
+- "large negative space"
+- "clean editorial structure"
+- "modular image composition"
+- "asymmetric balance"
+- "minimalist magazine layout"
+
+Grid:
+Columns: "2-4 flexible columns"
+Margin: "wide margins"
+Alignment: "left aligned"
+
+Images:
+Style:
+- "black and white photography"
+- "fashion editorial portraits"
+- "soft grain texture"
+- "high contrast monochrome"
+- "minimal documentary photography"
+
+Shape Language:
+Main:
+- "solid rectangular blocks"
+- "horizontal dividers"
+- "thin vertical lines"
+- "minimal framing"
+- "boxed image compositions"
+
+Decorative Elements:
+Style:
+- "thin separators"
+- "small page numbering"
+- "minimal labels"
+- "tiny editorial captions"
+- "subtle geometric bars"
+
+Slide Types:
+Cover:
+Layout:
+- "huge centered condensed title"
+- "minimal subtitle"
+- "extreme whitespace"
+- "editorial cover composition"
+Style:
+- "fashion magazine cover"
+- "clean monochrome branding"
+
+Introduction:
+Layout:
+- "large title on left"
+- "portrait image on right"
+- "small supporting paragraph"
+- "minimal editorial spacing"
+
+VisionMission:
+Layout:
+- "split layout"
+- "large condensed headline"
+- "small monochrome images"
+- "minimal text blocks"
+
+Portfolio:
+Layout:
+- "gallery style composition"
+- "stacked photography blocks"
+- "large bold headline"
+- "editorial image rhythm"
+
+Product:
+Layout:
+- "multiple cropped photos"
+- "horizontal image strip"
+- "large typography emphasis"
+- "minimal captions"
+
+Team:
+Layout:
+- "3-column portrait grid"
+- "center aligned faces"
+- "minimal profile details"
+- "large title header"
+
+Feedback:
+Layout:
+- "quote and testimonial cards"
+- "small portrait thumbnails"
+- "editorial review structure"
+
+Contact:
+Layout:
+- "large monochrome image"
+- "big bold contact title"
+- "minimal footer line"
+- "clean whitespace"
+
+TableOfContents:
+Layout:
+- "two-column menu layout"
+- "minimal section listing"
+- "large bold heading"
+- "editorial navigation feel"
+
+Infographics:
+Style:
+- "minimal text-first charts"
+- "simple dividers"
+- "editorial table layouts"
+- "clean monochrome hierarchy"
+
+Buttons:
+Style:
+- "minimal outlined buttons"
+- "small editorial labels"
+- "clean rectangular UI"
+
+Rules:
+
+- "背景はライトグレーを基調にする"
+- "写真はモノクロのみ使用する"
+- "タイトルは極太コンデンスフォントを使用する"
+- "余白を大きく取り、雑誌のようなレイアウトにする"
+- "文字組みは大胆かつミニマルにする"
+- "装飾は最小限に抑える"
+- "細いラインと矩形ブロックで構成する"
+- "ファッションブランドのルックブックのような雰囲気にする"

@@ -1,0 +1,224 @@
+Design Style:
+Name: "Playful Creature"
+
+Concept: >
+北欧絵本、
+幼児向け知育教材、
+Montessori、
+Bauhaus、
+手描きイラスト、
+ミッドセンチュリーデザイン、
+幾何学図形、
+教育ポスターから着想を得た
+シェイプクリーチャー図鑑型エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+「図形が生き物になる」
+子ども向けデザイン図鑑、
+アートポスター、
+図形あそび絵本として構成する。
+
+円、
+四角、
+三角、
+楕円など、
+一つの図形から
+一匹のキャラクターを生み出す。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Cute
+- Educational
+- Friendly
+- Handmade
+- Scandinavian
+- Minimal
+- Playful
+- Soft
+
+Temperature:
+Overall: Warm
+
+Background:
+Style: "Paper White"
+
+Color:
+White: "#FAF9F6"
+
+Texture:
+- Light paper grain
+- Soft watercolor paper
+- Matte finish
+
+Color Palette:
+
+Primary:
+ButterYellow: "#F7E95C"
+SkyBlue: "#AFC9F7"
+CoralPink: "#F78A93"
+AquaBlue: "#68C5CF"
+LavenderGray: "#C9CDD9"
+BabyPink: "#F6B8DA"
+
+Neutral:
+Black: "#1B1B1B"
+White: "#FFFFFF"
+
+Typography:
+
+Style:
+- Handwritten Sans
+- Children's Book
+- Minimal Editorial
+
+Heading:
+Weight: Medium
+Scale: Medium
+
+Caption:
+Weight: Regular
+Size: Small
+Style: Handwritten
+
+Layout:
+
+Structure: "Educational Illustration"
+
+Composition:
+- One geometric creature
+- Shape name or concept label
+- Large white margins
+- Floating composition
+- Picture-book balance
+
+Illustration:
+
+Style: "Hand-drawn geometric animals"
+
+Characteristics:
+- Thin black outline
+- Soft watercolor fills
+- Slightly imperfect lines
+- Tiny dot eyes
+- Small smiling mouth
+- Gentle personality
+- Childlike charm
+- Friendly proportions
+
+Construction:
+
+Base Shapes:
+- Circle
+- Square
+- Rectangle
+- Triangle
+- Oval
+- Capsule
+- Diamond
+- Parallelogram
+- Semicircle
+
+Rules:
+- One primary geometric shape forms the body
+- Small hand-drawn legs
+- Tiny ears
+- Simple trunk, tail or beak
+- Thin consistent outlines
+- Flat soft colors
+- No gradients
+- Minimal internal details
+
+Characters:
+
+Subjects:
+- Elephant
+- Rabbit
+- Bear
+- Cat
+- Dog
+- Bird
+- Fox
+- Penguin
+- Fish
+- Dinosaur
+- Turtle
+- Original creatures
+
+Graphic Elements:
+- Tiny dots
+- Small motion lines
+- Handwritten labels
+- Shape indicators
+- Simple arrows
+- Minimal decorative marks
+
+Rendering:
+
+Style:
+- Flat illustration
+- Watercolor print
+- Children's book
+- Scandinavian educational poster
+
+Image Treatment:
+
+Texture:
+- Soft watercolor bleed
+- Paper grain
+- Slight pencil wobble
+
+Shadows:
+None
+
+Whitespace:
+Very Large
+
+Slide Variations:
+- Shape encyclopedia
+- Animal transformation
+- Shape comparison
+- Character lineup
+- Educational flashcard
+- Picture-book spread
+- Shape family
+- Poster illustration
+- Closing illustration
+
+Composition Rules:
+- 1スライド1図形
+- 1スライド1キャラクター
+- 図形が主役になる構成にする
+- 線は細く手描き感を残す
+- 色数は2〜4色程度に抑える
+- キャラクターはシンプルで親しみやすくする
+- 大きな余白を活かす
+- 子ども向け図鑑のような優しい雰囲気を保つ
+- 全体を知育ポスターシリーズとして統一する
+
+Design Keywords:
+- Scandinavian Illustration
+- Shape Animals
+- Montessori
+- Children's Book
+- Geometric Character
+- Educational Poster
+- Bauhaus
+- Mid-century Modern
+- Minimal Illustration
+- Hand Drawn
+- Soft Watercolor
+- Picture Book
+
+Avoid:
+- Photorealism
+- 3D graphics
+- Thick outlines
+- Hard shadows
+- Gradients
+- Complex anatomy
+- Dense layouts
+- Corporate presentation style
+- Heavy textures
+- Overly detailed illustrations

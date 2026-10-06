@@ -1,0 +1,224 @@
+Design Style:
+  Name: "Mediterranean Editorial"
+
+  Concept: >
+    地中海建築、ミニマル建築写真集、
+    建築スタジオのポートフォリオ、
+    高級ライフスタイル誌のエディトリアルから着想を得た
+    静謐で洗練されたプレゼンテーションデザイン。
+
+    白い壁、アーチ、階段、開口部を
+    抽象化された建築モチーフとして扱い、
+    「余白」「光」「空気感」によって
+    思考の整理と知性を表現する。
+
+    情報を装飾するのではなく、
+    空間としてデザインすることで、
+    落ち着きと上質さを両立した世界観を構築する。
+
+Canvas:
+  Ratio: "16:9"
+
+Mood:
+    - Minimal
+    - Architectural
+    - Calm
+    - Elegant
+    - Editorial
+    - Timeless
+    - Premium
+    - Intelligent
+
+Color Palette:
+  Background:
+    Primary: "#FAFAF8"
+
+  Architecture:
+    White: "#FFFFFF"
+    LightGray: "#ECEFF3"
+
+  Accent:
+    MediterraneanBlue: "#1F5FAE"
+    SkyBlue: "#BFD8F3"
+
+  Nature:
+    CypressGreen: "#4E6B54"
+
+  Text:
+    Primary: "#18335C"
+    Secondary: "#5F6775"
+
+  Shadow:
+    SoftGray: "#DDE3EA"
+
+Typography:
+  Headings:
+    Style: "Condensed sans serif"
+    Weight: 700
+    Case: Uppercase
+    Tracking: Expanded
+    Color: Primary
+
+  SectionNumbers:
+    Style: "Condensed sans serif"
+    Weight: 700
+    Color: SkyBlue
+    Size: Extra large
+    Opacity: 70%
+
+  Body:
+    Style: "Humanist sans serif"
+    Weight: 400
+    Size: Medium
+    LineHeight: Relaxed
+    Color: Secondary
+
+  Quotes:
+    Style: "Light sans serif"
+    Weight: 300
+    Size: Large
+
+Illustration:
+  Style:
+    Architectural minimal rendering
+
+  Rendering:
+    - Soft three-dimensional forms
+    - Simplified geometry
+    - Matte surfaces
+    - Minimal detailing
+    - Clean edges
+    - Gentle shadows
+    - Realistic proportions
+    - Editorial restraint
+
+Architecture:
+  Elements:
+    - White cubic volumes
+    - Arched openings
+    - Exterior staircases
+    - Domed roofs
+    - Small balconies
+    - Framed windows
+    - Passageways
+    - Terraces
+    - Courtyard entrances
+    - Minimal facades
+
+  Atmosphere:
+    - Sunlit spaces
+    - Coastal serenity
+    - Quiet openness
+    - Breezy environments
+    - Meditative stillness
+
+Decorative Elements:
+  Nature:
+    - Cypress trees
+    - Potted plants
+    - Olive-like foliage
+    - Minimal greenery
+
+  Objects:
+    - Ceramic planters
+    - Architectural silhouettes
+    - Abstract arch icons
+    - Stair motifs
+
+Layout:
+  Overall:
+    - Editorial magazine composition
+    - Strong asymmetrical balance
+    - Large negative space
+    - Architectural imagery as focal points
+    - Consistent visual rhythm
+
+  Structure:
+    - One key message per slide
+    - Clear section transitions
+    - Repeating title framework
+    - Predictable reading flow
+
+  Composition:
+    - Text blocks aligned to left
+    - Architecture positioned to the right
+    - Wide outer margins
+    - Open breathing space
+    - Minimal visual clutter
+
+Information Design:
+  Hierarchy:
+    - Large section identifiers
+    - Prominent headlines
+    - Short explanatory text
+    - Minimal supporting details
+    - Clear visual anchors
+
+  Storytelling:
+    - Introduce context
+    - Present principles
+    - Compare viewpoints
+    - Explain frameworks
+    - Emphasize key ideas
+    - Conclude with reflection
+
+Data Visualization:
+  Style:
+    - Minimal comparison layouts
+    - Simple process steps
+    - Icon-supported concepts
+    - Lightweight frameworks
+    - Clean two-column structures
+
+Graphic Elements:
+  - Thin divider lines
+  - Oversized section numbers
+  - Minimal iconography
+  - Architectural pictograms
+  - Subtle framing
+  - Quote treatments
+  - Understated separators
+
+Composition Rules:
+  - Prioritize whitespace over decoration
+  - Allow architectural forms to breathe
+  - Use restraint in accent colors
+  - Maintain consistent architectural language
+  - Create a gallery-like viewing experience
+
+Design Rules:
+  - Express sophistication through simplicity
+  - Let form communicate meaning
+  - Balance emotion and clarity
+  - Reduce unnecessary visual noise
+  - Treat each slide as an architectural composition
+
+Avoid:
+  - Photorealistic textures
+  - Busy illustrations
+  - Heavy gradients
+  - Neon palettes
+  - Complex charts
+  - Decorative excess
+  - Hand-drawn aesthetics
+  - Dense information layouts
+
+Suitable For:
+  - Architecture presentations
+  - Design strategy decks
+  - Creative direction proposals
+  - Brand storytelling
+  - Innovation frameworks
+  - Educational lectures
+  - Cultural presentations
+  - Executive keynote talks
+
+Keywords:
+  - Mediterranean Minimalism
+  - Architectural Editorial
+  - White Space Design
+  - Premium Presentation
+  - Spatial Storytelling
+  - Contemporary Architecture
+  - Quiet Luxury
+  - Timeless Modernism

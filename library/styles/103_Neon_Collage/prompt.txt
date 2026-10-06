@@ -1,0 +1,220 @@
+Design Style:
+Name: "Neon Collage"
+
+Concept: >
+デジタルマーケティング広告、
+Y2Kインターネット、
+Vaporwave、リソグラフ印刷、
+ストリートポスター、
+SNSカルーセル投稿から着想を得た
+高刺激型エディトリアルデザイン。
+
+情報過多のデジタル社会そのものを
+ビジュアルとして再構築し、
+「ノイズの中で目を奪う」ことを最優先とする。
+
+古典彫刻、動物、レトロ家電、
+モノクロ写真をポップなネオンカラーで再編集し、
+カオスの中に強いブランド性を生み出す。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Bold
+- Energetic
+- Playful
+- Internet-native
+- Experimental
+- Rebellious
+- Graphic
+- Attention-grabbing
+
+Temperature:
+Overall: Hyper-saturated
+
+Color Palette:
+Background:
+ElectricBlue: "#0048FF"
+NeonPink: "#FF3CCF"
+AcidLime: "#D8FF2E"
+
+Primary:
+ElectricBlue: "#0048FF"
+
+Secondary:
+NeonPink: "#FF3CCF"
+AcidLime: "#D8FF2E"
+
+Accent:
+White: "#FFFFFF"
+Black: "#111111"
+SignalRed: "#FF3A2F"
+
+Typography:
+Headlines:
+Style: >
+極太で圧縮されたサンセリフ。
+
+巨大な文字を大胆に切り抜き、
+背景の一部として扱う。
+
+情報を「読む」よりも
+「感じる」ことを優先する。
+
+Weight: 800-900
+Tracking: Tight
+Case: Mixed
+Scale: Oversized
+
+Secondary:
+Style: >
+ポスター風サンセリフ。
+
+強調ワードは蛍光ラベルのように扱い、
+重要箇所のみ視線を集める。
+
+Weight: 500-700
+
+Body:
+Style: >
+シンプルなサンセリフ。
+
+小さく配置し、
+見出しとのコントラストをつくる。
+
+Weight: 400
+LineHeight: 1.2-1.4
+
+Layout:
+Structure: >
+Instagramカルーセルと
+ストリート広告を融合した
+高密度エディトリアル。
+
+規則的なグリッドを基盤としながら、
+タイポグラフィや図版を大胆に越境させる。
+
+Composition:
+- Oversized typography
+- Collage layering
+- Dynamic asymmetry
+- Background text blocks
+- Cutout imagery
+- Floating labels
+- Poster compositions
+- Visual interruptions
+
+Alignment:
+Preference: Grid with disruption
+ControlledChaos: Medium
+
+Graphic Elements:
+Shapes:
+- Highlight strips
+- Rounded labels
+- Abstract blobs
+- Thick crosses
+- Circles
+- Irregular cutouts
+- Rectangular panels
+- Tape elements
+
+Symbols:
+- TV test patterns
+- Interface fragments
+- Arrows
+- Dots
+- Warning marks
+- Smile icons
+- Graphic crosses
+- Decorative underlines
+
+Decorative Rules:
+- Decorations should compete for attention.
+- Use repetition to build rhythm.
+- Let elements overlap aggressively.
+- Preserve hierarchy through scale.
+
+Patterns:
+Style:
+- Halftone textures
+- Typographic repetition
+- Background text
+- Print misregistration
+- Digital noise
+
+Imagery:
+Style: >
+モノクロ写真やクラシカルな図版を
+ネオンカラーで大胆に再編集する。
+
+動物、彫刻、人物、
+レトロテレビなどを
+ブランドマスコットのように扱う。
+
+Treatment:
+- Black-and-white cutouts
+- Thick colored outlines
+- Duotone accents
+- Minimal shadows
+- Posterized contrast
+- Layered integration
+- Mixed scales
+
+Subjects:
+- Classical sculptures
+- Animals
+- Portrait photography
+- Vintage electronics
+- Human gestures
+- Everyday objects
+- Internet culture motifs
+
+Background:
+Style: >
+ブルー、ピンク、ライムの
+高彩度な色面を大胆に切り替える。
+
+巨大な文字やグラフィックを
+背景として敷き詰め、
+情報量の多いデジタル空間を演出する。
+
+Effects:
+Texture:
+Risograph grain
+Offset print texture
+Slight halftone dots
+Digital noise
+
+Shadow:
+Minimal
+
+Depth:
+Flat collage layering
+
+Distortion:
+Mild print misregistration
+Occasional scan effects
+Controlled visual glitches
+
+Visual Rules:
+- Restrict the palette to blue, pink, lime, black, and white.
+- Use oversized typography as a structural element.
+- Apply fluorescent highlight strips to key messages.
+- Allow text to overlap imagery.
+- Use collage to create surprise and humor.
+- Balance visual chaos with clear focal points.
+- Design for mobile-first readability.
+- Maximize stopping power in social feeds.
+
+Exclusions:
+- Corporate minimalism
+- Luxury aesthetics
+- Muted earth tones
+- Glassmorphism
+- Photorealistic lifestyle scenes
+- Complex 3D rendering
+- Elegant serif typography
+- Soft watercolor textures
+- Overly clean layouts

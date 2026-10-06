@@ -1,0 +1,207 @@
+Design Style:
+Name: "Scandinavian Animal"
+
+Concept: >
+北欧イラストレーション、
+ミッドセンチュリーモダン、
+Bauhaus、
+教育ポスター、
+木製知育玩具、
+北欧テキスタイル、
+キッズブック、
+幾何学アニマルデザインから着想を得た
+ジオメトリック・アニマル図鑑型エディトリアルデザイン。
+
+スライドを説明資料ではなく、
+北欧の子ども向け図鑑、
+インテリアポスター、
+美術館ショップのアートプリント、
+デザイン絵本として構成する。
+
+写真ではなく、
+動物を最小限の図形だけで表現し、
+温かさと知性を両立する。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Scandinavian
+- Minimal
+- Friendly
+- Educational
+- Playful
+- Contemporary
+- Calm
+- Graphic
+
+Temperature:
+Overall: Warm
+
+Background:
+Style: "Pure White"
+
+Color Palette:
+
+Primary:
+MustardYellow: "#F7C617"
+FreshGreen: "#97CC1E"
+WarmOrange: "#F36A12"
+
+Neutral:
+White: "#FAFAF8"
+Black: "#171717"
+
+Typography:
+
+Style:
+- Scandinavian Sans
+- Rounded Grotesk
+- Editorial Minimal
+
+Heading:
+Weight: Bold
+Scale: Large
+
+Body:
+Weight: Medium
+Size: Small
+
+Layout:
+
+Structure: "Editorial Illustration"
+
+Composition:
+- One to five oversized animals
+- Strong horizontal composition
+- Large white margins
+- Clean visual rhythm
+- Poster-like simplicity
+
+Illustration:
+
+Style: "Minimal Scandinavian animal"
+
+Characteristics:
+- Flat vector
+- Thin black outline
+- Rounded geometry
+- Soft proportions
+- Friendly expressions
+- Tiny dot eyes
+- Minimal facial features
+- Decorative line details only where necessary
+
+Construction:
+
+Shapes:
+- Rounded rectangle
+- Circle
+- Half circle
+- Capsule
+- Triangle
+- Arc
+- Straight line
+
+Rules:
+- Large geometric bodies
+- Thin consistent outlines
+- Flat colors only
+- No gradients
+- No shadows
+- No realistic anatomy
+- Very few internal details
+- Clear silhouettes
+
+Animal Subjects:
+- Elephant
+- Lion
+- Giraffe
+- Cow
+- Flamingo
+- Bird
+- Fox
+- Bear
+- Zebra
+- Rabbit
+- Whale
+- Penguin
+- Cat
+- Dog
+
+Graphic Elements:
+- Simple line decorations
+- Small dots
+- Geometric spots
+- Minimal texture patterns
+- Organic curves
+
+Rendering:
+
+Style:
+- Flat vector
+- Children's book illustration
+- Scandinavian print
+- Editorial artwork
+
+Image Treatment:
+
+Texture:
+None
+
+Lighting:
+None
+
+Shadows:
+None
+
+Whitespace:
+Very Large
+
+Slide Variations:
+- Animal encyclopedia
+- Animal comparison
+- Habitat illustration
+- Character lineup
+- Cover page
+- Educational spread
+- Poster composition
+- Pattern exploration
+- Closing illustration
+
+Composition Rules:
+- 1スライド1テーマ
+- 動物を幾何学図形だけで構成する
+- 余白を大胆に使う
+- 線は細く均一にする
+- 色数は3〜4色以内に抑える
+- シルエットだけで動物を認識できるようにする
+- 装飾は最小限にする
+- 写真は使用しない
+- 北欧ポスターのような静かな美しさを目指す
+
+Design Keywords:
+- Scandinavian Design
+- Nordic Illustration
+- Mid-century Modern
+- Geometric Animals
+- Children's Book
+- Educational Poster
+- Flat Illustration
+- Minimal Vector
+- Editorial Design
+- Bauhaus
+- Modern Folk Art
+- Graphic Simplicity
+
+Avoid:
+- Photorealism
+- 3D graphics
+- Thick outlines
+- Gradients
+- Realistic fur
+- Complex anatomy
+- Dense information
+- Corporate presentation layouts
+- Heavy textures
+- Decorative realism

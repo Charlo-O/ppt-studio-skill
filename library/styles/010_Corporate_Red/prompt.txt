@@ -1,0 +1,134 @@
+Design Style:
+Name: "Corporate Red Minimal Template"
+Concept: "白・黒・グレーを基調に、赤のアクセントを効かせたモダンな企業向けプレゼンデザイン"
+
+Canvas:
+Ratio: "16:9"
+Background:
+Base: "#F2F4F6"
+Secondary: "#FFFFFF"
+
+Mood:
+- "Corporate"
+- "Modern"
+- "Clean"
+- "Professional"
+- "Minimal"
+- "Sharp"
+- "Urban"
+- "Business"
+
+Color Palette:
+Base:
+- "#FFFFFF"
+- "#F2F4F6"
+- "#DDE3E8"
+
+Text:
+Primary: "#111111"
+Secondary: "#555555"
+Light: "#FFFFFF"
+
+Accent:
+Red: "#D71920"
+DarkRed: "#A90F14"
+
+Dark:
+- "#101820"
+- "#1F2A33"
+- "#3A424A"
+
+Typography:
+Heading:
+Font: "Modern Bold Sans Serif"
+Weight: "700-900"
+Style:
+- "Large"
+- "Clean"
+- "Strong contrast"
+Color: "#111111"
+
+Body:
+Font: "Readable Sans Serif"
+Weight: "400-500"
+Color: "#555555"
+LineHeight: "1.5"
+
+Layout:
+Style:
+- "Grid-based"
+- "Wide margins"
+- "Asymmetrical balance"
+- "Large image areas"
+- "Card-style sections"
+
+Composition:
+- "Use white space generously"
+- "Place red blocks or bars as strong visual anchors"
+- "Use dark rounded cards for key points"
+- "Mix full-width image sections with clean text panels"
+
+Visual Elements:
+Shapes:
+- "Rounded rectangles"
+- "Vertical red title bars"
+- "Diagonal accent ribbons"
+- "Minimal icon circles"
+- "Soft shadow cards"
+
+Icons:
+Style: "Simple line icons or solid minimal icons"
+Color:
+- "#FFFFFF"
+- "#D71920"
+- "#101820"
+
+Photography:
+Style:
+- "Monochrome or low-saturation corporate photography"
+- "Architecture"
+- "Business people"
+- "Urban buildings"
+Treatment:
+- "Use photos as background or side panels"
+- "Overlay red transparent geometric shapes"
+- "Keep images clean and high contrast"
+
+Slide Types:
+Cover:
+- "Large red translucent rectangle over architectural photo"
+- "Centered logo/title area"
+- "Minimal subtitle"
+
+Section:
+- "Bold vertical red label"
+- "Large photo block"
+- "Simple white content area"
+
+Contents:
+- "Numbered list layout"
+- "Black and red number hierarchy"
+- "Very clean spacing"
+
+Services:
+- "Icon circles aligned horizontally"
+- "Short text blocks below"
+- "One item highlighted in red"
+
+Vision:
+- "Three vertical rounded cards"
+- "Center card highlighted in red"
+- "Dark cards on both sides"
+
+Chart:
+- "Clean chart area"
+- "Red and dark navy data colors"
+- "Minimal labels and legends"
+
+Design Rules:
+- "Do not use decorative patterns"
+- "Avoid pastel colors"
+- "Keep the layout sharp and corporate"
+- "Use red only as an accent or highlight"
+- "Maintain strong contrast between white space, dark cards, and red elements"
+- "Use consistent icon style across all slides"

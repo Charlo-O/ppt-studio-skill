@@ -1,0 +1,176 @@
+Design Style:
+Name: "Human-Centered SaaS Company Deck"
+Concept: "SaaS・HRTech・B2Bスタートアップ向けの、人と組織を中心に据えたミニマルで親しみやすい会社紹介デザイン"
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Human
+- Friendly
+- Modern
+- Clean
+- SaaS
+- Trustworthy
+- Open
+- Optimistic
+
+Color Palette:
+Accent:
+Primary: "Bright Turquoise"
+Secondary: "Soft Teal"
+Highlight: "Warm Orange"
+
+Neutral:
+White: "White"
+LightGray: "Very Light Gray"
+DarkGray: "Charcoal"
+
+Typography:
+Heading:
+Font: "Modern Sans Serif"
+Weight: "Light"
+Style: "large airy typography"
+
+Statement:
+Font: "Condensed Sans Serif"
+Weight: "Bold"
+Style: "oversized message typography"
+
+Body:
+Font: "Clean Japanese Sans Serif"
+Weight: "Regular"
+Style: "comfortable reading"
+
+Layout:
+Structure:
+- Mission-first storytelling
+- Product-led company deck
+- Human-centered communication
+- Recruitment presentation
+- Growth narrative
+- Modular chapter system
+
+Grid:
+Columns: 12
+Margins: "Very Wide"
+Gutters: "Medium"
+
+Composition:
+- Large empty space
+- One idea per slide
+- Minimal text density
+- Strong focal point
+- Calm visual rhythm
+
+Visual Language:
+Shapes:
+- Rounded rectangles
+- Arches
+- Circles
+- Soft curves
+- Organic geometry
+
+Characteristics:
+- Floating graphic elements
+- Friendly geometric motifs
+- Soft visual hierarchy
+- Open layouts
+
+Slide Types:
+
+Cover:
+- Full color background
+- Large logo
+- Minimal information
+- Strong brand identity
+
+Chapter Divider:
+- Large chapter number
+- Huge whitespace
+- Abstract geometric element
+
+Mission:
+- Oversized mission statement
+- Minimal supporting copy
+- Emotional positioning
+
+CEO Message:
+- Portrait photography
+- Editorial layout
+- Human-centered storytelling
+
+Product:
+- Product screenshots
+- Device mockups
+- Clear explanations
+- SaaS showcase
+
+Market:
+- Large statistics
+- Minimal charts
+- Opportunity-focused narrative
+
+Strategy:
+- Big strategic messages
+- Visual emphasis on future growth
+- Executive summary style
+
+Culture:
+- Values presentation
+- Team stories
+- Employee experience
+
+Organization:
+- Demographics
+- Team structure
+- Career development
+
+Benefits:
+- Card-based layouts
+- Simple icons
+- Easy scanning
+
+Photography:
+Style:
+- Bright office scenes
+- Natural portraits
+- Authentic employees
+- Human interactions
+
+Illustration:
+Style:
+- Flat vector graphics
+- Rounded shapes
+- Friendly SaaS aesthetic
+- Soft visual tone
+
+Charts:
+Style:
+- Minimal
+- High readability
+- Large labels
+- Few data points
+
+Icons:
+Style:
+- Thin line icons
+- Rounded corners
+- Consistent stroke width
+
+Brand Personality:
+- Human-first
+- Accessible
+- Friendly
+- Growth-oriented
+- Transparent
+- Positive
+
+Rules:
+- Use one key message per slide
+- Prioritize readability over density
+- Create emotional connection before explanation
+- Keep layouts spacious
+- Use large typography as visual anchor
+- Maintain friendly professionalism
+- Emphasize people, culture, and mission

@@ -1,0 +1,183 @@
+Design Style:
+Name: "Miniature Keyboard "
+
+Concept: >
+キーボードの上に広がる小さな街、
+ミニチュアフィギュア、
+ドールハウス、
+ジオラマアート、
+日常の物体を巨大な風景として再解釈する
+ストーリーテリング型エディトリアルデザイン。
+
+キーボードやデジタルツールを単なる道具ではなく、
+人々が暮らし、働き、学び、冒険する世界として描く。
+
+情報は箇条書きではなく、
+小さな住人たちが体験する物語として表現される。
+
+Canvas:
+Ratio: "16:9"
+
+Mood:
+- Playful
+- Imaginative
+- Human
+- Warm
+- Creative
+- Storytelling
+- Whimsical
+- Contemporary
+
+Temperature:
+Overall: Warm
+
+Color Palette:
+Background:
+SoftIvory: "#F4F1EB"
+
+Objects:
+MatteBlack: "#2D2D2D"
+WarmWhite: "#FAFAF7"
+
+Accent:
+Coral: "#F46A5A"
+Teal: "#3CB8B2"
+Mustard: "#D9A441"
+
+Typography:
+Style: >
+Friendly modern sans-serif.
+Rounded forms.
+Editorial magazine aesthetic.
+Human-centered and approachable.
+
+Layout:
+Structure: >
+Large keyboard keys become architectural blocks.
+Individual slides focus on one miniature scene.
+Content integrated into the environment rather than separated into boxes.
+
+Composition:
+Cinematic storytelling.
+Strong focal point.
+Human activity drives visual hierarchy.
+
+Flow:
+Each slide feels like a photograph from a miniature world.
+
+Background:
+Base: >
+Minimal desktop environment.
+Soft neutral surfaces.
+
+Focus:
+Shallow depth-of-field photography.
+
+Visual Metaphor:
+Keyboard:
+Becomes city blocks, buildings, roads, mountains,
+stages, classrooms, workshops, or landscapes.
+
+Keys:
+Function as architecture and environments.
+
+Objects:
+Everyday digital tools become large-scale scenery.
+
+Illustration Style:
+Type: "Miniature Diorama Photography"
+
+Characteristics:
+- Tiny human figures
+- Macro photography perspective
+- Realistic scale contrast
+- Soft focus background
+- Human-centered storytelling
+- Toy-like charm
+
+Characters:
+Style:
+Miniature model figures.
+
+Activities:
+- Working
+- Building
+- Learning
+- Exploring
+- Collaborating
+- Celebrating
+- Repairing
+- Creating
+
+Scene Design:
+Principle: >
+Every slide should contain a small narrative.
+
+Examples:
+- Tiny workers constructing ideas
+- Designers living inside keyboard keys
+- Explorers navigating digital landscapes
+- Teachers using punctuation keys as classrooms
+- Citizens gathering around a giant Enter key
+
+Content Containers:
+Titles:
+Integrated into physical objects.
+Signboards, screens, walls, keys, or structures.
+
+Text:
+Minimal and contextual.
+
+Images:
+Treated as part of the miniature environment.
+
+Charts:
+Reimagined as physical objects within the scene.
+
+Depth:
+Foreground:
+Sharp focus.
+
+Background:
+Soft blur.
+
+Perspective:
+Macro lens photography.
+
+Effects:
+Shadows:
+Natural photographic shadows.
+
+Gradients:
+Natural lighting only.
+
+Glassmorphism: False
+
+Texture:
+Real-world materials.
+
+Lighting:
+Style:
+Soft studio lighting.
+
+Mood:
+Cozy and cinematic.
+
+Visual References:
+- Miniature Calendar
+- Miniature Life photography
+- Dollhouse diorama
+- Tiny workers series
+- Everyday object landscapes
+- Macro storytelling photography
+
+Keywords:
+- Miniature World
+- Keyboard City
+- Tiny People
+- Macro Photography
+- Diorama Editorial
+- Everyday Object Landscape
+- Human-Centered Design
+- Storytelling Presentation
+- Miniature Life
