@@ -1,7 +1,5 @@
 # PPT Studio · 160 种风格的 PPT 制作技能
 
-本仓库仅保存 Skill 源码、内部工作流说明、160 套文字风格规则和空白排版基础文件。参考图、外部资料、生成图片与演示稿不上传。
-
 把一句话需求、一份文档或一组要点，做成风格统一、可编辑的 PPT。
 **AI Agent 阅读完整风格提示词，根据内容设计每页构图，直接完成排版，再渲染检查。**
 生图用于所需的照片、插画、抠图和纹理；标题、信息结构、图表和几何装饰由 Agent 排版。
@@ -16,8 +14,7 @@
 6. **审阅实际页面**：检查可读性、内容正确性，以及完整风格提示词是否落实到最终视觉。
 7. **导出**：可编辑 PPTX、整图 PPTX、PDF 和逐页 PNG。
 
-构图不使用整页生图、风格示例板或图片坐标复刻。原始资料库中的示例图仅作来源归档，
-选风格和新建项目只使用文字提示词。旧示例工程记录的是历史流程，不作为新流程模板。
+Agent 根据完整文字规则设计构图，直接制作页面，并检查实际渲染结果。
 
 ## 输出
 
@@ -57,14 +54,36 @@ Python 3.10+ 和 Chrome / Edge；命令入口首次使用会准备独立 Python 
 本目录即技能本体，项目内 `.claude/skills/ppt-studio` 已链接到这里。需要全局使用时，
 将该目录链接或复制到宿主的 skills 目录。`tools/pack.sh` 可打包。
 
-## 文件组织与来源
+## 文件组织
 
 - `SKILL.md`：主工作流。
 - `references/`：风格解读、Agent 构图、素材、排版、审阅和生图工具说明。
-- `library/`：160 套原始风格提示词、翻译和来源归档。
+- `library/`：160 套完整风格规则及中文版本。
 - `scripts/`：检索、新建、素材生成、渲染、导出与辅助工具。
 - `assets/`：排版基础文件及 Lucide 图标。
 
-风格资料来自 KUMIKO SHIRAKI 整理的 NotebookLM Slide Style Gallery，仅供本地个人使用；
-详见 `library/SOURCE.md`。素材和可编辑排版方法、HTML→PPTX 转换核心改编自 Editable Design，
-图标来自 Lucide。完整署名与许可信息见 `NOTICE.md`。
+依赖许可见 `NOTICE.md`。
+
+## 展示案例：063 达达拼贴
+
+用 PPT Studio 制作的 10 页 Skill 介绍，采用黑白摄影抠图、撕纸纹理、亮色色块和杂志式大标题，可作为排版与视觉风格的参考素材。
+
+![第 1 页：PPT Studio](showcase/dada-collage/slide-01.jpg)
+
+![第 2 页：输入与成果](showcase/dada-collage/slide-02.jpg)
+
+![第 3 页：160 套风格目录](showcase/dada-collage/slide-03.jpg)
+
+![第 4 页：完整的风格规格](showcase/dada-collage/slide-04.jpg)
+
+![第 5 页：Agent 的逐页构图](showcase/dada-collage/slide-05.jpg)
+
+![第 6 页：素材与排版分工](showcase/dada-collage/slide-06.jpg)
+
+![第 7 页：完整制作流程](showcase/dada-collage/slide-07.jpg)
+
+![第 8 页：可编辑交付](showcase/dada-collage/slide-08.jpg)
+
+![第 9 页：交付文件](showcase/dada-collage/slide-09.jpg)
+
+![第 10 页：下一份 PPT，从你的内容开始](showcase/dada-collage/slide-10.jpg)

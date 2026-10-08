@@ -62,9 +62,10 @@ def main() -> None:
             ok = False
 
     styles = json.loads((LIBRARY_DIR / "styles.json").read_text(encoding="utf-8"))
-    boards = sum(1 for s in styles if (LIBRARY_DIR / s["dir"] / "board.jpg").is_file())
-    print(f"library  {len(styles)} styles, {boards} boards")
-    ok &= boards == len(styles)
+    complete = sum(1 for s in styles if all(
+        (LIBRARY_DIR / s["dir"] / name).is_file() for name in ("prompt.txt", "prompt.zh.txt")))
+    print(f"library  {len(styles)} styles, {complete} complete text specifications")
+    ok &= complete == len(styles)
     icons = SKILL_DIR / "assets" / "icons" / "lucide" / "icon-nodes.json"
     print(f"icons    {len(json.loads(icons.read_text()))} Lucide icons" if icons.is_file() else "icons    MISSING")
 

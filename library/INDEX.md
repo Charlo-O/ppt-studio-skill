@@ -1,6 +1,6 @@
 # Style library index
 
-160 slide styles in 12 categories. Each style folder holds `prompt.txt` (original design spec), `prompt.zh.txt` (Chinese translation) and `board.jpg` (3x3 example board).
+160 slide styles in 12 categories. Each style folder holds `prompt.txt` (design specification) and `prompt.zh.txt` (Chinese version).
 Search with `scripts/ppt styles search <words>`; open one with `scripts/ppt styles show <id>`.
 
 ## Business · 商务 (21)

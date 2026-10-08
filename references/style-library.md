@@ -1,8 +1,7 @@
 # Style library
 
-160 slide styles from the NotebookLM Slide Style Gallery (curated by KUMIKO SHIRAKI), each a
-YAML-like written design specification for a whole deck. Read the full text to choose and apply a style.
-Provenance and credit: `library/SOURCE.md`. Full catalog by category: `library/INDEX.md`.
+160 slide styles, each a YAML-like written design specification for a whole deck.
+Read the full text to choose and apply a style. Full catalog by category: `library/INDEX.md`.
 
 ## Contents
 

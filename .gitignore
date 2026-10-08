@@ -1,4 +1,4 @@
-# Keep this repository limited to the Skill's text source.
+# Keep local references and generated outputs out of the repository.
 .venv/
 venv/
 __pycache__/
@@ -27,3 +27,15 @@ node_modules/
 *.zip
 *.mp4
 *.mov
+
+# Curated README showcase.
+!showcase/dada-collage/slide-01.jpg
+!showcase/dada-collage/slide-02.jpg
+!showcase/dada-collage/slide-03.jpg
+!showcase/dada-collage/slide-04.jpg
+!showcase/dada-collage/slide-05.jpg
+!showcase/dada-collage/slide-06.jpg
+!showcase/dada-collage/slide-07.jpg
+!showcase/dada-collage/slide-08.jpg
+!showcase/dada-collage/slide-09.jpg
+!showcase/dada-collage/slide-10.jpg

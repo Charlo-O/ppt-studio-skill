@@ -1,16 +1,14 @@
 #!/usr/bin/env python3
-"""Rebuild ppt-studio/library from the NotebookLM slide-style collection.
+"""Rebuild ppt-studio/library from a local style collection.
 
 Usage:
-    .venv/bin/python tools/build_library.py /path/to/notebooklm-slide-gallery-中文资料库
+    .venv/bin/python tools/build_library.py /path/to/style-collection
 
 Reads 资料索引.json from the collection, then writes:
     library/styles.json                    machine-readable catalog
     library/INDEX.md                       human-readable catalog by category
-    library/SOURCE.md                      provenance and credits
     library/styles/NNN_Slug/prompt.txt     original style prompt (YAML-like)
     library/styles/NNN_Slug/prompt.zh.txt  Chinese translation
-    library/styles/NNN_Slug/board.jpg      3x3 example board (style anchor)
 """
 
 from __future__ import annotations
@@ -20,8 +18,6 @@ import re
 import shutil
 import sys
 from pathlib import Path
-
-from PIL import Image
 
 SKILL_DIR = Path(__file__).resolve().parents[1]
 OUT = SKILL_DIR / "library"
@@ -189,9 +185,6 @@ def main() -> None:
         (dest / "prompt.txt").write_text(original, encoding="utf-8")
         (dest / "prompt.zh.txt").write_text(chinese, encoding="utf-8")
 
-        board = Image.open(src / item["image"]).convert("RGB")
-        board.save(dest / "board.jpg", "JPEG", quality=88, optimize=True, progressive=True)
-
         palette = []
         for code in re.findall(r"#[0-9A-Fa-f]{6}\b", original):
             code = code.upper()
@@ -218,7 +211,6 @@ def main() -> None:
             "imagery": imagery_tags(original),
             "slide_types": slide_types(original),
             "dir": rel.as_posix(),
-            "source": {"note": item.get("note", ""), "x": item.get("x", ""), "image": item.get("source_image", "")},
         })
 
     catalog.sort(key=lambda s: s["id"])
@@ -229,7 +221,7 @@ def main() -> None:
         "# Style library index",
         "",
         f"{len(catalog)} slide styles in {len(order)} categories. Each style folder holds `prompt.txt` "
-        "(original design spec), `prompt.zh.txt` (Chinese translation) and `board.jpg` (3x3 example board).",
+        "(design specification) and `prompt.zh.txt` (Chinese version).",
         "Search with `scripts/ppt styles search <words>`; open one with `scripts/ppt styles show <id>`.",
         "",
     ]
@@ -248,23 +240,6 @@ def main() -> None:
         lines.append("")
     (OUT / "INDEX.md").write_text("\n".join(lines), encoding="utf-8")
 
-    readme = (src / "README.md").read_text(encoding="utf-8") if (src / "README.md").is_file() else ""
-    source_line = next((l for l in readme.splitlines() if l.startswith("来源")), "")
-    curator_line = next((l for l in readme.splitlines() if "整理者" in l), "")
-    (OUT / "SOURCE.md").write_text(
-        "# Provenance\n\n"
-        "The style prompts and example boards come from the NotebookLM Slide Style Gallery "
-        "curated by KUMIKO SHIRAKI (https://notebooklm-slide-gallery.shirakippt.chatgpt.site/). "
-        "Per-style source links (note article, X post, original image) are kept in `styles.json`.\n\n"
-        "The Chinese translations were machine-translated with revised category, style-name and "
-        "design-term wording by the collection's compiler. Example boards were re-encoded from PNG "
-        "to JPEG for size; their content is unchanged.\n\n"
-        "The prompts and images remain the work of their original author. This library is bundled "
-        "for local, personal use with the ppt-studio skill; credit the original author when sharing "
-        "decks that closely follow a library style, and do not redistribute the library itself.\n\n"
-        f"Collection notes: {source_line} {curator_line}\n",
-        encoding="utf-8",
-    )
     print(f"wrote {len(catalog)} styles to {OUT}")
 
 
